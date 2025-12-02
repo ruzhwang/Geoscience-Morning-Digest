@@ -1,0 +1,179 @@
+{
+  "name": "Daily Academic Digest",
+  "description": "Collects RSS from top journals, summarizes with AI, outputs daily digest.",
+  "guid": "academic_digest_scenario",
+  "tag_fg_color": "#ffffff",
+  "tag_bg_color": "#5bc0de",
+  "agents": [
+
+    /* 1. ---- RSS Agents ---- */
+
+    {
+      "type": "Agents::RssAgent",
+      "name": "Nature Current Issue",
+      "options": {
+        "url": "http://www.nature.com/nature/current_issue/rss",
+        "expected_update_period_in_days": "1",
+        "clean": "false"
+      }
+    },
+    {
+      "type": "Agents::RssAgent",
+      "name": "Science",
+      "options": {
+        "url": "https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=science",
+        "expected_update_period_in_days": "1",
+        "clean": "false"
+      }
+    },
+    {
+      "type": "Agents::RssAgent",
+      "name": "Science Advances",
+      "options": {
+        "url": "https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=sciadv",
+        "expected_update_period_in_days": "1",
+        "clean": "false"
+      }
+    },
+    {
+      "type": "Agents::RssAgent",
+      "name": "Nature Geoscience",
+      "options": {
+        "url": "https://www.nature.com/ngeo.rss",
+        "expected_update_period_in_days": "1",
+        "clean": "false"
+      }
+    },
+    {
+      "type": "Agents::RssAgent",
+      "name": "Nature Communications",
+      "options": {
+        "url": "https://www.nature.com/ncomms.rss",
+        "expected_update_period_in_days": "1",
+        "clean": "false"
+      }
+    },
+    {
+      "type": "Agents::RssAgent",
+      "name": "Nature Reviews Earth & Environment",
+      "options": {
+        "url": "https://www.nature.com/natrevearthenviron.rss",
+        "expected_update_period_in_days": "1",
+        "clean": "false"
+      }
+    },
+    {
+      "type": "Agents::RssAgent",
+      "name": "PNAS Earth Science",
+      "options": {
+        "url": "https://www.pnas.org/action/showFeed?type=searchTopic&taxonomyCode=topic&tagCode=earth-sci",
+        "expected_update_period_in_days": "1",
+        "clean": "false"
+      }
+    },
+    {
+      "type": "Agents::RssAgent",
+      "name": "Annual Reviews Earth & Planetary Sci",
+      "options": {
+        "url": "https://www.annualreviews.org/rss/content/journals/earth/latestarticles?fmt=rss",
+        "expected_update_period_in_days": "1",
+        "clean": "false"
+      }
+    },
+
+    { "type": "Agents::RssAgent", "name": "EPSL 00128252", "options": {
+        "url": "https://rss.sciencedirect.com/publication/science/00128252",
+        "expected_update_period_in_days": "1"
+    }},
+    { "type": "Agents::RssAgent", "name": "EPSL 0012821X", "options": {
+        "url": "https://rss.sciencedirect.com/publication/science/0012821X",
+        "expected_update_period_in_days": "1"
+    }},
+
+    { "type": "Agents::RssAgent", "name": "AGU - 19448007", "options": {
+        "url": "https://agupubs.onlinelibrary.wiley.com/feed/19448007/most-recent",
+        "expected_update_period_in_days": "1"
+    }},
+    { "type": "Agents::RssAgent", "name": "AGU - 21699356", "options": {
+        "url": "https://agupubs.onlinelibrary.wiley.com/feed/21699356/most-recent",
+        "expected_update_period_in_days": "1"
+    }},
+    { "type": "Agents::RssAgent", "name": "AGU - 15252027", "options": {
+        "url": "https://agupubs.onlinelibrary.wiley.com/feed/15252027/most-recent",
+        "expected_update_period_in_days": "1"
+    }},
+
+    {
+      "type": "Agents::RssAgent",
+      "name": "GCA",
+      "options": {
+        "url": "https://rss.sciencedirect.com/publication/science/00167037",
+        "expected_update_period_in_days": "1"
+      }
+    },
+
+    /* 2. ---- Combine All RSS Events ---- */
+
+    {
+      "type": "Agents::TriggerAgent",
+      "name": "Collect All RSS",
+      "options": {
+        "expected_receive_period_in_days": "1",
+        "keep": "newest",
+        "logic": "any",
+        "conditions": []
+      },
+      "sources": []
+    },
+
+    /* 3. ---- AI Summary Agent ---- */
+
+    {
+      "type": "Agents::OpenaiAgent",
+      "name": "AI Summarizer",
+      "options": {
+        "model": "gpt-4o-mini",
+        "instructions": "你是一个科研助理，负责为地球科学相关论文生成简洁专业摘要。请总结以下文章列表：",
+        "input": "{{ events | map: 'title' | join: '\n' }}",
+        "max_tokens": 2048
+      },
+      "sources": ["Collect All RSS"]
+    },
+
+    /* 4. ---- Format Digest ---- */
+
+    {
+      "type": "Agents::EventFormattingAgent",
+      "name": "Format Digest",
+      "options": {
+        "mode": "clean",
+        "instructions": {
+          "date": "{{ 'now' | date: '%Y-%m-%d' }}",
+          "content": "## {{date}} Daily Academic Digest\n\n### AI Summary\n{{ ai }}\n\n### Source Articles\n{% for e in events %}- [{{e.title}}]({{e.url}})\n{% endfor %}"
+        }
+      },
+      "sources": ["AI Summarizer"]
+    },
+
+    /* 5. ---- Final Output ---- */
+
+    {
+      "type": "Agents::DataOutputAgent",
+      "name": "Daily Digest Output",
+      "options": {
+        "secrets": ["huginn-output"],
+        "expected_receive_period_in_days": "1",
+        "template": {
+          "title": "Daily Academic Digest",
+          "description": "AI summary + RSS list",
+          "item": {
+            "title": "Digest for {{ 'now' | date: '%Y-%m-%d' }}",
+            "description": "{{ content }}"
+          }
+        }
+      },
+      "sources": ["Format Digest"]
+    }
+
+  ]
+}
