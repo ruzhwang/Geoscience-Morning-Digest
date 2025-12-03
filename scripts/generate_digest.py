@@ -4,22 +4,24 @@ import json
 import requests
 from datetime import datetime
 
-# 路径设置
 DAILY_MD_PATH = "output/daily.md"
 SEEN_JSON_PATH = "state/seen.json"
 
-# 从 seen.json 里读取已有记录
+# 从 seen.json 读取
 with open(SEEN_JSON_PATH, "r", encoding="utf-8") as f:
-    seen = json.load(f)  # 现在是 list
+    seen = json.load(f)
 
-# 获取今天日期
 today = datetime.now().strftime("%Y-%m-%d")
 
-# 收集当天的新论文
+# 收集当天新增论文
 papers = []
-for paper in seen:
-    if paper.get("date") == today:
-        papers.append(f"- {paper['title']} ({paper['source']})")
+for item in seen:
+    # 如果 item 是 dict 并有 date
+    if isinstance(item, dict) and item.get("date") == today:
+        papers.append(f"- {item['title']} ({item['source']})")
+    # 如果 item 是 str，则直接加入
+    elif isinstance(item, str):
+        papers.append(f"- {item}")
 
 if not papers:
     print("No new entries today.")
@@ -27,15 +29,13 @@ if not papers:
 else:
     print(f"Generating digest for {len(papers)} papers...")
 
-    # DeepSeek API 配置
     DEEPSEEK_API_KEY = os.getenv("DEEPSEEK_API_KEY")
     if not DEEPSEEK_API_KEY:
         raise ValueError("请设置环境变量 DEEPSEEK_API_KEY")
 
-    # 拼接论文列表原文
     papers_raw = "\n".join(papers)
 
-    url = "https://api.deepseek.ai/v1/generate"  # 替换为 DeepSeek 官方 endpoint
+    url = "https://api.deepseek.ai/v1/generate"
     payload = {
         "prompt": f"""
 你是一名地球科学领域的专业科研助手。
@@ -77,10 +77,7 @@ if os.path.exists(DAILY_MD_PATH):
 else:
     daily_md = ""
 
-# 在 markdown 顶部加摘要
 new_content = f"# Daily Paper Digest — {today}\n\n**今日新增论文**：{len(papers)}\n\n**摘要整理**：\n{digest}\n\n---\n\n"
-
-# 保留原有内容
 new_content += daily_md
 
 with open(DAILY_MD_PATH, "w", encoding="utf-8") as f:
