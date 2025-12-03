@@ -10,14 +10,14 @@ SEEN_JSON_PATH = "state/seen.json"
 
 # 从 seen.json 里读取已有记录
 with open(SEEN_JSON_PATH, "r", encoding="utf-8") as f:
-    seen = json.load(f)
+    seen = json.load(f)  # 现在是 list
 
-# 从 daily.md 里读取今天新增条目
+# 获取今天日期
 today = datetime.now().strftime("%Y-%m-%d")
 
 # 收集当天的新论文
 papers = []
-for paper_id, paper in seen.items():
+for paper in seen:
     if paper.get("date") == today:
         papers.append(f"- {paper['title']} ({paper['source']})")
 
@@ -32,13 +32,13 @@ else:
     if not DEEPSEEK_API_KEY:
         raise ValueError("请设置环境变量 DEEPSEEK_API_KEY")
 
-    url = "https://api.deepseek.ai/v1/generate"  # 替换为 DeepSeek 官方 endpoint
-
-    # 将论文列表拼接成字符串
+    # 拼接论文列表原文
     papers_raw = "\n".join(papers)
 
-    # 使用三引号包裹多行 prompt，避免 SyntaxError
-    prompt = f"""你是一名地球科学领域的专业科研助手。
+    url = "https://api.deepseek.ai/v1/generate"  # 替换为 DeepSeek 官方 endpoint
+    payload = {
+        "prompt": f"""
+你是一名地球科学领域的专业科研助手。
 
 下面是今天新增的论文列表，请你完成以下任务：
 
@@ -55,11 +55,7 @@ else:
 {papers_raw}
 
 请严格输出 Markdown 格式。
-格式类似早报，每条包括标题和来源。
-"""
-
-    payload = {
-        "prompt": prompt,
+""",
         "model": "text-summary"
     }
     headers = {
@@ -75,8 +71,11 @@ else:
         digest = f"摘要生成失败: {e}"
 
 # 写入 daily.md
-with open(DAILY_MD_PATH, "r", encoding="utf-8") as f:
-    daily_md = f.read()
+if os.path.exists(DAILY_MD_PATH):
+    with open(DAILY_MD_PATH, "r", encoding="utf-8") as f:
+        daily_md = f.read()
+else:
+    daily_md = ""
 
 # 在 markdown 顶部加摘要
 new_content = f"# Daily Paper Digest — {today}\n\n**今日新增论文**：{len(papers)}\n\n**摘要整理**：\n{digest}\n\n---\n\n"
