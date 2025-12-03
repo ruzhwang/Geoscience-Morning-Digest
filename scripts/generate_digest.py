@@ -6,7 +6,7 @@ from openai import OpenAI
 
 # -------------------
 SEEN_JSON_PATH = "state/seen.json"
-OUTPUT_PATH = "output/daily.txt"
+OUTPUT_PATH = "output/daily.md"
 
 today = datetime.now().strftime("%Y-%m-%d")
 
