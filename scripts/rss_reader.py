@@ -4,9 +4,6 @@ import json
 import os
 from datetime import datetime
 
-# -------------------------
-# 配置 RSS 列表 & 文件路径
-# -------------------------
 RSS_FEEDS = [
     "http://www.nature.com/nature/current_issue/rss",
     "https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=science",
@@ -25,12 +22,13 @@ RSS_FEEDS = [
 ]
 
 SEEN_FILE = "state/seen.json"
+OUTPUT_FILE = "output/daily.json"  # 可以先保存抓取数据，用于调试
+today = datetime.now().strftime("%Y-%m-%d")
 
 # -------------------------
-# 加载已收录论文
+# Load / Save Seen IDs
 # -------------------------
 def load_seen():
-    os.makedirs("state", exist_ok=True)
     if not os.path.exists(SEEN_FILE):
         return []
     try:
@@ -40,34 +38,30 @@ def load_seen():
                 return []
             return json.loads(data)
     except Exception as e:
-        print(f"读取 seen.json 失败: {e}")
+        print(f"Error reading seen.json: {e}")
         return []
 
-# -------------------------
-# 保存论文
-# -------------------------
-def save_seen(seen_list):
-    os.makedirs("state", exist_ok=True)
+def save_seen(seen):
+    os.makedirs(os.path.dirname(SEEN_FILE), exist_ok=True)
     with open(SEEN_FILE, "w", encoding="utf-8") as f:
-        json.dump(seen_list, f, ensure_ascii=False, indent=2)
+        json.dump(seen, f, indent=2, ensure_ascii=False)
 
 # -------------------------
-# 抓取 RSS
+# Fetch New RSS Entries
 # -------------------------
 def fetch_new_entries():
-    print("开始抓取 RSS...")
-    seen_list = load_seen()
-    seen_uids = {p['uid'] for p in seen_list}
-
+    seen = load_seen()
+    seen_uids = {p['uid'] for p in seen if 'uid' in p}
     new_entries = []
-    today_str = datetime.now().strftime("%Y-%m-%d")
+    total_fetched = 0
 
     for url in RSS_FEEDS:
-        print(f"\n解析 RSS: {url}")
+        print(f"\nParsing feed: {url}")
         feed = feedparser.parse(url)
         source_name = feed.feed.get("title", "Unknown Source")
         entries = feed.entries
-        print(f"  -> 发现 {len(entries)} 条论文")
+        print(f"  -> Found {len(entries)} entries from {source_name}")
+        total_fetched += len(entries)
 
         for entry in entries:
             uid = entry.get("id") or entry.get("link")
@@ -77,24 +71,23 @@ def fetch_new_entries():
             paper = {
                 "uid": uid,
                 "title": entry.get("title", "未知标题"),
-                "authors": [a.get("name") for a in entry.get("authors", [])] if entry.get("authors") else [],
                 "source": source_name,
                 "link": entry.get("link", ""),
                 "summary": entry.get("summary", "").strip(),
-                "date": today_str
+                "authors": [a.get("name") for a in entry.get("authors", [])] if "authors" in entry else [],
+                "date": today
             }
 
-            seen_list.append(paper)
             new_entries.append(paper)
+            seen.append(paper)
             seen_uids.add(uid)
 
-    print(f"\n抓取完成: 新增 {len(new_entries)} 条论文")
-    save_seen(seen_list)
+    save_seen(seen)
+    print(f"\n=== Summary ===")
+    print(f"Total entries fetched: {total_fetched}")
+    print(f"New entries added: {len(new_entries)}")
     return new_entries
 
 # -------------------------
-# 主函数
-# -------------------------
 if __name__ == "__main__":
-    new_papers = fetch_new_entries()
-    print("done")
+    new_entries = fetch_new_entries()
