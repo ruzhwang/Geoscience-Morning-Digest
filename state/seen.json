@@ -1,5 +1,63 @@
 [
   {
+    "id": "https://www.nature.com/articles/s41467-025-66895-2",
+    "title": "ssG4-seq for global profiling of strand-specific G-quadruplex structures in mammalian genomes",
+    "link": "https://www.nature.com/articles/s41467-025-66895-2",
+    "authors": [
+      "Sheng Li",
+      "Ruoyan Wang",
+      "Jinyue Zhang",
+      "Changchang Cao",
+      "Jiangshan Bai",
+      "Zhaokui Cai",
+      "Rong Ye",
+      "Juan Chen",
+      "Wanglong Liu",
+      "Chen Lu",
+      "Ruitian Li",
+      "Yuanchao Xue"
+    ],
+    "summary": "Nature Communications, Published online: 04 December 2025; <a href=\"https://www.nature.com/articles/s41467-025-66895-2\">doi:10.1038/s41467-025-66895-2</a>DNA G-quadruplexes help regulate genes, but their strand-specific roles are unclear. Here, the authors develop ssG4-seq to map G4s genome-wide, showing abundant enhancer- and promoter-localised structures that activate transcription via SP1 and are disrupted by cancer-linked mutations.",
+    "source": "Nature Communications",
+    "date": "2025-12-04"
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-025-66850-1",
+    "title": "Impaired glycolysis-derived serine metabolism as a key driver of podocyte injury with senescence",
+    "link": "https://www.nature.com/articles/s41467-025-66850-1",
+    "authors": [
+      "Hongtu Hu",
+      "Zijing Zhu",
+      "Lanlan Li",
+      "Jijia Hu",
+      "Qian Yang",
+      "Zhuan Peng",
+      "Weiwei Li",
+      "Xiaofei Cui",
+      "Yanqin Fan",
+      "Wenjie Chen",
+      "Wei Liang",
+      "Zhaowei Chen",
+      "Guohua Ding"
+    ],
+    "summary": "Nature Communications, Published online: 04 December 2025; <a href=\"https://www.nature.com/articles/s41467-025-66850-1\">doi:10.1038/s41467-025-66850-1</a>Previous studies showed inhibition of glycolytic enzyme pyruvate kinase M2 disrupts podocyte function. The study shows that PGK1-serine axis regulates and drives aging and damage of podocytes.",
+    "source": "Nature Communications",
+    "date": "2025-12-04"
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-025-66983-3",
+    "title": "Sufficient is better than optimal for training neural networks",
+    "link": "https://www.nature.com/articles/s41467-025-66983-3",
+    "authors": [
+      "Irina Babayan",
+      "Hazhir Aliahmadi",
+      "Greg van Anders"
+    ],
+    "summary": "Nature Communications, Published online: 04 December 2025; <a href=\"https://www.nature.com/articles/s41467-025-66983-3\">doi:10.1038/s41467-025-66983-3</a>The authors propose simmering, a physics-inspired alternative to optimization-based neural network training that generates weights through systematic sampling rather than optimization, to mitigate overfitting and achieve better generalization compared to conventional methods.",
+    "source": "Nature Communications",
+    "date": "2025-12-04"
+  },
+  {
     "id": "https://www.nature.com/articles/s41467-025-66551-9",
     "title": "Two Nations, One Front: Indonesia and Papua New Guinea forge a One-Island approach to fight persistent malaria on New Guinea",
     "link": "https://www.nature.com/articles/s41467-025-66551-9",
