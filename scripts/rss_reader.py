@@ -120,6 +120,7 @@ def fetch_new_entries():
                     "source": source_name,
                     # 🚀 【关键修复】使用文章本身的发布日期
                     "date": parse_date(entry) 
+                    "sent": False
                 }
                 
                 new_entries_list.append(new_entry)
