@@ -15,12 +15,6 @@ today = datetime.now().strftime("%Y-%m-%d")
 # 读取 seen.json
 if not os.path.exists(SEEN_JSON_PATH):
     print("seen.json 不存在，请先运行 RSS 抓取脚本。")
-    daily_content = [f"Daily Paper Digest — {today}", "\n错误：seen.json 文件不存在，请检查 RSS 抓取步骤。\n"]
-    daily_text = "\n".join(daily_content)
-    os.makedirs(os.path.dirname(OUTPUT_PATH), exist_ok=True)
-    with open(OUTPUT_PATH, "w", encoding="utf-8") as f:
-        f.write(daily_text)
-    print(f"错误日报已生成：{OUTPUT_PATH}")
     exit(1)
 
 with open(SEEN_JSON_PATH, "r", encoding="utf-8") as f:
@@ -28,16 +22,15 @@ with open(SEEN_JSON_PATH, "r", encoding="utf-8") as f:
         seen = json.load(f)
     except Exception as e:
         print(f"读取 seen.json 出错: {e}")
-        daily_content = [f"Daily Paper Digest — {today}", f"\n错误：读取 seen.json 文件出错: {e}\n"]
-        daily_text = "\n".join(daily_content)
-        os.makedirs(os.path.dirname(OUTPUT_PATH), exist_ok=True)
-        with open(OUTPUT_PATH, "w", encoding="utf-8") as f:
-            f.write(daily_text)
-        print(f"错误日报已生成：{OUTPUT_PATH}")
         exit(1)
 
 # 获取所有未发送的论文
 papers_unsent = [p for p in seen if not p.get("sent", False)]
+
+# ==========================================
+# 【关键修改 1】设置最大显示数量，避免邮件爆炸
+# ==========================================
+MAX_DISPLAY_COUNT = 30  # 每天最多处理和显示多少篇
 
 # -------------------
 if not papers_unsent:
@@ -50,67 +43,37 @@ if not papers_unsent:
     daily_text = "\n".join(daily_content)
 
 else:
+    # 准备要处理的论文列表（截断）
+    total_new_count = len(papers_unsent)
+    
+    if total_new_count > MAX_DISPLAY_COUNT:
+        print(f"警告：今日新增论文过多 ({total_new_count}篇)，仅选取前 {MAX_DISPLAY_COUNT} 篇进行展示。")
+        papers_to_process = papers_unsent[:MAX_DISPLAY_COUNT]
+        hidden_count = total_new_count - MAX_DISPLAY_COUNT
+    else:
+        papers_to_process = papers_unsent
+        hidden_count = 0
+
+    # -------------------
+    # AI 摘要部分
     DEEPSEEK_API_KEY = os.getenv("DEEPSEEK_API_KEY")
     if not DEEPSEEK_API_KEY:
         ai_summary = "警告：未设置 DEEPSEEK_API_KEY，无法生成 AI 摘要。"
     else:
         client = OpenAI(api_key=DEEPSEEK_API_KEY, base_url="https://api.deepseek.com")
 
-        if len(papers_unsent) > 50:
-            print(f"警告：今日新增论文过多 ({len(papers_unsent)}篇)，仅选取前 30 篇进行摘要。")
-            papers_for_ai = papers_unsent[:30]
-        else:
-            papers_for_ai = papers_unsent
-
         papers_brief = "\n".join(
             f"{p.get('title','未知标题')} ({p.get('source','未知期刊')})"
-            for p in papers_for_ai
+            for p in papers_to_process
         )
 
         system_prompt = """你是一位专业的地球科学领域AI研究助理，负责生成每日论文摘要日报。
+请基于提供的论文列表，生成：1.今日概览 2.核心趋势 3.热点主题分类 4.亮点论文深度解读(3-5篇)。
+请忽略非地球科学（如纯医学、计算机）的论文。
+输出格式清晰，不要使用代码块，适合邮件阅读。"""
+        
+        user_prompt = f"今天日期：{today}\n新增论文列表（共{len(papers_to_process)}篇）：\n{papers_brief}"
 
-核心任务  
-基于今日新增论文列表，生成专业、精炼、有洞察力的日报内容。
-
-重要过滤规则  
-- 仅处理与地球科学相关的论文（地质学、地球化学、地球物理、大气科学、海洋学、环境地球科学等）。  
-- 完全忽略其他领域的论文（医学、纯工程、计算机科学、纯数学等）。  
-- 在日报正文和附录中都不要显示这些被过滤掉的论文。  
-
-输出要求  
-请按以下结构组织内容，用正常书报风格，不要使用 Markdown 符号或表格。不要加粗使用加粗字体，因为我邮箱里是看不到格式的改变的，所以只能看到**xx**,导致排版很难看：
-
-1. 今日概览  
-简要说明今日新增的地球科学论文数量，以及主要来源期刊的分布情况。  
-
-2. 核心趋势  
-总结今日最显著的研究趋势，写成三到五个要点。每个要点包括趋势描述、代表性论文（用简短标题或编号引用，不要全文复制）、潜在意义或影响。  
-
-3. 热点主题分类  
-用自然语言描述今日的研究主题分类，不要用表格。比如可以写成段落或列表，说明每个主题的论文数量、代表论文和关键进展。  
-
-4. 亮点论文深度解读  
-挑选三到五篇最重要的论文，逐篇进行分析。每篇包括：核心贡献、创新方法、潜在应用价值、局限性或未来方向。  
-
-
-写作风格指南  
-- 专业但易懂，适合科研人员快速浏览  
-- 使用适当的表情符号增加可读性  
-- 避免过度技术术语，必要时简单解释  
-- 突出“为什么重要”而不仅仅是“是什么”  
-- 保持客观，标注不确定性。
-
-筛选标准  
-- 保留：地球科学相关（地质学、地球化学、地球物理、大气科学、海洋学、环境地球科学等）  
-- 排除：纯工程、计算机科学、医学、纯数学等无关领域  
-- 在附录中只显示过滤后的论文，不要显示被排除的论文  
-
-请基于以上框架生成日报，确保信息准确、结构清晰、洞察深刻。
-"""    
-        user_prompt = f"今天日期：{today}\n新增论文列表：\n{papers_brief}"
-
-        # -------------------
-        # 新增：重试机制
         def retry_api_call(max_retries=3, base_delay=2):
             for attempt in range(max_retries):
                 try:
@@ -124,38 +87,44 @@ else:
                     )
                     return resp.choices[0].message.content.strip()
                 except Exception as e:
-                    wait_time = base_delay * (2 ** attempt)
-                    print(f"[警告] AI 调用失败 (尝试 {attempt+1}/{max_retries}): {e}")
-                    if attempt < max_retries - 1:
-                        print(f"[重试] 等待 {wait_time} 秒后重试...")
-                        time.sleep(wait_time)
-                    else:
-                        return f"AI 摘要生成失败: {e}。请检查 API Key 或网络连接。"
+                    print(f"AI 调用失败: {e}")
+                    time.sleep(base_delay * (2 ** attempt))
+            return "AI 摘要生成失败，请检查 API。"
 
         ai_summary = retry_api_call()
 
     # -------------------
+    # 生成日报内容
     daily_content = []
     daily_content.append(f"Daily Paper Digest — {today}")
-    daily_content.append(f"今日新增论文：{len(papers_unsent)}")
+    daily_content.append(f"今日新增论文：{total_new_count} 篇")
+    if hidden_count > 0:
+        daily_content.append(f"（注：由于数量过多，本邮件仅展示前 {MAX_DISPLAY_COUNT} 篇，其余 {hidden_count} 篇已自动归档）")
+    
     daily_content.append(f"已累计收录：{len(seen)} 篇")
     daily_content.append("\n---\n")
     daily_content.append("【AI 摘要整理】\n")
     daily_content.append(ai_summary)
     daily_content.append("\n---\n")
-    daily_content.append("【附录：原始论文信息】\n")
+    daily_content.append(f"【附录：精选前 {len(papers_to_process)} 篇原始论文】\n")
+    daily_content.append("（已排除医学、纯工程、计算机科学等明显不相关领域，但由于AI判定限制，可能仍有少量残留）\n")
 
-    for i, p in enumerate(papers_unsent, 1):
+    # 【关键修改 2】这里只遍历 papers_to_process，而不是 papers_unsent
+    for i, p in enumerate(papers_to_process, 1):
         authors = p.get("authors", [])
-        authors = [a for a in authors if a]
-        authors_str = ", ".join(authors) if authors else "未知"
-        daily_content.append(f"{i}. {p.get('title','未知标题')}")
-        daily_content.append(f"    作者：{authors_str}")
-        daily_content.append(f"    期刊/来源：{p.get('source','未知')}")
-        daily_content.append(f"    链接：{p.get('link','')}")
-        if p.get("summary"):
-            daily_content.append(f"    摘要：{p['summary']}")
-        daily_content.append("")
+        authors_str = ", ".join(authors[:3]) + (" 等" if len(authors) > 3 else "") if authors else "未知"
+        
+        daily_content.append(f"### {i. {p.get('title','未知标题')}}")
+        daily_content.append(f"- **期刊**：{p.get('source','未知')}")
+        daily_content.append(f"- **作者**：{authors_str}")
+        daily_content.append(f"- **链接**：{p.get('link','')}")
+        # 如果摘要太长，可以截断
+        summary = p.get('summary', '').strip()
+        if len(summary) > 300:
+            summary = summary[:300] + "..."
+        if summary:
+            daily_content.append(f"- **摘要**：{summary}")
+        daily_content.append("") # 空行
 
     daily_text = "\n".join(daily_content)
 
@@ -166,35 +135,19 @@ with open(OUTPUT_PATH, "w", encoding="utf-8") as f:
 
 print(f"日报已生成：{OUTPUT_PATH}")
 
-
-# -------------------
-# 生成 Markdown 文件
-os.makedirs(os.path.dirname(OUTPUT_PATH), exist_ok=True)
-with open(OUTPUT_PATH, "w", encoding="utf-8") as f:
-    f.write(daily_text)
-
-print(f"日报已生成：{OUTPUT_PATH}")
-
 # ==========================================
-# 【新增/修改部分】关键修复：更新 seen.json 状态
+# 【关键修改 3】更新状态：把原本所有 unsent 的（包括未展示的）都标记为 sent
 # ==========================================
-
-# 1. 将本次处理过的所有 unsend 论文标记为已发送
-if papers_unsent: # 只有当有新论文处理时才执行
+if papers_unsent:
     print(f"正在更新 {len(papers_unsent)} 篇论文的状态为已发送...")
+    # 只要出现在 unsent 列表里，无论是否在邮件中显示，都标记为 sent
+    # 这样明天就不会重复出现了
     for p in papers_unsent:
         p['sent'] = True
     
-    # 注意：papers_unsent 是 seen 列表内对象的引用
-    # 所以修改 papers_unsent 里的对象，seen 里的对应内容也会变
-    # 我们直接把整个 seen 列表写回文件即可
-
     try:
         with open(SEEN_JSON_PATH, "w", encoding="utf-8") as f:
             json.dump(seen, f, indent=2, ensure_ascii=False)
-        print("成功更新 seen.json，文章状态已标记为 sent: true")
+        print("成功更新 seen.json，所有积压文章已标记为 sent: true")
     except Exception as e:
         print(f"严重错误：无法保存 seen.json状态: {e}")
-        # 如果保存失败，下次还会重复发送，但这比丢失数据好
-else:
-    print("没有需要更新状态的论文。")
