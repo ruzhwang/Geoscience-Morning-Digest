@@ -1,5 +1,290 @@
 [
   {
+    "id": "https://www.nature.com/articles/s41561-025-01855-5",
+    "title": "Sedimentary conditions drive modern pyrite burial flux to exceed oxidation",
+    "link": "https://www.nature.com/articles/s41561-025-01855-5",
+    "authors": [
+      "Cornelia Mertens",
+      "Sarah Paradis",
+      "Jordon D. Hemingway"
+    ],
+    "summary": "Nature Geoscience, Published online: 12 December 2025; <a href=\"https://www.nature.com/articles/s41561-025-01855-5\">doi:10.1038/s41561-025-01855-5</a>Modern pyrite burial in seafloor sediments exceeds pyrite oxidation on land, indicating that the sulfur cycle is out of balance, and acts to increase atmospheric oxygen levels, according to a diagenetic model validated by sediment cores.",
+    "source": "Nature Geoscience",
+    "date": "2025-12-12",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-025-67605-8",
+    "title": "All-optical hybrid metasurfaces for ultrafast computational spectrometer and single-pixel imaging",
+    "link": "https://www.nature.com/articles/s41467-025-67605-8",
+    "authors": [
+      "Zijian Liao",
+      "Zhanqiang Xue",
+      "Junxing Fan",
+      "Guizhen Xu",
+      "Hongyang Xing",
+      "Longqing Cong"
+    ],
+    "summary": "Nature Communications, Published online: 14 December 2025; <a href=\"https://www.nature.com/articles/s41467-025-67605-8\">doi:10.1038/s41467-025-67605-8</a>A hybrid metasurface functioning as a low-correlation and ultrafast spectral/spatial light modulator is demonstrated for all-optical THz computational spectrometer and single pixel imaging replacing mechanical delay lines and coherent detection.",
+    "source": "Nature Communications",
+    "date": "2025-12-14",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-025-67365-5",
+    "title": "Targeting LRBA triggers CTLA4 degradation and antitumor immunity for cancer immunotherapy",
+    "link": "https://www.nature.com/articles/s41467-025-67365-5",
+    "authors": [
+      "Xiaolu Ge",
+      "Liang Yu",
+      "Lei Zhang",
+      "Liqing Jia",
+      "Mingjing Meng",
+      "Jingquan He",
+      "Fan Bu",
+      "Yue Song",
+      "Gaorui Sun",
+      "Shiming Lv",
+      "Desheng Mei",
+      "Yutao Yang",
+      "Dakang Xu",
+      "Jingfa Zhang",
+      "Shengping Zhang",
+      "Chuangui Wang",
+      "Deshui Jia",
+      "Yongping Chen",
+      "Yue Gao",
+      "Baokun He"
+    ],
+    "summary": "Nature Communications, Published online: 14 December 2025; <a href=\"https://www.nature.com/articles/s41467-025-67365-5\">doi:10.1038/s41467-025-67365-5</a>LRBA deficiency is associated with autoimmune disease and CTLA4 loss; this study identifies LRBA as a negative regulator of antitumor immunity and introduces LC427 as a promising small-molecule inhibitor of the CTLA4-LRBA interaction for cancer immunotherapy.",
+    "source": "Nature Communications",
+    "date": "2025-12-14",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-025-67033-8",
+    "title": "APOBEC3 promotes squamous differentiation via IL-1A/AP-1 signaling",
+    "link": "https://www.nature.com/articles/s41467-025-67033-8",
+    "authors": [
+      "Michael S. Sturdivant",
+      "Andrew S. Truong",
+      "Mi Zhou",
+      "Elliott D. Toomer",
+      "Wolfgang Beckabir",
+      "John Raupp",
+      "Ujjawal Manocha",
+      "Ibardo A. Zambrano",
+      "Hung-Jui Tan",
+      "Marc A. Bjurlin",
+      "Angela B. Smith",
+      "Tracy L. Rose",
+      "Matthew I. Milowsky",
+      "Sara E. Wobker",
+      "Kathryn H. Gessner",
+      "Jeffrey S. Damrauer",
+      "William Y. Kim"
+    ],
+    "summary": "Nature Communications, Published online: 14 December 2025; <a href=\"https://www.nature.com/articles/s41467-025-67033-8\">doi:10.1038/s41467-025-67033-8</a>Deaminases of the APOBEC3 family contribute to the mutagenesis of various cancers, including urothelial carcinoma (UC) of the bladder. Here, the authors use functional studies and transcriptomics to demonstrate that APOBEC3 promotes tumour progression and squamous trans-differentiation in UC through IL-1α and downstream activation of the AP-1 transcription factor.",
+    "source": "Nature Communications",
+    "date": "2025-12-14",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-025-67505-x",
+    "title": "ARMH4 accelerates aging by maintaining a positive-feedback growth signaling circuit",
+    "link": "https://www.nature.com/articles/s41467-025-67505-x",
+    "authors": [
+      "Yu Fang",
+      "Baosen Wang",
+      "Qiuxiao Guo",
+      "Jian Lv",
+      "Jiajie Li",
+      "Junmei Wang",
+      "Ningning Guo",
+      "Yu Bai",
+      "Anqi Xu",
+      "Xiao Ma",
+      "Hui Tan",
+      "Hong Li",
+      "Zhihua Wang"
+    ],
+    "summary": "Nature Communications, Published online: 14 December 2025; <a href=\"https://www.nature.com/articles/s41467-025-67505-x\">doi:10.1038/s41467-025-67505-x</a>Growth signaling has been involved in the biological program of aging. Here the authors identify ARMH4 as a pro-aging factor by enhancing IGF1R/FGFR1 signal transduction and their expressions, thereby forming a positive feedback circuit in aging.",
+    "source": "Nature Communications",
+    "date": "2025-12-14",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-025-67312-4",
+    "title": "High aspect ratio organic light-emitting diodes",
+    "link": "https://www.nature.com/articles/s41467-025-67312-4",
+    "authors": [
+      "Binyu Wang",
+      "Naresh B. Kotadiya",
+      "Taehwan Kim",
+      "Ryan Mashack",
+      "Dustin Comfort",
+      "Chao Huang",
+      "Claire E. Arneson",
+      "Marina Kondakova",
+      "Noel C. Giebink",
+      "Max Shtein"
+    ],
+    "summary": "Nature Communications, Published online: 14 December 2025; <a href=\"https://www.nature.com/articles/s41467-025-67312-4\">doi:10.1038/s41467-025-67312-4</a>Reliability remains challenging for organic light-emitting diodes used in solid-state lighting. Here, the authors reduce the current density needed for a given brightness by fabricating devices on a high aspect ratio substrate with sub-mm texture, resulting in a 2.7x increase in operating lifetime.",
+    "source": "Nature Communications",
+    "date": "2025-12-14",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-025-67452-7",
+    "title": "Compression-induced NF-κB activation sustains tumor cell survival in confinement by detoxifying aldehydes and promotes metastasis",
+    "link": "https://www.nature.com/articles/s41467-025-67452-7",
+    "authors": [
+      "Bing Liu",
+      "Min Liu",
+      "Yajuan Zhang",
+      "Yifei Zhu",
+      "Dingpei Zhou",
+      "Hong Gao",
+      "Fan Yang",
+      "Dong Gao",
+      "Yun Zhao",
+      "BangBao Tao",
+      "Feng Yao",
+      "Weiwei Yang"
+    ],
+    "summary": "Nature Communications, Published online: 14 December 2025; <a href=\"https://www.nature.com/articles/s41467-025-67452-7\">doi:10.1038/s41467-025-67452-7</a>To establish metastasis, cancer cells need to adapt in order to navigate through confined spaces. Here, the authors discover that compression force-induced CSK23-mediated NF-κB activation regulates ALDH1B1 expression, ultimately modulating ferroptosis and tumor cell survival in confining capillaries.",
+    "source": "Nature Communications",
+    "date": "2025-12-14",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-025-67434-9",
+    "title": "Cell type-specific functions of the PBAF chromatin-remodeling complex in neuronal diversification",
+    "link": "https://www.nature.com/articles/s41467-025-67434-9",
+    "authors": [
+      "Anthony Osuma",
+      "Honorine Destain",
+      "Jessica Mann",
+      "Yinan Li",
+      "Seth R. Taylor",
+      "Manasa Prahlad",
+      "Ian Q. Weigle",
+      "Filipe Marques",
+      "Natalie Grace Schulz",
+      "Laura D. Mathies",
+      "Priota Islam",
+      "André E. X. Brown",
+      "Jayson J. Smith",
+      "Paschalis Kratsios"
+    ],
+    "summary": "Nature Communications, Published online: 14 December 2025; <a href=\"https://www.nature.com/articles/s41467-025-67434-9\">doi:10.1038/s41467-025-67434-9</a>Mutations in the PBAF chromatin-remodeling complex cause various neurodevelopmental disorders. This study shows that PBAF shapes distinct motor neuron identities, revealing how its disruption impairs movement and offering insight into neurodevelopmental disorders caused by PBAF mutations.",
+    "source": "Nature Communications",
+    "date": "2025-12-14",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-025-67043-6",
+    "title": "New SAR11 isolate genomes and global marine metagenomes resolve ecologically relevant units within the <i>Pelagibacterales</i>",
+    "link": "https://www.nature.com/articles/s41467-025-67043-6",
+    "authors": [
+      "Kelle C. Freel",
+      "Sarah J. Tucker",
+      "Evan B. Freel",
+      "Ulrich Stingl",
+      "Stephen J. Giovannoni",
+      "A. Murat Eren",
+      "Michael S. Rappé"
+    ],
+    "summary": "Nature Communications, Published online: 14 December 2025; <a href=\"https://www.nature.com/articles/s41467-025-67043-6\">doi:10.1038/s41467-025-67043-6</a>Evolutionary and ecological insights into marine SAR11 bacteria require whole genome data. Here, the authors expand the number of complete SAR11 isolate genomes by 81 new strains from the tropical Pacific Ocean, combining their sequence analysis with metagenomics to further resolve SAR11 evolution.",
+    "source": "Nature Communications",
+    "date": "2025-12-14",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-025-02987-7",
+    "title": "Melting of old refractory mantle during subduction initiation of the western Pacific plate",
+    "link": "https://www.nature.com/articles/s43247-025-02987-7",
+    "authors": [
+      "Hong-Yan Li",
+      "Chun Yang",
+      "Marguerite Godard",
+      "Jeffrey G. Ryan",
+      "Yi-Gang Xu"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 13 December 2025; <a href=\"https://www.nature.com/articles/s43247-025-02987-7\">doi:10.1038/s43247-025-02987-7</a>Re-melting of both ancient and younger refractory lithospheric mantle contributed to the generation of Izu–Bonin forearc basalts during the earliest stages of subduction initiation, according to hafnium–neodymium isotope analyses.",
+    "source": "Communications Earth & Environment",
+    "date": "2025-12-13",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-025-03066-7",
+    "title": "Urban population exposure to apparent temperature whiplash is projected to increase with global warming",
+    "link": "https://www.nature.com/articles/s43247-025-03066-7",
+    "authors": [
+      "Yuheng Yang",
+      "Ruiying Zhao"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 12 December 2025; <a href=\"https://www.nature.com/articles/s43247-025-03066-7\">doi:10.1038/s43247-025-03066-7</a>Over the past 80 years, urban areas have experienced more apparent-temperature whiplash events, and projections suggest that their frequency, along with the affected population, will continue to grow, especially under higher-emission scenarios, according to climate models and observations.",
+    "source": "Communications Earth & Environment",
+    "date": "2025-12-12",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-025-02958-y",
+    "title": "Melt inclusions reveal massive carbon dioxide emissions from continental intraplate volcanism",
+    "link": "https://www.nature.com/articles/s43247-025-02958-y",
+    "authors": [
+      "Roxane Buso",
+      "Didier Laporte",
+      "Federica Schiavi",
+      "Nicolas Cluzel"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 12 December 2025; <a href=\"https://www.nature.com/articles/s43247-025-02958-y\">doi:10.1038/s43247-025-02958-y</a>Olivine-hosted melt inclusions from the Bas-Vivarais volcanic province (Massif Central, France) exhibit unusually high carbon dioxide concentrations, up to 4.8 percent by weight, and are among the highest ever measured to date, according to data inferred from the high-pressure homogenization technique.",
+    "source": "Communications Earth & Environment",
+    "date": "2025-12-12",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012825225003289",
+    "title": "Coupling relationship between the Carnian Pluvial Episode and the global coal accumulation recommencement",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012825225003289?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 13 December 2025<b>Source:</b> Earth-Science ReviewsAuthor(s): Peixin Zhang, Minfang Yang, Jing Lu, Zhongfeng Jiang, Kai Zhou, Li Wu, Xiaotao Xu, Huijuan Chen, Xuran Zhu, Yanghang Guo, Huajun Ye, Longyi Shao",
+    "source": "ScienceDirect Publication: Earth-Science Reviews",
+    "date": "2025-12-14",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0016703725006982",
+    "title": "High magnesium isotope ratios in subglacial icelandic waters: impacts of carbonate precipitation and implications for CO<sub>2</sub> sequestration",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0016703725006982?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 13 December 2025<b>Source:</b> Geochimica et Cosmochimica ActaAuthor(s): Philip A.E. Pogge von Strandmann, Xianyi Liu, Chun-Yao Liu, Sigurður R. Gíslason, Kevin W. Burton",
+    "source": "ScienceDirect Publication: Geochimica et Cosmochimica Acta",
+    "date": "2025-12-14",
+    "sent": true
+  },
+  {
+    "id": "http://doi.org/10.1093/nsr/nwaf572",
+    "title": "Robust helix photo-transforming in soft matter",
+    "link": "https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwaf572/8379432?rss=1",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\"><div class=\"boxTitle\">Abstract</div>Helical organization in soft materials is omnipresent in systems ranging from DNA and peptides to liquid crystal displays. Dynamic transformation and reconfiguration of helicity triggered non-invasively by light are highly desirable, yet challenging to control soft-condensed matter. Herein, we report the photo-transformation of helicity in soft matter with robust manipulation of the helical pitch and inversion of chirality. The key molecular design is based on the introduction of a multi-branched dendron-like chiral photoswitch, along with balancing long-range order and short-range disorder states, featuring ultra-large helical twisting power (HTP) and initiating an extremely broad dynamic spectral range (400-3000 nm). The resonance coupling between helixes and inherent luminescence of the chiral photoswitch enables stimulated circularly polarized luminescence (CPL), with a dissymmetric factor of 1.97 approaching the theoretical limit. The precise dynamic control allows photo-tailorable infrared beams and high dimensional coding, offering a robust approach to dynamic soft matter, chiro-optics and information processing.</span>",
+    "source": "National Science Review Advance Access",
+    "date": "2025-12-13",
+    "sent": true
+  },
+  {
+    "id": "http://doi.org/10.1093/nsr/nwaf563",
+    "title": "Towards optimal morphology in organic solar cells?",
+    "link": "https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwaf563/8379420?rss=1",
+    "authors": [],
+    "summary": "",
+    "source": "National Science Review Advance Access",
+    "date": "2025-12-13",
+    "sent": true
+  },
+  {
     "id": "https://www.nature.com/articles/s41586-025-09845-8",
     "title": "Author Correction: Cancer SLC43A2 alters T cell methionine metabolism and histone methylation",
     "link": "https://www.nature.com/articles/s41586-025-09845-8",
