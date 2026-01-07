@@ -1,5 +1,509 @@
 [
   {
+    "id": "https://www.nature.com/articles/d41586-025-03990-w",
+    "title": "The poetic life and death of a glow-worm",
+    "link": "https://www.nature.com/articles/d41586-025-03990-w",
+    "authors": [],
+    "summary": "Nature, Published online: 06 January 2026; <a href=\"https://www.nature.com/articles/d41586-025-03990-w\">doi:10.1038/d41586-025-03990-w</a>A peek behind the scenes at the zoo reveals animal escapades, and a glow-worm shines in a mild midwinter, in our weekly dip into Nature’s archive.",
+    "source": "Nature",
+    "date": "2026-01-06",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-025-04123-z",
+    "title": "Rethink how we build AI to enable effective climate-change mitigation",
+    "link": "https://www.nature.com/articles/d41586-025-04123-z",
+    "authors": [
+      "Carlos Rodriguez-Pardo",
+      "Massimo Tavoni"
+    ],
+    "summary": "Nature, Published online: 06 January 2026; <a href=\"https://www.nature.com/articles/d41586-025-04123-z\">doi:10.1038/d41586-025-04123-z</a>Rethink how we build AI to enable effective climate-change mitigation",
+    "source": "Nature",
+    "date": "2026-01-06",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-025-04121-1",
+    "title": "Help small-scale gold miners to transition away from mercury use",
+    "link": "https://www.nature.com/articles/d41586-025-04121-1",
+    "authors": [
+      "Shabbir Ahmad",
+      "Saleem H. Ali"
+    ],
+    "summary": "Nature, Published online: 06 January 2026; <a href=\"https://www.nature.com/articles/d41586-025-04121-1\">doi:10.1038/d41586-025-04121-1</a>Help small-scale gold miners to transition away from mercury use",
+    "source": "Nature",
+    "date": "2026-01-06",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-025-04124-y",
+    "title": "Retire ‘seminal’ from the scientific vocabulary",
+    "link": "https://www.nature.com/articles/d41586-025-04124-y",
+    "authors": [
+      "Nicole D. Sintov",
+      "Christine Sprunger"
+    ],
+    "summary": "Nature, Published online: 06 January 2026; <a href=\"https://www.nature.com/articles/d41586-025-04124-y\">doi:10.1038/d41586-025-04124-y</a>Retire ‘seminal’ from the scientific vocabulary",
+    "source": "Nature",
+    "date": "2026-01-06",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-025-04122-0",
+    "title": "To improve resilience to climate change, track what endures",
+    "link": "https://www.nature.com/articles/d41586-025-04122-0",
+    "authors": [
+      "Stacy-ann Robinson"
+    ],
+    "summary": "Nature, Published online: 06 January 2026; <a href=\"https://www.nature.com/articles/d41586-025-04122-0\">doi:10.1038/d41586-025-04122-0</a>To improve resilience to climate change, track what endures",
+    "source": "Nature",
+    "date": "2026-01-06",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-025-04149-3",
+    "title": "Why cancer can come back years later — and how to stop it",
+    "link": "https://www.nature.com/articles/d41586-025-04149-3",
+    "authors": [
+      "Amanda Heidt"
+    ],
+    "summary": "Nature, Published online: 06 January 2026; <a href=\"https://www.nature.com/articles/d41586-025-04149-3\">doi:10.1038/d41586-025-04149-3</a>Researchers are targeting dormant tumour cells that might explain why some cancers reappear long after successful treatment.",
+    "source": "Nature",
+    "date": "2026-01-06",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-00005-0",
+    "title": "Defossilize our chemical world",
+    "link": "https://www.nature.com/articles/d41586-026-00005-0",
+    "authors": [],
+    "summary": "Nature, Published online: 06 January 2026; <a href=\"https://www.nature.com/articles/d41586-026-00005-0\">doi:10.1038/d41586-026-00005-0</a>Achieving net zero means eliminating fossil fuels, not carbon — the chemical element has a crucial part to play in powering the modern world.",
+    "source": "Nature",
+    "date": "2026-01-06",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-025-03984-8",
+    "title": "Artificial skin mimics the octopus’s art of disguise",
+    "link": "https://www.nature.com/articles/d41586-025-03984-8",
+    "authors": [
+      "Benjamin Renz",
+      "Na Liu"
+    ],
+    "summary": "Nature, Published online: 06 January 2026; <a href=\"https://www.nature.com/articles/d41586-025-03984-8\">doi:10.1038/d41586-025-03984-8</a>A ‘photonic skin’ with controllable colour and texture brings materials science a step closer to the adaptive camouflage found in nature.",
+    "source": "Nature",
+    "date": "2026-01-06",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-00044-7",
+    "title": "Jellyfish sleep like humans — even though they don’t have brains",
+    "link": "https://www.nature.com/articles/d41586-026-00044-7",
+    "authors": [
+      "Lynne Peeples"
+    ],
+    "summary": "Nature, Published online: 06 January 2026; <a href=\"https://www.nature.com/articles/d41586-026-00044-7\">doi:10.1038/d41586-026-00044-7</a>Studying ancient sea creatures’ snoozing habits could shed light on the origins of sleep.",
+    "source": "Nature",
+    "date": "2026-01-06",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-00043-8",
+    "title": "Daily briefing: The human cells in our bodies that aren’t genetically ours",
+    "link": "https://www.nature.com/articles/d41586-026-00043-8",
+    "authors": [
+      "Flora Graham"
+    ],
+    "summary": "Nature, Published online: 05 January 2026; <a href=\"https://www.nature.com/articles/d41586-026-00043-8\">doi:10.1038/d41586-026-00043-8</a>‘Microchimeric’ cells passed from your mother can challenge basic tenets of immunology. Plus, an experimental cancer vaccine that uses blood ‘cleaned’ with ultraviolet light and the evidence for trying ‘Dry January’.",
+    "source": "Nature",
+    "date": "2026-01-05",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41561-025-01893-z",
+    "title": "High normal stress promoted supershear rupture during the 2023 <i>M</i><sub>w</sub> 7.8 Kahramanmaraş earthquake",
+    "link": "https://www.nature.com/articles/s41561-025-01893-z",
+    "authors": [
+      "Jing Chen",
+      "Mijian Xu",
+      "Yiming Bai",
+      "Shucheng Wu",
+      "Xiao Xiao",
+      "Shijie Hao",
+      "Masaru Nagaso",
+      "Hongfeng Yang",
+      "Ping Tong"
+    ],
+    "summary": "Nature Geoscience, Published online: 06 January 2026; <a href=\"https://www.nature.com/articles/s41561-025-01893-z\">doi:10.1038/s41561-025-01893-z</a>The difference in rupture speed between fault segments in the 2023 Mw 7.8 Kahramanmaraş earthquake may be explained by the contrasting structure of and stress on these segments, according to seismic tomographic imaging of beneath the fault zone.",
+    "source": "Nature Geoscience",
+    "date": "2026-01-06",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41561-025-01887-x",
+    "title": "Synchronous bipolar retreat of mid-latitude ice masses during Heinrich Stadials",
+    "link": "https://www.nature.com/articles/s41561-025-01887-x",
+    "authors": [
+      "Samuel Toucanne",
+      "Natalia Vázquez Riveiros",
+      "Guillaume Soulet",
+      "Pierre-Henri Blard",
+      "Amandine Migeon",
+      "Vincent Rigalleau",
+      "Angelique Roubi",
+      "Sandrine Cheron",
+      "Audrey Boissier",
+      "Laurie Menviel",
+      "Helen Bostock"
+    ],
+    "summary": "Nature Geoscience, Published online: 06 January 2026; <a href=\"https://www.nature.com/articles/s41561-025-01887-x\">doi:10.1038/s41561-025-01887-x</a>Glaciers in New Zealand retreated at about the same time as mid-latitude glaciers in the Northern Hemisphere during Heinrich Stadials, indicating strong global teleconnections during the last glacial period, according to a marine sediment record.",
+    "source": "Nature Geoscience",
+    "date": "2026-01-06",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41561-025-01883-1",
+    "title": "Periodic ocean oxygenation events during the mid-Ediacaran",
+    "link": "https://www.nature.com/articles/s41561-025-01883-1",
+    "authors": [
+      "Zi-Heng Li",
+      "Zhong-Qiang Chen",
+      "Stuart J. Daines",
+      "Feifei Zhang",
+      "Timothy M. Lenton"
+    ],
+    "summary": "Nature Geoscience, Published online: 06 January 2026; <a href=\"https://www.nature.com/articles/s41561-025-01883-1\">doi:10.1038/s41561-025-01883-1</a>Periodic marine oxygen oscillations occurred throughout the middle Ediacaran Gaskiers Glaciation, probably stemming from increased organic carbon burial destabilizing ocean redox systems, according to geochemical constraints and modelling.",
+    "source": "Nature Geoscience",
+    "date": "2026-01-06",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41561-025-01874-2",
+    "title": "Costs and benefits of halving nitrogen waste for global sustainable development goals",
+    "link": "https://www.nature.com/articles/s41561-025-01874-2",
+    "authors": [
+      "Peiying He",
+      "Xiuming Zhang",
+      "Chuanzhen Zhang",
+      "Binhui Chen",
+      "Sitong Wang",
+      "Luxi Cheng",
+      "Jinglan Cui",
+      "Ouping Deng",
+      "Stefan Reis",
+      "Cargele Masso",
+      "Mahesh Pradhan",
+      "Jianming Xu",
+      "Baojing Gu"
+    ],
+    "summary": "Nature Geoscience, Published online: 06 January 2026; <a href=\"https://www.nature.com/articles/s41561-025-01874-2\">doi:10.1038/s41561-025-01874-2</a>Halving nitrogen waste could help meet a broad array of Sustainable Development Goals, with associated societal benefits topping US$1.3 trillion, according to an integrated assessment framework that evaluates cost-effectiveness and environmental impacts.",
+    "source": "Nature Geoscience",
+    "date": "2026-01-06",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-025-68022-7",
+    "title": "Impact of GC content on de novo gene birth",
+    "link": "https://www.nature.com/articles/s41467-025-68022-7",
+    "authors": [
+      "Paul Roginski",
+      "Chris Papadopoulos",
+      "Simon Herman",
+      "Ambre Baumann",
+      "Antoine Grislain",
+      "Anne Lopes"
+    ],
+    "summary": "Nature Communications, Published online: 06 January 2026; <a href=\"https://www.nature.com/articles/s41467-025-68022-7\">doi:10.1038/s41467-025-68022-7</a>Noncoding DNA can generate microproteins, some of which evolve into new genes. This study finds that de novo genes preferentially originate from GC-rich, foldable sequences, showing how base composition influences the birth of new proteins.",
+    "source": "Nature Communications",
+    "date": "2026-01-06",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-025-68044-1",
+    "title": "NTAC: Neuronal type assignment from connectivity",
+    "link": "https://www.nature.com/articles/s41467-025-68044-1",
+    "authors": [
+      "Gregory Schwartzman",
+      "Ben Jourdan",
+      "David García-Soriano",
+      "Arie Matsliah"
+    ],
+    "summary": "Nature Communications, Published online: 06 January 2026; <a href=\"https://www.nature.com/articles/s41467-025-68044-1\">doi:10.1038/s41467-025-68044-1</a>In this study, the authors develop NTAC, Neuronal Type Assignment from Connectivity, using synaptic connectivity alone to identify cell types with high accuracy within minutes on a standard CPU.",
+    "source": "Nature Communications",
+    "date": "2026-01-06",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-025-68072-x",
+    "title": "Ferroelectric switching of interfacial dipoles in <i>α</i>-RuCl<sub>3</sub>/graphene heterostructure",
+    "link": "https://www.nature.com/articles/s41467-025-68072-x",
+    "authors": [
+      "Soyun Kim",
+      "Jo Hyun Yun",
+      "Junsik Choe",
+      "Dohun Kim",
+      "Takashi Taniguchi",
+      "Kenji Watanabe",
+      "Joseph Falson",
+      "Jun Sung Kim",
+      "Kyung-Hwan Jin",
+      "Gil Young Cho",
+      "Youngwook Kim"
+    ],
+    "summary": "Nature Communications, Published online: 06 January 2026; <a href=\"https://www.nature.com/articles/s41467-025-68072-x\">doi:10.1038/s41467-025-68072-x</a>This study shows that electrically switchable and non-volatile dipoles can form at the interface of graphene and α-RuCl3 when separated by an ultrathin hBN layer. The dipole switching is driven by interfacial charge transfer, is stable without continuous power, and emerges in a narrow temperature window around 30 K.",
+    "source": "Nature Communications",
+    "date": "2026-01-06",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-025-68112-6",
+    "title": "Intrathecal CRISPR-edited allogeneic IL-13Rα2 CAR T Cells for recurrent high-grade Glioma: preclinical characterization and phase I trial",
+    "link": "https://www.nature.com/articles/s41467-025-68112-6",
+    "authors": [
+      "Xuetao Li",
+      "Xiaoyun Shang",
+      "Jiangang Liu",
+      "Yang Zhang",
+      "Xian Jia",
+      "Huabing Li",
+      "Yihan Wang",
+      "Jianen Gao",
+      "Xu Ma",
+      "Xuewen Zhang",
+      "Xiaoci Rong",
+      "Wenjuan Gan",
+      "Yu Zhang",
+      "Jie Chen",
+      "Lin Wang",
+      "Zhen Bao",
+      "Liang He",
+      "Xigang Yan",
+      "Yang Liu",
+      "Jie Shao",
+      "Zongyu Xiao",
+      "Zhiming Wang",
+      "Haiping Zhu",
+      "Zhong Wang",
+      "Yuzhang Wu",
+      "Yulun Huang"
+    ],
+    "summary": "Nature Communications, Published online: 06 January 2026; <a href=\"https://www.nature.com/articles/s41467-025-68112-6\">doi:10.1038/s41467-025-68112-6</a>Off-the-shelf, on-demand allogeneic CAR-T cells could represent a therapeutic alternative to autologous products for cancer therapy. Here the authors report the preclinical characterization of off-the-shelf CRISPR-Cas9– edited IL-13Rα2-specific allogeneic universal CAR-T cells and the results of a first-in-human phase I trial in patients with high-grade glioma.",
+    "source": "Nature Communications",
+    "date": "2026-01-06",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-025-68051-2",
+    "title": "Lithospheric models supported by the Caribbean and Levant examples help rethink transpression at plate boundaries",
+    "link": "https://www.nature.com/articles/s41467-025-68051-2",
+    "authors": [
+      "Anthony Jourdon",
+      "Laetitia Le Pourhiet",
+      "Dave A. May",
+      "Manuel Pubellier",
+      "Alice-Agnes Gabriel"
+    ],
+    "summary": "Nature Communications, Published online: 06 January 2026; <a href=\"https://www.nature.com/articles/s41467-025-68051-2\">doi:10.1038/s41467-025-68051-2</a>The study shows how inherited weak zones determine whether transpression produces pushups, duplexes, or parallel faults. 3D models offer insights into the deep processes that drive deformation and seismic patterns in the Caribbean and Levant.",
+    "source": "Nature Communications",
+    "date": "2026-01-06",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-025-68263-6",
+    "title": "Dynamic decrosslinking enables self-healing, reprocessability, and upcycling in polyurethane networks",
+    "link": "https://www.nature.com/articles/s41467-025-68263-6",
+    "authors": [
+      "Qingming Kong",
+      "Yu Tan",
+      "Kaiqiang Zhang",
+      "Haiyang Zhang",
+      "Tengyang Zhu",
+      "Xu Wang"
+    ],
+    "summary": "Nature Communications, Published online: 06 January 2026; <a href=\"https://www.nature.com/articles/s41467-025-68263-6\">doi:10.1038/s41467-025-68263-6</a>Dynamically cross-linked thermosets often show decreased performance after numerous reprocessing cycles, limiting their long-term recyclability. Here, the authors introduce dynamic hindered urea bonds into polyurethane, enabling its thermal-decrosslinking and offering an upcycling route.",
+    "source": "Nature Communications",
+    "date": "2026-01-06",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-025-67723-3",
+    "title": "Soft sonocapacitor with topologically integrated piezodielectric nanospheres enables wireless epidural closed-loop neuromodulation",
+    "link": "https://www.nature.com/articles/s41467-025-67723-3",
+    "authors": [
+      "Zhidong Wei",
+      "Fei Jin",
+      "Tong Li",
+      "Lili Qian",
+      "Juan Ma",
+      "Fengling Liu",
+      "Weiying Zheng",
+      "Yu Wang",
+      "Siwei Zhang",
+      "Ye You",
+      "Zhang-Qi Feng",
+      "Ting Wang"
+    ],
+    "summary": "Nature Communications, Published online: 06 January 2026; <a href=\"https://www.nature.com/articles/s41467-025-67723-3\">doi:10.1038/s41467-025-67723-3</a>Achieving wireless and high charge density neural stimulation remains challenging. To address this issue, the authors develop a sonocapacitor from piezoelectric-dielectric composite nanospheres and two-dimensional cellulose.",
+    "source": "Nature Communications",
+    "date": "2026-01-06",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-025-68068-7",
+    "title": "Unconventional polaronic ground state in superconducting LiTi<sub>2</sub>O<sub>4</sub>",
+    "link": "https://www.nature.com/articles/s41467-025-68068-7",
+    "authors": [
+      "Zubia Hasan",
+      "Grace A. Pan",
+      "Harrison LaBollita",
+      "Austin Kaczmarek",
+      "Suk Hyun Sung",
+      "Shekhar Sharma",
+      "Purnima P. Balakrishnan",
+      "Edward Mercer",
+      "Vivek Bhartiya",
+      "Alpha T. N’Diaye",
+      "Zaher Salman",
+      "Thomas Prokscha",
+      "Andreas Suter",
+      "Alexander J. Grutter",
+      "Mirian Garcia-Fernandez",
+      "Ke-Jin Zhou",
+      "Jonathan Pelliciari",
+      "Valentina Bisogni",
+      "Ismail El Baggari",
+      "Darrell G. Schlom",
+      "Matthew R. Barone",
+      "Charles M. Brooks",
+      "Katja C. Nowack",
+      "Antia S. Botana",
+      "Brendan D. Faeth",
+      "Alberto de la Torre",
+      "Julia A. Mundy"
+    ],
+    "summary": "Nature Communications, Published online: 06 January 2026; <a href=\"https://www.nature.com/articles/s41467-025-68068-7\">doi:10.1038/s41467-025-68068-7</a>The authors study epitaxial thin films of the pyrochlore-sublattice compound LiTi2O4 by RIXS and ARPES. They observe cooperation between strong electron correlations and strong electron-phonon coupling, giving rise to a mobile polaronic ground state in which charge motion and lattice distortions are coupled.",
+    "source": "Nature Communications",
+    "date": "2026-01-06",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43017-025-00754-y",
+    "title": "Changing the heatwave visual discourse in the news media",
+    "link": "https://www.nature.com/articles/s43017-025-00754-y",
+    "authors": [
+      "Saffron O’Neill",
+      "Clare Davis"
+    ],
+    "summary": "Nature Reviews Earth &amp; Environment, Published online: 06 January 2026; <a href=\"https://www.nature.com/articles/s43017-025-00754-y\">doi:10.1038/s43017-025-00754-y</a>Nature Reviews Earth & Environment interviewed Professor Saffron O’Neill about their project investigating the visual communication of heatwaves in the news media.",
+    "source": "Nature Reviews Earth & Environment",
+    "date": "2026-01-06",
+    "sent": true
+  },
+  {
+    "id": "https://www.pnas.org/doi/abs/10.1073/pnas.2512767123?af=R",
+    "title": "Timing and magnitude of the Lomagundi–Jatuli carbon isotope excursion",
+    "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2512767123?af=R",
+    "authors": [
+      "Stacey EdmonsondBlake DyeraSchool of Earth and Ocean Sciences, University of Victoria, Victoria, BC V8P 5C2, Canada"
+    ],
+    "summary": "Proceedings of the National Academy of Sciences, Volume 123, Issue 2, January 2026. <br />SignificanceThe rise of atmospheric oxygen during the Great Oxidation Event (GOE) set the stage for the evolution of complex life. Co-eval marine carbonate sediments preserve a large and long-lived positive carbon isotope (δ13C) excursion, the Lomagundi–...",
+    "source": "Proceedings of the National Academy of Sciences: Earth, Atmospheric, and Planetary Sciences",
+    "date": "2026-01-05",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012821X25006089",
+    "title": "Shifting carbonate burial between oceanic and continental crust across Earth history",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012821X25006089?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: 1 March 2026<b>Source:</b> Earth and Planetary Science Letters, Volume 677Author(s): Jon M. Husson, Shanan E. Peters",
+    "source": "ScienceDirect Publication: Earth and Planetary Science Letters",
+    "date": "2026-01-07",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL116073",
+    "title": "Characterization of Crustal Deformation During the May 2021 Nyiragongo Eruption Using InSAR and GNSS Data",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL116073?af=R",
+    "authors": [
+      "D. Murekezi, \nA. Newman, \nC. Wauthier, \nC. J. Ebinger, \nP. Lundgren, \nJ. Gonzalez Santana, \nT. Niyitegeka, \nG. Nyandwi, \nT. Habiyakare, \nJ. Uwiduhaye"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 1, 16 January 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-01-06",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL119118",
+    "title": "Statistical Estimate of the Magnetopause Reconnection Rate as a Function of the Interplanetary Magnetic Field Clock Angle",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL119118?af=R",
+    "authors": [
+      "B. Michotte de Welle, \nN. Aunai, \nB. Lavraud, \nV. Génot, \nG. Nguyen, \nA. Ghisalberti, \nA. Jeandet, \nD. Sibeck, \nH. Connor"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 1, 16 January 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-01-06",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL118287",
+    "title": "Revealing Blind Faults Through High‐Resolution Imaging of Shallow Structures: A Case Study on Chenghai Fault, Yunnan, China",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL118287?af=R",
+    "authors": [
+      "Lei Qin, \nHongrui Qiu, \nHongfeng Yang, \nFenglin Niu, \nNori Nakata, \nXiong Xiong"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 1, 16 January 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-01-06",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL117310",
+    "title": "Large Aerosol Particles Favor Haze Conditions Through Limitations on Water Budget and Activation Kinetics",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL117310?af=R",
+    "authors": [
+      "Hamed Fahandezh Sadi, \nErnie R. Lewis, \nKadja Flore Gali, \nFan Yang, \nJesse Anderson, \nSuryadev Pratap Singh, \nJae Min Yeom, \nWill Cantrell, \nRaymond A. Shaw"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 1, 16 January 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-01-05",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL119392",
+    "title": "Spatial Distributions of Energetic Electrons and Energetic Ions in the Tail Reconnection Region: Cluster Observations and PIC Simulations",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL119392?af=R",
+    "authors": [
+      "S. Y. Huang, \nH. W. Zhan, \nQ. Y. Xiong, \nZ. G. Yuan, \nK. Jiang, \nY. T. Tang, \nH. Bai"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 1, 16 January 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-01-05",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL119131",
+    "title": "Water Storage Changes of Lakes and Reservoirs Across Asia (2018–2023) and Their Effects in Flood Control",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL119131?af=R",
+    "authors": [
+      "Zhiyuan An, \nZhao Li, \nTaoyong Jin, \nWeiping Jiang, \nPeng Yuan, \nKai Liu, \nJian Wang, \nPeng Chen"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 1, 16 January 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-01-05",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0016703726000037",
+    "title": "Hydrogen in natural inclusions: geological legacy or laboratory artifact?",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0016703726000037?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 5 January 2026<b>Source:</b> Geochimica et Cosmochimica ActaAuthor(s): Haokun Lian, Xiaolin Wang, Matthew Steele-MacInnis, Dongquan Sun, Wenxuan Hu, I-Ming Chou",
+    "source": "ScienceDirect Publication: Geochimica et Cosmochimica Acta",
+    "date": "2026-01-07",
+    "sent": true
+  },
+  {
     "id": "https://www.nature.com/articles/d41586-025-04153-7",
     "title": "I see Mozambique’s baboons as windows into hominid evolution",
     "link": "https://www.nature.com/articles/d41586-025-04153-7",
