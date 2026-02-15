@@ -1,5 +1,526 @@
 [
   {
+    "id": "https://www.nature.com/articles/s41467-026-69470-5",
+    "title": "Ligand-dependent Wnt signaling promotes gastric cancer metastasis through hyaluronan expression in microenvironment",
+    "link": "https://www.nature.com/articles/s41467-026-69470-5",
+    "authors": [
+      "Yuichiro Furutani",
+      "Hiroko Oshima",
+      "Chang Pyo Hong",
+      "SeonJu Choi",
+      "Ryosuke Machi",
+      "Mizuho Nakayama",
+      "Kazuhiro Murakami",
+      "Shintaro Yagi",
+      "Yukinobu Ito",
+      "Daichi Maeda",
+      "Noriyuki Inaki",
+      "Nick Barker",
+      "Masanobu Oshima"
+    ],
+    "summary": "Nature Communications, Published online: 14 February 2026; <a href=\"https://www.nature.com/articles/s41467-026-69470-5\">doi:10.1038/s41467-026-69470-5</a>Wnt signaling is activated in more than half of gastric cancers through a ligand-dependent manner. Here the authors show with mouse models that tumor-derived Wnt ligands activate liver stromal fibroblasts to facilitate hyaluronan accumulation in the microenvironment, promoting gastric cancer liver metastasis.",
+    "source": "Nature Communications",
+    "date": "2026-02-14",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-69527-5",
+    "title": "From nicotine to SARS-CoV-2 antivirals with potent in vivo efficacy and a broad anti-coronavirus spectrum",
+    "link": "https://www.nature.com/articles/s41467-026-69527-5",
+    "authors": [
+      "Kaustav Khatua",
+      "Sandeep Atla",
+      "Demonta Coleman",
+      "Lauren R. Blankenship",
+      "Yugendar R. Alugubelli",
+      "Veerabhadra Vulupala",
+      "Xuejiao Shirley Guo",
+      "Hongjie Xia",
+      "Birte K. Kalveram",
+      "David H. Walker",
+      "Brett L. Hurst",
+      "Sathish Kumar",
+      "Chia-Chuan D. Cho",
+      "Shivangi Sharma",
+      "Kai Yang",
+      "Dorsa Rabie",
+      "Satyanarayana Nyalata",
+      "Benjamin W. Neuman",
+      "Xuping Xie",
+      "Shiqing Xu",
+      "Wenshe Ray Liu"
+    ],
+    "summary": "Nature Communications, Published online: 14 February 2026; <a href=\"https://www.nature.com/articles/s41467-026-69527-5\">doi:10.1038/s41467-026-69527-5</a>Here the authors identify nicotine-derived inhibitors of the SARS-CoV−2 main protease that outperform Paxlovid in cells and mice, remain effective against resistant variants, and show broad activity against multiple human coronaviruses.",
+    "source": "Nature Communications",
+    "date": "2026-02-14",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-69447-4",
+    "title": "Functional distinctions between orbitofrontal cortex and anterior cingulate cortex subregions in decision-making and autonomic regulation",
+    "link": "https://www.nature.com/articles/s41467-026-69447-4",
+    "authors": [
+      "Georgios K. Papageorgiou",
+      "Ken-ichi Amemori",
+      "Daniel J. Gibson",
+      "Helen N. Schwerdt",
+      "Michelangelo Naim",
+      "Michelle C. Wang",
+      "Tomoko Yoshida",
+      "Jitendra Sharma",
+      "Urvashi Upadhyay",
+      "Guangyu Robert Yang",
+      "Ann M. Graybiel"
+    ],
+    "summary": "Nature Communications, Published online: 14 February 2026; <a href=\"https://www.nature.com/articles/s41467-026-69447-4\">doi:10.1038/s41467-026-69447-4</a>The roles of orbitofrontal and cingulate cortex in emotional decisions remain unclear. Here the authors show distinct timing between caudal orbitofrontal and cingulate signals, that orbitofrontal stimulation increases avoidance, and that physiological responses mirror behavior.",
+    "source": "Nature Communications",
+    "date": "2026-02-14",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-69169-7",
+    "title": "ATRX loss couples genome instability at a G-rich repeat to dysregulation of human alpha-globin expression",
+    "link": "https://www.nature.com/articles/s41467-026-69169-7",
+    "authors": [
+      "Yuqi Shen",
+      "Kinam Gupta",
+      "Sue Mei Tan-Wong",
+      "Sean Wen",
+      "Christopher A. Fisher",
+      "Liezel Tamon",
+      "Nicholas J. Proudfoot",
+      "Richard J. Gibbons",
+      "Douglas R. Higgs"
+    ],
+    "summary": "Nature Communications, Published online: 14 February 2026; <a href=\"https://www.nature.com/articles/s41467-026-69169-7\">doi:10.1038/s41467-026-69169-7</a>ATRX mutations are associated with developmental disorders and cancer, but how they affect gene regulation is unclear. Here, the authors report that ATRX loss can perturb alpha-globin gene expression by promoting G4- and R-loop-associated DNA damage via a G-rich repeat.",
+    "source": "Nature Communications",
+    "date": "2026-02-14",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-69402-3",
+    "title": "Enabling global-scale nucleic acid repositories through versatile, scalable biochemical selection from room-temperature archives",
+    "link": "https://www.nature.com/articles/s41467-026-69402-3",
+    "authors": [
+      "Joseph D. Berleant",
+      "James L. Banal",
+      "Dhriti K. Rao",
+      "Mark Bathe"
+    ],
+    "summary": "Nature Communications, Published online: 14 February 2026; <a href=\"https://www.nature.com/articles/s41467-026-69402-3\">doi:10.1038/s41467-026-69402-3</a>Large biospecimen banks are limited by a lack of fast, flexible, database-like retrieval. Here, authors encode metadata as DNA barcodes on silica-encapsulated samples and demonstrate numerical range, categorical, and Boolean queries, enabling rapid, precise recall from pooled DNA/RNA archives.",
+    "source": "Nature Communications",
+    "date": "2026-02-14",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-69614-7",
+    "title": "Single-crystal 2D covalent organic frameworks for high-capacity methane storage",
+    "link": "https://www.nature.com/articles/s41467-026-69614-7",
+    "authors": [
+      "Baoqiu Yu",
+      "Felipe L. Oliveira",
+      "Wenliang Li",
+      "Qingmei Xu",
+      "Xu Ding",
+      "Shangwei Yuan",
+      "Yucheng Jin",
+      "Hua Liu",
+      "Hailong Wang",
+      "Xin Xiao",
+      "Jingping Zhang",
+      "Guillaume Maurin",
+      "Banglin Chen",
+      "Jianzhuang Jiang"
+    ],
+    "summary": "Nature Communications, Published online: 14 February 2026; <a href=\"https://www.nature.com/articles/s41467-026-69614-7\">doi:10.1038/s41467-026-69614-7</a>2D covalent organic frameworks usually possess a polycrystalline nature as well as lower porosity and surface area than 3D counterparts, limiting their gas storage application. Here, the authors report the formation of single-crystal 2D covalent organic frameworks isomers with atom-resolution structures for methane storage.",
+    "source": "Nature Communications",
+    "date": "2026-02-14",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-69430-z",
+    "title": "Blood-based epigenetic instability linked to human aging and disease",
+    "link": "https://www.nature.com/articles/s41467-026-69430-z",
+    "authors": [
+      "Salman Basrai",
+      "Ido Nofech-Mozes",
+      "Rajesh Detroja",
+      "Fernando L. Scolari",
+      "Mehran Bakhtiari",
+      "Andrea Arruda",
+      "Tracy Murphy",
+      "Scott V. Bratman",
+      "Steven M. Chan",
+      "Mark D. Minden",
+      "Jae Sook Ahn",
+      "Dennis D. H. Kim",
+      "Robert Kridel",
+      "Filio Billia",
+      "Sagi Abelson"
+    ],
+    "summary": "Nature Communications, Published online: 14 February 2026; <a href=\"https://www.nature.com/articles/s41467-026-69430-z\">doi:10.1038/s41467-026-69430-z</a>DNA methylation heterogeneity and dynamics hinder distinguishing early pathological changes from normal variation. Here, the authors identify stable sites whose disruption is linked to blood cancers, aging, and cardiovascular risk.",
+    "source": "Nature Communications",
+    "date": "2026-02-14",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-69188-4",
+    "title": "Large-array sub-millimeter precision coherent flash three-dimensional imaging",
+    "link": "https://www.nature.com/articles/s41467-026-69188-4",
+    "authors": [
+      "Bin Wang",
+      "Junze Tian",
+      "Jianwei Wang",
+      "Shukang Xu",
+      "Shuangxiang Zhao",
+      "Jianhao Duan",
+      "Weifeng Zhang",
+      "Yangyang Liu",
+      "Tao Zeng",
+      "Erke Mao"
+    ],
+    "summary": "Nature Communications, Published online: 14 February 2026; <a href=\"https://www.nature.com/articles/s41467-026-69188-4\">doi:10.1038/s41467-026-69188-4</a>A solid-state flash 3D imaging system is demonstrated using stepped-frequency modulation and CCD-based coherent detection, achieving submillimeter precision, long-range detection, and scalable pixel performance.",
+    "source": "Nature Communications",
+    "date": "2026-02-14",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-026-03297-2",
+    "title": "Seafloor geodetic evidence of slip deficit near the southwestern Kuril Trench",
+    "link": "https://www.nature.com/articles/s43247-026-03297-2",
+    "authors": [
+      "Fumiaki Tomita",
+      "Yusaku Ohta",
+      "Motoyuki Kido",
+      "Mako Ohzono",
+      "Hiroaki Takahashi",
+      "Ryota Hino",
+      "Takeshi Iinuma"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 14 February 2026; <a href=\"https://www.nature.com/articles/s43247-026-03297-2\">doi:10.1038/s43247-026-03297-2</a>Seafloor geodetic monitoring suggests the southwestern Kuril trench offshore Hokkaido, Japan, has accumulated substantial slip deficits through shallow plate interface coupling, which could indicate potential for a rare megathrust earthquake",
+    "source": "Communications Earth & Environment",
+    "date": "2026-02-14",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-026-03292-7",
+    "title": "Tripole-like Antarctic sea ice pattern linked to remote forcing from the Indian Ocean and Maritime Continent",
+    "link": "https://www.nature.com/articles/s43247-026-03292-7",
+    "authors": [
+      "Weihan Ma",
+      "Xiaojun Yuan",
+      "Yurong Hou",
+      "Kai Man",
+      "Yujie Miao",
+      "Li Zhang",
+      "Xichen Li"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 14 February 2026; <a href=\"https://www.nature.com/articles/s43247-026-03292-7\">doi:10.1038/s43247-026-03292-7</a>Antarctic sea-ice variability follows a seasonally shifting tripole pattern, which extends beyond the traditional dipole pattern and highlights key forcing from Indian Ocean-Maritime Continent Rossby wave trains, according to observation-based analyses and numerical experiments.",
+    "source": "Communications Earth & Environment",
+    "date": "2026-02-14",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-026-03300-w",
+    "title": "Elevated ilmenite in lunar nearside cumulates revealed by extremely high-Ti glass beads augmented large-scale volcanism",
+    "link": "https://www.nature.com/articles/s43247-026-03300-w",
+    "authors": [
+      "Ziqing Li",
+      "Bo Zhang",
+      "Yuqi Qian",
+      "James W. Head",
+      "Tao Long",
+      "Xiaochao Che"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 14 February 2026; <a href=\"https://www.nature.com/articles/s43247-026-03300-w\">doi:10.1038/s43247-026-03300-w</a>Lunar mare asymmetry could be explained by a higher nearside ilmenite content which would cause increased partial melting and volcanism relative to the farside, according to observations and petrological modelling of high-Ti glass impact beads in Chang’e-5 samples.",
+    "source": "Communications Earth & Environment",
+    "date": "2026-02-14",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-026-03289-2",
+    "title": "Light exposure patterns shape marine microbial biogeography and metabolic strategy",
+    "link": "https://www.nature.com/articles/s43247-026-03289-2",
+    "authors": [
+      "Shizheng Xiang",
+      "Guangyu Li",
+      "Yifei Huang",
+      "Linfeng Gong",
+      "Jianyang Li",
+      "Guizhen Li",
+      "Liping Wang",
+      "Wei Ye",
+      "Libo Yu",
+      "Zhen Chen",
+      "Hongchen Jiang",
+      "Zongze Shao"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 14 February 2026; <a href=\"https://www.nature.com/articles/s43247-026-03289-2\">doi:10.1038/s43247-026-03289-2</a>Localized light histories control energy-acquisition tactics in marine micro-organisms, according to analyses of isolated microbial strains from sites around the world.",
+    "source": "Communications Earth & Environment",
+    "date": "2026-02-14",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012825226000450",
+    "title": "Coastal changes in the low-latitude western North Pacific region",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012825226000450?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 13 February 2026<b>Source:</b> Earth-Science ReviewsAuthor(s): Haixian Xiong, Yongqiang Zong, Shuqing Fu",
+    "source": "ScienceDirect Publication: Earth-Science Reviews",
+    "date": "2026-02-15",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012821X2600066X",
+    "title": "Sediment-derived deep forearc fluid caused coupled sulfur-Fe<sup>3+</sup>-enrichment in eclogite from the subducted Farallon plate",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012821X2600066X?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: 15 April 2026<b>Source:</b> Earth and Planetary Science Letters, Volume 680Author(s): Sonja Aulbach, Johannes E. Pohlner, Richard A. Stern, Heidi E. Höfer, Daniel J. Schulze, Herwart Helmstaedt",
+    "source": "ScienceDirect Publication: Earth and Planetary Science Letters",
+    "date": "2026-02-15",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012821X26000841",
+    "title": "Corrigendum to “Origin of the mass-dependent germanium isotopic continuum in the early Solar System” [Earth Planet. Sci. Lett. 672 (2025) 119663]",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012821X26000841?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 13 February 2026<b>Source:</b> Earth and Planetary Science LettersAuthor(s): Béatrice Luais, Guillaume Florin",
+    "source": "ScienceDirect Publication: Earth and Planetary Science Letters",
+    "date": "2026-02-15",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL119055",
+    "title": "Modulation of the Mid‐Latitude Ionospheric Sporadic E Layer by the Northern Polar Vortex",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL119055?af=R",
+    "authors": [
+      "Tomoki Maeda, \nHuixin Liu, \nYosuke Yamazaki, \nLihui Qiu"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 4, 28 February 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-02-13",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL119733",
+    "title": "Landward Acceleration of Tropical Cyclones Making Landfall Along the South China Coast",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL119733?af=R",
+    "authors": [
+      "Quanjia Zhong, \nWansuo Duan, \nShifei Tu, \nYongjie Huang, \nJohnny C. L. Chan, \nRuiqiang Ding"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 4, 28 February 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-02-13",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL119273",
+    "title": "Seismoacoustic Analysis of Possible Vent‐Drying Sequence During Phreatomagmatic Activity on 13 July 2021 at Semisopochnoi Island, Alaska",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL119273?af=R",
+    "authors": [
+      "Dan Muramatsu, \nJohn J. Lyons, \nHannah R. Dietterich, \nMie Ichihara, \nAlexandra M. Iezzi"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 4, 28 February 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-02-13",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL120887",
+    "title": "Low Cloud Dispersion Effects by Anthropogenic Aerosols in Polluted Air",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL120887?af=R",
+    "authors": [
+      "Xiaomi Teng, \nLiang Xu, \nFan Zhang, \nYihan Cheng, \nMin Gao, \nXiyao Chen, \nJiefeng Li, \nShengzhen Zhou, \nShoujuan Shu, \nShupeng Zhu, \nDantong Liu, \nChuanfeng Zhao, \nJoseph Ching, \nWeijun Li"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 4, 28 February 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-02-13",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL119490",
+    "title": "Deep Convection‐Driven Downward Transport of Trace Gases and Aerosols From the Free Troposphere to the Boundary Layer",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL119490?af=R",
+    "authors": [
+      "Manisha Mehra, \nYang Wang, \nChanakya Bagya Ramesh, \nRuoyu Zhang, \nJiaoshi Zhang, \nScott E. Giangrande, \nJian Wang"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 4, 28 February 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-02-13",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL119629",
+    "title": "Solar‐Wind Triggering of Substorm Onset During the May 2024 Superstorm: Coordinated Global Observations and Simulations",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL119629?af=R",
+    "authors": [
+      "Yong Ren, \nMinghui Zhu, \nLei Dai, \nWalter Gonzalez, \nShan Wang, \nChi Wang, \nC. Philippe Escoubet, \nJiaojiao Zhang, \nQiugang Zong"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 4, 28 February 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-02-13",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL119355",
+    "title": "Climate Change Will Enhance Hypercapnic Hypoxia Threatening Mangrove Habitats",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL119355?af=R",
+    "authors": [
+      "Gloria M. S. Reithmaier, \nAriel K. Pezner, \nAdam Ulfsbo, \nFrank Melzner, \nIsaac R. Santos"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 4, 28 February 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-02-13",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025JB033350",
+    "title": "Dissolution and Flow Channeling in Hydrate‐Bearing Sediments: Implications for Permeability",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JB033350?af=R",
+    "authors": [
+      "Alejandro Cardona, \nYi Fang, \nDavid DiCarlo, \nPeter B. Flemings"
+    ],
+    "summary": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 2, February 2026.",
+    "source": "Wiley: Journal of Geophysical Research: Solid Earth: Table of Contents",
+    "date": "2026-02-13",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025JB032061",
+    "title": "Paleosecular Variations in the South Atlantic Anomaly Region Over 65–40 ka — Revisiting Site ODP 1233",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JB032061?af=R",
+    "authors": [
+      "Jiabo Liu, \nNorbert R. Nowaczyk, \nYuhao Huang, \nXin Luo, \nHuapei Wang, \nFei Han, \nYiming Ma, \nQingsong Liu"
+    ],
+    "summary": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 2, February 2026.",
+    "source": "Wiley: Journal of Geophysical Research: Solid Earth: Table of Contents",
+    "date": "2026-02-13",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2024JB030971",
+    "title": "Self‐Consistent Models of Earth's Mantle and Core From Long‐Period Seismic and Tidal Constraints",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2024JB030971?af=R",
+    "authors": [
+      "F. D. Munch, \nJ. Kemper, \nA. Khan, \nG. Helffrich, \nD. Giardini"
+    ],
+    "summary": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 2, February 2026.",
+    "source": "Wiley: Journal of Geophysical Research: Solid Earth: Table of Contents",
+    "date": "2026-02-13",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0016703726001043",
+    "title": "Corrigendum to “Experimental kinetic rate laws for aqueous pyrite reduction at underground hydrogen storage conditions (60–150 °C, up to 150 bar H<sub>2</sub>)”. [Geochim. Cosmochim. Ac. 414 (2026) 169–190]",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0016703726001043?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 13 February 2026<b>Source:</b> Geochimica et Cosmochimica ActaAuthor(s): Robin Hintzen, Roland Hellmann, Vladimir Roddatis, Julia van Winden, Laurent Truche",
+    "source": "ScienceDirect Publication: Geochimica et Cosmochimica Acta",
+    "date": "2026-02-15",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0016703726001055",
+    "title": "Continental weathering and redox dynamics modulated marine phosphorus availability during the Sturtian deglaciation",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0016703726001055?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 13 February 2026<b>Source:</b> Geochimica et Cosmochimica ActaAuthor(s): Ruru Li, Jun Hu, Sanzhong Li, Yuhao Li, Zheng Qin, Rui Dong, Huan Cui, Xueqi Liang, Kurt O. Konhauser",
+    "source": "ScienceDirect Publication: Geochimica et Cosmochimica Acta",
+    "date": "2026-02-15",
+    "sent": true
+  },
+  {
+    "id": "https://pubs.geoscienceworld.org/gsa/gsabulletin/article/doi/10.1130/B38113.1/725794/Outward-growth-of-the-NE-Tibetan-Plateau-Insights",
+    "title": "Outward growth of the NE Tibetan Plateau: Insights from the sedimentary record of the Jinta Basin in NW China",
+    "link": "https://pubs.geoscienceworld.org/gsa/gsabulletin/article/doi/10.1130/B38113.1/725794/Outward-growth-of-the-NE-Tibetan-Plateau-Insights",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\">Constraining when compressive tectonic stress began to affect the outermost frontier area of the NE Tibetan Plateau is crucial for determining whether the NE Tibetan Plateau was uplifted simultaneously with the India−Asia collision, or whether it underwent progressive northeastward expansion. The subsidence and infilling history of the peripheral basin between the NE Tibetan Plateau and the Beishan Block is the key to resolving this issue. We present the results of lithostratigraphic and magnetostratigraphic analyses from the sedimentary records of a 268-m-long drill core Liangjiazhuang from the Jinta Basin, located in the subsidence area between the tectonically active NE Tibetan Plateau and the relatively stable Beishan Block. Sedimentological and high-resolution magnetostratigraphic analyses show that sedimentation in the Jinta Basin began ca. 3.4 Ma. The sediment accumulation rate increased from 36 mm/k.y. to 114 mm/k.y., accompanied by sedimentary facies changes from braided river at the base to an ephemeral lake at ca. 3.0 Ma, then to a dryland river terminus system at ca. 1.7 Ma, and finally to a braided river again at ca. 1.2 Ma. Initial subsidence of the Jinta Basin began at ca. 3.4 Ma, indicating that the arid denudation plain was disrupted due to the northeastward tectonic propagation of the Tibetan Plateau. The late Pliocene global cooling enhanced the glacial erosion and frost-weathering, and thus supplied a large amount of sediments. Meanwhile, the related isostatic rebound of the Qilian Shan combined with the humid climate drove the long-distance transport of the coarse sediments to the Jinta Basin from ca. 3.4 Ma to 3.0 Ma. Between ca. 3.0 Ma and ca. 1.7 Ma, fine sediments deposited at a high accumulation rate indicates the uplift of the Jintanan Shan and the associated accelerated flexural subsidence of the Jinta Basin. From ca. 1.7 Ma to 0.8 Ma, the progradation of coarse sediments with low sediment accumulation rate indicates the basinward propagation of tectonic stress. The reoccurrence of coarse sediments with a high accumulation rate after ca. 0.8 Ma was forced by the climate oscillations after the mid-Pleistocene transition, which led to the large-scale erosion, transport, and redistribution of the previously deposited clastic materials from the piedmont of the North Qilian Shan and the Jiudong Basin to the downstream Jinta Basin. Consequently, the tectono-geomorphological evolution of the Jinta Basin supports the view of progressive northeastward growth of the Tibetan Plateau and highlights the interplay between tectonic and climatic forcing. Our findings provide a precise chronological framework and detailed records of basin formation and evolution for testing the plateau growth model. They provide a case study of the infilling and evolution of the peripheral basins at the outermost frontier of the NE Tibetan Plateau, as well as of the combined effects of tectonic activity, climate, and surface processes in shaping the regional landforms.</span>",
+    "source": "GSA Bulletin Advance Access",
+    "date": "2026-02-13",
+    "sent": true
+  },
+  {
+    "id": "https://pubs.geoscienceworld.org/gsa/gsabulletin/article/doi/10.1130/B38649.1/725793/Controls-on-magma-dynamics-and-emplacement-in",
+    "title": "Controls on magma dynamics and emplacement in shallow faulted sediments: Insights from the Cretaceous Armintza Sill (Basque-Cantabrian rift basin, western Pyrenees)",
+    "link": "https://pubs.geoscienceworld.org/gsa/gsabulletin/article/doi/10.1130/B38649.1/725793/Controls-on-magma-dynamics-and-emplacement-in",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\">Magmatic and clastic sills are common elements in rift sedimentary basins worldwide. Many documented magmatic sills are based on seismic interpretations, which, owing to limited resolution and imaging constraints, provide only partial insights into their emplacement mechanisms and magma dynamics. This contribution presents detailed field results from a 1.3-km-long coastal outcrop of a Cretaceous (Albian) igneous sill occurring in rifted sediments of the western Pyrenees. This sheet, previously interpreted as a lava flow, shows many diagnostic features that indicate it intruded in organic-rich wet sediments, constituting a sill (the Armintza Sill). Detailed mapping assisted by drone imagery of the sill, host succession, and preexisting faults shows that the sill is composed of magma fingers arranged in a fault-block pattern. Concordant magma fingers were emplaced by thermal fluidization of host sediment due to flash boiling of pore waters, aided by contact metamorphism-induced fluid generation and overpressuring. We suggest that fluid overpressure also caused transient uplift of the thin overburden, leading to the nucleation of inelastic damage along the preexisting faults, facilitating magma ascent up fault. Progressive up-fault verticalization of the σ<sub>3</sub> orientation and reduction of inelastic damage likely created a partial barrier near the upper part of the faults, leading to significant flow thickening, deceleration, and diversion. The similarity between these features of the Armintza Sill and those observed in lava flows that interacted with topographic obstacles is interpreted to be the result of near-zero effective stresses in the host sediments.</span>",
+    "source": "GSA Bulletin Advance Access",
+    "date": "2026-02-13",
+    "sent": true
+  },
+  {
+    "id": "https://pubs.geoscienceworld.org/gsa/gsabulletin/article/doi/10.1130/B38604.1/725792/Galena-geochemistry-as-recorder-of-and-pathfinder",
+    "title": "Galena geochemistry as recorder of and pathfinder for volcanogenic massive sulfide deposits: A case study of the Keketale volcanogenic massive sulfide−type Pb-Zn deposit, Altai Mountains",
+    "link": "https://pubs.geoscienceworld.org/gsa/gsabulletin/article/doi/10.1130/B38604.1/725792/Galena-geochemistry-as-recorder-of-and-pathfinder",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\">Galena is a common economic mineral, but galena geochemistry remains poorly understood in volcanogenic massive sulfide (VMS) deposits. This contribution attempts to characterize galena geochemistry and its controlling parameters, as well as assess its utility as an exploration indicator. Two generations of galena have been recognized in the Keketale VMS-type Pb-Zn deposit, Altai Mountains, i.e., syngenetic galena in massive sulfide mineralization and epigenetic galena in epigenetic superimposed mineralization. Syngenetic galena exhibits broad trace-element variations, whereas epigenetic galena compositions consistently overlap the syngenetic range. Despite metamorphism and remobilization, galena’s structural elements remain largely unmodified. It is inferred that almost all elements (Sb, Ag, As, Cu, Tl, etc.) are incorporated into galena by direct and/or coupled substitutions, though some elements (Zn, Cu, As, etc.) constitute the components of micro-inclusions. The trace-element composition of galena is principally governed by temperature and coexisting minerals (notably sphalerite and sulfosalts). The Pb isotopes of syngenetic and epigenetic galena define a mixing line between host sequences and concealed old crustal materials, indicating that metals were derived from strata that were successively leached by evolved seawater-derived and later metamorphic fluids, leading to syngenetic and epigenetic mineralization, respectively. Notably, galena proximal to the hydrothermal vent exhibits elevated Tl, Cd, and Sn contents, likely due to higher temperatures and fluid fluxes, and this trend potentially serves as a vectoring tool for locating mineralization centers. By integrating compiled galena datasets (<span style=\"font-style: italic;\">n</span> = 1066) with a random forest algorithm, different types of Pb-Zn deposits derived from contrasting fluids can likely be distinguished by galena geochemistry. Accordingly, both trained classifiers and the discrimination diagram (log[Tl] vs. log[Sn]) are proposed to facilitate the classification of unassigned Pb-Zn deposits. Briefly, this study refines current understanding of galena geochemical systematics in VMS deposits, providing insights that enhance both genetic interpretation and exploration strategies for VMS deposits.</span>",
+    "source": "GSA Bulletin Advance Access",
+    "date": "2026-02-13",
+    "sent": true
+  },
+  {
+    "id": "http://doi.org/10.1093/nsr/nwag111",
+    "title": "Bimodal iontronic skins powered by edge intelligence for real-time collaborative interaction",
+    "link": "https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwag111/8483908?rss=1",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\"><div class=\"boxTitle\">Abstract</div>Real-time sensing and processing of large-scale tactile information are crucial for enhancing the compliant interaction of embodied robots, especially in collaborative systems. However, existing robotic skin systems are limited by latency in high-throughput signal readout and intelligent reasoning, making robust real-time interaction challenging. Here, we present a flexible bimodal skin powered by edge intelligence, enabling real-time sensory perception, decision-making, and actuation based on large-area coverage. The modular bimodal skin integrates pressure and temperature sensors, providing full coverage on robotic arm with over 768 pressure and 75 temperature sensor units. A rapid, crosstalk-free readout interface is implemented using a frequency-encoding architecture. Furthermore, we develop a lightweight deep learning framework that enables real-time autonomous decision-making for the bimodal skin at the edge device. We demonstrate that our system facilitates smooth, adaptive interaction for individuals with mobility impairments, even under complex or emergency conditions. This technology opens a promising avenue for real-time perception and interaction in human-centered embodied robotics.</span>",
+    "source": "National Science Review Advance Access",
+    "date": "2026-02-14",
+    "sent": true
+  },
+  {
+    "id": "http://doi.org/10.1093/nsr/nwag107",
+    "title": "Visualization of oligomerization, clustering, and density transition of intrinsically disordered proteins",
+    "link": "https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwag107/8483906?rss=1",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\">This study directly visualizes how Intrinsically Disordered Proteins form condensates, revealing a multi-step nucleation process that begins with single molecules and proceeds through intermediate clusters and density transition.</span>",
+    "source": "National Science Review Advance Access",
+    "date": "2026-02-14",
+    "sent": true
+  },
+  {
+    "id": "http://doi.org/10.1093/nsr/nwag099",
+    "title": "A novel biomacromolecule-predominated hybrid unit: from design, characterization to application",
+    "link": "https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwag099/8483900?rss=1",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\"><div class=\"boxTitle\">Abstract</div>Current biomaterial designs struggle with complex clinical and life science demands as single-function approaches are increasingly inadequate, necessitating the systematic integration of four core elements: biosafety, physiological compatibility, biomechanical matching, and biocatalytic function across hierarchical levels. This study addresses this challenge by introducing a novel strategy using natural biomacromolecules to construct microscopic organic-inorganic hybrid units. A comprehensive characterization paradigm employing synchrotron SAXS, IR-AFM and high-resolution TEM was established to reveal emergent hybrid properties. Systematic characterization results demonstrate that the physicochemical properties of these hybrid units more closely resemble polymers than traditional nanomaterials. We introduced the classical polymer blob model to reveal the effects of the hybridization process on the rigidity/flexibility of the polymer chains. Combined characterization results confirmed that the hybrid units possess stable interfaces, bioinspired crosslinking, synergistic high enzyme-like activity with low toxicity, and broad pH tolerance. Multifunctional nanohybrid hydrogel fabricated with these hybrid units significantly enhances mammalian cell synthesis of high-quality PD-L1 protein with efficiency improved by nearly an order of magnitude and effectively protects skin organoids from damage caused by exogenous ROS. Integrated multi-omics analysis demonstrates the hydrogel modulates cell–cell/matrix interactions <span style=\"font-style: italic;\">via</span> mechano-bioinspiration, boosts endoplasmic reticulum protein processing, and ameliorates hypoxia to enhance mitochondrial respiration (without active oxygen supply), achieving systematic integration of biocompatibility, biomechanics, biocatalysis and physiological environment compatibility. The study also demonstrates the potential of hybrid units in applications such as hydrogel-derived optical fiber fabrication, 3D bio-printing and <span style=\"font-style: italic;\">in vitro</span> advanced cell culture models.</span>",
+    "source": "National Science Review Advance Access",
+    "date": "2026-02-14",
+    "sent": true
+  },
+  {
+    "id": "http://doi.org/10.1093/nsr/nwag106",
+    "title": "High thermal conductivity in metallic θ-TaN single crystals",
+    "link": "https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwag106/8483893?rss=1",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\"><div class=\"boxTitle\">Abstract</div>Metallic materials are critical in integrated circuits as they not only deliver power but also dissipate heat. However, their performance is constrained as metals’ thermal conductivity is capped with a value of about 400 W m<sup>-1</sup> K<sup>-1</sup>. Here, we shatter this long-standing ceiling by high-pressure synthesis of the metallic hexagonal tantalum mononitride (<span style=\"font-style: italic;\">θ</span>-TaN) single crystal with ultrahigh thermal conductivity. The <span style=\"font-style: italic;\">θ</span>-TaN single crystal exhibits a room-temperature thermal conductivity of 502 W m<sup>-1</sup> K<sup>-1</sup>, exceeding the conventional upper limit for metallic thermal conductors, despite the presence of a substantial concentration of nitrogen vacancies. Our findings identify a clear pathway for further enhancing the thermal conductivity through minimizing vacancy concentration in <span style=\"font-style: italic;\">θ</span>-TaN. This work establishes <span style=\"font-style: italic;\">θ</span>-TaN as a highly promising candidate for advanced thermal management applications and introduces a new approach for designing metallic conductors to surpass conventional limits.</span>",
+    "source": "National Science Review Advance Access",
+    "date": "2026-02-14",
+    "sent": true
+  },
+  {
+    "id": "http://doi.org/10.1093/nsr/nwag108",
+    "title": "Towards a sustainable high-quality materials data ecosystem: frameworks and strategies",
+    "link": "https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwag108/8483891?rss=1",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\"><div class=\"boxTitle\">Abstract</div>High-quality data has increasingly been recognized as a critical catalyst in advancing artificial intelligence-driven materials discovery and design. However, the current data generation and management systems in materials science are often deficient, resulting in an abundance of low-quality data characterized by heterogeneous formats, incomplete entries, and semantic inconsistencies. Such fragmented data landscape limits direct access to reliable datasets, making it inevitable to allocate substantial resources toward data consolidation and governing existing data. Here, we propose a comprehensive quality-controlled framework encompassing all three principal stages of the research lifecycle—acquisition, management, and utilization. By establishing stage-specific requirements, materials data quality can be concurrently optimized and enhanced throughout the materials research and development process. Furthermore, we propose five strategic initiatives to operationalize this framework, including an integrated computational-experimental ‘data factory’ for data acquisition and an automated toolkit for data quality assessment. This work aims to embed quality-governed production directly into scientific inquiry, fostering a sustainable and robust materials data ecosystem.</span>",
+    "source": "National Science Review Advance Access",
+    "date": "2026-02-14",
+    "sent": true
+  },
+  {
+    "id": "http://doi.org/10.1093/nsr/nwag112",
+    "title": "Breaking the external pressure-dependent paradigm in all-solid-state batteries",
+    "link": "https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwag112/8483884?rss=1",
+    "authors": [],
+    "summary": "",
+    "source": "National Science Review Advance Access",
+    "date": "2026-02-14",
+    "sent": true
+  },
+  {
     "id": "https://www.nature.com/articles/d41586-026-00476-1",
     "title": "Briefing Chat: Caffeine slows brain ageing, suggests decades of data",
     "link": "https://www.nature.com/articles/d41586-026-00476-1",
