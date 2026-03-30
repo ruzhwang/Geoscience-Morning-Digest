@@ -1,5 +1,633 @@
 [
   {
+    "id": "https://www.nature.com/articles/s41467-026-71232-2",
+    "title": "Cardiomyocyte-derived GPX4 stabilizes BNIP3 to facilitate mitophagy and mitigate myocardial ischemia/reperfusion injury",
+    "link": "https://www.nature.com/articles/s41467-026-71232-2",
+    "authors": [
+      "Lingfeng Zhong",
+      "Zhenfeng Cheng",
+      "Yucong Zhang",
+      "Xiaoxi Fan",
+      "Yixin Zhou",
+      "Fan Yu",
+      "Ruihan Zheng",
+      "Derong Chen",
+      "Keke Ye",
+      "Jiahui Lin",
+      "Xi Chen",
+      "Zhouqing Huang",
+      "Chan Chen",
+      "Deling Yin",
+      "Weijian Huang",
+      "Bozhi Ye"
+    ],
+    "summary": "Nature Communications, Published online: 29 March 2026; <a href=\"https://www.nature.com/articles/s41467-026-71232-2\">doi:10.1038/s41467-026-71232-2</a>The study reveals that GPX4 protects against myocardial ischemia/reperfusion injury by maintaining mitochondrial quality control. By stabilizing BNIP3 through USP20, GPX4 enhances mitophagy and reduces cardiac damage.",
+    "source": "Nature Communications",
+    "date": "2026-03-29",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-71229-x",
+    "title": "Exploring how deep learning decodes anomalous diffusion via Grad-CAM",
+    "link": "https://www.nature.com/articles/s41467-026-71229-x",
+    "authors": [
+      "Jaeyong Bae",
+      "Yongjoo Baek",
+      "Hawoong Jeong"
+    ],
+    "summary": "Nature Communications, Published online: 29 March 2026; <a href=\"https://www.nature.com/articles/s41467-026-71229-x\">doi:10.1038/s41467-026-71229-x</a>Using Grad-CAM with ResNets, this study probes how deep learning classifies anomalous diffusion from raw trajectories. The method reveals trajectory segments and multiscale features driving predictions, improving interpretability and robustness to measurement noise.",
+    "source": "Nature Communications",
+    "date": "2026-03-29",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-71055-1",
+    "title": "Multi-field coupling enhanced plasmonic Mo<sup>δ+</sup> active site to efficiently hydrolyze ammonia borane",
+    "link": "https://www.nature.com/articles/s41467-026-71055-1",
+    "authors": [
+      "Pengcheng Li",
+      "Nengrong Tu",
+      "Yang Yang",
+      "Junxiang Li",
+      "Huilin Hou",
+      "Dongjiang Yang",
+      "Weiyou Yang"
+    ],
+    "summary": "Nature Communications, Published online: 29 March 2026; <a href=\"https://www.nature.com/articles/s41467-026-71055-1\">doi:10.1038/s41467-026-71055-1</a>The authors find that reconstructing the Moδ+ active site via multi-field coupling effectively boosts ammonia borane hydrolysis. They provide key insights into the plasmon polarization-induced carrier kinetics and hydrolysis mechanism.",
+    "source": "Nature Communications",
+    "date": "2026-03-29",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-71119-2",
+    "title": "Phosphorylation of SF3B1 by CDK11 orchestrates spliceosome activation via SNIP1-dependent RES complex recruitment",
+    "link": "https://www.nature.com/articles/s41467-026-71119-2",
+    "authors": [
+      "Pavla Gajdušková",
+      "Igor Ruiz de Los Mozos",
+      "Milan Hluchý",
+      "Antonina Myšková",
+      "Kateřina Zábrady",
+      "Peter Maník",
+      "Neda Dragišić",
+      "Kateřina Hanáková",
+      "David Potěšil",
+      "Sara Bologna",
+      "Jiří Nováček",
+      "Caroline C. Friedel",
+      "Konstantinos Tripsianes",
+      "Zbyněk Zdráhal",
+      "Dalibor Blazek"
+    ],
+    "summary": "Nature Communications, Published online: 29 March 2026; <a href=\"https://www.nature.com/articles/s41467-026-71119-2\">doi:10.1038/s41467-026-71119-2</a>Cells rely on tightly controlled RNA splicing to ensure proper gene expression. Here, the authors show that CDK11-driven phosphorylation of SF3B1 recruits SNIP1 and the RES complex to activate the spliceosome, uncovering a signaling pathway essential for accurate splicing, cell survival, and disease prevention.",
+    "source": "Nature Communications",
+    "date": "2026-03-29",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-71194-5",
+    "title": "Modulating nuclear stiffness and envelope barrier facilitates AAV nuclear entry and reduces immunogenicity",
+    "link": "https://www.nature.com/articles/s41467-026-71194-5",
+    "authors": [
+      "Yangsen Ou",
+      "Fuhua Wu",
+      "Chunting He",
+      "Shuang Luo",
+      "Zhaofei Guo",
+      "Yongshun Zhang",
+      "Rui Hu",
+      "Yanhua Xu",
+      "Xue Tang",
+      "Yuanhao Zhao",
+      "Lin Ye",
+      "Xiaoyan Chen",
+      "Shuting Bai",
+      "Guangsheng Du",
+      "Xun Sun"
+    ],
+    "summary": "Nature Communications, Published online: 28 March 2026; <a href=\"https://www.nature.com/articles/s41467-026-71194-5\">doi:10.1038/s41467-026-71194-5</a>Low efficiency and immunotoxicity limit rAAVs clinical use. Here, the authors show that encapsulating rapamycin in PF127 micelles modulates cellular biomechanics, enhancing AAV-mediated gene transfer while reducing immunogenicity demonstrating application in osteoimmunological disorders.",
+    "source": "Nature Communications",
+    "date": "2026-03-28",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-71246-w",
+    "title": "Cartilage targeting hydrogel nanoplatform degrades BRD4 to alleviate osteoarthritis via Nav1.7 axis",
+    "link": "https://www.nature.com/articles/s41467-026-71246-w",
+    "authors": [
+      "Qirui Zhao",
+      "Tongtong Xu",
+      "Zuchao Du",
+      "Xiaoqing Lu",
+      "Yan Zhang",
+      "Linjia Peng",
+      "Zixuan Gao",
+      "Weicheng Wang",
+      "Binyu Zhu",
+      "Zhigang Liu",
+      "Guangjie Yang",
+      "Hui Zhao",
+      "Zhiming Song",
+      "Qiankun Lou",
+      "Jiaming Li",
+      "Zhiguang Ren",
+      "Zhe Yu",
+      "Wei Wang",
+      "Yanlei Liu",
+      "Hui Liang",
+      "Jesus M. de la Fuente",
+      "Daxiang Cui"
+    ],
+    "summary": "Nature Communications, Published online: 28 March 2026; <a href=\"https://www.nature.com/articles/s41467-026-71246-w\">doi:10.1038/s41467-026-71246-w</a>Osteoarthritis is driven by epigenetic dysregulation, yet targeted therapies remain elusive. Here, the authors develop a cartilage-targeting hydrogel delivering BRD4-degrading PROTACs to suppress the BRD4- Nav1.7 axis and alleviate osteoarthritis.",
+    "source": "Nature Communications",
+    "date": "2026-03-28",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-70423-1",
+    "title": "Accumulation of virtual tokens towards a jackpot reward enhances performance and value encoding in dorsal anterior cingulate cortex",
+    "link": "https://www.nature.com/articles/s41467-026-70423-1",
+    "authors": [
+      "Demetrio Ferro",
+      "Habiba Azab",
+      "Benjamin Y. Hayden",
+      "Rubén Moreno-Bote"
+    ],
+    "summary": "Nature Communications, Published online: 28 March 2026; <a href=\"https://www.nature.com/articles/s41467-026-70423-1\">doi:10.1038/s41467-026-70423-1</a>Decision-making is influenced by subjective reference points. Here, choices are framed as potential gains or losses relative to a cumulative token count, revealing a gain-related substrate of reference-dependency in dorsal anterior cingulate cortex.",
+    "source": "Nature Communications",
+    "date": "2026-03-28",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-71107-6",
+    "title": "In-situ growth of biomimetic ion-selective membranes via confined molecular encapsulation for superior fluoride/chloride separation",
+    "link": "https://www.nature.com/articles/s41467-026-71107-6",
+    "authors": [
+      "Qian Chen",
+      "Mei-Ling Liu",
+      "Sheng Jiang",
+      "Yu-Tong Zhang",
+      "Yue-Wen Jia",
+      "Wei-Xing Li",
+      "Shi-Peng Sun",
+      "Weihong Xing"
+    ],
+    "summary": "Nature Communications, Published online: 28 March 2026; <a href=\"https://www.nature.com/articles/s41467-026-71107-6\">doi:10.1038/s41467-026-71107-6</a>A “confined molecular encapsulation” strategy enables one-step fabrication of biomimetic ion-selective membranes. The in-situ formed MOFs with tunable sizes facilitate highly precise ion differentiation.",
+    "source": "Nature Communications",
+    "date": "2026-03-28",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-026-03431-0",
+    "title": "Biomass burning increase in Southeast Asia is dominated by char black carbon",
+    "link": "https://www.nature.com/articles/s43247-026-03431-0",
+    "authors": [
+      "Wenhuai Song",
+      "Ying Zhang",
+      "Meng Gao",
+      "Feng Xie",
+      "Fang Cao",
+      "Martin Rauber",
+      "Sawaeng Kawichai",
+      "Tippawan Prapamontol",
+      "Sönke Szidat",
+      "Yiran Peng",
+      "Gregory R. Carmichael",
+      "Yan-Lin Zhang"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 28 March 2026; <a href=\"https://www.nature.com/articles/s43247-026-03431-0\">doi:10.1038/s43247-026-03431-0</a>Over 90% of the biomass burning-related black carbon in Southeast Asia is char, leading to models overestimating absorption, according to thermal-optical analysis and radiocarbon source attribution of black carbon particles in Southeast Asia.",
+    "source": "Communications Earth & Environment",
+    "date": "2026-03-28",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-026-03439-6",
+    "title": "Synergistic reductions in fine particles and fossil fuel carbon dioxide revealed by tree-ring radiocarbon analysis",
+    "link": "https://www.nature.com/articles/s43247-026-03439-6",
+    "authors": [
+      "Yao Qu",
+      "Zhenchuan Niu",
+      "Weijian Zhou",
+      "Yunfei Huang",
+      "Sen Wang",
+      "Xue Feng",
+      "Guiqian Zhang",
+      "Xuefeng Lu",
+      "Jocelyn C. Turnbull",
+      "Xiangrui Kong"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 28 March 2026; <a href=\"https://www.nature.com/articles/s43247-026-03439-6\">doi:10.1038/s43247-026-03439-6</a>From the early 2010s to 2021, fine particles and fossil-fuel carbon dioxide in two Chinese cities declined, showing national clean-air policies improved both climate and air quality, according to tree-ring radiocarbon and urban air pollutant datasets",
+    "source": "Communications Earth & Environment",
+    "date": "2026-03-28",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012825226000930",
+    "title": "Global guardians of the desert: The unseen world of soil nematodes in Earth's most extreme ecosystems",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012825226000930?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 28 March 2026<b>Source:</b> Earth-Science ReviewsAuthor(s): Waqar Islam, Fanjiang Zeng, Mohammed O. Alshaharni, Zhang Zhihao",
+    "source": "ScienceDirect Publication: Earth-Science Reviews",
+    "date": "2026-03-30",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012825226000917",
+    "title": "Lithospheric and atmospheric state shifts controlled the global distribution of iron oxide-apatite (IOA) deposits",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012825226000917?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 27 March 2026<b>Source:</b> Earth-Science ReviewsAuthor(s): Shengchao Yan, Bo Wan, John Mavrogenes, Ulf B. Andersson",
+    "source": "ScienceDirect Publication: Earth-Science Reviews",
+    "date": "2026-03-30",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012821X26001858",
+    "title": "Corrigendum to Gravity-driven fold-thrust belt at the Martian dichotomy Earth Planet. Sci. Lett. 671 (2025) 119645",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012821X26001858?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: 15 June 2026<b>Source:</b> Earth and Planetary Science Letters, Volume 684Author(s): F. Carboni, O. Karagoz, J.B. Ruh, T. Kenkmann",
+    "source": "ScienceDirect Publication: Earth and Planetary Science Letters",
+    "date": "2026-03-30",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012821X2600186X",
+    "title": "Influence of effective normal stress on frictional behavior of granitic faults under hydrothermal conditions",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012821X2600186X?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: 15 June 2026<b>Source:</b> Earth and Planetary Science Letters, Volume 684Author(s): Gang Song, Lu Yao, Tao Yang, Shengli Ma",
+    "source": "ScienceDirect Publication: Earth and Planetary Science Letters",
+    "date": "2026-03-30",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012821X26001925",
+    "title": "From dry to damp lunar mantle: How trace water in orthopyroxene reshapes the internal thermal state of the Moon",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012821X26001925?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: 15 June 2026<b>Source:</b> Earth and Planetary Science Letters, Volume 684Author(s): Xinxin Yan, Xinzhuan Guo, Yun Zhou, Yuping Song, Qingshan Zhang, Meng Lv",
+    "source": "ScienceDirect Publication: Earth and Planetary Science Letters",
+    "date": "2026-03-30",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012821X26001950",
+    "title": "The molybdenum isotope composition of the Bulk Silicate Earth constrained from molybdenites and its implications for the nature of late-stage building blocks",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012821X26001950?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: 15 June 2026<b>Source:</b> Earth and Planetary Science Letters, Volume 684Author(s): Yao Sun, Jonas Tusch, Xiaorui Fan, Jifeng Xu, Chao Li, Kristoffer Szilas, Carsten Münker, Jingao Liu, Mario Fischer-Gödde",
+    "source": "ScienceDirect Publication: Earth and Planetary Science Letters",
+    "date": "2026-03-30",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012821X26001895",
+    "title": "Melting from 1000°C and geophysical discontinuities in the shallow Earth’s mantle",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012821X26001895?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: 15 June 2026<b>Source:</b> Earth and Planetary Science Letters, Volume 684Author(s): Emmanuel Gardés, Mickael Laumonier, Tahar Hammouda, Geeth Manthilake",
+    "source": "ScienceDirect Publication: Earth and Planetary Science Letters",
+    "date": "2026-03-30",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL122066",
+    "title": "Submesoscale Eddies Buffer the Atlantic Niño/Niña Weakening Under Greenhouse Warming",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL122066?af=R",
+    "authors": [
+      "Shengpeng Wang, \nYushan Qu, \nYun Yang, \nZhao Jing, \nHong Wang, \nYuhu Chen, \nLixin Wu"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 7, 16 April 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-03-28",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL119816",
+    "title": "Unstable Drainage Dynamics During Multiphase Flow Across Capillary Heterogeneities",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL119816?af=R",
+    "authors": [
+      "C. Harris, \nS. Krevor, \nA. H. Muggeridge, \nM. Camilleri, \nS. J. Jackson"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 7, 16 April 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-03-28",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL120486",
+    "title": "A Within Canopy Deposition Model Capturing the Influence of Microplastic Size, Biological Cohesion, and Vegetation‐Generated Turbulence",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL120486?af=R",
+    "authors": [
+      "Hyoungchul Park, \nHeidi Nepf"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 7, 16 April 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-03-28",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL120355",
+    "title": "A Machine Learning‐Based High‐Resolution Inventory of Soil Inorganic Carbon Across the Contiguous United States",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL120355?af=R",
+    "authors": [
+      "Zahra Ghahremani, \nDavid Huber, \nArash Modaresi Rad, \nMike J. Johnson, \nJennifer Pierce"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 7, 16 April 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-03-28",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL121876",
+    "title": "Daytime Ionospheric Density Enhancement Driven by Poleward Neutral Wind Shear Associated With Gravity Waves During the November 2025 Geomagnetic Storm",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL121876?af=R",
+    "authors": [
+      "Qi Jiang, \nJiuhou Lei, \nZhongli Li, \nFuqing Huang, \nRong Xia, \nTong Dang, \nXinan Yue, \nXiaoli Luan"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 7, 16 April 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-03-28",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL120021",
+    "title": "Rapid Land Surface Uplift and Groundwater Recovery Observed During the Syrian War",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL120021?af=R",
+    "authors": [
+      "Saeed Mhanna, \nLandon J. S. Halloran, \nYves Tille, \nAhmed Haj Asaad, \nFrancois Zwahlen, \nPhilip Brunner"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 7, 16 April 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-03-28",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL119319",
+    "title": "Hydro‐Mechanical Controls on Swarm Recurrence on the Westernmost Gofar Transform Fault, East Pacific Rise",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL119319?af=R",
+    "authors": [
+      "Lintong Jiang, \nShihuai Zhang, \nXiaying Li"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 7, 16 April 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-03-27",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL120588",
+    "title": "Impacts of Carbon Dioxide Deposition on Martian Near‐Surface Wave Activity",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL120588?af=R",
+    "authors": [
+      "Hung Kwan Fok, \nAnthony Toigo, \nDarryn Waugh"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 7, 16 April 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-03-27",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL121618",
+    "title": "Sulfur‐Bearing hcp Iron for Earth's Inner Core",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL121618?af=R",
+    "authors": [
+      "Emiko Sugimura‐Komabayashi, \nSamuel Thompson, \nTetsuya Komabayashi, \nDamien Freitas, \nMark Robertson, \nNico Giordano, \nAnna Pakhomova, \nHanns‐Peter Liermann"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 7, 16 April 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-03-27",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL120357",
+    "title": "Regional‐to‐Global Tectonic and Trench‐Morphology Effects of Oceanic Plateau Subduction",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL120357?af=R",
+    "authors": [
+      "Yang Liu, \nNicolas Coltice, \nLaetitia Le Pourhiet, \nZiyin Wu"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 7, 16 April 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-03-27",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL119635",
+    "title": "Incorporating Particle Settling Enhancement in a Coarse‐Mode Deposition Model",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL119635?af=R",
+    "authors": [
+      "Andrew P. Grace, \nDavid Richter"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 7, 16 April 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-03-27",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL118718",
+    "title": "Coupled Space Weathering: Nanophase Iron Formation by Micrometeoroid Impact and Solar Wind Sputtering",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL118718?af=R",
+    "authors": [
+      "Ziyu Huang, \nMasatoshi Hirabayashi"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 7, 16 April 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-03-27",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL120804",
+    "title": "Pollution‐Clearing Induced Fog Suppression Even Under Extremely Humid Conditions Over North China Plain During 2013–2024",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL120804?af=R",
+    "authors": [
+      "Taomou Zong, \nZhijun Wu, \nTeng Liu, \nXiaofan Wang, \nWenxu Fang, \nMin Hu"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 7, 16 April 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-03-27",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL120956",
+    "title": "Foreshock Migration Preceding the 2025 Mw 8.8 Kamchatka Earthquake: Insights From Single‐Station Observations",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL120956?af=R",
+    "authors": [
+      "Ji Zhang, \nAitaro Kato, \nWei Wang, \nMiao Zhang"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 7, 16 April 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-03-27",
+    "sent": true
+  },
+  {
+    "id": "10.1029/grl.72340",
+    "title": "Issue Information",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/grl.72340?af=R",
+    "authors": [
+      null
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 7, 16 April 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-03-27",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL119871",
+    "title": "Multi‐Centennial Variability of the Afro‐Asian Monsoon Linked to Atlantic Meridional Overturning Circulation",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL119871?af=R",
+    "authors": [
+      "Jiazhi He, \nWeiyi Sun, \nBin Wang, \nJian Liu, \nDeliang Chen, \nLiang Ning, \nJuan Li, \nBo Lu, \nBin Liu"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 7, 16 April 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-03-27",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GC012821",
+    "title": "Crustal Magma Storage and Plumbing System Beneath the Tianchi and Wangtian'e Volcanoes, Changbaishan Intraplate Volcanic Field, China and North Korea",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GC012821?af=R",
+    "authors": [
+      "Xiaomeng Niu, \nXingli Fan, \nXin Wang, \nQi‐Fu Chen, \nYanru An, \nDaining Yang, \nYunjie Ji, \nYuhan Ding, \nJianhong Kang, \nSheng Guan"
+    ],
+    "summary": "Geochemistry, Geophysics, Geosystems, Volume 27, Issue 4, April 2026.",
+    "source": "Wiley: Geochemistry, Geophysics, Geosystems: Table of Contents",
+    "date": "2026-03-27",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025JB032422",
+    "title": "Global Primary and Secondary Microseism Multi‐Decade Geographic Variation, Secular Intensification, and Period Lengthening",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JB032422?af=R",
+    "authors": [
+      "Richard C. Aster, \nThomas A. Lee, \nFrederik J. Simons, \nAdam T. Ringler, \nRobert E. Anthony"
+    ],
+    "summary": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 4, April 2026.",
+    "source": "Wiley: Journal of Geophysical Research: Solid Earth: Table of Contents",
+    "date": "2026-03-28",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025JB033633",
+    "title": "Rift‐Induced Repositioning of Mantle Plumes Beneath the Indian Lithosphere: Implications for Deccan Volcanism",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JB033633?af=R",
+    "authors": [
+      "Dip Ghosh, \nJoyjeet Sen, \nNibir Mandal"
+    ],
+    "summary": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 4, April 2026.",
+    "source": "Wiley: Journal of Geophysical Research: Solid Earth: Table of Contents",
+    "date": "2026-03-28",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025JB033101",
+    "title": "Mantle Dynamic Topography of the Fringing Oceanic Basins of Antarctica",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JB033101?af=R",
+    "authors": [
+      "A. C. A. Dunn, \nN. J. White, \nR. Larter, \nP. L. Slay, \nM. C. Holdt"
+    ],
+    "summary": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 4, April 2026.",
+    "source": "Wiley: Journal of Geophysical Research: Solid Earth: Table of Contents",
+    "date": "2026-03-28",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025JB031725",
+    "title": "Robust Directional Analysis of Magnetic Microscopy Images Using Non‐Linear Inversion and Iterative Euler Deconvolution",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JB031725?af=R",
+    "authors": [
+      "Gelson F. Souza‐Junior, \nLeonardo Uieda, \nRicardo I. F. Trindade, \nRoger R. Fu, \nUalisson D. Bellon, \nYago M. Castro"
+    ],
+    "summary": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 4, April 2026.",
+    "source": "Wiley: Journal of Geophysical Research: Solid Earth: Table of Contents",
+    "date": "2026-03-27",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025JB033434",
+    "title": "Measurement of Phase Velocity and Ellipticity of Multi‐Mode Surface Waves by Beamforming Multi‐Component Ambient Seismic Noise",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JB033434?af=R",
+    "authors": [
+      "Tongwei Qin, \nYouyuan Zhang, \nShanshan Jia, \nLaiyu Lu"
+    ],
+    "summary": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 4, April 2026.",
+    "source": "Wiley: Journal of Geophysical Research: Solid Earth: Table of Contents",
+    "date": "2026-03-27",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025JB031768",
+    "title": "Northeastern Greenland Paleomagnetic Records Indicate the Influence of Geomagnetic Flux Lobe Intensity on Virtual Geomagnetic Pole Migration During the Holocene",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JB031768?af=R",
+    "authors": [
+      "Juliette Girard, \nGuillaume St‐Onge, \nChristof Pearce, \nFrance Lagroix, \nMarit‐Solveig Seidenkrantz, \nKatrine Juul Andresen, \nJean‐Carlos Montero‐Serrano, \nPierre Francus"
+    ],
+    "summary": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 4, April 2026.",
+    "source": "Wiley: Journal of Geophysical Research: Solid Earth: Table of Contents",
+    "date": "2026-03-27",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0016703726002115",
+    "title": "The effects of magmatic recharge on primary lunar melt compositions: Implications for the water and other volatile budget of the Moon",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0016703726002115?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 28 March 2026<b>Source:</b> Geochimica et Cosmochimica ActaAuthor(s): Dian Ji, Rajdeep Dasgupta, Cin-Ty Lee",
+    "source": "ScienceDirect Publication: Geochimica et Cosmochimica Acta",
+    "date": "2026-03-30",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0016703726002127",
+    "title": "Rare earth element geochemistry in saline alkaline lakes from the East African Rift, Kenya: the case of the “missing” Ce anomaly",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0016703726002127?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 28 March 2026<b>Source:</b> Geochimica et Cosmochimica ActaAuthor(s): Lukas Klose, Timmu Kreitsmann, Lydia A. Olaka, Moses O. Misongo, Michael Bau",
+    "source": "ScienceDirect Publication: Geochimica et Cosmochimica Acta",
+    "date": "2026-03-30",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0016703726002097",
+    "title": "Controls on the cadmium isotopic compositions of marine sediments in the oligotrophic Western Pacific",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0016703726002097?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 27 March 2026<b>Source:</b> Geochimica et Cosmochimica ActaAuthor(s): Zheyuan Zhang, Tao Li, Tianyu Chen, Gang Yang, Jianfan Zheng, Yanguang Liu",
+    "source": "ScienceDirect Publication: Geochimica et Cosmochimica Acta",
+    "date": "2026-03-30",
+    "sent": true
+  },
+  {
+    "id": "https://pubs.geoscienceworld.org/gsa/geology/article/doi/10.1130/G54158.1/727953/An-ancient-sandstorm-recorded-by-supercritical",
+    "title": "An ancient sandstorm recorded by supercritical climbing wind ripple strata in Gale crater, Mars",
+    "link": "https://pubs.geoscienceworld.org/gsa/geology/article/doi/10.1130/G54158.1/727953/An-ancient-sandstorm-recorded-by-supercritical",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\">Direct evidence of isolated transient atmospheric events are rarely preserved in the geological record, yet when observed can provide valuable insight into ancient atmospheric and sediment transport processes. Climbing wind ripple strata (specifically termed supercritical climbing translatent strata) were identified for the first time on Mars by the Curiosity rover within a sequence of aeolian strata in Gale crater. Here, six interstratified packages of climbing and planar wind ripple strata are described and interpreted. They resulted from fluctuating wind speed that varied sediment transport rates, combined with flow separation and expansion associated with a leeward slope. These conditions caused rapid deposition of sediment onto migrating wind ripples, occasionally resulting in supercritical angles of climb, recording gusting winds that originated from the south. Interstratified packages of climbing wind ripple strata uniquely record a broader sustained event such as a sandstorm, potentially lasting several hours or more.</span>",
+    "source": "Geology Advance Access",
+    "date": "2026-03-27",
+    "sent": true
+  },
+  {
+    "id": "https://pubs.geoscienceworld.org/gsa/geology/article/doi/10.1130/G54183.1/727952/Contourite-deposits-reveal-late-Paleocene-to-early",
+    "title": "Contourite deposits reveal late Paleocene to early Eocene deepwater circulation in the Norwegian-Greenland Sea",
+    "link": "https://pubs.geoscienceworld.org/gsa/geology/article/doi/10.1130/G54183.1/727952/Contourite-deposits-reveal-late-Paleocene-to-early",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\">The history of deep-water circulation between the Norwegian-Greenland Sea (NGS) and the North Atlantic Ocean is poorly constrained for the Paleocene to early Eocene—a period characterized by prolonged rifting and subsequent seafloor spreading. We integrate seismic stratigraphy and biostratigraphy from the NGS to demonstrate several phases of bottom-current erosion and deposition, indicating deepwater circulation before and during breakup. A confined contourite depositional system developed in the central NGS during the late Paleocene. This phase was followed by an ∼2 m.y. period of reduced circulation in the earliest Eocene, when a volcanic landmass restricted the marine connections to the North Atlantic. Renewed bottom-current activity in the earliest Eocene led to widespread contourite deposition along an ∼350 km stretch of the western NGS. This circulation system consisted of a southward-flowing western branch and a northward-flowing eastern branch, resembling Neogene to modern circulation patterns. Our results indicate that bottom-current activity predates previous records of contourite drift deposits in the NGS, and that the timing and distribution of contourite deposition were strongly controlled by the evolving basin configuration. We link early Eocene deepwater circulation to the formation of new seaways during breakup and seafloor spreading, rather than bathymetric changes of distant ocean gateways. These results have important implications for basin segmentation during the rift-to-drift transition and for reconstructing early deepwater exchange between the NGS and the North Atlantic.</span>",
+    "source": "Geology Advance Access",
+    "date": "2026-03-27",
+    "sent": true
+  },
+  {
+    "id": "http://doi.org/10.1093/nsr/nwag200",
+    "title": "DISC1 mutant macaques capture behavioral and neural hallmarks of psychiatric disease",
+    "link": "https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwag200/8554179?rss=1",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\"><div class=\"boxTitle\">Abstract</div>Schizophrenia is a devastating and complex neurological disorder with poorly understood neurodevelopmental origins. Current rodent models often fail to fully capture human symptomology, hindering therapeutic development. We generated a germline-transmissible <span style=\"font-style: italic;\">DISC1</span> mutant model in cynomolgus macaques using CRISPR-Cas9 targeting of exon 9. F0 founders and their F1 heterozygous offspring displayed increased stereotypic behaviors and self-injury, reduced exploration, social withdrawal, and sleep fragmentation. Fluoxetine partially ameliorated these behaviors in one founder. Neuroimaging revealed enlarged dorsal striatum (suggesting dopaminergic hyperfunction) and reduced medial amygdala (associated with emotional dysregulation). Plasma metabolomics indicated elevated dopamine and 3-methoxytyramine alongside decreased serotonin metabolite HIAA. Notably, one mosaic male exhibited enhanced visual precision and aberrant multisensory integration. Single-nuclei RNA sequencing of the dorsolateral prefrontal cortex revealed an excitatory/inhibitory imbalance – specifically, reduced parvalbumin-positive interneurons and synaptic dysregulation – accompanied by downregulation of autism-risk genes. These macaques recapitulate key psychiatric phenotypes including social deficits, aggression and anxiety, providing a valuable model for screening and testing of targeted therapeutics.</span>",
+    "source": "National Science Review Advance Access",
+    "date": "2026-03-28",
+    "sent": true
+  },
+  {
     "id": "https://www.nature.com/articles/d41586-026-00954-6",
     "title": "Huge lung-cancer screening campaign boosts early diagnosis",
     "link": "https://www.nature.com/articles/d41586-026-00954-6",
