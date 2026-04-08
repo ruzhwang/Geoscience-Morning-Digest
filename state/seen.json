@@ -1,5 +1,644 @@
 [
   {
+    "id": "https://www.nature.com/articles/d41586-026-01094-7",
+    "title": "AI and the human mind: only one is a black box",
+    "link": "https://www.nature.com/articles/d41586-026-01094-7",
+    "authors": [
+      "Alfredo Vannacci"
+    ],
+    "summary": "Nature, Published online: 07 April 2026; <a href=\"https://www.nature.com/articles/d41586-026-01094-7\">doi:10.1038/d41586-026-01094-7</a>AI and the human mind: only one is a black box",
+    "source": "Nature",
+    "date": "2026-04-07",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-00913-1",
+    "title": "When page-renumbering causes outrage",
+    "link": "https://www.nature.com/articles/d41586-026-00913-1",
+    "authors": [],
+    "summary": "Nature, Published online: 07 April 2026; <a href=\"https://www.nature.com/articles/d41586-026-00913-1\">doi:10.1038/d41586-026-00913-1</a>The problem of page numbering in reprinted articles, and experiments to find the source of a typhoid outbreak, in our weekly dip into Nature’s archive.",
+    "source": "Nature",
+    "date": "2026-04-07",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-01095-6",
+    "title": "Representation without power in science isn’t equity",
+    "link": "https://www.nature.com/articles/d41586-026-01095-6",
+    "authors": [
+      "Richa Chaudhary",
+      "Varun Chaudhary"
+    ],
+    "summary": "Nature, Published online: 07 April 2026; <a href=\"https://www.nature.com/articles/d41586-026-01095-6\">doi:10.1038/d41586-026-01095-6</a>Representation without power in science isn’t equity",
+    "source": "Nature",
+    "date": "2026-04-07",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-01093-8",
+    "title": "Don’t rush use of lymphatic surgery in Alzheimer’s disease",
+    "link": "https://www.nature.com/articles/d41586-026-01093-8",
+    "authors": [
+      "Jinru Zhang",
+      "Zhanao Liu"
+    ],
+    "summary": "Nature, Published online: 07 April 2026; <a href=\"https://www.nature.com/articles/d41586-026-01093-8\">doi:10.1038/d41586-026-01093-8</a>Don’t rush use of lymphatic surgery in Alzheimer’s disease",
+    "source": "Nature",
+    "date": "2026-04-07",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-01016-7",
+    "title": "New drugs take aim at one of cancer’s deadliest mutations",
+    "link": "https://www.nature.com/articles/d41586-026-01016-7",
+    "authors": [
+      "Heidi Ledford"
+    ],
+    "summary": "Nature, Published online: 07 April 2026; <a href=\"https://www.nature.com/articles/d41586-026-01016-7\">doi:10.1038/d41586-026-01016-7</a>Mutations in the KRAS protein were once deemed ‘undruggable’. Today, various approaches are in the pipeline.",
+    "source": "Nature",
+    "date": "2026-04-07",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-01118-2",
+    "title": "First photos from Artemis II: see stunning 'Earthset' and more",
+    "link": "https://www.nature.com/articles/d41586-026-01118-2",
+    "authors": [
+      "Alexandra Witze"
+    ],
+    "summary": "Nature, Published online: 07 April 2026; <a href=\"https://www.nature.com/articles/d41586-026-01118-2\">doi:10.1038/d41586-026-01118-2</a>Images snapped during a flyby capture a solar eclipse and unprecedented details of the far side of the Moon.",
+    "source": "Nature",
+    "date": "2026-04-07",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-01029-2",
+    "title": "How DNA forensics is transforming studies of ancient manuscripts",
+    "link": "https://www.nature.com/articles/d41586-026-01029-2",
+    "authors": [
+      "Marla Broadfoot"
+    ],
+    "summary": "Nature, Published online: 07 April 2026; <a href=\"https://www.nature.com/articles/d41586-026-01029-2\">doi:10.1038/d41586-026-01029-2</a>Scientists are exposing the biological information hidden in ancient parchments without leaving a mark.",
+    "source": "Nature",
+    "date": "2026-04-07",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-01024-7",
+    "title": "This method to reverse cellular ageing is about to be tested in humans",
+    "link": "https://www.nature.com/articles/d41586-026-01024-7",
+    "authors": [
+      "Heidi Ledford"
+    ],
+    "summary": "Nature, Published online: 07 April 2026; <a href=\"https://www.nature.com/articles/d41586-026-01024-7\">doi:10.1038/d41586-026-01024-7</a>A burgeoning field is launching its first clinical trial to find out whether dialling back cell development can safely refresh aged tissues and organs.",
+    "source": "Nature",
+    "date": "2026-04-07",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-01053-2",
+    "title": "Your brain on drugs: different psychedelics work in surprisingly similar ways",
+    "link": "https://www.nature.com/articles/d41586-026-01053-2",
+    "authors": [
+      "Miryam Naddaf"
+    ],
+    "summary": "Nature, Published online: 07 April 2026; <a href=\"https://www.nature.com/articles/d41586-026-01053-2\">doi:10.1038/d41586-026-01053-2</a>Hundreds of scans hint at how substances such as psilocybin, LSD and ayahuasca alter connections between key areas of the brain.",
+    "source": "Nature",
+    "date": "2026-04-07",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-01100-y",
+    "title": "Scientists invented a fake disease. AI told people it was real",
+    "link": "https://www.nature.com/articles/d41586-026-01100-y",
+    "authors": [
+      "Chris Stokel-Walker"
+    ],
+    "summary": "Nature, Published online: 07 April 2026; <a href=\"https://www.nature.com/articles/d41586-026-01100-y\">doi:10.1038/d41586-026-01100-y</a>Bixonimania doesn’t exist except in a clutch of obviously bogus academic papers. So why did AI chatbots warn people about this fictional illness?",
+    "source": "Nature",
+    "date": "2026-04-07",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-01020-x",
+    "title": "‘Net zero’ isn’t madness: the staggering economic costs of climate change",
+    "link": "https://www.nature.com/articles/d41586-026-01020-x",
+    "authors": [],
+    "summary": "Nature, Published online: 07 April 2026; <a href=\"https://www.nature.com/articles/d41586-026-01020-x\">doi:10.1038/d41586-026-01020-x</a>The landmark Stern Review, published 20 years ago, laid bare the economic cost of climate inaction. A fracturing political consensus now risks accruing even heftier bills for future generations.",
+    "source": "Nature",
+    "date": "2026-04-07",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41561-026-01970-x",
+    "title": "Addendum: Sea-level rise at the end of the last deglaciation dominated by North American ice sheets",
+    "link": "https://www.nature.com/articles/s41561-026-01970-x",
+    "authors": [
+      "Udita Mukherjee",
+      "Lael Vetter",
+      "Glenn A. Milne",
+      "Lev Tarasov",
+      "Elena Steponaitis",
+      "Niamh Cahill",
+      "Benoit S. Lecavalier",
+      "Brad E. Rosenheim",
+      "Torbjörn E. Törnqvist"
+    ],
+    "summary": "Nature Geoscience, Published online: 07 April 2026; <a href=\"https://www.nature.com/articles/s41561-026-01970-x\">doi:10.1038/s41561-026-01970-x</a>Addendum: Sea-level rise at the end of the last deglaciation dominated by North American ice sheets",
+    "source": "Nature Geoscience",
+    "date": "2026-04-07",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-71620-8",
+    "title": "Small nucleolar RNA <i>Snora61</i> drives self-renewal of intestinal stem cells via initiation of <i>Lgr5</i> transcription",
+    "link": "https://www.nature.com/articles/s41467-026-71620-8",
+    "authors": [
+      "Jiacheng He",
+      "Yufei Lan",
+      "Yuwei Xu",
+      "Zhen Xiong",
+      "Zhibin Yi",
+      "Hui Guo",
+      "Jiahang Zhang",
+      "Ziheng Zhou",
+      "Ying Du",
+      "Fan Pan",
+      "Zusen Fan"
+    ],
+    "summary": "Nature Communications, Published online: 07 April 2026; <a href=\"https://www.nature.com/articles/s41467-026-71620-8\">doi:10.1038/s41467-026-71620-8</a>This study identifies Snora61, a snoRNA enriched in intestinal stem cells (ISCs). Snora61 knockout impairs ISC function. Snora61 binds to the Lgr5 promoter, recruiting RBMX and HMGB2 to activate Lgr5 transcription.",
+    "source": "Nature Communications",
+    "date": "2026-04-07",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-71604-8",
+    "title": "Respiration as a dynamic modulator of sensory sampling",
+    "link": "https://www.nature.com/articles/s41467-026-71604-8",
+    "authors": [
+      "Nikos Chalas",
+      "Martina Saltafossi",
+      "Teresa Berther",
+      "Elio Balestrieri",
+      "Omid Abbasi",
+      "Daniel S. Kluger"
+    ],
+    "summary": "Nature Communications, Published online: 07 April 2026; <a href=\"https://www.nature.com/articles/s41467-026-71604-8\">doi:10.1038/s41467-026-71604-8</a>Breathing shapes perception: Inspiration upregulates arousal and excitability, sharpening sensitivity to visual signals. By aligning respiration with task timing, people improve performance via neural information flow across an interoceptive network.",
+    "source": "Nature Communications",
+    "date": "2026-04-07",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-70949-4",
+    "title": "A live biohybrid bacterial therapy based on engineered <i>Serratia marcescens</i>",
+    "link": "https://www.nature.com/articles/s41467-026-70949-4",
+    "authors": [
+      "Lihao Ji",
+      "Tianze Zhu",
+      "Tianqi Jiang",
+      "Li Wang",
+      "Zhonghui Qiu",
+      "Shiqi Gao",
+      "Yuqi Wang",
+      "Jing Wang",
+      "Jingyi Zhang",
+      "Haomiao Huang",
+      "Yunlong Mao",
+      "Chen Lin",
+      "Jing Zhao",
+      "Xiuxiu Wang",
+      "Wei Wei"
+    ],
+    "summary": "Nature Communications, Published online: 07 April 2026; <a href=\"https://www.nature.com/articles/s41467-026-70949-4\">doi:10.1038/s41467-026-70949-4</a>Bacterial therapies for cancer face safety and complexity challenges. Here, the authors develop an engineered Serratia marcescens platform that leverages natural pigment biosynthesis to trigger antitumor immunity and enable rapid bacterial clearance, controlled by near-infrared light.",
+    "source": "Nature Communications",
+    "date": "2026-04-07",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-71482-0",
+    "title": "A hypothalamic circuit for circadian regulation of corticosterone secretion",
+    "link": "https://www.nature.com/articles/s41467-026-71482-0",
+    "authors": [
+      "Oscar D. Ramirez-Plascencia",
+      "Roberto De Luca",
+      "Natalia L. S. Machado",
+      "Dominique Eghlidi",
+      "Mudasir A. Khanday",
+      "Sathyajit S. Bandaru",
+      "Francesca Raffin",
+      "Nina Vujovic",
+      "Elda Arrigoni",
+      "Clifford B. Saper"
+    ],
+    "summary": "Nature Communications, Published online: 07 April 2026; <a href=\"https://www.nature.com/articles/s41467-026-71482-0\">doi:10.1038/s41467-026-71482-0</a>The circuit that the suprachiasmatic nucleus uses to control the daily glucocorticoids surge remains unknown. Here, authors show two parallel neural pathways from the hypothalamus that control the daily surge of corticosteroid by mapping the circuits from the SPZ and DMH to the PVH.",
+    "source": "Nature Communications",
+    "date": "2026-04-07",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-71647-x",
+    "title": "Regulating interface electric field to stabilize high-voltage KVPO<sub>4</sub>F positive electrode for sustainable potassium-ion batteries",
+    "link": "https://www.nature.com/articles/s41467-026-71647-x",
+    "authors": [
+      "Haijie Qi",
+      "Yichen Du",
+      "Jianfeng Ding",
+      "Lili Song",
+      "Jiaying Liao",
+      "Congying Yu",
+      "Zeyu Yuan",
+      "Shiang Chen",
+      "Xiaosi Zhou"
+    ],
+    "summary": "Nature Communications, Published online: 07 April 2026; <a href=\"https://www.nature.com/articles/s41467-026-71647-x\">doi:10.1038/s41467-026-71647-x</a>Potassium-ion batteries face stability issues at high voltages. Here, authors use nitrogen-doped nanotubes to regulate the interfacial electric field of a polyanionic KVPO4F positive electrode. This stabilizes the structure and interface, enabling a specific energy of 454.8 Wh kg−1 and a cycling lifespan over 2000 cycles.",
+    "source": "Nature Communications",
+    "date": "2026-04-07",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-71390-3",
+    "title": "Intrinsic attraction driving the high temperature performance of additively manufactured aluminum alloys",
+    "link": "https://www.nature.com/articles/s41467-026-71390-3",
+    "authors": [
+      "Yueting Wang",
+      "Chengzhe Yu",
+      "Kefu Gan",
+      "Tiechui Yuan",
+      "Ruidi Li"
+    ],
+    "summary": "Nature Communications, Published online: 07 April 2026; <a href=\"https://www.nature.com/articles/s41467-026-71390-3\">doi:10.1038/s41467-026-71390-3</a>This study introduces an intrinsic attraction strategy to enhance the high-temperature performance of additively manufactured aluminum alloys. By confining atomic defects and stabilizing precipitates, the alloy retains 305 MPa at 300 °C with creep resistance up to 400 °C.",
+    "source": "Nature Communications",
+    "date": "2026-04-07",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-71546-1",
+    "title": "Unveiling the synergistic mechanism of C-F and C-Cl bonds in enhancing the triboelectric performance of fluorinated polymers",
+    "link": "https://www.nature.com/articles/s41467-026-71546-1",
+    "authors": [
+      "Jinmei Liu",
+      "Fanyu Zhang",
+      "Jiongyao Xu",
+      "Shengyang Jia",
+      "Nuanyang Cui",
+      "Rusen Yang",
+      "Weiwei Wang",
+      "Long Gu"
+    ],
+    "summary": "Nature Communications, Published online: 07 April 2026; <a href=\"https://www.nature.com/articles/s41467-026-71546-1\">doi:10.1038/s41467-026-71546-1</a>The enhancement of tribo-negative performance in traditional fluorinated polymers is important for the design of triboelectric devices. Here, the authors describe the enhancements of the tribo-negative properties of fluorinated copolymers via the synergistic effects of C-F and C-Cl bonds in the polymers.",
+    "source": "Nature Communications",
+    "date": "2026-04-07",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43017-026-00777-z",
+    "title": "Global glacier mass change in 2025",
+    "link": "https://www.nature.com/articles/s43017-026-00777-z",
+    "authors": [
+      "Michael Zemp",
+      "Ethan Welty",
+      "Samuel U. Nussbaumer",
+      "Jacqueline Bannwart",
+      "Isabelle Gärtner-Roer",
+      "Albin Wells",
+      "Andreas P. Ahlstrøm",
+      "Brian Anderson",
+      "Liss M. Andreassen",
+      "Mohd. Farooq Azam",
+      "Jamie Barnett",
+      "Carlo Baroni",
+      "Nicholas E. Barrand",
+      "Andreas Bauder",
+      "Eric Bernard",
+      "Etienne Berthier",
+      "Giulia Bertolotti",
+      "Tobias Bolch",
+      "Mylène Bonnefoy-Demongeot",
+      "Matthias H. Braun",
+      "David Burgess",
+      "David Cappelletti",
+      "Jonathan L. Carrivick",
+      "Luca Carturan",
+      "Daniele Cat Berro",
+      "Jorge Luis Ceballos",
+      "Guillermo Cobos",
+      "Rolando Cruz",
+      "Nicolas Cullen",
+      "Bolívar Cáceres",
+      "Johanna Dahlkvist",
+      "Otgonbayar Demberel",
+      "Simon de Villiers",
+      "Roberto Dinale",
+      "Eugene Drozdov",
+      "Inés Dussaillant",
+      "Luzmila Dávila",
+      "Nelly Elagina",
+      "Hallgeir Elvehøy",
+      "Alexander Erofeev",
+      "Daniel Falaschi",
+      "Andrea Fischer",
+      "Mauro Fischer",
+      "Caitlyn Florentine",
+      "Koji Fujita",
+      "Stephan P. Galos",
+      "Ayon Garcia",
+      "Noel Gourmelen",
+      "Federico Grosso",
+      "Afanasiy Gubanov",
+      "Andri Gunnarsson",
+      "Anne Guyez",
+      "Lea Hartl",
+      "Martin Hoelzle",
+      "Jorge Huenante",
+      "Romain Hugonnet",
+      "Matthias Huss",
+      "Bernhard Hynek",
+      "Takuro Imazu",
+      "Rodolfo Iturraspe",
+      "Livia Jakob",
+      "Sharad Joshi",
+      "Neamat Karimi",
+      "Nina Kirchner",
+      "Bjarne Kjøllmoen",
+      "Jack Kohler",
+      "Stanislav Kutuzov",
+      "Ivan Lavrentiev",
+      "James M. Lea",
+      "Amerigo Lendvai",
+      "Huilin Li",
+      "Shenghai Li",
+      "Zhongqin Li",
+      "Andreas Linsbauer",
+      "Sebastián Marinsek",
+      "Enrico Mattea",
+      "Christoph Mayer",
+      "Christopher McNeil",
+      "Luca Mercalli",
+      "Alexandra Messerli",
+      "Carolyn Michael",
+      "Umberto Morra di Cella",
+      "Francisco Navarro",
+      "Hofiz Navruzshoev",
+      "Anton Neureiter",
+      "Gennady Nosenko",
+      "Massimo Pecci",
+      "Mauri Pelto",
+      "Victor Popovnin",
+      "Rainer Prinz",
+      "Carla Puigdomenech",
+      "Heather Purdie",
+      "Finnur Pálsson",
+      "Alberto Rossotto",
+      "Lucas Ruiz",
+      "Louis Sass",
+      "Erik Schytt Mannerfelt",
+      "Riccardo Scotti",
+      "Donghui Shangguan",
+      "Brenda Shepherd",
+      "Delphine Six",
+      "Andrey Smirnov",
+      "Ireneusz Sobota",
+      "Markus Strudl",
+      "Shin Sugiyama",
+      "Emmanuel Thibert",
+      "Laura Thomson",
+      "Thorsteinn Thorsteinsson",
+      "Levan Tielidze",
+      "Florian Tolle",
+      "Pavel Toropov",
+      "Paolo Tuccella",
+      "Gulomjon Umirzakov",
+      "Ryskul Usubaliev",
+      "Lauren Vargo",
+      "Wei Yang",
+      "Bernhard Zagel"
+    ],
+    "summary": "Nature Reviews Earth &amp; Environment, Published online: 07 April 2026; <a href=\"https://www.nature.com/articles/s43017-026-00777-z\">doi:10.1038/s43017-026-00777-z</a>Glaciers lost 408 ± 132 Gt of mass during the hydrological year 2025, equivalent to 1.1 ± 0.4 mm sea-level rise. Since 1975, glacier mass loss has totalled 9,583 ± 1,211 Gt, equivalent to 26.4 ± 3.3 mm of sea-level rise, with six of the highest mass-loss years on record occurring in the past seven years.",
+    "source": "Nature Reviews Earth & Environment",
+    "date": "2026-04-07",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43017-026-00773-3",
+    "title": "Atmospheric black carbon in the climate system",
+    "link": "https://www.nature.com/articles/s43017-026-00773-3",
+    "authors": [
+      "Örjan Gustafsson",
+      "Krishnakant Budhavant",
+      "Navinya Chimurkar",
+      "Sean Clarke",
+      "Gabrielle Dreyfus",
+      "Xin Gong",
+      "Zbigniew Klimont",
+      "Klaus Klingmüller",
+      "Sang-Woo Kim",
+      "Jos Lelieveld",
+      "Gunnar Myhre",
+      "H.R.C.R. Nair",
+      "Jianfei Peng",
+      "V. Ramanathan",
+      "Archita Rana",
+      "M. R. Manoj",
+      "S. K. Satheesh",
+      "Chandra Venkataraman",
+      "Qiang Zhang"
+    ],
+    "summary": "Nature Reviews Earth &amp; Environment, Published online: 07 April 2026; <a href=\"https://www.nature.com/articles/s43017-026-00773-3\">doi:10.1038/s43017-026-00773-3</a>Black carbon is a short-lived climate pollutant with regionally variable sources, properties and climate effects. This Review synthesizes global observations and atmospheric model simulations, showing declining black carbon emissions owing to clean air policies and technological advances, and substantial model–observation discrepancies in absorption, deposition and radiative forcing estimates.",
+    "source": "Nature Reviews Earth & Environment",
+    "date": "2026-04-07",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-026-03463-6",
+    "title": "Volcano-tectonic earthquake focal mechanisms reveal fluid-induced stress changes driving hydrothermal system development at Mount Ontake",
+    "link": "https://www.nature.com/articles/s43247-026-03463-6",
+    "authors": [
+      "Toshiko Terakawa",
+      "Yuta Maeda",
+      "Shinichiro Horikawa"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 07 April 2026; <a href=\"https://www.nature.com/articles/s43247-026-03463-6\">doi:10.1038/s43247-026-03463-6</a>Subsurface fluid movement during the 2024–2025 unrest at Mt. Ontake temporarily reoriented the local stress field beneath the summit, modifying the orientations of fluid-permeable fractures and causing characteristic changes in the focal mechanism patterns of volcano-tectonic earthquakes.",
+    "source": "Communications Earth & Environment",
+    "date": "2026-04-07",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-026-03209-4",
+    "title": "Safeguarding macro-financial stability under carbon pricing and rapid energy transition",
+    "link": "https://www.nature.com/articles/s43247-026-03209-4",
+    "authors": [
+      "Luca E. Fierro",
+      "Severin Reissl",
+      "Francesco Lamperti",
+      "Emanuele Campiglio",
+      "Laurent Drouet",
+      "Johannes Emmerling",
+      "Elise Kremer",
+      "Massimo Tavoni"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 07 April 2026; <a href=\"https://www.nature.com/articles/s43247-026-03209-4\">doi:10.1038/s43247-026-03209-4</a>Rapid decarbonization driven by carbon pricing can pose macro-financial stability risks, which targeted fiscal and monetary policies can help mitigate, according to integrated assessment and agent-based modeling frameworks.",
+    "source": "Communications Earth & Environment",
+    "date": "2026-04-07",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-026-03433-y",
+    "title": "Rapid summer methane emission decline in high-latitude plains linked to 2021 drought",
+    "link": "https://www.nature.com/articles/s43247-026-03433-y",
+    "authors": [
+      "Min Zhao",
+      "Xiangjun Tian",
+      "Yilong Wang",
+      "Yao Ge",
+      "Zhe Jin",
+      "Hongqin Zhang",
+      "Jinzhi Ding",
+      "Tao Wang"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 07 April 2026; <a href=\"https://www.nature.com/articles/s43247-026-03433-y\">doi:10.1038/s43247-026-03433-y</a>The 2021 drought across northern high-latitude Eurasia reduced summer methane emissions by 20%, mainly from wetlands due to lower liquid water content, according to an analysis using a greenhouse gas monitoring inversion system and a merged satellite dataset.",
+    "source": "Communications Earth & Environment",
+    "date": "2026-04-07",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012821X26001597",
+    "title": "Phanerozoic continental magmatism: Linking spatiotemporal evolution, isotopic composition, and chemical weathering",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012821X26001597?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: 15 June 2026<b>Source:</b> Earth and Planetary Science Letters, Volume 684Author(s): Wenrong Cao, Clement Bataille, Xiqiang Zhou, Joel S. Scheingross, Jeremy Tsung-Jui Wu, Hehe Jiang",
+    "source": "ScienceDirect Publication: Earth and Planetary Science Letters",
+    "date": "2026-04-08",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL121605",
+    "title": "A Physics‐Informed Neural Network Approach to the Gannon Storm",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL121605?af=R",
+    "authors": [
+      "M. Lacal, \nE. Camporeale, \nM. Piersanti, \nG. Consolini"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 7, 16 April 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-04-06",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL118781",
+    "title": "Blocked Coastal Propagation Inhibits Model Representation of Southeast United States Coastal Sea Level Variability",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL118781?af=R",
+    "authors": [
+      "Christopher M. Little, \nStephen G. Yeager, \nRui M. Ponte, \nCarmine Donatelli"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 7, 16 April 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-04-06",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL120066",
+    "title": "Spatiotemporal Variations in the Interplate Slip Rate Around Kodiak Island, Alaska",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL120066?af=R",
+    "authors": [
+      "Yutaro Okada, \nTakuya Nishimura, \nJeffrey T. Freymueller"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 7, 16 April 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-04-06",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL119977",
+    "title": "The Life Cycle of a Stratospheric Smoke Plume as Seen From EarthCARE—Tracking a Plume From Canada to Europe",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL119977?af=R",
+    "authors": [
+      "Moritz Haarig, \nHolger Baars, \nLeonard König, \nDavid P. Donovan, \nAlbert Ansmann, \nSergey Khaykin, \nRomain Ceolato, \nBenedikt Gast, \nCrisofer Jimenez, \nAthena A. Floutsi, \nRobin J. Hogan, \nAnnabel Chantry, \nFabien Marnas, \nJohanna Roschke, \nGerd‐Jan van Zadelhoff, \nUlla Wandinger"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 7, 16 April 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-04-06",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0016703726002346",
+    "title": "Nitrogen cycling in a high-nutrient tidal river revealed through high-resolution sampling and nitrate isotope mixing models",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0016703726002346?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 7 April 2026<b>Source:</b> Geochimica et Cosmochimica ActaAuthor(s): Josh Guyat, Douglas R. Tait, James Z. Sippo, Benjamin T. Stewart, Angus Ferguson, James A. Padilla-Montalvo, Christopher Ralph, Jenny Rogers, Merran Griffith, Dirk V. Erler, Michael Ingram, Damien T. Maher",
+    "source": "ScienceDirect Publication: Geochimica et Cosmochimica Acta",
+    "date": "2026-04-08",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0016703726002218",
+    "title": "Pressure-induced changes in the coordination environments and spin states of manganese, cobalt, nickel, and molybdenum in basaltic glasses",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0016703726002218?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 6 April 2026<b>Source:</b> Geochimica et Cosmochimica ActaAuthor(s): Keisuke Ozawa, Kei Hirose, Yoshio Takahashi, Fumiya Sakai, Nozomu Hiraoka, Hirofumi Ishii, Naomi Kawamura, Tetsuo Irifune",
+    "source": "ScienceDirect Publication: Geochimica et Cosmochimica Acta",
+    "date": "2026-04-08",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0016703726002310",
+    "title": "Early diagenetic alteration of sediment porewater in Indian Ocean basins and its controls on rare earth elements enrichment",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0016703726002310?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 6 April 2026<b>Source:</b> Geochimica et Cosmochimica ActaAuthor(s): Fangyu Shen, Li Li, Xuefa Shi, Xiaojing Wang, Mu Huang, Hongna Liu, Miao Yu, Dongjie Bi, Jihua Liu",
+    "source": "ScienceDirect Publication: Geochimica et Cosmochimica Acta",
+    "date": "2026-04-08",
+    "sent": true
+  },
+  {
+    "id": "https://pubs.geoscienceworld.org/gsa/geology/article/doi/10.1130/G54238.1/728219/A-14-8-Ma-coastal-adakite-belt-in-the-western",
+    "title": "A 14−8 Ma coastal adakite belt in the western Peninsular Ranges produced by rift-related melting of the underplated subduction complex",
+    "link": "https://pubs.geoscienceworld.org/gsa/geology/article/doi/10.1130/G54238.1/728219/A-14-8-Ma-coastal-adakite-belt-in-the-western",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\">A previously unrecognized, 160-km-long belt of small (0.5−7.2 km<sup>2</sup>) monogenetic adakite volcanic domes crops out in the southern California−northern Baja California coastal region. The belt appears related to Neogene transrotational rifting of the inner southern California borderland caused by propagation of the East Pacific Rise into the region. Volcanism from 18 Ma to 14 Ma attended peak rifting within the borderland. Adakites that erupted along the eastern rift flank are somewhat younger based on new <sup>40</sup>Ar/<sup>39</sup>Ar data (14−8 Ma). The adakite domes are compositionally distinct from the mostly calc-alkaline borderland volcanics in having higher Na- and Al-contents, higher Na/K, depleted heavy rare earth elements, depleted Y, and elevated Sr and Sr/Y. We propose that they were generated by lateral heat transfer from upwelling asthenosphere beneath the inner borderland into the rift flank, where low volume adakite magmas were produced by partial melting of the Cretaceous subduction complex beneath the western Peninsular Ranges arc. This conductive heat transfer operated at slower time scales, lagging behind the more rapid advective processes active within the rifted borderland. Partial melts likely formed at 20−30 km depths for up to 6 m.y. after the main phase of borderland rifting. A similar process may have produced petrogenetically related rocks along the opposing rift flank in the northern Channel Islands and Santa Monica Mountains.</span>",
+    "source": "Geology Advance Access",
+    "date": "2026-04-06",
+    "sent": true
+  },
+  {
+    "id": "https://pubs.geoscienceworld.org/gsa/gsabulletin/article/doi/10.1130/B38158.1/728218/Ediacaran-Early-Devonian-prolonged-scissors-like",
+    "title": "Ediacaran−Early Devonian prolonged scissors-like closure of the Proto-Tethys Ocean between the South China Block and Gondwana",
+    "link": "https://pubs.geoscienceworld.org/gsa/gsabulletin/article/doi/10.1130/B38158.1/728218/Ediacaran-Early-Devonian-prolonged-scissors-like",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\">The Tethyan evolution of Tibet and Southeast Asia has been studied extensively, but the closure of the Proto-Tethys Ocean between the South China Block and Gondwana remains poorly constrained. To address this, we analyzed multiple datasets documenting the tectono-sedimentary evolution of the South China Block, with a specific focus on the lower Devonian succession in the Ninglang−Yanyuan region of the southwestern South China Block. Sedimentary facies analysis reveals foreland basin formation in the late Early Devonian, with paleocurrent data indicating sediment transport from the plate boundary. Detrital zircon analysis of the fluvial-deltaic succession yielded one major age population at ca. 870−700 Ma and two smaller age groups at ca. 670−500 Ma and ca. 1000−900 Ma. By integrating zircon U-Pb ages, trace elements, Hf isotopes, and paleocurrent data, we identified provenance linked to the Indian margin of Gondwana and the uplifted basement of the southwestern South China Block, supporting a late Early Devonian collision between the southwestern South China Block and Gondwana. Additionally, we compiled and reinterpreted &gt;24,000 detrital zircon U-Pb ages and Hf isotope data from the Tibet−Southeast Asia Tethyan realm. By synthesizing this dataset with the Ediacaran−Middle Devonian sedimentary-paleogeographic evolution of the South China Block, we observe that both South China Block uplift and Gondwanan Indian detrital input initiated along the eastern margin of the South China Block and progressed southwestward. Coupled with the evolution of marine paleobiogeographic affinities between the South China Block and East Gondwana, we propose that the Proto-Tethys Ocean separating the South China Block and Gondwana underwent a prolonged, scissors-like closure during the Ediacaran−Early Devonian, likely driven by the documented clockwise rotation of Gondwana.</span>",
+    "source": "GSA Bulletin Advance Access",
+    "date": "2026-04-06",
+    "sent": true
+  },
+  {
+    "id": "http://doi.org/10.1093/nsr/nwag210",
+    "title": "Can satellites and AI reveal the maxwell equations of the Earth?",
+    "link": "https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwag210/8627051?rss=1",
+    "authors": [],
+    "summary": "",
+    "source": "National Science Review Advance Access",
+    "date": "2026-04-07",
+    "sent": true
+  },
+  {
+    "id": "http://doi.org/10.1093/nsr/nwag214",
+    "title": "Polyoxometalate-directed interfacial assembly of multifunctional mesoporous polydopamine nanomotors",
+    "link": "https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwag214/8627050?rss=1",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\"><div class=\"boxTitle\">Abstract</div>Polydopamine (PDA) is a versatile material known for its biocompatibility and adhesive properties, yet its intrinsic chemical inertness limits broader functional applications. Here, we report a one-pot polyoxometalate (POM)-mediated emulsion strategy for synthesizing hybrid mesoporous PDA (HMP) nanostructures with controllable anisotropic morphology and integrated functionality. Silicotungstic acid (H<sub>4</sub>SiW) directs the formation of P123/1,3,5-trimethylbenzene (TMB)/dopamine composite micelles, simultaneously stabilizing the emulsion, modulating interfacial tension, and templating hierarchical structures. This assembly pathway enables programmable shape evolution from isotropic nanospheres to open-cavity or bowl-shaped architectures. The embedded POMs remain molecularly dispersed and chemically active within the PDA framework, which directly endows the material with enhanced antibacterial functionality. Beyond structural sophistication, these HMPs can be driven by chemical reaction, enabling their use as artificial nanomotors. As a proof-of-concept application, Pt-loaded HMPs demonstrate self-propelled motion under H<sub>2</sub>O<sub>2</sub> fuel and effective penetration and disruption of drug-resistant bacterial biofilms. Daptomycin-loaded nanomotors achieve near-complete eradication of drug-resistant <span style=\"font-style: italic;\">Staphylococcus aureus</span> biofilms. This work establishes a generalizable interfacial co-assembly approach for transforming inert PDA into multifunctional nanodevices, advancing the development of intelligent materials for biomedical and catalytic applications.</span>",
+    "source": "National Science Review Advance Access",
+    "date": "2026-04-07",
+    "sent": true
+  },
+  {
+    "id": "http://doi.org/10.1093/nsr/nwag212",
+    "title": "Native Sparse Attention: Co-Designing Algorithms and Hardware for Practical Long-Context Efficiency",
+    "link": "https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwag212/8627038?rss=1",
+    "authors": [],
+    "summary": "",
+    "source": "National Science Review Advance Access",
+    "date": "2026-04-07",
+    "sent": true
+  },
+  {
     "id": "https://www.nature.com/articles/d41586-026-01028-3",
     "title": "Engaging the head and the heart: why scientists turn to poetry",
     "link": "https://www.nature.com/articles/d41586-026-01028-3",
