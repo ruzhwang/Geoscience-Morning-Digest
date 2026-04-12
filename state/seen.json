@@ -1,5 +1,577 @@
 [
   {
+    "id": "https://www.nature.com/articles/s41467-026-71892-0",
+    "title": "Electronic band and core-shell structure engineering enables ultrahigh energy storage in high-entropy ceramics",
+    "link": "https://www.nature.com/articles/s41467-026-71892-0",
+    "authors": [
+      "Yunting Li",
+      "Peng Li",
+      "Haihua Huang",
+      "Hairui Bai",
+      "Fei Xu",
+      "Jigong Hao",
+      "Peng Fu",
+      "Juan Du",
+      "Zhongbin Pan",
+      "Wangfeng Bai",
+      "Wei Li",
+      "Jiwei Zhai",
+      "Zhenxiang Cheng"
+    ],
+    "summary": "Nature Communications, Published online: 12 April 2026; <a href=\"https://www.nature.com/articles/s41467-026-71892-0\">doi:10.1038/s41467-026-71892-0</a>A high-entropy strategy combines flattened electronic bands, core–shell microstructures, and polymorphic polar phases to overcome the trade-off between polarization and breakdown electric field, achieving high energy storage performance in lead-free dielectric ceramics.",
+    "source": "Nature Communications",
+    "date": "2026-04-12",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-71904-z",
+    "title": "Allogeneic CD19 CAR T cells armed with an anti-rejection CD70 CAR overcome antigen escape and evade alloimmune responses",
+    "link": "https://www.nature.com/articles/s41467-026-71904-z",
+    "authors": [
+      "Kristen Zhang",
+      "Zhe Li",
+      "Mark K. O’Dair",
+      "David Qu",
+      "Adam K. Mealy",
+      "Duy Nguyen",
+      "Hsin-Yuan Cheng",
+      "David Huang",
+      "Suhasni Gopalakrishnan",
+      "Zachary J. Roberts",
+      "Cesar Sommer",
+      "Elvin J. Lauron"
+    ],
+    "summary": "Nature Communications, Published online: 12 April 2026; <a href=\"https://www.nature.com/articles/s41467-026-71904-z\">doi:10.1038/s41467-026-71904-z</a>Allogeneic CAR T cells carry a higher risk of immune rejection, which may limit persistence and therapeutic efficacy. The authors here show that co-expression of an anti-rejection CD70 CAR with a CD19 CAR enhances persistence and activity in preclinical models of cancer and autoimmune disease.",
+    "source": "Nature Communications",
+    "date": "2026-04-12",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-71898-8",
+    "title": "All-solid passive organic optical limiter via coordination-bond anchoring strategy",
+    "link": "https://www.nature.com/articles/s41467-026-71898-8",
+    "authors": [
+      "Dan Chen",
+      "Yuang Chen",
+      "Yunming Wang",
+      "Qingwei Zhou",
+      "Fang Luo",
+      "Jinbao Jiang",
+      "Chunrui Wang",
+      "Fan Wu",
+      "Chucai Guo",
+      "Zhihong Zhu"
+    ],
+    "summary": "Nature Communications, Published online: 12 April 2026; <a href=\"https://www.nature.com/articles/s41467-026-71898-8\">doi:10.1038/s41467-026-71898-8</a>Solid-state organic optical limiters for laser protection suffer from aggregation quenching. Here, the authors use coordination-bond anchoring strategy to overcome this and achieve an enhancement of nonlinear absorption coefficient.",
+    "source": "Nature Communications",
+    "date": "2026-04-12",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-71608-4",
+    "title": "Differential KEAP1/NRF2 mediated signaling widens the therapeutic window of redox-targeting drugs in SCLC therapy",
+    "link": "https://www.nature.com/articles/s41467-026-71608-4",
+    "authors": [
+      "Jana Samarin",
+      "Hana Nůsková",
+      "Piotr Fabrowski",
+      "Mona Malz",
+      "Eberhard Amtmann",
+      "Minerva J. Taeubert",
+      "Daniel Pastor-Flores",
+      "Daniel Kazdal",
+      "Roman Kurilov",
+      "Nicole de Vries",
+      "Hannelore Pink",
+      "Franziska Deis",
+      "Johanna Hummel-Eisenbeiss",
+      "Lisa Renz",
+      "Kamini Kaushal",
+      "Michael Morgen",
+      "Tobias P. Dick",
+      "Gerhard Hamilton",
+      "Martina Muckenthaler",
+      "Moritz Mall",
+      "Bryce Lim",
+      "Taishi Kanamaru",
+      "Glynis Klinke",
+      "Martin L. Sos",
+      "Julia Frede",
+      "Aubry K. Miller",
+      "Hamed Alborzinia",
+      "Nikolas Gunkel"
+    ],
+    "summary": "Nature Communications, Published online: 12 April 2026; <a href=\"https://www.nature.com/articles/s41467-026-71608-4\">doi:10.1038/s41467-026-71608-4</a>Small cell lung cancer (SCLC) cells show inherently low antioxidant defenses, making them prone to lethal oxidative stress induced by thioredoxin reductase 1 (TXNRD1) inhibitors. Here, authors demonstrate that activating NRF2 mediated tissue protection allows increased therapeutic dose of TXNRD1 inhibitors to enhances SCLC cell killing in vivo without added toxicity to healthy tissues.",
+    "source": "Nature Communications",
+    "date": "2026-04-12",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-71715-2",
+    "title": "Boosting pathology foundation models via few-shot prompt-tuning for rare cancer subtyping",
+    "link": "https://www.nature.com/articles/s41467-026-71715-2",
+    "authors": [
+      "Dexuan He",
+      "Xiao Zhou",
+      "Wenbin Guan",
+      "Liyuan Zhang",
+      "Xiaoman Zhang",
+      "Sinuo Xu",
+      "Ge Wang",
+      "Lifeng Wang",
+      "Xiaojun Yuan",
+      "Jing Ma",
+      "Xin Sun",
+      "Yanfeng Wang",
+      "Kun Sun",
+      "Ya Zhang",
+      "Weidi Xie"
+    ],
+    "summary": "Nature Communications, Published online: 11 April 2026; <a href=\"https://www.nature.com/articles/s41467-026-71715-2\">doi:10.1038/s41467-026-71715-2</a>Rare cancers can be challenging to diagnose from imaging due to limited data and previous expert experience. Here, the authors develop the PathPT framework to improve subtyping and tumour localisation.",
+    "source": "Nature Communications",
+    "date": "2026-04-11",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-71418-8",
+    "title": "Deep visual proteomics uncovers nociceptor diversity and pain targets",
+    "link": "https://www.nature.com/articles/s41467-026-71418-8",
+    "authors": [
+      "Sampurna Chakrabarti",
+      "Anuar Makhmut",
+      "Atena Mohammadi",
+      "Wenhan Luo",
+      "Lin Wang",
+      "Gary R. Lewin",
+      "Fabian Coscia"
+    ],
+    "summary": "Nature Communications, Published online: 11 April 2026; <a href=\"https://www.nature.com/articles/s41467-026-71418-8\">doi:10.1038/s41467-026-71418-8</a>Sensory neuron subtypes are defined by transcriptomics, but their proteomic identities remain unclear. Here, authors show distinct protein signatures of electrophysiologically defined nociceptors and implicate B3GNT2 in pain sensitization.",
+    "source": "Nature Communications",
+    "date": "2026-04-11",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-71767-4",
+    "title": "Fe(III) complexes with prolonged luminescence lifetimes via excited-state equilibration promoted by reversible intercomponent electron transfer",
+    "link": "https://www.nature.com/articles/s41467-026-71767-4",
+    "authors": [
+      "Salvatore Genovese",
+      "Ambra M. Cancelliere",
+      "Antonino Arrigo",
+      "Alessandro Auditore",
+      "Antonino Licciardello",
+      "Manuel Pedrón",
+      "Ilaria Ciofini",
+      "Fausto Puntoriero",
+      "Sebastiano Campagna"
+    ],
+    "summary": "Nature Communications, Published online: 11 April 2026; <a href=\"https://www.nature.com/articles/s41467-026-71767-4\">doi:10.1038/s41467-026-71767-4</a>Long-lived, luminescent earth-abundant metal complexes are promising for applications based on photoinduced processes. This study shows how equilibrated excited states involving charge separation can prolong emission lifetime of Fe(III) complexes.",
+    "source": "Nature Communications",
+    "date": "2026-04-11",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-71687-3",
+    "title": "Spin-polarized edge modes between different magnet-superconductor-hybrids",
+    "link": "https://www.nature.com/articles/s41467-026-71687-3",
+    "authors": [
+      "Felix Zahner",
+      "Felix Nickel",
+      "Roberto Lo Conte",
+      "Tim Drevelow",
+      "Roland Wiesendanger",
+      "Stefan Heinze",
+      "Kirsten von Bergmann"
+    ],
+    "summary": "Nature Communications, Published online: 11 April 2026; <a href=\"https://www.nature.com/articles/s41467-026-71687-3\">doi:10.1038/s41467-026-71687-3</a>Combining magnetic materials with superconductors in heterostructures is a promising pathway for realizing topological superconductivity. Here, Zahner et al show that the boundary formed between monolayer and bilayer manganese deposited on top of superconducting Tantalum can host spin polarized edge modes, the result of different topological superconducting phases of the monolayer and bilayer regions.",
+    "source": "Nature Communications",
+    "date": "2026-04-11",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43017-026-00784-0",
+    "title": "Using rainfall exclusion systems to simulate crop responses to drought",
+    "link": "https://www.nature.com/articles/s43017-026-00784-0",
+    "authors": [
+      "Abderrahim Bouhenache"
+    ],
+    "summary": "Nature Reviews Earth &amp; Environment, Published online: 10 April 2026; <a href=\"https://www.nature.com/articles/s43017-026-00784-0\">doi:10.1038/s43017-026-00784-0</a>Abderrahim Bouhenache describes the use of a field-scale rainfall exclusion system to quantify the response of crops to changes in water availability under real-world conditions in Africa.",
+    "source": "Nature Reviews Earth & Environment",
+    "date": "2026-04-10",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-026-03435-w",
+    "title": "Uneven provincial pathways to China’s land-use carbon emissions peak",
+    "link": "https://www.nature.com/articles/s43247-026-03435-w",
+    "authors": [
+      "Wanxu Chen",
+      "Yelin Peng",
+      "Jie Zeng",
+      "Sipei Pan",
+      "Jiale Liang",
+      "Chuanglin Fang",
+      "Haitao Ma",
+      "Lunche Wang",
+      "Shaojian Wang"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 11 April 2026; <a href=\"https://www.nature.com/articles/s43247-026-03435-w\">doi:10.1038/s43247-026-03435-w</a>China’s national land-use carbon emissions will peak around 2030–2035, yet nearly half of the provinces exhibit delayed peaks, and hotspots are projected to shift southward, exacerbating pressures in rapidly urbanizing regions, according to scenario-based model simulations.",
+    "source": "Communications Earth & Environment",
+    "date": "2026-04-11",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-026-03487-y",
+    "title": "Dairy-millet synergy underpinned subsistence adaptation to Inner Asian mountains from 2900 BCE",
+    "link": "https://www.nature.com/articles/s43247-026-03487-y",
+    "authors": [
+      "Menghan Qiu",
+      "Shasha Yang",
+      "Alimu Abudu",
+      "Linyao Du",
+      "Ziyun Yan",
+      "Huihui Cao",
+      "Peilun Liu",
+      "Zhixiong Zhang",
+      "Alifujiang Niyazi",
+      "Jianbao Liu",
+      "Yang Xu",
+      "Yinqiu Cui",
+      "Guanghui Dong"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 11 April 2026; <a href=\"https://www.nature.com/articles/s43247-026-03487-y\">doi:10.1038/s43247-026-03487-y</a>Dairy pastoralism and millet agriculture formed a mixed agropastoral economy in the Inner Asian mountains from as early as 2900 BCE, enabling subsistence and socio-ecological adaptation in Xinjiang, based on chronological, palaeoproteomic, and stable-isotope analyses of the Narensu cemetery.",
+    "source": "Communications Earth & Environment",
+    "date": "2026-04-11",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-026-03458-3",
+    "title": "Investment in coastal wetland restoration yields high returns in blue carbon and ecosystem services in China",
+    "link": "https://www.nature.com/articles/s43247-026-03458-3",
+    "authors": [
+      "Jinge Zhou",
+      "Jingfan Zhang",
+      "Guoming Qin",
+      "Lulu Zhang",
+      "Xingyun Huang",
+      "Ruyi Ding",
+      "Hua He",
+      "Yongxing Li",
+      "Yingwen Li",
+      "Faming Wang"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 11 April 2026; <a href=\"https://www.nature.com/articles/s43247-026-03458-3\">doi:10.1038/s43247-026-03458-3</a>Restoring China’s salt marshes, mangroves, and seagrass beds offers economic and ecological benefits, with estimated blue carbon gains up to 12.3 million tons and the value of ecosystem services up to 434 billion US dollars, according to data from 237 coastal projects.",
+    "source": "Communications Earth & Environment",
+    "date": "2026-04-11",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-026-03489-w",
+    "title": "Antarctic sea-ice loss shifts the Pacific Decadal Oscillation toward a positive phase",
+    "link": "https://www.nature.com/articles/s43247-026-03489-w",
+    "authors": [
+      "Hyein Jeong",
+      "Hyo-Seok Park",
+      "Sang-Wook Yeh",
+      "Eui-Seok Chung",
+      "Shang-Ping Xie"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 11 April 2026; <a href=\"https://www.nature.com/articles/s43247-026-03489-w\">doi:10.1038/s43247-026-03489-w</a>Reduced Antarctic sea-ice favors a positive Pacific Decadal Oscillation-like pattern in the North Pacific remotely by driving a southward shift of the Asian jet and generating low pressure anomalies over the western Pacific, revealed by climate model experiments.",
+    "source": "Communications Earth & Environment",
+    "date": "2026-04-11",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012825226000954",
+    "title": "Discussion the closure of the Tethyan-Boreal marine seaway in the Asselian-Sakmarian transition resulted in the development of a persistent terrestrial connection between western and eastern Pangaea",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012825226000954?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: July 2026<b>Source:</b> Earth-Science Reviews, Volume 278Author(s): Vladimir I. Davydov, Eugeny V. Karasev",
+    "source": "ScienceDirect Publication: Earth-Science Reviews",
+    "date": "2026-04-12",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012825226000966",
+    "title": "Discussion: Episodic terrestrial connectivity and late Palaeozoic tetrapod dispersal in eastern Pangaea",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012825226000966?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 11 April 2026<b>Source:</b> Earth-Science ReviewsAuthor(s): Leonidas Brikiatis",
+    "source": "ScienceDirect Publication: Earth-Science Reviews",
+    "date": "2026-04-12",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012825226001029",
+    "title": "A review of time-dependent behavior of poroelasticity in energy geosciences: Integrating physical mechanisms with machine learning frameworks",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012825226001029?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 10 April 2026<b>Source:</b> Earth-Science ReviewsAuthor(s): Tao Zhang, Qinhong Hu, Shouding Li, Behzad Ganbarian, Shenyu Yang, Yufeng Xiao, Sanbai Li, Qiming Wang, Hao Xu, Jiacheng Wen",
+    "source": "ScienceDirect Publication: Earth-Science Reviews",
+    "date": "2026-04-12",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012821X26002098",
+    "title": "Imaging lithosphere–asthenosphere interaction beneath the North China Craton: Implications for intraplate volcanism and anomalous basin subsidence",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012821X26002098?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: 1 July 2026<b>Source:</b> Earth and Planetary Science Letters, Volume 685Author(s): Bowen Li, Juan C. Afonso, Dinghui Yang, Mengxue Liu, Xingpeng Dong, Xiaobing Xu",
+    "source": "ScienceDirect Publication: Earth and Planetary Science Letters",
+    "date": "2026-04-12",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012821X2600213X",
+    "title": "Earthquake-induced dolomite decarbonation in the Dinar Fault Zone, western Türkiye",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012821X2600213X?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: 1 July 2026<b>Source:</b> Earth and Planetary Science Letters, Volume 685Author(s): Cecilia Viti, Telemaco Tesei, Andrea Brogi, Richard Spiess, Domenico Liotta, M. Cihat Alçiçek",
+    "source": "ScienceDirect Publication: Earth and Planetary Science Letters",
+    "date": "2026-04-12",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012821X26002128",
+    "title": "High-pressure clinopyroxene in Northwest Africa 12774 and new geobarometric evidence for a planetary embryo-sized angrite parent body",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012821X26002128?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: 1 July 2026<b>Source:</b> Earth and Planetary Science Letters, Volume 685Author(s): Aaron S. Bell, Laura Waters, Mark Ghiorso",
+    "source": "ScienceDirect Publication: Earth and Planetary Science Letters",
+    "date": "2026-04-12",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL120171",
+    "title": "Magnetic Signatures of a Plasma Wake Behind the Swarm Satellites",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL120171?af=R",
+    "authors": [
+      "Chao Xiong, \nXinyi Rang, \nHermann Lühr, \nFan Yin"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 8, 28 April 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-04-10",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL119443",
+    "title": "Backwater Effects From River Ice Jams Observed With SWOT Pixel Cloud Data",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL119443?af=R",
+    "authors": [
+      "Linda Christoffersen, \nLouise Sandberg Sørensen, \nOle Baltazar Andersen, \nPeter Bauer‐Gottwein, \nKarina Nielsen"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 8, 28 April 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-04-10",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL120131",
+    "title": "Magma and Volatile Pathways Beneath Sakurajima Volcano From Self‐Potential, Helium Isotopes, and Broadband Magnetotellurics",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL120131?af=R",
+    "authors": [
+      "K. Aizawa, \nT. Koyama, \nH. Hase, \nM. Uyeshima, \nH. Sumino"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 8, 28 April 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-04-10",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL121295",
+    "title": "ENSO Recharge Oscillator Theory Integrating the Southward Wind Shift",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL121295?af=R",
+    "authors": [
+      "Tomoki Iwakiri, \nMalte F. Stuecker, \nFei‐Fei Jin, \nSen Zhao"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 8, 28 April 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-04-10",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL122051",
+    "title": "Weak Influence of Surface Pressure on Arctic Radiative States From Winter to Spring Over the Sea‐Ice",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL122051?af=R",
+    "authors": [
+      "Jean Lac, \nHélène Chepfer, \nMatthew D. Shupe"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 8, 28 April 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-04-10",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL120578",
+    "title": "Amplified European Future Warming Under Mesoscale‐Resolving Sea Surface Temperature Forcing",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL120578?af=R",
+    "authors": [
+      "Eduardo Moreno‐Chamarro, \nPablo Ortega"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 8, 28 April 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-04-10",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL121067",
+    "title": "Evolution of Magnetospheric Boundary Layers Under the 10 May 2024 ICME Impact",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL121067?af=R",
+    "authors": [
+      "Sheng Li, \nGilbert Pi, \nZdeněk Němeček, \nJana Šafránková, \nTrevor W. Leonard, \nYang‐Yi Sun"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 8, 28 April 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-04-10",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL119613",
+    "title": "Bacteria as Passive Passengers in the Equatorial Pacific Biological Carbon Pump",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL119613?af=R",
+    "authors": [
+      "Jinqiang Guo, \nHuamao Yuan, \nYao Gao, \nEric P. Achterberg, \nFrédéric A. C. Le Moigne, \nRainer Kiko, \nYuan Shen"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 8, 28 April 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-04-10",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL119811",
+    "title": "Airborne Photon‐Counting LiDAR for Shallow‐Water Bathymetry With Robust Noise Removal and Depth Retrieval",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL119811?af=R",
+    "authors": [
+      "Dongfang Zhang, \nLin Wu, \nXiaohan Zhang, \nYifu Chen, \nYuan Le, \nYuewei Wang, \nJun Li, \nLizhe Wang"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 8, 28 April 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-04-10",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL120682",
+    "title": "The Slip Distributions of the 1952 and 2025 Kamchatka Earthquakes From Tsunami Waveforms Recorded Around the Pacific Ocean",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL120682?af=R",
+    "authors": [
+      "Yushiro Fujii, \nKenji Satake"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 8, 28 April 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-04-10",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL119557",
+    "title": "Nitrogen Stable Isotopes Track Ammonia Emission Sources and Ammonium Aerosol Formation Processes in the Marine Boundary Layer",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL119557?af=R",
+    "authors": [
+      "K. E. Altieri, \nS. Smith, \nS. E. Fawcett, \nK. A. M. Spence, \nM. N. Mathuri, \nJ. Granger"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 8, 28 April 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-04-10",
+    "sent": true
+  },
+  {
+    "id": "10.1029/grl.72339",
+    "title": "Issue Information",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/grl.72339?af=R",
+    "authors": [
+      null
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 8, 28 April 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-04-10",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GC012699",
+    "title": "Active Plume, Abandoned Ridge, or Ancient Slab? olivine‐Hosted Melt Inclusions Record the Mantle Melting Conditions Below the East Pacific Revillagigedo Archipelago, Mexico",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GC012699?af=R",
+    "authors": [
+      "Janne M. Koornneef, \nLaurens J. J. Tromp, \nIgor K. Nikogosian, \nEva M. Barning, \nArwen Deuss, \nYamirka Rojas‐Agramonte, \nPablo Davilla Harris, \nDouwe J. J. van Hinsbergen"
+    ],
+    "summary": "Geochemistry, Geophysics, Geosystems, Volume 27, Issue 4, April 2026.",
+    "source": "Wiley: Geochemistry, Geophysics, Geosystems: Table of Contents",
+    "date": "2026-04-10",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025JB033327",
+    "title": "Microstructural Controls on Geothermal Reservoir Host Rock Responses to Elevated Pressures and Temperatures",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JB033327?af=R",
+    "authors": [
+      "V. Mura, \nJ. Browning, \nG. Arancibia, \nD. Healy, \nN. Farrell, \nN. Bigaroni, \nC. Pineda, \nD. Morata, \nJ. Mecklenburgh"
+    ],
+    "summary": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 4, April 2026.",
+    "source": "Wiley: Journal of Geophysical Research: Solid Earth: Table of Contents",
+    "date": "2026-04-10",
+    "sent": true
+  },
+  {
+    "id": "https://pubs.geoscienceworld.org/gsa/geology/article/doi/10.1130/G54286.1/728335/Repeated-fracturing-healing-behavior-of-lava-plugs",
+    "title": "Repeated fracturing-healing behavior of lava plugs drives intermittent explosions during Vulcanian eruptions",
+    "link": "https://pubs.geoscienceworld.org/gsa/geology/article/doi/10.1130/G54286.1/728335/Repeated-fracturing-healing-behavior-of-lava-plugs",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\">A repeated cycle of breaking and rebuilding of a lava plug is the key mechanism underlying intermittent Vulcanian explosions typically observed in andesitic volcanoes. Here, we investigated the mechanisms that enable repetitive explosions of the plug by analyzing the welding textures of tuffisite veins within proximal ejecta from the 2018 Shinmoedake (Japan) Vulcanian activity. Tuffisites were classified into six types based on welding intensity and oxidation. Welded tuffisite veins have fewer voids than nonwelded tuffisites, suggesting lower gas permeabilities. Strongly welded tuffisites showed greater tensile strength than their intact host rocks. The tuffisites showing red coloration indicate oxidation by atmospheric air at near-magmatic temperatures. We conclude that the tuffisites preferentially welded at elevated confining pressure at depth, whereas oxidation is caused by air permeation into tuffisite veins near Earth’s surface. Based on these observations, we propose a mechanism for explosion repetition: Following an explosion, fractures form within the plug, allowing deep-seated gas to escape. Subsequent tuffisite-vein welding clogs outgassing pathways, reforming the plug and recovering its strength. This process enables gas pressure buildup beneath the plug and air permeation through veins. When gas pressure exceeds the strength of the plug, the plug fractures during the next explosion. Thus, the interplay between fracturing and healing in the lava plug governs the repetition of Vulcanian explosions in a lava-filled conduit system.</span>",
+    "source": "Geology Advance Access",
+    "date": "2026-04-10",
+    "sent": true
+  },
+  {
+    "id": "https://pubs.geoscienceworld.org/gsa/gsabulletin/article/doi/10.1130/B38488.1/728334/Late-Cenozoic-long-distance-eastward-growth-of-the",
+    "title": "Late Cenozoic long-distance eastward growth of the Tibetan Plateau: Insights from underappreciated layer-parallel shortening strain in the Central Sichuan Basin, South China",
+    "link": "https://pubs.geoscienceworld.org/gsa/gsabulletin/article/doi/10.1130/B38488.1/728334/Late-Cenozoic-long-distance-eastward-growth-of-the",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\">The extent of eastward growth of the Tibetan Plateau and deformation of the Sichuan Basin remain controversial, primarily due to the lack of direct evidence for Cenozoic deformation within the Central Sichuan Basin. This study presents anisotropy of magnetic susceptibility (AMS) data from an ∼210-km-long transect across the Central Sichuan Basin to unravel penetrative layer-parallel shortening (LPS) strain. Our results delineate a distinct structural zonation where an ∼110-km-wide western incipient deformational belt with NW-SE LPS is separated from an ∼10-km-wide eastern belt with both NW-SE and NE-SW LPS by an ∼74-km-wide central undeformed belt. This zonation reveals that late Cenozoic eastward plateau growth has propagated far beyond the frontal Longquan Shan fault, penetrating ∼110 km into the Central Sichuan Basin as widespread LPS. Conversely, the narrow eastern belt likely records late Mesozoic orogenic events. We attribute this long-distance propagation to enhanced slip along a shallow Triassic décollement, driven by substantial topographic and sedimentary loading coupled with a low strain rate in the Longmen Shan. This penetrative strain accommodates an estimated ∼24 km of previously unrecognized upper-crustal shortening, confirming LPS as a major contributor to Cenozoic basin deformation. The central undeformed belt defines the eastern limit of this upper-crustal shortening, signifying that late Cenozoic rapid exhumation of the Eastern Sichuan Basin likely resulted from tectonic uplift via strain accumulation along a midcrustal décollement and enhanced climate-driven erosion. Our findings highlight the crucial roles of upper-crustal penetrative strain, midcrustal strain transfer, and surface processes in shaping the eastern Tibetan Plateau and Sichuan Basin.</span>",
+    "source": "GSA Bulletin Advance Access",
+    "date": "2026-04-10",
+    "sent": true
+  },
+  {
+    "id": "https://pubs.geoscienceworld.org/gsa/gsabulletin/article/doi/10.1130/B38746.1/728333/Tectono-thermal-evolution-and-fluid-history",
+    "title": "Tectono-thermal evolution and fluid history recorded in multigeneration calcite veins of the early Paleozoic Wufeng-Longmaxi shales, South China",
+    "link": "https://pubs.geoscienceworld.org/gsa/gsabulletin/article/doi/10.1130/B38746.1/728333/Tectono-thermal-evolution-and-fluid-history",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\">The Late Ordovician−early Silurian transition witnessed intense tectono-thermal activity that generated widespread fracture systems in sedimentary basins worldwide. Those fractures are not only structural features but also preserve critical records of fluid flow and tectonic evolution. Despite extensive research on the organic-rich shales of the Wufeng-Longmaxi Formation and their importance as a major unconventional reservoir, the timing of fracture development, the sources of fracture-filling fluids, the nature of fluid-rock interactions, and their linkage to tectono-thermal events remain poorly constrained. To address this gap, we investigated vein-filling fractures in the Wufeng-Longmaxi shales from a weakly deformed zone using a multipronged approach, including petrographic observation, fluid inclusion microthermometry, micro-laser Raman spectroscopy, and isotopic analysis. The results show a decrease in fracture vein fill along the vertical section, with four distinct fracture types (types I−IV) identified, including two subtypes within type III (type III<sub>1</sub> and type III<sub>2</sub>). Most fractures are filled with calcite, followed by quartz, or a mixture thereof. Type I and type II fractures, which are nearly horizontal and filled with calcite and pyrite, respectively, represent early-stage mineralization associated with synsedimentary processes and initial basin subsidence. Nearly vertical type III<sub>1</sub> fractures, filled with δ<sup>13</sup>C-depleted fibrous calcite and often solid bitumen, reflect organic fluid migration driven by tectonic compression and fluid overpressure during the Indosinian orogeny. Oblique type III<sub>2</sub> fractures contain twin-crystal and δ<sup>18</sup>O-depleted calcite, along with occasional siliceous veins and mafic bands, suggesting hydrothermal fluid activity linked to volcanic processes. The dominance of CH<sub>4</sub> vapor inclusions, with minor CO<sub>2</sub>, further supports a volcanic degassing origin. These features indicate that type III<sub>2</sub> fractures formed within the Wufeng-Longmaxi shales during postdepositional tectonic uplift along the Yangtze margin associated with the Himalayan orogeny. Ongoing postdepositional tectonic uplift related to the Himalayan orogeny resulted in the development of low-angle type IV fractures, characterized by late-stage mineral precipitation. These findings offer refined constraints on the diagenetic evolution of the shales and provide new insights into fluid-rock interaction driven by multistage postdepositional tectono-thermal events from the Late Ordovician to the Cenozoic in South China.</span>",
+    "source": "GSA Bulletin Advance Access",
+    "date": "2026-04-10",
+    "sent": true
+  },
+  {
+    "id": "https://pubs.geoscienceworld.org/gsa/gsabulletin/article/doi/10.1130/B38951.1/728332/Low-pressure-ultrahigh-temperature-LP-UHT",
+    "title": "Low-pressure ultrahigh-temperature (LP-UHT) metamorphism of pelitic and mafic granulites during postcollisional extension in the Eastern Kunlun domain, West China",
+    "link": "https://pubs.geoscienceworld.org/gsa/gsabulletin/article/doi/10.1130/B38951.1/728332/Low-pressure-ultrahigh-temperature-LP-UHT",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\">Identifying ultrahigh-temperature (UHT) metamorphism in Fe-rich metapelites is challenging and commonly overlooked due to the lack of diagnostic mineral assemblages, but it is significant for understanding the areal extent and thermal-mechanical evolution of UHT metamorphic terranes. This study addresses this gap through comparative investigations on petrography, geothermobarometry, phase equilibrium modeling, and zircon U-Pb dating between Fe-rich pelitic gneiss and mafic granulite samples from the Eastern Kunlun domain, West China. Three stages of metamorphic evolution are recognized from both rock types. (1) The peak-pressure (<span style=\"font-style: italic;\">P</span><sub>max</sub>) upper amphibolite to high-pressure granulite-facies stage (0.8−1.1 GPa, 740−850 °C) is recorded by the core compositions of garnet-plagioclase and biotite and amphibole inclusions. (2) The post-<span style=\"font-style: italic;\">P</span><sub>max</sub> decompressional heating to the peak-temperature (<span style=\"font-style: italic;\">T</span><sub>max</sub>) LP-UHT granulite-facies stage is inferred from the core-to-rim decreasing grossular component (<span style=\"font-style: italic;\">X</span><sub>Grs</sub>) in garnet and core-to-rim or mantle increasing anorthite component (<span style=\"font-style: italic;\">X</span><sub>An</sub>) in plagioclase. The <span style=\"font-style: italic;\">T</span><sub>max</sub> conditions (∼930−980 °C, 0.4−0.6 GPa) are well constrained in the mafic granulites based on thermobarometry results, high titanium (<span style=\"font-style: italic;\">X</span><sub>Ti</sub>) in amphibole and <span style=\"font-style: italic;\">X</span><sub>An</sub> in plagioclase from pressure-temperature (<span style=\"font-style: italic;\">P-T</span>) pseudosections, or <span style=\"font-style: italic;\">T-X</span><sub>Melt</sub> (melt fractions) pseudosections specifically calculated for the sample (18CB126) that contained residual melt. In contrast, the pelitic gneisses mainly document lower <span style=\"font-style: italic;\">T</span><sub>max</sub> conditions of 850−870 °C except for the rare records (up to ∼930−950 °C) from high-Ti quartz and the stability field of the mineral assemblage of cordierite + spinel + perthite + plagioclase + quartz in local domains from the inhomogeneous sample (21DK71). (3) The late post-<span style=\"font-style: italic;\">T</span><sub>max</sub> near-isobaric cooling evolution is represented by the solidus assemblages, giving <span style=\"font-style: italic;\">P-T</span> conditions of ∼0.4−0.6 GPa and 750−810 °C. Zircon U-Pb dating from the pelitic gneisses yields two main metamorphic ages of ca. 436 Ma and ca. 408−402 Ma, which are interpreted to represent the <span style=\"font-style: italic;\">P</span><sub>max</sub> and post-<span style=\"font-style: italic;\">T</span><sub>max</sub> cooling stages, respectively. Our findings confirm the regional-scale occurrence of low-pressure UHT metamorphism in the Eastern Kunlun domain, and the recovered metamorphic <span style=\"font-style: italic;\">P-T-</span>time paths reveal a tectonic transition from earlier continental collisional thickening at ca. 436 Ma to the postcollisional extension before 408−402 Ma, where the UHT metamorphism is developed during the crustal thinning along with coeval asthenospheric upwelling related to possible lithosphere delamination.</span>",
+    "source": "GSA Bulletin Advance Access",
+    "date": "2026-04-10",
+    "sent": true
+  },
+  {
+    "id": "http://doi.org/10.1093/nsr/nwag197",
+    "title": "China’s forests host a vast, previously unquantified population of old trees",
+    "link": "https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwag197/8651704?rss=1",
+    "authors": [],
+    "summary": "",
+    "source": "National Science Review Advance Access",
+    "date": "2026-04-11",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025TC009337",
+    "title": "From Extension to Strike‐Slip Faulting Along the Western Continuation of the North Anatolian Fault in the Northern Aegean Sea: Structural, Geochronological and Geochemical Constraints",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025TC009337?af=R",
+    "authors": [
+      "L. R. Berio, \nE. L. Dantas, \nA. Kylander‐Clark, \nR. L. Muniz, \nM. Pizzati, \nF. Storti, \nG. Viola, \nF. Balsamo"
+    ],
+    "summary": "Tectonics, Volume 45, Issue 4, April 2026.",
+    "source": "Wiley: Tectonics: Table of Contents",
+    "date": "2026-04-11",
+    "sent": true
+  },
+  {
     "id": "https://www.nature.com/articles/s41586-026-10484-w",
     "title": "Author Correction: Multi-omic profiling reveals age-related immune dynamics in healthy adults",
     "link": "https://www.nature.com/articles/s41586-026-10484-w",
