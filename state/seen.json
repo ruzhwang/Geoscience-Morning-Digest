@@ -1,5 +1,209 @@
 [
   {
+    "id": "10.1029/2025GL119526",
+    "title": "Mesoscale Eddy Currents Reshape the Spatial Distribution of Wave Height in the Southern Ocean",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL119526?af=R",
+    "authors": [
+      "Tianyi Cheng, \nZhaohui Chen, \nJingkai Li, \nAlexander V. Babanin"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 8, 28 April 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-04-11",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL121528",
+    "title": "Microbially Mediated Intracellular Barite Mineralization: Evidence From an Early Ediacaran Microfossil in the Doushantuo Formation of South China",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL121528?af=R",
+    "authors": [
+      "Shiqi Cheng, \nLianjun Feng, \nYingjie Yang, \nXuelei Chu, \nXingliang Zhang, \nJinhua Li"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 8, 28 April 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-04-11",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL120760",
+    "title": "Observations of High‐Resolution Two‐Dimensional Ionospheric Flow Dynamics Associated With Poleward Boundary Intensifications",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL120760?af=R",
+    "authors": [
+      "Katherine Davidson, \nYukitoshi Nishimura, \nLarry Lyons, \nEric Donovan, \nVassilis Angelopoulos, \nNozomu Nishitani"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 8, 28 April 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-04-11",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL121001",
+    "title": "Can Terrain Induce Moist Absolutely Unstable Layers and Enhance Extreme Rainfall?",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL121001?af=R",
+    "authors": [
+      "Jyong‐En Miao, \nMing‐Jen Yang, \nKristen L. Rasmussen, \nMichael M. Bell"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 8, 28 April 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-04-11",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL119491",
+    "title": "Validation of 1‐Day Repeat SWOT Measurements Against Tide‐Gauge and Glider Data Off Canada's West Coast",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL119491?af=R",
+    "authors": [
+      "Guoqi Han, \nJody M. Klymak, \nTetjana Ross, \nNancy Chen"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 8, 28 April 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-04-11",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL120691",
+    "title": "Ostwald Ripening in Underground Gas Storage",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL120691?af=R",
+    "authors": [
+      "Mohammad Salehpour, \nTian Lan, \nNicolas Bueno, \nMd Zahidul Islam Laku, \nYashar Mehmani, \nBenzhong Zhao"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 8, 28 April 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-04-11",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2024GL113884",
+    "title": "Influx of Bay of Bengal Waters and Stirring Trends in the Arabian Sea Based on Satellite Altimetry",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2024GL113884?af=R",
+    "authors": [
+      "Nihar Paul, \nManikandan Mathur, \nJai Sukhatme, \nJ. Thomas Farrar, \nDebasis Sengupta"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 8, 28 April 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-04-11",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL121354",
+    "title": "On the Utility of the Transient Climate Response",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL121354?af=R",
+    "authors": [
+      "Nadir Jeevanjee, \nD. J. Paynter, \nJ. P. Dunne, \nL. T. Sentman, \nJ. P. Krasting"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 8, 28 April 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-04-11",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL120904",
+    "title": "Self‐Lofting Drives Tropospheric and Stratospheric Transport of Australian Wildfire Smoke to Antarctic Ice",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL120904?af=R",
+    "authors": [
+      "Jiawei Huang, \nYifeng Peng, \nYao Guo, \nKai Qie, \nXuemei Wang, \nNan Ma, \nMin Shao, \nPengfei Yu"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 8, 28 April 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-04-11",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL121172",
+    "title": "Observed Increase in Tropical Vegetation Droughts Over the Past Three Decades",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL121172?af=R",
+    "authors": [
+      "Shuai Cheng, \nXianfeng Liu, \nMingzhu Cao, \nJianyu Fu, \nHaiyang Qian, \nXiaolong Pan, \nLiyan Yang, \nYu Feng"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 8, 28 April 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-04-11",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GC012382",
+    "title": "Climax of Late Paleoproterozoic Rift‐Related Magmatism in the Columbia Supercontinent: Insights From a 1.77–1.76 Ga Large Igneous Province of the Dunhuang Block, Northwest China",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GC012382?af=R",
+    "authors": [
+      "Masumeh Sargazi, \nChuan‐Lin Zhang, \nXian‐Tao Ye, \nZhi‐Hao Song, \nHong‐Ran Wang"
+    ],
+    "summary": "Geochemistry, Geophysics, Geosystems, Volume 27, Issue 4, April 2026.",
+    "source": "Wiley: Geochemistry, Geophysics, Geosystems: Table of Contents",
+    "date": "2026-04-11",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GC012795",
+    "title": "Weathering of the Emeishan Large Igneous Province Enhanced the Nutrient Flux to the Oceans and Led to Late Permian Climate Cooling",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GC012795?af=R",
+    "authors": [
+      "Kunyue Ling, \nHanjie Wen, \nShengtao Gong, \nCe Chen, \nShengjiang Du, \nRunsheng Yin"
+    ],
+    "summary": "Geochemistry, Geophysics, Geosystems, Volume 27, Issue 4, April 2026.",
+    "source": "Wiley: Geochemistry, Geophysics, Geosystems: Table of Contents",
+    "date": "2026-04-11",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025JB032618",
+    "title": "Three‐Dimensional Crustal Deformation Analysis Using Physics‐Informed Deep Learning",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JB032618?af=R",
+    "authors": [
+      "Tomohisa Okazaki, \nTakeo Ito, \nKazuro Hirahara, \nRyoichiro Agata, \nMasayuki Kano, \nNaonori Ueda"
+    ],
+    "summary": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 4, April 2026.",
+    "source": "Wiley: Journal of Geophysical Research: Solid Earth: Table of Contents",
+    "date": "2026-04-11",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025JB033324",
+    "title": "Quantitative Depth Profiling of Zircon Crystallization Histories: New Insights Into Himalayan Magmatic‐Tectonic Evolution",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JB033324?af=R",
+    "authors": [
+      "Yao Wang, \nZe Liu, \nLiang‐Liang Zhang, \nLi Liu, \nJesse Walters, \nPeter A. Cawood, \nLei Yang, \nQing Wang, \nDaniel F. Stockli, \nDi‐Cheng Zhu"
+    ],
+    "summary": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 4, April 2026.",
+    "source": "Wiley: Journal of Geophysical Research: Solid Earth: Table of Contents",
+    "date": "2026-04-11",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025JB033544",
+    "title": "Kinematics of Burial Remagnetizations in Fold‐and‐Thrust Belts: A Case Study From the South Pyrenean Foreland Basin (NE Spain)",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JB033544?af=R",
+    "authors": [
+      "P. Calvín, \nE. Izquierdo‐Llavall, \nP. Sierra‐Campos, \nE. Beamud, \nM. J. Dekkers, \nR. Egli, \nA. Rodríguez‐Pintó, \nJ. C. Larrasoaña, \nE. L. Pueyo"
+    ],
+    "summary": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 4, April 2026.",
+    "source": "Wiley: Journal of Geophysical Research: Solid Earth: Table of Contents",
+    "date": "2026-04-11",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026JB033995",
+    "title": "Uplift History of the Southeastern Tibetan Plateau Revealed by Coupled Surface Processes and Orographic Precipitation Model",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026JB033995?af=R",
+    "authors": [
+      "Fan Zhang, \nXiaoping Yuan, \nYuqiang Li, \nXiaoming Shen, \nJing Liu‐Zeng"
+    ],
+    "summary": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 4, April 2026.",
+    "source": "Wiley: Journal of Geophysical Research: Solid Earth: Table of Contents",
+    "date": "2026-04-11",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025TC009223",
+    "title": "Rotation in the Southeastern Caribbean Arc (Grenadines) Accommodated by Back‐Arc Basin Inversion",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025TC009223?af=R",
+    "authors": [
+      "Jade D. C. Sauerbier, \nMélody Philippon, \nMark J. Dekkers, \nJean‐Jacques Cornée, \nMarcelle K. BouDagher‐Fadel, \nDouwe J. J. van Hinsbergen"
+    ],
+    "summary": "Tectonics, Volume 45, Issue 4, April 2026.",
+    "source": "Wiley: Tectonics: Table of Contents",
+    "date": "2026-04-11",
+    "sent": true
+  },
+  {
     "id": "https://www.nature.com/articles/s41467-026-71892-0",
     "title": "Electronic band and core-shell structure engineering enables ultrahigh energy storage in high-entropy ceramics",
     "link": "https://www.nature.com/articles/s41467-026-71892-0",
