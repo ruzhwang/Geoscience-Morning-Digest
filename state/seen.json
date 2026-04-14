@@ -1,5 +1,543 @@
 [
   {
+    "id": "https://www.nature.com/articles/d41586-026-01211-6",
+    "title": "Viruses allegedly stolen from high-security lab cause stir in Brazil",
+    "link": "https://www.nature.com/articles/d41586-026-01211-6",
+    "authors": [
+      "Mariana Lenharo"
+    ],
+    "summary": "Nature, Published online: 13 April 2026; <a href=\"https://www.nature.com/articles/d41586-026-01211-6\">doi:10.1038/d41586-026-01211-6</a>The missing samples — reported to include chikungunya and dengue viruses — have been recovered, but questions linger over motive.",
+    "source": "Nature",
+    "date": "2026-04-13",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-00853-w",
+    "title": "14 things our PhD supervisors got right and why it mattered",
+    "link": "https://www.nature.com/articles/d41586-026-00853-w",
+    "authors": [
+      "Linda Nordling"
+    ],
+    "summary": "Nature, Published online: 13 April 2026; <a href=\"https://www.nature.com/articles/d41586-026-00853-w\">doi:10.1038/d41586-026-00853-w</a>PhD students reflect on how their supervisors made a meaningful difference — from quiet acts of kindness to career-shaping guidance.",
+    "source": "Nature",
+    "date": "2026-04-13",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-01101-x",
+    "title": "The ‘crazy rule-defying’ genes that determine sex",
+    "link": "https://www.nature.com/articles/d41586-026-01101-x",
+    "authors": [
+      "Michael A. Goldman"
+    ],
+    "summary": "Nature, Published online: 13 April 2026; <a href=\"https://www.nature.com/articles/d41586-026-01101-x\">doi:10.1038/d41586-026-01101-x</a>A gripping account reveals the workings of the remarkable chromosomes that specify male or female development.",
+    "source": "Nature",
+    "date": "2026-04-13",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-01199-z",
+    "title": "Human scientists trounce the best AI agents on complex tasks",
+    "link": "https://www.nature.com/articles/d41586-026-01199-z",
+    "authors": [
+      "Nicola Jones"
+    ],
+    "summary": "Nature, Published online: 13 April 2026; <a href=\"https://www.nature.com/articles/d41586-026-01199-z\">doi:10.1038/d41586-026-01199-z</a>State-of-the-industry report finds that, despite the limitations of artificial-intelligence systems, researchers have embraced them.",
+    "source": "Nature",
+    "date": "2026-04-13",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-00197-5",
+    "title": "How I harness research to inform humanitarian relief efforts",
+    "link": "https://www.nature.com/articles/d41586-026-00197-5",
+    "authors": [
+      "Christine Ro"
+    ],
+    "summary": "Nature, Published online: 13 April 2026; <a href=\"https://www.nature.com/articles/d41586-026-00197-5\">doi:10.1038/d41586-026-00197-5</a>As a social scientist at Médecins Sans Frontières, Beverley Stringer researches the many non-medical factors that affect health during emergencies.",
+    "source": "Nature",
+    "date": "2026-04-13",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-00744-0",
+    "title": "Huge analysis of 320,000 careers suggests that productive researchers stay that way",
+    "link": "https://www.nature.com/articles/d41586-026-00744-0",
+    "authors": [
+      "Andy Tay"
+    ],
+    "summary": "Nature, Published online: 13 April 2026; <a href=\"https://www.nature.com/articles/d41586-026-00744-0\">doi:10.1038/d41586-026-00744-0</a>Early publishing success, team size and international collaborations are some of the best predictors of future publication rates.",
+    "source": "Nature",
+    "date": "2026-04-13",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41561-026-01960-z",
+    "title": "Increasing river sediment concentration and flux across the pan-Arctic",
+    "link": "https://www.nature.com/articles/s41561-026-01960-z",
+    "authors": [
+      "Shang Tian",
+      "Dongfeng Li",
+      "Ting Zhang",
+      "James W. McClelland",
+      "Irina Overeem",
+      "Stuart N. Lane",
+      "Robert G. M. Spencer",
+      "Ellen Wohl",
+      "Anmeng Sha",
+      "Yi Zhao",
+      "Chiyuan Miao",
+      "Munan Ning",
+      "Li Yuan",
+      "Jinren Ni"
+    ],
+    "summary": "Nature Geoscience, Published online: 13 April 2026; <a href=\"https://www.nature.com/articles/s41561-026-01960-z\">doi:10.1038/s41561-026-01960-z</a>The total sediment flux from land to the ocean across the pan-Arctic has risen by 15% since 1980, driven by greater river discharge, intensified thermokarst disturbances and wildfire activity, according to machine learning and satellite-based reconstructions of suspended sediment dynamics in 4,331 river reaches.",
+    "source": "Nature Geoscience",
+    "date": "2026-04-13",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41561-026-01961-y",
+    "title": "Water isotope–temperature relationship variability across Antarctica set by atmospheric circulation",
+    "link": "https://www.nature.com/articles/s41561-026-01961-y",
+    "authors": [
+      "Mathieu Casado",
+      "Adriana Bailey",
+      "Christophe Leroy-Dos Santos",
+      "Elise Fourré",
+      "Vincent Favier",
+      "Cécile Agosta",
+      "Niels Dutrievoz",
+      "Christoph Kittel",
+      "Laurent Arnaud",
+      "Frédéric Prié",
+      "Pete D. Akers",
+      "Alexandre Cauquoin",
+      "Martin Werner",
+      "Leoni Janssen",
+      "Barbara Stenni",
+      "Giuliano Dreossi",
+      "Andrea Spolaor",
+      "Agnese Petteni",
+      "Joel Savarino",
+      "Amaelle Landais"
+    ],
+    "summary": "Nature Geoscience, Published online: 13 April 2026; <a href=\"https://www.nature.com/articles/s41561-026-01961-y\">doi:10.1038/s41561-026-01961-y</a>Atmospheric circulation patterns and mean climate conditions lead to heterogeneity in water isotope–temperature relationships across Antarctica, and accounting for these effects allows for more robust interpretation of temperature proxy records from ice cores.",
+    "source": "Nature Geoscience",
+    "date": "2026-04-13",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41561-026-01943-0",
+    "title": "An unprecedented view of ocean currents from geostationary satellites",
+    "link": "https://www.nature.com/articles/s41561-026-01943-0",
+    "authors": [
+      "Luc Lenain",
+      "Kaushik Srinivasan",
+      "Roy Barkan",
+      "Nick Pizzo"
+    ],
+    "summary": "Nature Geoscience, Published online: 13 April 2026; <a href=\"https://www.nature.com/articles/s41561-026-01943-0\">doi:10.1038/s41561-026-01943-0</a>A deep learning framework called GOFLOW enables observation, and may ultimately improve forecasting of, oceanic surface currents down to submesoscale spatial and temporal resolutions from thermal imagery routinely collected by geostationary satellites.",
+    "source": "Nature Geoscience",
+    "date": "2026-04-13",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-71859-1",
+    "title": "Author Correction: Engineering anti-BCMA CAR T cells for enhancing myeloma killing efficacy via apoptosis regulation",
+    "link": "https://www.nature.com/articles/s41467-026-71859-1",
+    "authors": [
+      "Thomas Kimman",
+      "Marta Cuenca",
+      "Ralph G. Tieland",
+      "Dedeke Rockx-Brouwer",
+      "Jasmijn Janssen",
+      "Benjamin Motais",
+      "Anne Slomp",
+      "Corine Pleijte",
+      "Sabine Heijhuurs",
+      "Angelo D. Meringa",
+      "Wendy Boschloo",
+      "Douwe M. T. Bosma",
+      "Sanne Kroos",
+      "Vania lo Presti",
+      "Joost P. G. Sluijter",
+      "Stefan Nierkens",
+      "Niels Bovenschen",
+      "Jürgen Kuball",
+      "Alain van Mil",
+      "Monique C. Minnema",
+      "Zsolt Sebestyén",
+      "Victor Peperzak"
+    ],
+    "summary": "Nature Communications, Published online: 13 April 2026; <a href=\"https://www.nature.com/articles/s41467-026-71859-1\">doi:10.1038/s41467-026-71859-1</a>Author Correction: Engineering anti-BCMA CAR T cells for enhancing myeloma killing efficacy via apoptosis regulation",
+    "source": "Nature Communications",
+    "date": "2026-04-13",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-72048-w",
+    "title": "Author Correction: Boosting mechanical durability under high humidity by bioinspired multisite polymer for high-efficiency flexible perovskite solar cells",
+    "link": "https://www.nature.com/articles/s41467-026-72048-w",
+    "authors": [
+      "Zhihao Li",
+      "Chunmei Jia",
+      "Zhi Wan",
+      "Junchao Cao",
+      "Jishan Shi",
+      "Jiayi Xue",
+      "Xirui Liu",
+      "Hongzhuo Wu",
+      "Chuanxiao Xiao",
+      "Can Li",
+      "Meng Li",
+      "Chao Zhang",
+      "Zhen Li"
+    ],
+    "summary": "Nature Communications, Published online: 13 April 2026; <a href=\"https://www.nature.com/articles/s41467-026-72048-w\">doi:10.1038/s41467-026-72048-w</a>Author Correction: Boosting mechanical durability under high humidity by bioinspired multisite polymer for high-efficiency flexible perovskite solar cells",
+    "source": "Nature Communications",
+    "date": "2026-04-13",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-71977-w",
+    "title": "Author Correction: Bubble-burst-induced Puddle Jumping and Jet Printing",
+    "link": "https://www.nature.com/articles/s41467-026-71977-w",
+    "authors": [
+      "Wenge Huang",
+      "Mohammad Shamsodini Lori",
+      "Anchenyi Yang",
+      "Kai Zhuang",
+      "Yuanhao Cheng",
+      "Mojun Chen",
+      "Chao Sun",
+      "Tingzhen Ming",
+      "Huachen Cui",
+      "Jiangtao Cheng"
+    ],
+    "summary": "Nature Communications, Published online: 13 April 2026; <a href=\"https://www.nature.com/articles/s41467-026-71977-w\">doi:10.1038/s41467-026-71977-w</a>Author Correction: Bubble-burst-induced Puddle Jumping and Jet Printing",
+    "source": "Nature Communications",
+    "date": "2026-04-13",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-71984-x",
+    "title": "Author Correction: Mechanism of trans-envelope bacterial polysaccharide secretion in Class-3 outer-membrane polysaccharide export (OPX) protein systems",
+    "link": "https://www.nature.com/articles/s41467-026-71984-x",
+    "authors": [
+      "Abdelkader Mellouk",
+      "Kenny Ngo",
+      "Ahmad A. Kezzo",
+      "Cyrielle Martini",
+      "Tanos C. C. França",
+      "Steven R. Laplante",
+      "Salim T. Islam",
+      "Charles Calmettes"
+    ],
+    "summary": "Nature Communications, Published online: 13 April 2026; <a href=\"https://www.nature.com/articles/s41467-026-71984-x\">doi:10.1038/s41467-026-71984-x</a>Author Correction: Mechanism of trans-envelope bacterial polysaccharide secretion in Class-3 outer-membrane polysaccharide export (OPX) protein systems",
+    "source": "Nature Communications",
+    "date": "2026-04-13",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-72046-y",
+    "title": "Author Correction: <i>O</i>-GlcNAcylation of MITF regulates its activity and CDK4/6 inhibitor resistance in breast cancer",
+    "link": "https://www.nature.com/articles/s41467-026-72046-y",
+    "authors": [
+      "Yi Zhang",
+      "Shuyan Zhou",
+      "Yan Kai",
+      "Ya-qin Zhang",
+      "Changmin Peng",
+      "Zhuqing Li",
+      "Muhammad Jameel mughal",
+      "Belmar Julie",
+      "Xiaoyan Zheng",
+      "Junfeng Ma",
+      "Cynthia X. Ma",
+      "Min Shen",
+      "Matthew D. Hall",
+      "Shunqiang Li",
+      "Wenge Zhu"
+    ],
+    "summary": "Nature Communications, Published online: 13 April 2026; <a href=\"https://www.nature.com/articles/s41467-026-72046-y\">doi:10.1038/s41467-026-72046-y</a>Author Correction: <i>O</i>-GlcNAcylation of MITF regulates its activity and CDK4/6 inhibitor resistance in breast cancer",
+    "source": "Nature Communications",
+    "date": "2026-04-13",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-71973-0",
+    "title": "Author Correction: Coordination-tailored atomic interfaces for selective CH<sub>4</sub>-to-C<sub>2</sub> conversion in aqueous solution",
+    "link": "https://www.nature.com/articles/s41467-026-71973-0",
+    "authors": [
+      "Fanle Bu",
+      "Jiayu Yan",
+      "Lu Qi",
+      "Shuya Zhao",
+      "Yurui Xue"
+    ],
+    "summary": "Nature Communications, Published online: 13 April 2026; <a href=\"https://www.nature.com/articles/s41467-026-71973-0\">doi:10.1038/s41467-026-71973-0</a>Author Correction: Coordination-tailored atomic interfaces for selective CH<sub>4</sub>-to-C<sub>2</sub> conversion in aqueous solution",
+    "source": "Nature Communications",
+    "date": "2026-04-13",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-71980-1",
+    "title": "Author Correction: Weak mantle wedge causes mantle exhumation punctuated with discrete oceanic crust in the Tyrrhenian basin",
+    "link": "https://www.nature.com/articles/s41467-026-71980-1",
+    "authors": [
+      "Hao Su",
+      "Wei Leng",
+      "Jie Liao",
+      "Sascha Brune"
+    ],
+    "summary": "Nature Communications, Published online: 13 April 2026; <a href=\"https://www.nature.com/articles/s41467-026-71980-1\">doi:10.1038/s41467-026-71980-1</a>Author Correction: Weak mantle wedge causes mantle exhumation punctuated with discrete oceanic crust in the Tyrrhenian basin",
+    "source": "Nature Communications",
+    "date": "2026-04-13",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-71985-w",
+    "title": "Author Correction: Adipose-targeted triiodothyronine therapy counteracts obesity-related metabolic complications and atherosclerosis with negligible side effects",
+    "link": "https://www.nature.com/articles/s41467-026-71985-w",
+    "authors": [
+      "Kang Chen",
+      "Lai Yee Cheong",
+      "Yuan Gao",
+      "Yaming Zhang",
+      "Tianshi Feng",
+      "Qin Wang",
+      "Leigang Jin",
+      "Eric Honoré",
+      "Karen S. L. Lam",
+      "Weiping Wang",
+      "Xiaoyan Hui",
+      "Aimin Xu"
+    ],
+    "summary": "Nature Communications, Published online: 13 April 2026; <a href=\"https://www.nature.com/articles/s41467-026-71985-w\">doi:10.1038/s41467-026-71985-w</a>Author Correction: Adipose-targeted triiodothyronine therapy counteracts obesity-related metabolic complications and atherosclerosis with negligible side effects",
+    "source": "Nature Communications",
+    "date": "2026-04-13",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-026-03498-9",
+    "title": "Wide-swath satellite altimetry reveals hotspots of small mesoscale eddies in the western Arctic Ocean",
+    "link": "https://www.nature.com/articles/s43247-026-03498-9",
+    "authors": [
+      "Chuanshuai Fu",
+      "Xianxian Han",
+      "Qiang Wang",
+      "Clark Pennelly",
+      "Paul G. Myers"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 13 April 2026; <a href=\"https://www.nature.com/articles/s43247-026-03498-9\">doi:10.1038/s43247-026-03498-9</a>The Surface Water and Ocean Topography satellite mission provides unprecedented two-dimensional high-resolution measurements of sea level anomalies, allowing characterisation of small mesoscale eddies, according to analysis of satellite data from the Beaufort Sea.",
+    "source": "Communications Earth & Environment",
+    "date": "2026-04-13",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-026-03483-2",
+    "title": "Climate warming strengthened but droughts eliminated the coupling between productivity and tree growth in semi-arid plantations",
+    "link": "https://www.nature.com/articles/s43247-026-03483-2",
+    "authors": [
+      "Jitang Li",
+      "Zehao Shen",
+      "Antonio Gazol",
+      "Yuyang Xie",
+      "Mingjian Xiahou",
+      "Jesús Julio Camarero"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 13 April 2026; <a href=\"https://www.nature.com/articles/s43247-026-03483-2\">doi:10.1038/s43247-026-03483-2</a>Canopy productivity and radial growth remain strongly coupled in major plantations across northern China, yet droughts create asynchronies, with faster post-drought growth recovery, based on radial-growth records and MODIS data from 2000 to 2018.",
+    "source": "Communications Earth & Environment",
+    "date": "2026-04-13",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-026-03493-0",
+    "title": "Marine mammal mortality during a harmful algal bloom in the Southwestern Atlantic reveals trophic phycotoxin transfer and fetal exposure in sea lions",
+    "link": "https://www.nature.com/articles/s43247-026-03493-0",
+    "authors": [
+      "Valeria C. D’Agostino",
+      "Mariana Degrati",
+      "Marina Arregui",
+      "Ariadna C. Nocera",
+      "Valeria Guinder",
+      "Carola Ferronato",
+      "Bernd Krock"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 13 April 2026; <a href=\"https://www.nature.com/articles/s43247-026-03493-0\">doi:10.1038/s43247-026-03493-0</a>A 2022 harmful algal bloom in Argentina resulted in phycotoxin transfer across trophic levels, causing marine mammal mortality and maternal toxin transfer in sea lions revealed through integrated multi-trophic sampling with phycotoxin analyses.",
+    "source": "Communications Earth & Environment",
+    "date": "2026-04-13",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-026-03457-4",
+    "title": "Andean volcanism, ocean fertilization, marine ecosystem turnover, and global cooling in the Late Miocene",
+    "link": "https://www.nature.com/articles/s43247-026-03457-4",
+    "authors": [
+      "Barbara Carrapa",
+      "Mark T. Clementz",
+      "Nicolás J. Cosentino",
+      "Pedro DiNezio",
+      "Pam Vervoort",
+      "Kaustubh Thirumalai",
+      "Jordan T. Abell",
+      "Dominik Hülse",
+      "Priscilla R. Martinez",
+      "Carolina S. Gutstein"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 13 April 2026; <a href=\"https://www.nature.com/articles/s43247-026-03457-4\">doi:10.1038/s43247-026-03457-4</a>Andean episodic volcanic ash inputs during the Late Miocene enhanced iron, phosphorus, and silicon delivery to the Southern Ocean, stimulating primary productivity and carbon export, according to combined ash dispersion modeling, Earth system simulations, paleontological, and geochemical data.",
+    "source": "Communications Earth & Environment",
+    "date": "2026-04-13",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-026-03380-8",
+    "title": "High-resolution soybean tracing for deforestation-free supply chains",
+    "link": "https://www.nature.com/articles/s43247-026-03380-8",
+    "authors": [
+      "Roi Maor",
+      "Jakub Truszkowski",
+      "Francesca Ablett",
+      "Henry Jennings",
+      "Heather Walker",
+      "Jessica Dunn",
+      "Marigold Norman",
+      "Rosario Carrasco",
+      "Marysol Jaime-Arteaga",
+      "Isabella Miles-Bunch",
+      "Lauren Phelan",
+      "Lydia Prior",
+      "Alexandre Antonelli",
+      "Paul Wilkin",
+      "Jade Saunders",
+      "Victor Deklerck",
+      "Caspar C. C. Chater"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 13 April 2026; <a href=\"https://www.nature.com/articles/s43247-026-03380-8\">doi:10.1038/s43247-026-03380-8</a>Soybean harvest origin in South America can be traced to within 193 km from harvest location, according to a study using chemical fingerprint analysis and Gaussian Process modelling to improve traceability and support deforestation-free supply chains",
+    "source": "Communications Earth & Environment",
+    "date": "2026-04-13",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012821X26002165",
+    "title": "Corrigendum to “Tracing the origin of mantle heterogeneities with the Fe isotopic composition of Southwest Indian Ridge Basalts” [Earth and Planetary Science Letters Volume 682, 15 May 2026, 119954]",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012821X26002165?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 12 April 2026<b>Source:</b> Earth and Planetary Science LettersAuthor(s): Mikaël Motte, Antoine Bézos, Marine Paquet, Marion Rivoal, Frederic Moynier",
+    "source": "ScienceDirect Publication: Earth and Planetary Science Letters",
+    "date": "2026-04-14",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL115016",
+    "title": "SWOT and Swath Altimetry: A Breakthrough for Global Ocean Prediction",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL115016?af=R",
+    "authors": [
+      "Mounir Benkiran, \nErgane Fouchet, \nPierre‐Yves Le Traon, \nElisabeth Rémy, \nYann Drillet"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 8, 28 April 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-04-13",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL122562",
+    "title": "Modelling Reveals an Ice Field on the Arid Northeastern Tibetan Plateau During Marine Isotope Stage 6",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL122562?af=R",
+    "authors": [
+      "Weicheng Wang, \nJie Wang, \nHaopeng Geng, \nBo Cao, \nJinkun Qiu"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 8, 28 April 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-04-12",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL118489",
+    "title": "Physical and Ecological Forcings Drive the Particle Dynamics and Enhanced Carbon Export Efficiency in the Tropical Marginal Sea",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL118489?af=R",
+    "authors": [
+      "Zengchao Xu, \nYibin Huang, \nFeipeng Xu, \nYichong Wang, \nWenxin Fan, \nWeinan Li, \nJixin Chen, \nXin Liu, \nBangqin Huang"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 8, 28 April 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-04-12",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL119507",
+    "title": "Fault Kinematic Controls on the Spatio‐Temporal Proximity of the 2023 Mw 7.8‐7.7 Türkiye Earthquakes",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL119507?af=R",
+    "authors": [
+      "Wenbin Xu, \nKai Sun, \nQijie Wang, \nGuojie Meng, \nLei Xie, \nAli Özkan"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 8, 28 April 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-04-12",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S001670372600236X",
+    "title": "Mineral-associated organic carbon dominance and persistence in coastal wetlands",
+    "link": "https://www.sciencedirect.com/science/article/pii/S001670372600236X?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 13 April 2026<b>Source:</b> Geochimica et Cosmochimica ActaAuthor(s): Yanqi Xiao, Steven J. Hall, Aaron Thompson, Jialin Wang, Jingxuan Chen, Yilin Lan, Cong-Qiang Liu, Chunmei Chen",
+    "source": "ScienceDirect Publication: Geochimica et Cosmochimica Acta",
+    "date": "2026-04-14",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0016703726002383",
+    "title": "Experimental determination of uranium isotope fractionations during early diagenesis of green rust",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0016703726002383?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 13 April 2026<b>Source:</b> Geochimica et Cosmochimica ActaAuthor(s): Loren Tessier, Morten B. Andersen, Franck Poitrasson, Armel Descamps-Mandine, Camille Duquenoy, Ludovic Menjot, Pauline Méjean, Jérôme Chmeleff, Carole Causserand, Mathieu Leisen, Romain Guilbaud",
+    "source": "ScienceDirect Publication: Geochimica et Cosmochimica Acta",
+    "date": "2026-04-14",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0016703726002395",
+    "title": "Carbon and oxygen isotope compositions in calcite from the CM chondrites Aguas Zarcas and MIL 13005: Implications for O and C sources and alteration conditions",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0016703726002395?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 12 April 2026<b>Source:</b> Geochimica et Cosmochimica ActaAuthor(s): S.P. Goudy, M. Telus, K. Nagashima, G.R. Huss",
+    "source": "ScienceDirect Publication: Geochimica et Cosmochimica Acta",
+    "date": "2026-04-14",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0016703726002401",
+    "title": "Insights into silicon isotopic fractionation during reverse weathering from <em>in vitro</em> incubations of sediments from a temperate estuary",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0016703726002401?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 12 April 2026<b>Source:</b> Geochimica et Cosmochimica ActaAuthor(s): Zhe Dong, Katharine Hendry, James M. Byrne, Casey Bryce, Tong Wang, Hong Chin Ng, Jamie Lewis",
+    "source": "ScienceDirect Publication: Geochimica et Cosmochimica Acta",
+    "date": "2026-04-14",
+    "sent": true
+  },
+  {
+    "id": "http://doi.org/10.1093/nsr/nwag064",
+    "title": "Kaolin-derived zeolite enables high-performance carbon capture with gigaton-scale potential",
+    "link": "https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwag064/8653343?rss=1",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\"><div class=\"boxTitle\">Abstract</div>Gigaton-scale carbon dioxide (CO<sub>2</sub>) capture is an indispensable part of the way towards global carbon neutrality, but has lagged in developing an adsorbent that simultaneously has high performance, low cost, and scalability from earth-abundant raw materials coupled with industrially compatible synthesis processes. Here we discover that high performing CO<sub>2</sub> adsorbent of Linda Type A (LTA) zeolite can be converted from ubiquitous kaolin clay (reserves &gt; 30 gigatons) via scalable processes and exhibits record high CO<sub>2</sub> uptake with good cycling stability. The synthesis route, comprising mainly calcination and a hyperthermal reaction, is readily compatible with existing industrial infrastructure and avoids the use of complex or toxic chemicals. Benefiting from an optimized crystal structure for CO₂ trapping, the material achieves CO₂ adsorption capacities that surpass all previously reported clay-derived zeolites across a wide concentration range, from ambient air (∼400 ppm) to flue gas conditions (&lt;20%). It also maintains stable performance over 50 adsorption–desorption cycles. Beyond material and method development, we provide a proof-of-concept showing that integrating radiative cooling for CO₂ adsorption and solar heating for sorbent regeneration could enable a low-carbon pathway for passive sorbent operation. This study offers a feasible route to explore scalable carbon capture using widely available materials and passive energy strategies.</span>",
+    "source": "National Science Review Advance Access",
+    "date": "2026-04-13",
+    "sent": true
+  },
+  {
+    "id": "http://doi.org/10.1093/nsr/nwag114",
+    "title": "Three-dimensional and nanoscale resolved hierarchical structure of electroplated zinc complex in aqueous zinc battery",
+    "link": "https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwag114/8653308?rss=1",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\"><div class=\"boxTitle\">Abstract</div>Aqueous zinc batteries offer safety and cost-effectiveness for grid-scale energy storage although the electrochemical and chemical corrosion of zinc in water results in complex Zn species and three-dimensional (3D) morphology, ultimately degrading battery performance. Thus far the atomic and nanoscale 3D structure of electroplated Zn complex remains unclear. Here, by employing advanced transmission electron microscopy, particularly cryogenic electron tomography, we resolve the preserved 3D architecture of electroplated zinc. A hierarchical solid electrolyte interphase (SEI) comprising two critical structures that could impact battery performance is delineated—an epitaxial ZnO nanolayer on Zn nanoplate as the inner SEI and petal-like zinc hydroxide sulfate (ZHS) flakes emerging from the edges of Zn-ZnO crystal as the extended SEI. We discovered three epitaxial conditions of ZnO on electrochemically plated Zn nanocrystals: (0001)<sub>ZnO</sub> ∥ (0001)<sub>Zn</sub>, (101¯0)<sub>ZnO</sub> ∥ (101¯0)<sub>Zn</sub>, and (0001)<sub>ZnO</sub> ∥ (101¯0)<sub>Zn</sub>. This complex Zn-ZnO-ZHS structure implies a correlation between zinc crystal edges and the heterogeneous chemical environment, which can be correlated with the zinc texture-dependent battery performance.</span>",
+    "source": "National Science Review Advance Access",
+    "date": "2026-04-13",
+    "sent": true
+  },
+  {
     "id": "10.1029/2025GL119526",
     "title": "Mesoscale Eddy Currents Reshape the Spatial Distribution of Wave Height in the Southern Ocean",
     "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL119526?af=R",
