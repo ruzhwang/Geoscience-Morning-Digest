@@ -1,5 +1,792 @@
 [
   {
+    "id": "https://www.nature.com/articles/s41586-026-10324-x",
+    "title": "Imaging interface-controlled bulk oxygen spillover",
+    "link": "https://www.nature.com/articles/s41586-026-10324-x",
+    "authors": [
+      "Weijue Wang",
+      "Hongbin Xu",
+      "Shuhui Liu",
+      "Xiaofeng Yang",
+      "Wei Liu",
+      "Yang-Gang Wang",
+      "Yanqiang Huang",
+      "Tao Zhang"
+    ],
+    "summary": "Nature, Published online: 15 April 2026; <a href=\"https://www.nature.com/articles/s41586-026-10324-x\">doi:10.1038/s41586-026-10324-x</a>In situ microscopic single-particle imaging demonstrates the significance of rationally engineered metal–support interfaces for activating the oxygen in bulk catalyst, helping elucidate reaction pathways in catalytic conversions.",
+    "source": "Nature",
+    "date": "2026-04-15",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-00697-4",
+    "title": "Dozens of AI disease-prediction models were trained on dubious data",
+    "link": "https://www.nature.com/articles/d41586-026-00697-4",
+    "authors": [
+      "Mohana Basu"
+    ],
+    "summary": "Nature, Published online: 15 April 2026; <a href=\"https://www.nature.com/articles/d41586-026-00697-4\">doi:10.1038/d41586-026-00697-4</a>The models are designed to predict someone’s risk of diabetes or stroke. A few might already have been used on patients.",
+    "source": "Nature",
+    "date": "2026-04-15",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41586-026-10493-9",
+    "title": "Polyclonal selection of immune checkpoint mutations in thyroid autoimmunity",
+    "link": "https://www.nature.com/articles/s41586-026-10493-9",
+    "authors": [
+      "Pantelis A. Nicola",
+      "Andrew R. J. Lawson",
+      "Alexandra Tidd",
+      "Juliette Imbert",
+      "Yoshihiro Ishida",
+      "Luke A. Wylie",
+      "Paul A. Scott",
+      "Kenny Roberts",
+      "Luke M. R. Harvey",
+      "Stefanie V. Lensing",
+      "Wei Cheng",
+      "Federico Abascal",
+      "Daniel Leongamornlert",
+      "Yvette Hooks",
+      "Matthew Mayho",
+      "Nicole Müller-Sienerth",
+      "Sara Widaa",
+      "Laura Mincarelli",
+      "James Illing",
+      "Flavia Peci",
+      "Bee Ling Ng",
+      "Georgeina L. Jarman",
+      "Andrew J. C. Russell",
+      "Krishnaa T. A. Mahbubani",
+      "Kourosh Saeb-Parsy",
+      "Anna L. Paterson",
+      "Krishna Chatterjee",
+      "Raheleh Rahbari",
+      "Omer Ali Bayraktar",
+      "Michael R. Stratton",
+      "Peter J. Campbell",
+      "John A. Tadross",
+      "Nadia Schoenmakers",
+      "Iñigo Martincorena"
+    ],
+    "summary": "Nature, Published online: 14 April 2026; <a href=\"https://www.nature.com/articles/s41586-026-10493-9\">doi:10.1038/s41586-026-10493-9</a>Polyclonal selection of immune checkpoint mutations in thyroid autoimmunity",
+    "source": "Nature",
+    "date": "2026-04-14",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41586-026-10482-y",
+    "title": "Autonomous closed-loop framework for reproducible perovskite solar cells",
+    "link": "https://www.nature.com/articles/s41586-026-10482-y",
+    "authors": [
+      "Danpeng Gao",
+      "Shuaihua Lu",
+      "Chunlei Zhang",
+      "Ning Wang",
+      "Zexin Yu",
+      "Xianglang Sun",
+      "Rebecca Martin",
+      "Francesco Vanin",
+      "Liangchen Qian",
+      "Nicholas Long",
+      "Larry Lüer",
+      "Bo Li",
+      "Martin Stolterfoht",
+      "Junhui Hou",
+      "Jun Yin",
+      "Yen-Hung Lin",
+      "Haipeng Lu",
+      "Nan Li",
+      "Nicola Gasparini",
+      "Christoph Joseph Brabec",
+      "Samuel D. Stranks",
+      "Xiao Cheng Zeng",
+      "Zonglong Zhu"
+    ],
+    "summary": "Nature, Published online: 14 April 2026; <a href=\"https://www.nature.com/articles/s41586-026-10482-y\">doi:10.1038/s41586-026-10482-y</a>Autonomous closed-loop framework for reproducible perovskite solar cells",
+    "source": "Nature",
+    "date": "2026-04-14",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-00914-0",
+    "title": "The striking history of safety matches",
+    "link": "https://www.nature.com/articles/d41586-026-00914-0",
+    "authors": [],
+    "summary": "Nature, Published online: 14 April 2026; <a href=\"https://www.nature.com/articles/d41586-026-00914-0\">doi:10.1038/d41586-026-00914-0</a>The quest to make fire-lighting less dangerous, and a proposal for smallest unit of information worth photocopying, in our weekly dip into Nature’s archive.",
+    "source": "Nature",
+    "date": "2026-04-14",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-01217-0",
+    "title": "Stop overlooking librarians’ expertise",
+    "link": "https://www.nature.com/articles/d41586-026-01217-0",
+    "authors": [
+      "Jamie E. Bloss",
+      "Kerry A. Sewell",
+      "Joseph G. L. Lee"
+    ],
+    "summary": "Nature, Published online: 14 April 2026; <a href=\"https://www.nature.com/articles/d41586-026-01217-0\">doi:10.1038/d41586-026-01217-0</a>Stop overlooking librarians’ expertise",
+    "source": "Nature",
+    "date": "2026-04-14",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-01215-2",
+    "title": "Deep-sea mining mustn’t go ahead until there are baseline data",
+    "link": "https://www.nature.com/articles/d41586-026-01215-2",
+    "authors": [
+      "Lixin Li",
+      "Zeming Shi"
+    ],
+    "summary": "Nature, Published online: 14 April 2026; <a href=\"https://www.nature.com/articles/d41586-026-01215-2\">doi:10.1038/d41586-026-01215-2</a>Deep-sea mining mustn’t go ahead until there are baseline data",
+    "source": "Nature",
+    "date": "2026-04-14",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-01218-z",
+    "title": "AI agents replicate human social dynamics in days",
+    "link": "https://www.nature.com/articles/d41586-026-01218-z",
+    "authors": [
+      "Sam Illingworth",
+      "Karen Spinner"
+    ],
+    "summary": "Nature, Published online: 14 April 2026; <a href=\"https://www.nature.com/articles/d41586-026-01218-z\">doi:10.1038/d41586-026-01218-z</a>AI agents replicate human social dynamics in days",
+    "source": "Nature",
+    "date": "2026-04-14",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-01201-8",
+    "title": "Marine heatwaves can supercharge cyclones",
+    "link": "https://www.nature.com/articles/d41586-026-01201-8",
+    "authors": [],
+    "summary": "Nature, Published online: 14 April 2026; <a href=\"https://www.nature.com/articles/d41586-026-01201-8\">doi:10.1038/d41586-026-01201-8</a>Storms that cross exceptionally warm ocean waters intensify more quickly and do more damage than storms that do not.",
+    "source": "Nature",
+    "date": "2026-04-14",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-01216-1",
+    "title": "China discontinues prominent journal ranking list",
+    "link": "https://www.nature.com/articles/d41586-026-01216-1",
+    "authors": [
+      "Zheng Liu"
+    ],
+    "summary": "Nature, Published online: 14 April 2026; <a href=\"https://www.nature.com/articles/d41586-026-01216-1\">doi:10.1038/d41586-026-01216-1</a>China discontinues prominent journal ranking list",
+    "source": "Nature",
+    "date": "2026-04-14",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-025-04132-y",
+    "title": "Researchers: here’s how to audit your fragmented digital identity",
+    "link": "https://www.nature.com/articles/d41586-025-04132-y",
+    "authors": [
+      "Junjie Shen",
+      "Sarah Ormes"
+    ],
+    "summary": "Nature, Published online: 14 April 2026; <a href=\"https://www.nature.com/articles/d41586-025-04132-y\">doi:10.1038/d41586-025-04132-y</a>Services that track researcher profiles can splinter people’s online identities — but there are ways to keep them consistent.",
+    "source": "Nature",
+    "date": "2026-04-14",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-01099-2",
+    "title": "The air is full of DNA — here’s what scientists are using it for",
+    "link": "https://www.nature.com/articles/d41586-026-01099-2",
+    "authors": [
+      "Aisling Irwin"
+    ],
+    "summary": "Nature, Published online: 14 April 2026; <a href=\"https://www.nature.com/articles/d41586-026-01099-2\">doi:10.1038/d41586-026-01099-2</a>Airborne genetic material can be used to paint a picture of ecosystem health, watch for invasive species and even identify humans.",
+    "source": "Nature",
+    "date": "2026-04-14",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-01196-2",
+    "title": "AI needs solid botanical data more than ever",
+    "link": "https://www.nature.com/articles/d41586-026-01196-2",
+    "authors": [
+      "Chris Bivins"
+    ],
+    "summary": "Nature, Published online: 14 April 2026; <a href=\"https://www.nature.com/articles/d41586-026-01196-2\">doi:10.1038/d41586-026-01196-2</a>An artificial-intelligence revolution in biotechnology won’t get far without human taxonomic expertise — and that’s under threat.",
+    "source": "Nature",
+    "date": "2026-04-14",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-01194-4",
+    "title": "Stop the ‘space race’: space exploration must be a shared human endeavour",
+    "link": "https://www.nature.com/articles/d41586-026-01194-4",
+    "authors": [],
+    "summary": "Nature, Published online: 14 April 2026; <a href=\"https://www.nature.com/articles/d41586-026-01194-4\">doi:10.1038/d41586-026-01194-4</a>Although led by NASA, Artemis II wasn’t just a US achievement; the mission was a collaborative effort. Long may such cooperation continue.",
+    "source": "Nature",
+    "date": "2026-04-14",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-01119-1",
+    "title": "NSF awards record number of coveted PhD fellowships in surprise move",
+    "link": "https://www.nature.com/articles/d41586-026-01119-1",
+    "authors": [
+      "Dan Garisto"
+    ],
+    "summary": "Nature, Published online: 14 April 2026; <a href=\"https://www.nature.com/articles/d41586-026-01119-1\">doi:10.1038/d41586-026-01119-1</a>Quantum science and AI research are big winners just a year after the US funding giant slashed its Graduate Research Fellowship Program awards in half.",
+    "source": "Nature",
+    "date": "2026-04-14",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-01225-0",
+    "title": "What Orbán’s fall from power means for research around the world",
+    "link": "https://www.nature.com/articles/d41586-026-01225-0",
+    "authors": [
+      "David Adam"
+    ],
+    "summary": "Nature, Published online: 14 April 2026; <a href=\"https://www.nature.com/articles/d41586-026-01225-0\">doi:10.1038/d41586-026-01225-0</a>Hungary’s new leader has promised to restore the system of checks and balances — but researchers say that rebuilding science will take more than reversing Victor Orbán’s laws.",
+    "source": "Nature",
+    "date": "2026-04-14",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-01058-x",
+    "title": "Boycott of major AI conference exposes a growing US–China divide",
+    "link": "https://www.nature.com/articles/d41586-026-01058-x",
+    "authors": [
+      "Elizabeth Gibney"
+    ],
+    "summary": "Nature, Published online: 14 April 2026; <a href=\"https://www.nature.com/articles/d41586-026-01058-x\">doi:10.1038/d41586-026-01058-x</a>China-based researchers make up more than half of all lead authors at NeurIPS.",
+    "source": "Nature",
+    "date": "2026-04-14",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-01044-3",
+    "title": "Saving face: why facial scars are smaller than back scars",
+    "link": "https://www.nature.com/articles/d41586-026-01044-3",
+    "authors": [
+      "Yingzi Liu",
+      "Maksim V. Plikus"
+    ],
+    "summary": "Nature, Published online: 14 April 2026; <a href=\"https://www.nature.com/articles/d41586-026-01044-3\">doi:10.1038/d41586-026-01044-3</a>Facial wounds heal with less scarring than do comparable ones on the back. The reason relates to differences in the ability of cells to express collagen genes.",
+    "source": "Nature",
+    "date": "2026-04-14",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-01232-1",
+    "title": "Daily briefing: 14 things PhD students liked hearing from their supervisors",
+    "link": "https://www.nature.com/articles/d41586-026-01232-1",
+    "authors": [
+      "Flora Graham"
+    ],
+    "summary": "Nature, Published online: 13 April 2026; <a href=\"https://www.nature.com/articles/d41586-026-01232-1\">doi:10.1038/d41586-026-01232-1</a>What PhD supervisors are doing right, according to Nature’s 2025 PhD survey. Plus, the glowing lures of anglerfish might help them flag down a mate and a gripping account of the ‘rule-defying’ genes that determine sex.",
+    "source": "Nature",
+    "date": "2026-04-13",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-01219-y",
+    "title": "Daily briefing: CAR-T-cell therapy keeps a trio of autoimmune diseases at bay",
+    "link": "https://www.nature.com/articles/d41586-026-01219-y",
+    "authors": [
+      "Jacob Smith"
+    ],
+    "summary": "Nature, Published online: 10 April 2026; <a href=\"https://www.nature.com/articles/d41586-026-01219-y\">doi:10.1038/d41586-026-01219-y</a>Engineered immune cells have vanquished three autoimmune conditions in the same person. Plus, what it was like to be in the room with Artemis II scientists and whether universities should keep a record of misconduct in a national database.",
+    "source": "Nature",
+    "date": "2026-04-10",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41561-026-01967-6",
+    "title": "The far reach of fires",
+    "link": "https://www.nature.com/articles/s41561-026-01967-6",
+    "authors": [],
+    "summary": "Nature Geoscience, Published online: 14 April 2026; <a href=\"https://www.nature.com/articles/s41561-026-01967-6\">doi:10.1038/s41561-026-01967-6</a>The effect of wildfires on human health is growing as wildfires intensify. Effective management needs to address the evolving complexity of fire biogeochemical and climatic impacts and better integrate public health considerations at all stages.",
+    "source": "Nature Geoscience",
+    "date": "2026-04-14",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41561-026-01958-7",
+    "title": "Organic pollution found oceanwide",
+    "link": "https://www.nature.com/articles/s41561-026-01958-7",
+    "authors": [
+      "Aron Stubbins"
+    ],
+    "summary": "Nature Geoscience, Published online: 14 April 2026; <a href=\"https://www.nature.com/articles/s41561-026-01958-7\">doi:10.1038/s41561-026-01958-7</a>Pollutants continue to accumulate in ocean waters but can be hard to track. Research reveals that diverse classes of organic pollutants are widespread throughout the ocean and are now a significant component of the marine carbon pool.",
+    "source": "Nature Geoscience",
+    "date": "2026-04-14",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41561-026-01949-8",
+    "title": "Chalcopyrite the copper gatekeeper",
+    "link": "https://www.nature.com/articles/s41561-026-01949-8",
+    "authors": [
+      "Joël Brugger",
+      "Barbara Etschmann"
+    ],
+    "summary": "Nature Geoscience, Published online: 14 April 2026; <a href=\"https://www.nature.com/articles/s41561-026-01949-8\">doi:10.1038/s41561-026-01949-8</a>Over 300 years since its naming, chalcopyrite remains a mineral of mystery despite its economic necessity, as Joël Brugger and Barbara Etschmann explain.",
+    "source": "Nature Geoscience",
+    "date": "2026-04-14",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41561-026-01955-w",
+    "title": "Lunar magmatism created magnetism",
+    "link": "https://www.nature.com/articles/s41561-026-01955-w",
+    "authors": [
+      "Sonia M. Tikoo"
+    ],
+    "summary": "Nature Geoscience, Published online: 14 April 2026; <a href=\"https://www.nature.com/articles/s41561-026-01955-w\">doi:10.1038/s41561-026-01955-w</a>The mechanism that generated strong magnetic fields on the Moon remains unclear. Lunar samples that record high field strengths combined with heat flux modelling suggest a link between eruption of high-titanium basalts and dynamo generation.",
+    "source": "Nature Geoscience",
+    "date": "2026-04-14",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-71870-6",
+    "title": "Metal-metal interactions in catalysis from spatial separation to physical mixtures",
+    "link": "https://www.nature.com/articles/s41467-026-71870-6",
+    "authors": [
+      "Rena Oh",
+      "Man He",
+      "Jian Yang",
+      "Liang Zhao",
+      "Shi-Gang Sun",
+      "Xiaoyang Jerry Huang"
+    ],
+    "summary": "Nature Communications, Published online: 14 April 2026; <a href=\"https://www.nature.com/articles/s41467-026-71870-6\">doi:10.1038/s41467-026-71870-6</a>Separating metals can outperform mixed atomic sites by promoting different steps of a reaction. This perspective defines a dynamic cooperative mode in which collisions between distinct metal phases transfer electrons and intermediates to boost redox cycles.",
+    "source": "Nature Communications",
+    "date": "2026-04-14",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-71908-9",
+    "title": "Insects manipulate host nuclear trafficking and epigenetic regulation to facilitate herbivory",
+    "link": "https://www.nature.com/articles/s41467-026-71908-9",
+    "authors": [
+      "Ze-Long Zhang",
+      "Tang-Bin Hu",
+      "Xin-Ye Xu",
+      "Hai-Bin Lu",
+      "Jia-Bao Lu",
+      "Ji-Chong Zhuo",
+      "Yi-Zhe Wang",
+      "Zong-Tao Sun",
+      "Jian-Ping Chen",
+      "Jun-Min Li",
+      "Chuan-Xi Zhang",
+      "Hai-Jian Huang"
+    ],
+    "summary": "Nature Communications, Published online: 14 April 2026; <a href=\"https://www.nature.com/articles/s41467-026-71908-9\">doi:10.1038/s41467-026-71908-9</a>Zhang et al. demonstrate that planthoppers secret an NLS-containing salivary effector, which redirects a histone deacetylase to the nucleus, thereby suppressing JA signaling and defense gene expression.",
+    "source": "Nature Communications",
+    "date": "2026-04-14",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-71823-z",
+    "title": "The cylindrical devices with tunable positive, infinite, and negative capacitance for dynamic random access memory",
+    "link": "https://www.nature.com/articles/s41467-026-71823-z",
+    "authors": [
+      "Hyeon Woo Park",
+      "Won-Tae Koo",
+      "Dong Ik Suh",
+      "Junseong Seo",
+      "Panithan Sriboriboon",
+      "Yunseok Kim",
+      "Seungyong Byun",
+      "Youngmo Kim",
+      "Ja-Yong Kim",
+      "Seung Wook Ryu",
+      "Heeyoung Jeon",
+      "Ki Vin Im",
+      "Gwangyeob Lee",
+      "Taeone Youn",
+      "Seho Lee",
+      "Jaeyun Yi",
+      "Seon Yong Cha",
+      "Cheol Seong Hwang"
+    ],
+    "summary": "Nature Communications, Published online: 14 April 2026; <a href=\"https://www.nature.com/articles/s41467-026-71823-z\">doi:10.1038/s41467-026-71823-z</a>Cylindrical ferroelectric/dielectric capacitors show tunable capacitance, shifting from positive to infinite or negative by varying layer thickness. Models and simulations reveal curvature boosts capacitance via stray-field energy effects.",
+    "source": "Nature Communications",
+    "date": "2026-04-14",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-71927-6",
+    "title": "Machine learning driven discovery of low modulus biomedical titanium alloys for additive manufacturing",
+    "link": "https://www.nature.com/articles/s41467-026-71927-6",
+    "authors": [
+      "Jinlong Su",
+      "Fulin Jiang",
+      "Jin Wu",
+      "Yuehua Li",
+      "Ri Han",
+      "Lu Wang",
+      "Raymond Chung Wen Wong",
+      "Jian Wang",
+      "Swee Leong Sing"
+    ],
+    "summary": "Nature Communications, Published online: 14 April 2026; <a href=\"https://www.nature.com/articles/s41467-026-71927-6\">doi:10.1038/s41467-026-71927-6</a>Researchers combined CALPHAD, machine learning, and multi-objective optimisation to design an AM-specific titanium alloy for implant and orthopaedic applications. Laser powder bed fusion produced low-stiffness (~43 GPa), high-ductility (~31%) components, with good cell compatibility.",
+    "source": "Nature Communications",
+    "date": "2026-04-14",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-71965-0",
+    "title": "Topological isomerization unlocks exceptional elasticity and strength of cellulosic triboelectric aerogels",
+    "link": "https://www.nature.com/articles/s41467-026-71965-0",
+    "authors": [
+      "Qiguan Luo",
+      "Feng Gao",
+      "Zheying Liu",
+      "Tao Liu",
+      "Song Zhang",
+      "Bin Luo",
+      "Chenchen Cai",
+      "Jinlong Wang",
+      "Yanhua Liu",
+      "Yayu Bai",
+      "Kang Yu",
+      "Shuangxi Nie"
+    ],
+    "summary": "Nature Communications, Published online: 14 April 2026; <a href=\"https://www.nature.com/articles/s41467-026-71965-0\">doi:10.1038/s41467-026-71965-0</a>To address the intrinsic trade-off between elasticity and strength in cellulose aerogels, a topological isomerization strategy is proposed, enabling simultaneous mechanical robustness and stable triboelectric output for reliable self-powered sensing.",
+    "source": "Nature Communications",
+    "date": "2026-04-14",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-71934-7",
+    "title": "High-resolution cryo-EM structures of small protein–ligand complexes near the theoretical size limit",
+    "link": "https://www.nature.com/articles/s41467-026-71934-7",
+    "authors": [
+      "Kunwoong Park",
+      "Youngki Yoo",
+      "Hyunbum Jeon",
+      "Kiju Choi",
+      "Hanseong Kim",
+      "Eunju Kwon",
+      "Hyun-Ho Lim",
+      "Dong Young Kim",
+      "Kyoung Tai No"
+    ],
+    "summary": "Nature Communications, Published online: 14 April 2026; <a href=\"https://www.nature.com/articles/s41467-026-71934-7\">doi:10.1038/s41467-026-71934-7</a>The estimated minimum particle size for cryo-EM structural analysis is 38 kDa. Here, authors show that high-resolution structures of protein-ligand complexes as small as 32- 41 kDa can be determined using this technique without structural fiducials.",
+    "source": "Nature Communications",
+    "date": "2026-04-14",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-71826-w",
+    "title": "Signaling cascades shape functional subpopulations of cortical astrocytes in male wild-type mice and APP/PS1dE9 Alzheimer’s disease model",
+    "link": "https://www.nature.com/articles/s41467-026-71826-w",
+    "authors": [
+      "Yiannis Poulot-Becq-Giraudon",
+      "Océane Guillemaud",
+      "Elisa Degl’Innocenti",
+      "Vivien Letenneur",
+      "Karouna Bascarane",
+      "Tony Barbay",
+      "Mie Møller Clausen",
+      "Céline Derbois",
+      "Martine Guillermier",
+      "Ludmila Juricek",
+      "Miriam Riquelme-Perez",
+      "Tom Lakomy",
+      "Lucile Benhaim",
+      "Noëlle Dufour",
+      "Pauline Gipchtein",
+      "Fanny Petit",
+      "Léa Siron",
+      "Gwennaëlle Aurégan",
+      "Nathalie Dechamps",
+      "Marie-Claude Gaillard",
+      "Alexis-Pierre Bemelmans",
+      "Rémi Bos",
+      "Maria-Angeles Carrillo-de Sauvage",
+      "Giampaolo Milior",
+      "Nathalie Rouach",
+      "Solène Brohard",
+      "Kevin Muret",
+      "Eric Bonnet",
+      "Carole Escartin"
+    ],
+    "summary": "Nature Communications, Published online: 14 April 2026; <a href=\"https://www.nature.com/articles/s41467-026-71826-w\">doi:10.1038/s41467-026-71826-w</a>How is astrocyte heterogeneity controlled? How does it impact disease? Here, the authors show that STAT3 and NF-kB pathways define astrocyte subpopulations in wild type and APP/PS1dE9 Alzheimer’s disease (AD) model mice, with different morphology, transcriptional signature, functional features, and impact on AD-related alterations.",
+    "source": "Nature Communications",
+    "date": "2026-04-14",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-71051-5",
+    "title": "Sparseness facilitates image encoding across visuo-frontal networks in freely moving macaque",
+    "link": "https://www.nature.com/articles/s41467-026-71051-5",
+    "authors": [
+      "Arun Parajuli",
+      "Melissa Franch",
+      "Valentin Dragoi"
+    ],
+    "summary": "Nature Communications, Published online: 14 April 2026; <a href=\"https://www.nature.com/articles/s41467-026-71051-5\">doi:10.1038/s41467-026-71051-5</a>Sparseness, a quantitative measure of coding efficiency, has only been tested under restrictive conditions using synthetic stimuli. Here, the authors employed wireless neural recordings in freely moving macaques to show that sparsification constitutes a general principle of population coding across sensory and executive cortical circuits.",
+    "source": "Nature Communications",
+    "date": "2026-04-14",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43017-026-00783-1",
+    "title": "Measuring mangrove root exudation with sealed cuvettes",
+    "link": "https://www.nature.com/articles/s43017-026-00783-1",
+    "authors": [
+      "Lea Hanemann"
+    ],
+    "summary": "Nature Reviews Earth &amp; Environment, Published online: 14 April 2026; <a href=\"https://www.nature.com/articles/s43017-026-00783-1\">doi:10.1038/s43017-026-00783-1</a>Lea Hanemann explains how sealed cuvettes can be used to quantify the release of organic compounds from living mangrove roots.",
+    "source": "Nature Reviews Earth & Environment",
+    "date": "2026-04-14",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43017-026-00780-4",
+    "title": "Global carbon emissions and decarbonization in 2025",
+    "link": "https://www.nature.com/articles/s43017-026-00780-4",
+    "authors": [
+      "Zhu Deng",
+      "Biqing Zhu",
+      "Steven J. Davis",
+      "Philippe Ciais",
+      "Zhu Liu"
+    ],
+    "summary": "Nature Reviews Earth &amp; Environment, Published online: 14 April 2026; <a href=\"https://www.nature.com/articles/s43017-026-00780-4\">doi:10.1038/s43017-026-00780-4</a>Global CO2 emissions from fossil fuel combustion and industrial processes increased by +0.7% within 2025. However, large-scale deployment of clean electricity sources during the year avoided 10.3 Gt of global CO2 emissions, so that power sector emissions declined by –0.9% relative to 2024. As the remaining carbon budget for limiting global warming to 1.5 °C is projected to be exhausted by 2029 at a 50% likelihood, further accelerating the shift away from fossil fuels is essential for staying within the 2 °C temperature rise limit.",
+    "source": "Nature Reviews Earth & Environment",
+    "date": "2026-04-14",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-026-03501-3",
+    "title": "Short-term recovery of inland and marine environments after the 2023 Emilia-Romagna flood",
+    "link": "https://www.nature.com/articles/s43247-026-03501-3",
+    "authors": [
+      "Riccardo Bentivogli",
+      "Carlotta Carlini",
+      "Federica Costantini",
+      "Elena Fabbri",
+      "Beatrice Maria Sole Giambastiani",
+      "Nicolas Greggio",
+      "Martina La Torre",
+      "Cristina Luccarini",
+      "Laura Pezzolesi",
+      "Alessandro Piazza",
+      "Paola Valbonesi",
+      "Sonia Silvestri"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 14 April 2026; <a href=\"https://www.nature.com/articles/s43247-026-03501-3\">doi:10.1038/s43247-026-03501-3</a>Despite substantial alterations in water chemistry and biological communities, inland and marine environments showed rapid short-term recovery within five months, trending toward pre-flood conditions and seasonal dynamics after the 2023 Emilia-Romagna flood in Italy.",
+    "source": "Communications Earth & Environment",
+    "date": "2026-04-14",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-026-03506-y",
+    "title": "A Holocene history of extreme rainfall events in Southern Brazil",
+    "link": "https://www.nature.com/articles/s43247-026-03506-y",
+    "authors": [
+      "Julio Cauhy",
+      "Marcela Eduarda Della Libera",
+      "Nicolás M. Stríkis",
+      "Mathias Vuille",
+      "Isabel Tamara Pedron",
+      "Victor Azevedo",
+      "Francisco W. Cruz",
+      "Valdir F. Novello",
+      "Hubert Vonhof",
+      "Denis Scholz"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 14 April 2026; <a href=\"https://www.nature.com/articles/s43247-026-03506-y\">doi:10.1038/s43247-026-03506-y</a>Antarctic–tropical teleconnections and El Niño events have shaped extreme rainfall events in southern Brazil over the last 7,500 years, as revealed by detrital layers within Malfazido Cave speleothems.",
+    "source": "Communications Earth & Environment",
+    "date": "2026-04-14",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-026-03467-2",
+    "title": "Legacy permafrost conditions limit deep carbon decomposition in thermokarst peatlands and ponds",
+    "link": "https://www.nature.com/articles/s43247-026-03467-2",
+    "authors": [
+      "Liam Heffernan",
+      "Konstantinos-Marios Vaziourakis",
+      "A. Britta K. Sannel",
+      "Dolly Kothawala",
+      "Lars Tranvik"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 14 April 2026; <a href=\"https://www.nature.com/articles/s43247-026-03467-2\">doi:10.1038/s43247-026-03467-2</a>Deep peat in thermokarst fens and ponds shows limited decomposition and similar greenhouse gas production, as revealed by oxic and anoxic incubations, elemental analysis, and energy availability quantifications across 12 sites in northern Fennoscandia.",
+    "source": "Communications Earth & Environment",
+    "date": "2026-04-14",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-026-03507-x",
+    "title": "Warmer Atlantic Water intrusion energizes the Arctic Eurasian Basin",
+    "link": "https://www.nature.com/articles/s43247-026-03507-x",
+    "authors": [
+      "Jiao Chen",
+      "Xuezhu Wang",
+      "Qiang Wang",
+      "Xinyue Li",
+      "Vasco Müller",
+      "Sergey Danilov",
+      "Xidong Wang",
+      "Thomas Jung"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 14 April 2026; <a href=\"https://www.nature.com/articles/s43247-026-03507-x\">doi:10.1038/s43247-026-03507-x</a>Arctic deep ocean is projected to become substantially more energetic in the Eurasian Basin due to stronger eddy activity associated with Atlantification, according to high-resolution sea ice-ocean simulations.",
+    "source": "Communications Earth & Environment",
+    "date": "2026-04-14",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-026-03334-0",
+    "title": "High-enthalpy Larderello geothermal system, Italy, powered by thousands of cubic kilometres of mid-crustal magma",
+    "link": "https://www.nature.com/articles/s43247-026-03334-0",
+    "authors": [
+      "Matteo Lupi",
+      "Douglas Stumpp",
+      "Iván Cabrera-Pérez",
+      "Konstantinos Michailos",
+      "Gilberto Saccorotti",
+      "Marco Bonini",
+      "Federico Farina",
+      "Elliot Amir Jiwani-Brown",
+      "Riccardo Lanari",
+      "Samuele Papeschi",
+      "Geneviève Savard",
+      "Juan Porras",
+      "Julien Sfalcin",
+      "Francisco Muñoz-Burbano",
+      "Riccardo Minetto",
+      "Chiara Del Ventisette",
+      "Davide Piccinini",
+      "Domenico Montanari"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 14 April 2026; <a href=\"https://www.nature.com/articles/s43247-026-03334-0\">doi:10.1038/s43247-026-03334-0</a>The presence of a vast magma reservoir, with an estimated 6,000 cubic kilometers of magma, in the continental crust of central Tuscany in Italy is comparable to the crustal reservoirs found below super volcanos such as Yellowstone, according to ambient noise tomography analysis.",
+    "source": "Communications Earth & Environment",
+    "date": "2026-04-14",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-026-03206-7",
+    "title": "Discovery of stromatolite formation in post-impact hydrothermal lacustrine environments and its implications for early Earth",
+    "link": "https://www.nature.com/articles/s43247-026-03206-7",
+    "authors": [
+      "Jaesoo Lim",
+      "Youngeun Kim",
+      "Sujeong Park",
+      "Sangheon Yi",
+      "So-Jeong Kim",
+      "Gyujun Park",
+      "Young Hong Shin",
+      "Hang-Jae Lee",
+      "Gio An",
+      "Arum Jung",
+      "Sun Young Park",
+      "Donghoon Chung",
+      "Il-Mo Kang",
+      "Kyeong Ja Kim",
+      "Sung Won Kim"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 14 April 2026; <a href=\"https://www.nature.com/articles/s43247-026-03206-7\">doi:10.1038/s43247-026-03206-7</a>Stromatolites within the Hapcheon impact crater suggest that asteroid impacts created hydrothermal oases fostering early life and habitability, according to geochemical, isotopic, and microbial analyses from the Hapcheon crater lake in Korea.",
+    "source": "Communications Earth & Environment",
+    "date": "2026-04-14",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL118445",
+    "title": "Meltwater as a Local Source of Ice Nucleating Particles in the Central Arctic Summer",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL118445?af=R",
+    "authors": [
+      "C. E. Mavis, \nM. Vazquez, \nC. A. Bekemeier, \nK. R. Barry, \nE. J. Chamberlain, \nJ. Schmale, \nT. Jokinen, \nT. Laurila, \nM. D. Shupe, \nC. J. M. Hoppe, \nA. A. Fong, \nM. Oggier, \nA. Ulfsbo, \nJ. P. Balmonte, \nJ. S. Bowman, \nT. C. J. Hill, \nP. J. DeMott, \nS. M. Kreidenweis, \nJ. M. Creamean"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 8, 28 April 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-04-13",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GC012756",
+    "title": "Late Eocene to Early Oligocene (36–26 Ma) Rock Magnetism and Magnetostratigraphy of IODP Site U1553, Southwestern Pacific: Defying the Challenges of Carbonate Dilution and Reductive Diagenesis",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GC012756?af=R",
+    "authors": [
+      "Yang Zhang, \nWanzhang Wang, \nTilo von Dobeneck, \nAnna Joy Drury, \nThomas Frederichs, \nWei Yuan"
+    ],
+    "summary": "Geochemistry, Geophysics, Geosystems, Volume 27, Issue 4, April 2026.",
+    "source": "Wiley: Geochemistry, Geophysics, Geosystems: Table of Contents",
+    "date": "2026-04-13",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GC012600",
+    "title": "Tracking Deep Magma Migration Through Diffuse CO2 Degassing: Insights From Piton de la Fournaise Volcano (2013–2023)",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GC012600?af=R",
+    "authors": [
+      "B. Bénard, \nA. Di Muro, \nA. Finizola, \nA. Peltier, \nV. Ferrazzini, \nI. Vlastelic, \nP. Besson, \nV. Famin, \nR. Gusset, \nK. Mussard, \nP. Kowalski, \nP. Boissier, \nC. Brunet, \nF. Lauret, \nN. Desfete, \nC. Griot, \nM. Liuzzo, \nS. Gurrieri, \nG. Giudice, \nF. Grassa, \nM. Longo"
+    ],
+    "summary": "Geochemistry, Geophysics, Geosystems, Volume 27, Issue 4, April 2026.",
+    "source": "Wiley: Geochemistry, Geophysics, Geosystems: Table of Contents",
+    "date": "2026-04-13",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025JB033588",
+    "title": "The 2025 Mw 7.1 Dingri Earthquake, Southern Tibet: Normal Faulting Associated With Indian Slab Tearing?",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JB033588?af=R",
+    "authors": [
+      "Xingpeng Dong, \nYun Chen, \nDinghui Yang, \nMengxue Liu"
+    ],
+    "summary": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 4, April 2026.",
+    "source": "Wiley: Journal of Geophysical Research: Solid Earth: Table of Contents",
+    "date": "2026-04-13",
+    "sent": true
+  },
+  {
+    "id": "https://pubs.geoscienceworld.org/gsa/geology/article/doi/10.1130/G54187.1/728382/How-landslides-happen-without-heavy-rainfall-Early",
+    "title": "How landslides happen without heavy rainfall: Early strong runoff coincides with weak geomaterials",
+    "link": "https://pubs.geoscienceworld.org/gsa/geology/article/doi/10.1130/G54187.1/728382/How-landslides-happen-without-heavy-rainfall-Early",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\">Intense rainfall is widely recognized as the primary trigger for landslides and is commonly used in early warning systems. Yet, many unexpected failures occur during periods of little or even no rainfall, leading to ineffective warnings and failed evacuations. The mechanisms by which landslides occur without heavy rainfall remain unexplored. Integrating field investigations, machine learning, remote sensing, and numerical simulations, we found that landslide disasters without heavy rainfall are widespread: 75.7% of 1118 catastrophic cases exhibited delayed onset, controlled by antecedent rainfall, the topographic wetness index, and landslide scale. For the first time, we identified three runoff-supply patterns (slope, gully, and creek supply) and two migration stages (surface and subsurface) that together govern strong runoff supply in confluence zones. Our work contributes an innovative perspective on the coupling of early strong runoff and weak geomaterials that triggers delayed failures, with three subsurface runoff stages—interflow, sliding-face flow, and return flow. These results clarify the hydro-geomaterial coupling behind delayed landslides and support improved early warning and prediction to reduce risk.</span>",
+    "source": "Geology Advance Access",
+    "date": "2026-04-13",
+    "sent": true
+  },
+  {
+    "id": "https://pubs.geoscienceworld.org/gsa/gsabulletin/article/doi/10.1130/B38696.1/728381/Magnesium-isotopes-reveal-multistage-slab-derived",
+    "title": "Magnesium isotopes reveal multistage slab-derived fluid-rock interactions in subduction channels: Insight from vein-bearing high-pressure carbonated metabasites",
+    "link": "https://pubs.geoscienceworld.org/gsa/gsabulletin/article/doi/10.1130/B38696.1/728381/Magnesium-isotopes-reveal-multistage-slab-derived",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\">Understanding the role of slab-derived fluids in slab-mantle interactions and their impact on arc magmatism is crucial for deciphering Earth’s deep material cycling. In this study, we combine petrology, bulk-rock geochemistry, Mg isotopes, and thermodynamic modeling to investigate fluid-rock interactions recorded in omphacite-rich vein-bearing blueschists and amphibolites from the southwestern Tianshan oceanic subduction zone, China. All high-pressure metabasites display uniformly heavy Mg isotopic compositions, with δ<sup>26</sup>Mg values ranging from −0.03‰ to +0.34‰ (compared to the mantle value of −0.25‰ ± 0.04‰) that correlate positively with the abundances of MgO, Ba, Rb, K, and (Cr + Ni), fingerprinting metasomatism by hybrid fluids enriched in heavy Mg isotopes. Petrological and isotopic constraints indicate these hybrid fluids were generated chiefly during prograde dehydration of serpentinite, with a subordinate contribution from metasediments. Despite their contrasting mineral assemblages, the omphacite-rich veins and their host rocks show no resolvable Mg isotopic variations (Δδ<sup>26</sup>Mg<sub>vein−host</sub> &lt; ±0.03‰), indicating a dissolution-precipitation process during channelized fluid transport without measurable fractionation. Late-stage carbonation progressively shifts δ<sup>26</sup>Mg toward lower values, as evidenced by increasing loss-on-ignition contents and CaO/Al<sub>2</sub>O<sub>3</sub> ratios and decreasing Ce/Pb ratios together with petrographic evidence of retrograde carbonation. We propose that slab-derived fluids, particularly those from serpentinite, can be both Mg rich and enriched in heavy Mg isotopes. In cold subduction zones, the Mg isotopic composition of fluids is primarily controlled by slab lithology and the corresponding devolatilization processes, while metasomatic fluids derived from carbonates appear to exert a limited influence. These results establish Mg isotopes as robust tracers of multisource, fluid-mediated reactive transport in slab-arc systems. Crucially, our findings provide key evidence that serpentinite-derived fluids are the principal carriers of heavy Mg isotopes to arc magma sources in cold subduction zones.</span>",
+    "source": "GSA Bulletin Advance Access",
+    "date": "2026-04-13",
+    "sent": true
+  },
+  {
+    "id": "http://doi.org/10.1093/nsr/nwag222",
+    "title": "A hidden eddy-rich Antarctic shelf revealed by SWOT",
+    "link": "https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwag222/8653810?rss=1",
+    "authors": [],
+    "summary": "",
+    "source": "National Science Review Advance Access",
+    "date": "2026-04-14",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025TC009241",
+    "title": "Influence of Hotspot Magmatism on Breakup Modes and Oceanic Crust Architecture Along a Passive Margin: Insights From Mauritania/Senegal/Guinea Basin",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025TC009241?af=R",
+    "authors": [
+      "François Sapin, \nThomas Maurin"
+    ],
+    "summary": "Tectonics, Volume 45, Issue 4, April 2026.",
+    "source": "Wiley: Tectonics: Table of Contents",
+    "date": "2026-04-13",
+    "sent": true
+  },
+  {
     "id": "https://www.nature.com/articles/d41586-026-01211-6",
     "title": "Viruses allegedly stolen from high-security lab cause stir in Brazil",
     "link": "https://www.nature.com/articles/d41586-026-01211-6",
