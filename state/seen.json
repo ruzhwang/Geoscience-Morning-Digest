@@ -1,5 +1,437 @@
 [
   {
+    "id": "https://www.nature.com/articles/s41467-026-72552-z",
+    "title": "Click/release reaction and SO<sub>2</sub> recycling for multichannel dynamic chiroptical materials",
+    "link": "https://www.nature.com/articles/s41467-026-72552-z",
+    "authors": [
+      "Zhuoer Wang",
+      "Aiyou Hao",
+      "Pengyao Xing"
+    ],
+    "summary": "Nature Communications, Published online: 25 April 2026; <a href=\"https://www.nature.com/articles/s41467-026-72552-z\">doi:10.1038/s41467-026-72552-z</a>The construction of dynamic chiral materials built via a combined covalent and non-covalent strategy remain challenging. Here, the authors report a click-and-release reaction to create a multichannel dynamic chiroptical system with high quantum yield green fluorescence emission.",
+    "source": "Nature Communications",
+    "date": "2026-04-25",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-72326-7",
+    "title": "HaploC-tools reveal haplotype-specific chromosome conformation and chromatin states",
+    "link": "https://www.nature.com/articles/s41467-026-72326-7",
+    "authors": [
+      "Yuanlong Liu",
+      "Gian Marco Franceschini",
+      "Yueyun Zhang",
+      "Elisa Oricchio",
+      "Giovanni Ciriello"
+    ],
+    "summary": "Nature Communications, Published online: 25 April 2026; <a href=\"https://www.nature.com/articles/s41467-026-72326-7\">doi:10.1038/s41467-026-72326-7</a>HaploC-tools infer and compare haplotype-specific chromosome 3D structures, copy number, boundaries, and compartments in >100 Hi-C datasets, revealing widespread haplotype-specific chromatin organization in cancer due CTCF SNPs and asymmetric H3K9me3.",
+    "source": "Nature Communications",
+    "date": "2026-04-25",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-70916-z",
+    "title": "Anti-topological crystal and non-Abelian liquid in twisted semiconductor bilayers",
+    "link": "https://www.nature.com/articles/s41467-026-70916-z",
+    "authors": [
+      "Aidan P. Reddy",
+      "D. N. Sheng",
+      "Ahmed Abouelkomsan",
+      "Emil J. Bergholtz",
+      "Liang Fu"
+    ],
+    "summary": "Nature Communications, Published online: 25 April 2026; <a href=\"https://www.nature.com/articles/s41467-026-70916-z\">doi:10.1038/s41467-026-70916-z</a>The authors show that electron crystals compete closely with non-Abelian fractional Chern insulators in the half-full second moiré band of twisted bilayer MoTe2. In particular, they find an “antitopological” electron crystal with zero Chern number C arising because contributions to C from the full first band and half-full second band cancel.",
+    "source": "Nature Communications",
+    "date": "2026-04-25",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-71664-w",
+    "title": "Dorsal prefrontal cortex drives perseverative behavior in mice",
+    "link": "https://www.nature.com/articles/s41467-026-71664-w",
+    "authors": [
+      "A. Lebedeva",
+      "Y. Wang",
+      "L. Funnell",
+      "B. Terry",
+      "Y. J. Oh",
+      "K. Miller",
+      "K. D. Harris"
+    ],
+    "summary": "Nature Communications, Published online: 25 April 2026; <a href=\"https://www.nature.com/articles/s41467-026-71664-w\">doi:10.1038/s41467-026-71664-w</a>Perseveration – repeating one choice when others would generate larger rewards – is a common behavior, but neither its purpose nor neuronal mechanisms are understood. Here the authors demonstrate a neural correlate and causal role of dorsal prefrontal cortex, specifically anterior supplementary motor cortex, in perseveration in mice performing a dynamic reward learning task.",
+    "source": "Nature Communications",
+    "date": "2026-04-25",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-72137-w",
+    "title": "Artificial chemotaxis in micro/nanomotors",
+    "link": "https://www.nature.com/articles/s41467-026-72137-w",
+    "authors": [
+      "Roshan Velluvakandy",
+      "Xiaohui Ju",
+      "Martin Pumera"
+    ],
+    "summary": "Nature Communications, Published online: 25 April 2026; <a href=\"https://www.nature.com/articles/s41467-026-72137-w\">doi:10.1038/s41467-026-72137-w</a>This Review Article examines artificial chemotaxis in micro/nanomotors, detailing mechanisms, experimental strategies, and collective behaviors. It highlights the need for standardized validation and explores applications in biomedical and industrial fields, emphasizing the challenges and potential of synthetic chemotaxis.",
+    "source": "Nature Communications",
+    "date": "2026-04-25",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-72323-w",
+    "title": "Power management for triboelectric and electrostatic generators enabling continuous and stable power delivery",
+    "link": "https://www.nature.com/articles/s41467-026-72323-w",
+    "authors": [
+      "Zeyuan Cao",
+      "Junchi Teng",
+      "Yongjia Zhao",
+      "Xingqi Guo",
+      "Jiani Xu",
+      "Chao Ren",
+      "Xiongying Ye"
+    ],
+    "summary": "Nature Communications, Published online: 25 April 2026; <a href=\"https://www.nature.com/articles/s41467-026-72323-w\">doi:10.1038/s41467-026-72323-w</a>The work presents a power management system for triboelectric and electrostatic generators, featuring a self-powered peak detection switch, a buck converter, and an energy regulation module. It enhances energy extraction, conversion, and utilization, enabling stable power supply for electronic devices.",
+    "source": "Nature Communications",
+    "date": "2026-04-25",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-72144-x",
+    "title": "How much do zooplankton and fine-scale processes matter for the ocean biological pump?",
+    "link": "https://www.nature.com/articles/s41467-026-72144-x",
+    "authors": [
+      "Mathieu A. Poupon",
+      "Laure Resplandy",
+      "Jessica Y. Luo"
+    ],
+    "summary": "Nature Communications, Published online: 25 April 2026; <a href=\"https://www.nature.com/articles/s41467-026-72144-x\">doi:10.1038/s41467-026-72144-x</a>A high-resolution North Atlantic model shows that fine-scale ocean processes and zooplankton daily migration account for 15-20% of ocean biological carbon storage, mostly through overlooked non-particulate fluxes often missed in existing assessments.",
+    "source": "Nature Communications",
+    "date": "2026-04-25",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-72335-6",
+    "title": "Beyond MPB engineering: enhanced piezoelectricity and thermal stability assisted by high-entropy design",
+    "link": "https://www.nature.com/articles/s41467-026-72335-6",
+    "authors": [
+      "Al Momin Md Tanveer Karim",
+      "Ying Liu",
+      "John Daniels",
+      "Chunyang Gao",
+      "Yue Luo",
+      "Zhenzhu Cao",
+      "Xiaozhou Liao",
+      "Zhenxiang Cheng",
+      "Shujun Zhang"
+    ],
+    "summary": "Nature Communications, Published online: 25 April 2026; <a href=\"https://www.nature.com/articles/s41467-026-72335-6\">doi:10.1038/s41467-026-72335-6</a>The authors integrate morphotropic phase boundary engineering with high-entropy design in a quinary perovskite ceramic, which yields a piezoelectric coefficient of 580 pC/N and exceptional thermal stability, with performance retained up to 285 °C.",
+    "source": "Nature Communications",
+    "date": "2026-04-25",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-026-03538-4",
+    "title": "Crustal recycling and metamorphic dehydration govern the fertility of granite-associated tin systems",
+    "link": "https://www.nature.com/articles/s43247-026-03538-4",
+    "authors": [
+      "Xiang Sun",
+      "Huan-Chao Xu",
+      "Zhi-Ming Yang",
+      "Yong-Jun Lu",
+      "Ming-Jun Zheng",
+      "Run-Sheng Yin",
+      "Pete Hollings",
+      "Jin-Long Ma",
+      "Qing-Fei Wang",
+      "Jun Deng"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 26 April 2026; <a href=\"https://www.nature.com/articles/s43247-026-03538-4\">doi:10.1038/s43247-026-03538-4</a>Integrated boron and mercury isotopes indicate that weakly dehydrated metasedimentary sources retain the volatiles needed to generate tin-fertile granites, highlighting metamorphic preconditioning as a key control on tin metallogenesis.",
+    "source": "Communications Earth & Environment",
+    "date": "2026-04-26",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-026-03499-8",
+    "title": "Mud volcanism and episodic outflow events explain pitted cones in Chryse and Acidalia Planitia, Mars",
+    "link": "https://www.nature.com/articles/s43247-026-03499-8",
+    "authors": [
+      "Zeyu Chen",
+      "Bo Wu",
+      "Sergey Krasilnikov",
+      "Long Chen",
+      "Wenjing Xun",
+      "Zhaojin Li",
+      "Hongliang Li"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 25 April 2026; <a href=\"https://www.nature.com/articles/s43247-026-03499-8\">doi:10.1038/s43247-026-03499-8</a>Mud volcanism and hydrological activity could be responsible for the formation of pitted cones in Chryse and Acidalia Planitia on Mars, according to analysis of Thermal Emission Imaging System data and a deep learning-based morphological assessment.",
+    "source": "Communications Earth & Environment",
+    "date": "2026-04-25",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-026-03551-7",
+    "title": "Rising atmospheric carbon dioxide ignites metal mobilization in acid mine drainage",
+    "link": "https://www.nature.com/articles/s43247-026-03551-7",
+    "authors": [
+      "Xinxin Wang",
+      "Bowen Ji",
+      "Hua Li",
+      "Ru Wang",
+      "Xiaomeng Wang",
+      "Lixiang Zhou",
+      "Guanyu Zheng"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 25 April 2026; <a href=\"https://www.nature.com/articles/s43247-026-03551-7\">doi:10.1038/s43247-026-03551-7</a>Rising atmospheric carbon dioxide upregulates Calvin cycle and accelerates ferrous iron oxidation, intensifying acidification and mobilization of cadmium and zinc in acid mine drainage by 0.6-2% per 100 ppm increase in carbon dioxide, based on controlled experiments paired with global meta-analysis.",
+    "source": "Communications Earth & Environment",
+    "date": "2026-04-25",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-026-03542-8",
+    "title": "Far-reaching effects of Tibetan warming amplification on polar sea‑ice retreat",
+    "link": "https://www.nature.com/articles/s43247-026-03542-8",
+    "authors": [
+      "Mian Xu",
+      "Shichang Kang",
+      "Haijun Yang",
+      "James A. Screen",
+      "Zhenming Ji",
+      "Yannick Peings",
+      "Junhua Yang",
+      "Yuling Hu",
+      "Xintong Chen",
+      "Hao Yu"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 25 April 2026; <a href=\"https://www.nature.com/articles/s43247-026-03542-8\">doi:10.1038/s43247-026-03542-8</a>Tibetan Plateau warming amplification is projected to drive ~20–30% of Arctic and ~10–15% of Antarctic sea-ice loss, with its influence strengthening under higher warming levels, according to model simulations coupling atmospheric, oceanic, and sea-ice components.",
+    "source": "Communications Earth & Environment",
+    "date": "2026-04-25",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012825226001303",
+    "title": "Ichnoliths as results of authigenesis associated with aquatic animal traces",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012825226001303?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 24 April 2026<b>Source:</b> Earth-Science ReviewsAuthor(s): Maciej J. Bojanowski, Andreas Wetzel",
+    "source": "ScienceDirect Publication: Earth-Science Reviews",
+    "date": "2026-04-26",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL121734",
+    "title": "Nonlinear Gyrokinetic Simulation of the Magnetosphere‐Ionosphere Feedback Coupling",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL121734?af=R",
+    "authors": [
+      "T.‐H. Watanabe, \nK. Fujita, \nS. Maeyama"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 8, 28 April 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-04-24",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL118317",
+    "title": "The Value of Forecasters‐in‐the‐Loop in Real‐Time Flood Forecasting in the Age of Machine Learning",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL118317?af=R",
+    "authors": [
+      "Vinh Ngoc Tran, \nDonghui Xu, \nPhong Le, \nJongho Kim, \nTam Van Nguyen, \nGiang Tien Nguyen, \nPedro J. Restrepo, \nValeriy Y. Ivanov"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 8, 28 April 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-04-24",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL120505",
+    "title": "Long‐Term Observations Reveal Non‐Negligible Temperature Contributions to Moist Static Energy During the MJO Transition From Suppressed to Active Phases",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL120505?af=R",
+    "authors": [
+      "Nirmal Alex, \nPallav Ray, \nMike Splitt, \nSteven Lazarus, \nSamson Hagos"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 8, 28 April 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-04-24",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL121559",
+    "title": "Impact of Mantle Velocity Uncertainty on Receiver‐Function Imaging of the Transition Zone",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL121559?af=R",
+    "authors": [
+      "Carlos A. M. Chaves, \nFelipe P. Corral, \nJeroen Ritsema"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 8, 28 April 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-04-24",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL121839",
+    "title": "On the Application of 1 Versus 2 State Variable Rate‐and‐State Friction Laws: An Example From the Nankai Trough Megasplay Fault Zone",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL121839?af=R",
+    "authors": [
+      "Matt J. Ikari, \nAlexander Roesner"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 8, 28 April 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-04-24",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL120406",
+    "title": "Interacting Effects of Sea‐Level Rise and Ocean Warming Reshape Thermal Environments on a Coral Reef",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL120406?af=R",
+    "authors": [
+      "Justin S. Rogers, \nWeifeng (Gordon) Zhang, \nNathaniel R. Mollica, \nMichael D. Fox, \nAnne L. Cohen"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 8, 28 April 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-04-24",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL121860",
+    "title": "Future Changes in the Atmospheric Water Cycle Over the Tibetan Plateau",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL121860?af=R",
+    "authors": [
+      "Yu Zhang, \nChi Zhang, \nMingxiang Yang, \nDeyu Zhong"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 8, 28 April 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-04-24",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL120938",
+    "title": "Influence of Atmospheric Rivers on Lake Ice Phenology in the Northern Hemisphere",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL120938?af=R",
+    "authors": [
+      "Yu Cai, \nYao Xiao, \nXiaoyi Shen, \nHaili Li, \nChang‐Qing Ke"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 8, 28 April 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-04-24",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL119094",
+    "title": "The Net Effective Radiative Forcing From Ozone‐Depleting Substances and Its Uncertainty",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL119094?af=R",
+    "authors": [
+      "Luke M. Western, \nKeith P. Shine, \nWilliam J. Collins"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 8, 28 April 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-04-24",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL118650",
+    "title": "Escalating Compound Drought‐Heatwaves and Demographic Shifts Threaten Simultaneous Global Breadbasket Failures",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL118650?af=R",
+    "authors": [
+      "Amitesh Sabut, \nAshok Mishra"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 8, 28 April 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-04-24",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL121006",
+    "title": "Anomalous Opaque Clouds Revealed by Collocated MODIS and CALIOP Retrievals",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL121006?af=R",
+    "authors": [
+      "Adeleke Segun Ademakinwa, \nChamara Rajakapshe, \nZhibo Zhang"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 8, 28 April 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-04-24",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025JB033171",
+    "title": "Global Presence and Absence of Ultra‐Low Velocity Zones as Seen by Sdiff Postcursors",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JB033171?af=R",
+    "authors": [
+      "J. R. Atkins, \nC. Martin, \nS. Cottaar"
+    ],
+    "summary": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 4, April 2026.",
+    "source": "Wiley: Journal of Geophysical Research: Solid Earth: Table of Contents",
+    "date": "2026-04-24",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0016703726002449",
+    "title": "Towards understanding archaeal lipid biomarker (GDGT) distributions in central Arctic Ocean sediments",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0016703726002449?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 24 April 2026<b>Source:</b> Geochimica et Cosmochimica ActaAuthor(s): Jannik Martens, Bärbel Hönisch, Helen K. Coxall, Matt O’Regan, Flor Vermassen, Martin Jakobsson, Beizhan Yan, Sarah Hurley",
+    "source": "ScienceDirect Publication: Geochimica et Cosmochimica Acta",
+    "date": "2026-04-26",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0016703726002504",
+    "title": "Molybdenum isotopic compositions in volcanic rocks from Northeast Japan",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0016703726002504?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 24 April 2026<b>Source:</b> Geochimica et Cosmochimica ActaAuthor(s): Tatsuya Tamura, Tetsuya Yokoyama, James B. Gill, Takeshi Kuritani, Hikaru Iwamori, Kenta Ueki, Takashi Kudo",
+    "source": "ScienceDirect Publication: Geochimica et Cosmochimica Acta",
+    "date": "2026-04-26",
+    "sent": true
+  },
+  {
+    "id": "https://pubs.geoscienceworld.org/gsa/geology/article/doi/10.1130/G53833.1/729597/Rheological-contrast-traps-and-controls-MW-6-8",
+    "title": "Rheological contrast traps and controls M W  6.8 Michilla (northern Chile) intraslab aftershocks",
+    "link": "https://pubs.geoscienceworld.org/gsa/geology/article/doi/10.1130/G53833.1/729597/Rheological-contrast-traps-and-controls-MW-6-8",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\">The factors controlling the extent and distribution of aftershocks in intermediate-depth earthquakes remain poorly understood, largely due to the scarcity of dense seismological networks and high-resolution seismic catalogs. Between 2013 and 2015 CE, a temporary dense seismic network installed in northern Chile allowed the detailed monitoring of a peculiar, long-lasting aftershock sequence confined within the rupture zone of the 16 December 2007 M<sub>W</sub> 6.8 Michilla intermediate-depth earthquake, located within the subducting oceanic plate. This unique dataset allowed us to compile a high-resolution seismic catalog and to analyze the possible factors that influence this type of rupture. Our results show that seismicity was trapped between the upper and lower oceanic crust, correlating strongly with expected dehydration reactions in basaltic and gabbroic rheologies. In addition, aftershocks were distributed across a complex multi-fault system, which can remain active for an extended period through the same dehydration process. These observations provide new constraints on the mechanics of intermediate-depth rupture and highlight the role of dehydration-driven processes in controlling their seismic behavior, with implications for seismic hazard in subduction zones.</span>",
+    "source": "Geology Advance Access",
+    "date": "2026-04-24",
+    "sent": true
+  },
+  {
+    "id": "https://pubs.geoscienceworld.org/gsa/geology/article/doi/10.1130/G54303.1/729596/Nanoscale-proteinaceous-residues-in-a-Mars",
+    "title": "Nanoscale proteinaceous residues in a Mars-analogous secondary mineral assemblage: Implications for Mars sample return",
+    "link": "https://pubs.geoscienceworld.org/gsa/geology/article/doi/10.1130/G54303.1/729596/Nanoscale-proteinaceous-residues-in-a-Mars",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\">Secondary minerals, such as clay minerals and Fe-Mn oxides, commonly form through aqueous processes mediated by microbial activity, making them key biosignature targets. Microbial proteins can be preserved within these minerals. Although Mars return samples are expected to be rich in secondary phases, the nanoscale distribution and preservation of proteins within them remain poorly known. Using atom probe tomography combined with complementary techniques, we investigate natural Mars-analog secondary minerals and their protein preservation capacity. We achieve in situ, near-atomic-scale characterization of protein-mineral interactions in natural samples. Our results show that clay minerals and Fe-Mn oxides form intimately mixed assemblages with homogeneous spatial associations at the nanometer to subnanometer scale. Proteinaceous residues are preserved within these minerals, commonly distributed along the inner and outer edges of relatively large mineral grains. Incorporation into the mineral lattice likely contributes to their preservation. In contrast, smaller secondary mineral grains (&lt;5 nm) generally retain little protein-related signal and may adsorb only limited amino acid fragments. These findings provide direct nanoscale insights into protein-mineral associations in natural settings, with important implications for detecting potential biosignatures in extraterrestrial samples, such as those returned from Mars.</span>",
+    "source": "Geology Advance Access",
+    "date": "2026-04-24",
+    "sent": true
+  },
+  {
+    "id": "http://doi.org/10.1093/nsr/nwag245",
+    "title": "China’s freshwater lake storage hotspots revealed by bathymetry and typology mapping",
+    "link": "https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwag245/8662459?rss=1",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\"><div class=\"boxTitle\">Abstract</div>A nation’s freshwater security is fundamentally constrained by the total volume and spatial distribution of its water resources, yet this first-order information remains remarkably uncertain at large scales. For China, home to one-fifth of the world’s population but only 7% of its total renewable freshwater resources, this knowledge gap is particularly critical. While decades of satellite observations have tracked changes in lake surface area and water level, the total storage volume of the nation’s lakes have remained unknown, precluding a robust assessment of its water security. Here, we present the first national-scale bathymetric and typologic assessment of all natural lakes in China larger than 1 km². We reveal a total lake water volume of approximately 1,174 km³ (uncertainty range: 1,081–1,285 km³), comprising ∼335 km³ of freshwater and ∼839 km³ of saline water. While the western interior is numerically dominated by saline lakes, our volumetric assessment reveals a counterintuitive pattern in which a few large open lakes store ∼65% of the nation’s lacustrine freshwater due to their exceptional depth. The freshwater lake hotspots present a marked geographic-demographic contrast. This imbalance results in a more significant disparity in per-capita natural lake freshwater storage, with approximately 20,680 m³ per person in the Tibetan Plateau lake zone versus only 65 m³ in the eastern plain lake zone, a nearly 330-fold difference. Notably, a vast network of reservoirs is concentrated in the populous eastern region, and this distribution of artificial storage helps mitigate the spatial unevenness of total surface freshwater resources. Our findings not only establish a definitive baseline for China’s lake water resources but also demonstrate how lakebed geomorphologic features influence national-scale lacustrine freshwater distribution, highlighting the critical need for targeted protection strategies and the efficient utilization of these lake freshwater reserves.</span>",
+    "source": "National Science Review Advance Access",
+    "date": "2026-04-25",
+    "sent": true
+  },
+  {
+    "id": "http://doi.org/10.1093/nsr/nwag186",
+    "title": "Nanogalvanic cell catalysts: bridging electrochemical and thermal catalysis",
+    "link": "https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwag186/8662458?rss=1",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\"><div class=\"boxTitle\">Abstract</div>Selective nitroarene hydrogenation to anilines faces an intractable activity-selectivity trade-off: conventional Horiuti-Polanyi (H-P) catalysis triggers over-hydrogenation of coexisting unsaturated groups via free H* species. Herein, we report Pt@C/TiO<sub>2</sub> as a nanogalvanic cell catalyst (NGC) that bridges electrochemical and thermal catalysis by integrating concerted proton–electron transfer (CPET) into heterogeneous catalysis. In Pt@C/TiO<sub>2</sub>, Pt nanoparticles wrapped by an ultrathin carbon shell catalyze H<sub>2</sub> oxidation, whereas TiO<sub>2</sub> hosts nitro reduction. Protons migrate through solvent hydrogen-bond networks and electrons transfer through the conductive TiO<sub>2</sub> support, enabling a CPET-like reduction that largely bypasses the H-P route without direct substrate-Pt contact. Electrochemical coupling analyses corroborate galvanic-cell operation. Pt@C/TiO<sub>2</sub> affords near-quantitative conversion and &gt; 97% selectivity to 4-aminostyrene from 4-nitrostyrene, while the carbon shell blocks CO/sulfur access to Pt, delivering exceptional poisoning tolerance and stability. This NGC paradigm offers a general strategy for site-separated redox catalysis combining electrocatalytic selectivity with thermal-process simplicity.</span>",
+    "source": "National Science Review Advance Access",
+    "date": "2026-04-25",
+    "sent": true
+  },
+  {
+    "id": "http://doi.org/10.1093/nsr/nwag244",
+    "title": "Rapid and high-quality formation of dodecagonal quasicrystals and their approximants using a purely mechanical approach",
+    "link": "https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwag244/8662151?rss=1",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\"><div class=\"boxTitle\">Abstract</div>The conditions for forming quasicrystals and their approximants are stringent, normally requiring multiple length scales to stabilize the quasicrystalline order. Here we report an unexpected finding that the approximants and motifs of dodecagonal quasicrystals can be spontaneously formed in the simplest system of identical hard disks, utilizing the unstable feature of the initial square packing subject to mechanical perturbations. Because there is only one length scale involved, this finding advances our knowledge of quasicrystals and their approximants. Remarkably, applying this purely mechanical approach to systems known to form dodecagonal quasicrystals yields quasicrystalline orders athermally and even single quasicrystals that exhibit theoretical tiling patterns of perfect DDQCs. Our study suggests a paradigm for rapid synthesis of high-quality quasicrystals.</span>",
+    "source": "National Science Review Advance Access",
+    "date": "2026-04-24",
+    "sent": true
+  },
+  {
     "id": "https://www.nature.com/articles/s41586-026-10518-3",
     "title": "Author Correction: Commensal yeast promotes <i>Salmonella</i> Typhimurium virulence",
     "link": "https://www.nature.com/articles/s41586-026-10518-3",
