@@ -1,5 +1,453 @@
 [
   {
+    "id": "https://www.nature.com/articles/s41586-026-10563-y",
+    "title": "Telomere-to-Telomere Assembly Using HERRO-Corrected Simplex Nanopore Reads",
+    "link": "https://www.nature.com/articles/s41586-026-10563-y",
+    "authors": [
+      "Dominik Stanojević",
+      "Dehui Lin",
+      "Sergey Nurk",
+      "Paola Florez de Sessions",
+      "Mile Šikić"
+    ],
+    "summary": "Nature, Published online: 27 April 2026; <a href=\"https://www.nature.com/articles/s41586-026-10563-y\">doi:10.1038/s41586-026-10563-y</a>Telomere-to-Telomere Assembly Using HERRO-Corrected Simplex Nanopore Reads",
+    "source": "Nature",
+    "date": "2026-04-27",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-01266-5",
+    "title": "#ScientistAtWork 2026: <i>Nature</i> seeks striking photographs that capture researchers at work",
+    "link": "https://www.nature.com/articles/d41586-026-01266-5",
+    "authors": [
+      "Jack Leeming",
+      "Alexia Austin"
+    ],
+    "summary": "Nature, Published online: 27 April 2026; <a href=\"https://www.nature.com/articles/d41586-026-01266-5\">doi:10.1038/d41586-026-01266-5</a>Competition winners receive a cash prize and will see their images featured in Nature.",
+    "source": "Nature",
+    "date": "2026-04-27",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-01283-4",
+    "title": "A chemistry lab that runs itself to find the perfect reaction",
+    "link": "https://www.nature.com/articles/d41586-026-01283-4",
+    "authors": [],
+    "summary": "Nature, Published online: 27 April 2026; <a href=\"https://www.nature.com/articles/d41586-026-01283-4\">doi:10.1038/d41586-026-01283-4</a>Low-cost system can optimize synthesis of a wide variety of products.",
+    "source": "Nature",
+    "date": "2026-04-27",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-01297-y",
+    "title": "Could agentic AI topple grant-funding systems?",
+    "link": "https://www.nature.com/articles/d41586-026-01297-y",
+    "authors": [
+      "Geraint Rees",
+      "James Wilsdon"
+    ],
+    "summary": "Nature, Published online: 27 April 2026; <a href=\"https://www.nature.com/articles/d41586-026-01297-y\">doi:10.1038/d41586-026-01297-y</a>Funders must take action before an increase in submission of high-quality proposals written using AI models makes it impossible to sort the wheat from the chaff.",
+    "source": "Nature",
+    "date": "2026-04-27",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-01295-0",
+    "title": "Mitochondria can spawn new ‘organelles’ — hinting at how modern cells evolved",
+    "link": "https://www.nature.com/articles/d41586-026-01295-0",
+    "authors": [
+      "Viviane Callier"
+    ],
+    "summary": "Nature, Published online: 27 April 2026; <a href=\"https://www.nature.com/articles/d41586-026-01295-0\">doi:10.1038/d41586-026-01295-0</a>Discovery bolsters theory that ancient mitochondria formed brand-new, specialized ‘sacs’ in cells by shedding their outer membranes.",
+    "source": "Nature",
+    "date": "2026-04-27",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-01246-9",
+    "title": "‘The job description is changing’: mathematician Terence Tao on the rise of AI",
+    "link": "https://www.nature.com/articles/d41586-026-01246-9",
+    "authors": [
+      "Davide Castelvecchi"
+    ],
+    "summary": "Nature, Published online: 27 April 2026; <a href=\"https://www.nature.com/articles/d41586-026-01246-9\">doi:10.1038/d41586-026-01246-9</a>The Fields medallist discusses how ever-evolving technology is transforming mathematicians’ work.",
+    "source": "Nature",
+    "date": "2026-04-27",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-01303-3",
+    "title": "Why cosmology is more than a theory",
+    "link": "https://www.nature.com/articles/d41586-026-01303-3",
+    "authors": [
+      "David H. DeVorkin"
+    ],
+    "summary": "Nature, Published online: 27 April 2026; <a href=\"https://www.nature.com/articles/d41586-026-01303-3\">doi:10.1038/d41586-026-01303-3</a>A philosophical take on the history of the Universe that is inspiring but incomplete.",
+    "source": "Nature",
+    "date": "2026-04-27",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-01363-5",
+    "title": "Daily briefing: The heart’s pumping motion seems to keep cancer at bay",
+    "link": "https://www.nature.com/articles/d41586-026-01363-5",
+    "authors": [
+      "Flora Graham"
+    ],
+    "summary": "Nature, Published online: 24 April 2026; <a href=\"https://www.nature.com/articles/d41586-026-01363-5\">doi:10.1038/d41586-026-01363-5</a>Hearts that didn’t beat were quickly overtaken by cancer cells in mice. Plus, huge octopuses might have ruled the ancient seas and how geopolitics is affecting huge health data sets.",
+    "source": "Nature",
+    "date": "2026-04-24",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-72583-6",
+    "title": "Advancing environmental sustainability research and policy in sport",
+    "link": "https://www.nature.com/articles/s41467-026-72583-6",
+    "authors": [
+      "Yueting Zhang",
+      "Han Hao",
+      "Yikeranmu Yi Ming",
+      "Yaomin Zhang",
+      "Bing Shi"
+    ],
+    "summary": "Nature Communications, Published online: 28 April 2026; <a href=\"https://www.nature.com/articles/s41467-026-72583-6\">doi:10.1038/s41467-026-72583-6</a>Sport holds profound global social influence, yet its systemic environmental footprint is often overlooked in sustainable development governance. Although environmental initiatives have proliferated in professional sport, many remain limited to public relations—fragmented, symbolic, and inadequate to tackle structural challenges. To facilitate a transition, a scientific framework is needed that offers coherent, verifiable pathways, bridging the gap between isolated sport initiatives and the broader systems of global environmental governance.",
+    "source": "Nature Communications",
+    "date": "2026-04-28",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-72384-x",
+    "title": "<i>FMOPhore</i> for hotspot identification and efficient fragment-to-lead growth strategies",
+    "link": "https://www.nature.com/articles/s41467-026-72384-x",
+    "authors": [
+      "Peter E. G. F. Ibrahim",
+      "Simone Altmann",
+      "Ulrich Zachariae",
+      "David Horn",
+      "Ian H. Gilbert",
+      "Michael J. Bodkin"
+    ],
+    "summary": "Nature Communications, Published online: 28 April 2026; <a href=\"https://www.nature.com/articles/s41467-026-72384-x\">doi:10.1038/s41467-026-72384-x</a>The study introduces FMOPhore, a computational tool that identifies key binding site residues to improve drug design by guiding efficient fragment growth and lead optimization across diverse protein targets.",
+    "source": "Nature Communications",
+    "date": "2026-04-28",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-72298-8",
+    "title": "Accurate profiling of single-cell alternative transcript start sites by correcting RNA degradation",
+    "link": "https://www.nature.com/articles/s41467-026-72298-8",
+    "authors": [
+      "Zijie Xu",
+      "Zhen Zhou",
+      "Chao Tang",
+      "Yating Zhang",
+      "Bin Mao",
+      "Yiming Zhang",
+      "Li Chen",
+      "Dan Zhang",
+      "Junwei Song",
+      "Xiuran Zheng",
+      "Defu Liu",
+      "Huiying Wang",
+      "Zhifeng He",
+      "Tingfeng Chen",
+      "Jing-wen Lin",
+      "Lu Chen"
+    ],
+    "summary": "Nature Communications, Published online: 28 April 2026; <a href=\"https://www.nature.com/articles/s41467-026-72298-8\">doi:10.1038/s41467-026-72298-8</a>Alternative transcription start sites generate transcript diversity but are difficult to detect due to RNA degradation in 5’ scRNA-seq. Here, the authors present scATS, which corrects degradation to quantify TSS usage, improve cell clustering, and identify lung cancer-promoting TSS isoforms.",
+    "source": "Nature Communications",
+    "date": "2026-04-28",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-72428-2",
+    "title": "Artificial plateau neurons with in-situ spike-malleability for rhythmic quadrupedal locomotion",
+    "link": "https://www.nature.com/articles/s41467-026-72428-2",
+    "authors": [
+      "Hailiang Wang",
+      "Yishu Zhang",
+      "Qingao Chai",
+      "Qian He",
+      "Jiayang Hu",
+      "Yongqing Bai",
+      "Guanyu Liu",
+      "Zongwen Li",
+      "Jian Chai",
+      "Xin He",
+      "Mengze Zhao",
+      "Guodong Xue",
+      "Kaihui Liu",
+      "Yu Fu",
+      "Huajin Tang",
+      "Yang Xu",
+      "Bin Yu"
+    ],
+    "summary": "Nature Communications, Published online: 28 April 2026; <a href=\"https://www.nature.com/articles/s41467-026-72428-2\">doi:10.1038/s41467-026-72428-2</a>The authors report an artificial plateau neuron with bistable, spike-malleable dynamics that generates programmable rhythmic bursts, enabling a quadruped robot to walk adaptively and energy-efficiently via distributed hardware control without centralized computation.",
+    "source": "Nature Communications",
+    "date": "2026-04-28",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-72468-8",
+    "title": "One-pot fabrication of high-strength Janus hydrogel for wet tissue hemostasis and intestinal/intrauterine anti-adhesion",
+    "link": "https://www.nature.com/articles/s41467-026-72468-8",
+    "authors": [
+      "Kaize Su",
+      "Jun Huang",
+      "Min Lu",
+      "Xiaoying Wang",
+      "Min Liu",
+      "Liang He",
+      "Huinan Xu",
+      "Zhiyong Zhang",
+      "Panpan Wu",
+      "Keke Wu"
+    ],
+    "summary": "Nature Communications, Published online: 28 April 2026; <a href=\"https://www.nature.com/articles/s41467-026-72468-8\">doi:10.1038/s41467-026-72468-8</a>Existing Janus hydrogels struggle to combine high-strength, asymmetric adhesion, and simple fabrication. Here, the authors develop a high-strength Janus hydrogel with bilateral asymmetric adhesion for wet tissue hemostasis and intestinal/intrauterine anti-adhesion.",
+    "source": "Nature Communications",
+    "date": "2026-04-28",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-72131-2",
+    "title": "Epitranscriptomic regulation of mRNA stability in pivotal transcription factors modulates the second cell fate decision",
+    "link": "https://www.nature.com/articles/s41467-026-72131-2",
+    "authors": [
+      "Weide Xiao",
+      "Li Tang",
+      "Mingli Ma",
+      "Kuisheng Liu",
+      "Jiaxu Lu",
+      "Wenqing Ding",
+      "Zhile Bai",
+      "Xuelian Liu",
+      "Xiaochen Kou",
+      "Yanhong Zhao",
+      "Hong Wang",
+      "Lei Yang",
+      "Shaorong Gao",
+      "Yawei Gao",
+      "Jun Liu"
+    ],
+    "summary": "Nature Communications, Published online: 28 April 2026; <a href=\"https://www.nature.com/articles/s41467-026-72131-2\">doi:10.1038/s41467-026-72131-2</a>Cell fate decisions during early embryonic development require precise regulatory control. Here, the authors show that m6A RNA modification regulates primitive endoderm differentiation by modulating the stability of key transcripts during the second cell fate decision in mouse embryos.",
+    "source": "Nature Communications",
+    "date": "2026-04-28",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-72440-6",
+    "title": "Durable and transparent intrinsically anti-triboelectric coatings",
+    "link": "https://www.nature.com/articles/s41467-026-72440-6",
+    "authors": [
+      "Chen–Yu Li",
+      "Xiong Lin",
+      "Xin–Yue Yang",
+      "Hao Cheng",
+      "Qin Zhang",
+      "Di Han"
+    ],
+    "summary": "Nature Communications, Published online: 28 April 2026; <a href=\"https://www.nature.com/articles/s41467-026-72440-6\">doi:10.1038/s41467-026-72440-6</a>Li et al. report a molecularly tailored strategy to fabricate durable, transparent anti-triboelectric coating by chemically crosslinking electron-donating and electron-withdrawing components.",
+    "source": "Nature Communications",
+    "date": "2026-04-28",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-72349-0",
+    "title": "CFTR mediates Cl<sup>-</sup> transport in osteocytes to sustain cell viability and skeletal homeostasis",
+    "link": "https://www.nature.com/articles/s41467-026-72349-0",
+    "authors": [
+      "Peijie Hu",
+      "Wanting Du",
+      "Muyan Chu",
+      "Junjiang Chen",
+      "Xiaotian Zhang",
+      "Ziyi Chen",
+      "Jun Hu",
+      "Lei Qin",
+      "Wayne Yuk-Wai Lee",
+      "Jinghui Guo",
+      "Hui Chen",
+      "Ruiyao Xu",
+      "Xiaojun Cai",
+      "Xiaohua Jiang",
+      "Hsiao Chang Chan",
+      "Ling Qin",
+      "Jiankun Xu",
+      "Ye Chun Ruan"
+    ],
+    "summary": "Nature Communications, Published online: 28 April 2026; <a href=\"https://www.nature.com/articles/s41467-026-72349-0\">doi:10.1038/s41467-026-72349-0</a>Here, the authors show that the chloride channel CFTR keeps osteocytes alive and limits bone loss, revealing a new mechanism for maintaining long-lived bone cells and suggesting a potential strategy to protect bone health.",
+    "source": "Nature Communications",
+    "date": "2026-04-28",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-026-03531-x",
+    "title": "Proterozoic coevolution of phytoplankton and the surface Earth redox landscape",
+    "link": "https://www.nature.com/articles/s43247-026-03531-x",
+    "authors": [
+      "Tianzheng Huang",
+      "Bing Shen"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 27 April 2026; <a href=\"https://www.nature.com/articles/s43247-026-03531-x\">doi:10.1038/s43247-026-03531-x</a>In the Proterozoic, ocean-atmosphere redox conditions were likely influenced mainly by the biosphere, especially phytoplankton and the biological pump, according to analysis of biomarker data, isotopic and redox proxy records.",
+    "source": "Communications Earth & Environment",
+    "date": "2026-04-27",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-026-03550-8",
+    "title": "Scalable flood-risk analysis for New York State culvert infrastructure reveals patterns of dependence",
+    "link": "https://www.nature.com/articles/s43247-026-03550-8",
+    "authors": [
+      "Omid Emamjomehzadeh",
+      "Omar Wani"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 27 April 2026; <a href=\"https://www.nature.com/articles/s43247-026-03550-8\">doi:10.1038/s43247-026-03550-8</a>About 16% (with an uncertainty range of 1–47%) of culverts in New York State have capacities below the 50-year design discharge, which could lead to flooding, as revealed by large-scale hydrologic-hydraulic modeling across 2,300 catchments.",
+    "source": "Communications Earth & Environment",
+    "date": "2026-04-27",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-026-03554-4",
+    "title": "Synergistic effect of abalone and macroalgae on carbon storage in a co-culture ecosystem",
+    "link": "https://www.nature.com/articles/s43247-026-03554-4",
+    "authors": [
+      "Zhou Zhang",
+      "Shuang-Jie Tian",
+      "Chang-Lin Li",
+      "Xiao-Nan Wang",
+      "Miao-Jun Pan",
+      "Yu-Xi Zhao",
+      "Xuan Dong",
+      "Xiang-Li Tian",
+      "Yun-Wei Dong",
+      "Qin-Feng Gao",
+      "Jing-Yu Li",
+      "Shuang-Lin Dong"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 27 April 2026; <a href=\"https://www.nature.com/articles/s43247-026-03554-4\">doi:10.1038/s43247-026-03554-4</a>Co-culturing abalone with the seaweed Gracilaria turns the system from a carbon dioxide source into a carbon sink, as mesocosm experiments show higher community productivity and more stable carbon sediment than in abalone monoculture.",
+    "source": "Communications Earth & Environment",
+    "date": "2026-04-27",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-026-03557-1",
+    "title": "Targeting key toxic nanoscale particulate matter for precision control of coal power emissions",
+    "link": "https://www.nature.com/articles/s43247-026-03557-1",
+    "authors": [
+      "Miao Xu",
+      "Xiaojing Yang",
+      "Zuoshun Niu",
+      "Zhiqiang Shi",
+      "Mengyuan Wang",
+      "Xuanhe Zhao",
+      "Yi Yang"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 27 April 2026; <a href=\"https://www.nature.com/articles/s43247-026-03557-1\">doi:10.1038/s43247-026-03557-1</a>Iron rich nanoscale particles from coal plants are identified as the main toxic component, revealed through single particle chemical profiling and cell-based toxicity analysis combined with interpretable machine learning.",
+    "source": "Communications Earth & Environment",
+    "date": "2026-04-27",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-026-03555-3",
+    "title": "End of life electric vehicle batteries in China to 2060 and related resource management implications",
+    "link": "https://www.nature.com/articles/s43247-026-03555-3",
+    "authors": [
+      "Ziang Li",
+      "Zhenkai Bi",
+      "Xin Xiong",
+      "Zengwei Yuan",
+      "Songyan Jiang",
+      "Liang Zhao",
+      "Guoguang Wang",
+      "Jun Chen"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 27 April 2026; <a href=\"https://www.nature.com/articles/s43247-026-03555-3\">doi:10.1038/s43247-026-03555-3</a>End of life electric vehicle batteries follow a mid-century peak and shifting metal and regional recovery patterns, identified using long horizon technology based and spatially detailed projections to support recycling strategies.",
+    "source": "Communications Earth & Environment",
+    "date": "2026-04-27",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-026-03514-y",
+    "title": "Potential futures for the IPCC’s approach to artificial intelligence",
+    "link": "https://www.nature.com/articles/s43247-026-03514-y",
+    "authors": [
+      "Holly Jean Buck",
+      "Alaa Al Khourdajie",
+      "Shinichiro Asayama",
+      "Oliver Geden"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 27 April 2026; <a href=\"https://www.nature.com/articles/s43247-026-03514-y\">doi:10.1038/s43247-026-03514-y</a>Developments in generative Artificial Intelligence and society’s perception of its safety shape four distinct scenarios of genAI use, from fast adoption to public backlash, that will shape socio-political challenges for the Intergovernmental Panel on Climate Change.",
+    "source": "Communications Earth & Environment",
+    "date": "2026-04-27",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL119692",
+    "title": "Evaluating the Feasibility of Phased Array Radar‐Derived Quantitative Precipitation Estimation Using the NSSL's Advanced Technology Demonstrator",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL119692?af=R",
+    "authors": [
+      "Emily J. Blumenauer, \nA. Addison Alford, \nDavid J. Bodine, \nPierre‐Emmanuel Kirstetter, \nRobert Clark, \nAnthony Reinhart"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 8, 28 April 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-04-26",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GC012862",
+    "title": "Epidote Records (De)hydration From the Seafloor Through Subduction and Underplating: Implications for Subduction Zone Fluid Budgets and Slow Slip",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GC012862?af=R",
+    "authors": [
+      "P. C. Lindquist, \nC. B. Condit, \nW. F. Hoover, \nV. E. Guevara, \nG. S. Epstein"
+    ],
+    "summary": "Geochemistry, Geophysics, Geosystems, Volume 27, Issue 4, April 2026.",
+    "source": "Wiley: Geochemistry, Geophysics, Geosystems: Table of Contents",
+    "date": "2026-04-26",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GC012735",
+    "title": "A Common Mantle Source for the Endogenous CO2 Degassed at the Eifel (Western Germany) and the Ardennes (Eastern Belgium) Regions",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GC012735?af=R",
+    "authors": [
+      "Lisa Ricci, \nFrancesco Frondini, \nDaniele Morgavi, \nStefano Caliro, \nAndrea Luca Rizzo, \nTobias P. Fischer, \nGiovanni Chiodini"
+    ],
+    "summary": "Geochemistry, Geophysics, Geosystems, Volume 27, Issue 4, April 2026.",
+    "source": "Wiley: Geochemistry, Geophysics, Geosystems: Table of Contents",
+    "date": "2026-04-26",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0016703726002528",
+    "title": "Laboratory-grown crust in planktic foraminifera <em>Neogloboquadrina pachyderma;</em> insights into resolving inaccuracies in polar palaeotemperature estimates",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0016703726002528?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 26 April 2026<b>Source:</b> Geochimica et Cosmochimica ActaAuthor(s): A. Westgård, M.M. Ezat, F.E. Sykes, G.L. Foster, J. Meilland, T.B. Chalk, J.A. Milton",
+    "source": "ScienceDirect Publication: Geochimica et Cosmochimica Acta",
+    "date": "2026-04-28",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0016703726002516",
+    "title": "Hafnium and silicon isotope evidence for multiple unsilicified basaltic sources at the origin of Rhyacian TTG magmas in the Mineiro Belt (Brazil)",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0016703726002516?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 26 April 2026<b>Source:</b> Geochimica et Cosmochimica ActaAuthor(s): Syro Lacerda, Martin Guitreau, Leonardo Gonçalves, Hugo Moreira, Cristiane C. Gonçalves, Stéphany Rodrigues Lopes, Sandro Mauri, Marco Aurélio Pinheiro, Cassiano Costa e Castro, Régis Doucelance",
+    "source": "ScienceDirect Publication: Geochimica et Cosmochimica Acta",
+    "date": "2026-04-28",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0016703726002607",
+    "title": "Stagnant groundwater in a large subterranean estuary revealed by <sup>226</sup>Ra/<sup>230</sup>Th disequilibria",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0016703726002607?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 26 April 2026<b>Source:</b> Geochimica et Cosmochimica ActaAuthor(s): Liuting Yuan, Chong Sheng, Yilin Cheng, Qingquan Hong, Yaojin Chen, Shouye Yang, Yiming Luo, Roger Francois, Pinghe Cai",
+    "source": "ScienceDirect Publication: Geochimica et Cosmochimica Acta",
+    "date": "2026-04-28",
+    "sent": true
+  },
+  {
     "id": "https://www.nature.com/articles/d41586-026-01361-7",
     "title": "Entire NSF science advisory board fired by Trump administration",
     "link": "https://www.nature.com/articles/d41586-026-01361-7",
