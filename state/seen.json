@@ -1,5 +1,215 @@
 [
   {
+    "id": "https://www.nature.com/articles/s41467-026-72596-1",
+    "title": "Lifestyle-dependent evolution and CtrA-mediated lifestyle transitions shape phage resistance in marine Roseobacter",
+    "link": "https://www.nature.com/articles/s41467-026-72596-1",
+    "authors": [
+      "Chengcheng Li",
+      "Shailesh Nair",
+      "Zenghu Zhang",
+      "Jiulong Zhao",
+      "Zengmeng Wang",
+      "Chao Zhou",
+      "Rui Zhang",
+      "Nianzhi Jiao",
+      "Yongyu Zhang"
+    ],
+    "summary": "Nature Communications, Published online: 03 May 2026; <a href=\"https://www.nature.com/articles/s41467-026-72596-1\">doi:10.1038/s41467-026-72596-1</a>Marine bacteria are often under constant phage predation. Li et al. present that surface-attached populations exhibit 26-fold higher survivability than planktonic counterparts during lytic phage infection. They identify CtrA as an evolutionary target for phage-driven selection towards an attached lifestyle.",
+    "source": "Nature Communications",
+    "date": "2026-05-03",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-72683-3",
+    "title": "Intelligence-responsive wettability switch coating on magnesium implants for treating osteoporotic fracture",
+    "link": "https://www.nature.com/articles/s41467-026-72683-3",
+    "authors": [
+      "Guobin Qi",
+      "Tianle Ma",
+      "Yugang Wang",
+      "Kai Chen",
+      "Yuheng Yan",
+      "Zhanyu Li",
+      "Ning Deng",
+      "Changchun Tseng",
+      "Bin Li",
+      "Yufeng Zheng",
+      "Zhe Wang"
+    ],
+    "summary": "Nature Communications, Published online: 03 May 2026; <a href=\"https://www.nature.com/articles/s41467-026-72683-3\">doi:10.1038/s41467-026-72683-3</a>Osteoporotic fractures often heal poorly due to high oxidative stress. Here, the authors develop an intelligent responsive hydrogel coating for magnesium implants that decelerates implant degradation, alleviates oxidative stress, and promotes bone regeneration.",
+    "source": "Nature Communications",
+    "date": "2026-05-03",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-72738-5",
+    "title": "The plastidial PHS1-DPE1 complex drives efficient malto-oligosaccharides synthesis in rice starch metabolism",
+    "link": "https://www.nature.com/articles/s41467-026-72738-5",
+    "authors": [
+      "Jian Liu",
+      "Xinru Wu",
+      "Haitao He",
+      "Xi Yang",
+      "Yuanhuai Hu",
+      "Fei Zhang",
+      "Rong Fan",
+      "Xuecui Wang",
+      "Shenao Yang",
+      "Lian Xiong",
+      "Delin Zhang",
+      "Ping Yin",
+      "Jianping Guo",
+      "Zhu Liu",
+      "Junjie Yan"
+    ],
+    "summary": "Nature Communications, Published online: 03 May 2026; <a href=\"https://www.nature.com/articles/s41467-026-72738-5\">doi:10.1038/s41467-026-72738-5</a>The malto-oligosaccharides (MOS) serve as essential primers for starch synthesis in higher plants. Authors demonstrate that two enzymes, PHS1 and DPE1, form a binary complex and coordinately promote MOS synthesis as a key initial step in starch biosynthesis.",
+    "source": "Nature Communications",
+    "date": "2026-05-03",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-72684-2",
+    "title": "A membrane-modulated chemoenzymatic dynamic kinetic resolution for the synthesis of chiral phthalidyl esters",
+    "link": "https://www.nature.com/articles/s41467-026-72684-2",
+    "authors": [
+      "Jun Wu",
+      "Donghua He",
+      "Yongjin Zhang",
+      "Zhendong Feng",
+      "Hongxu Liu",
+      "Guohua Liu"
+    ],
+    "summary": "Nature Communications, Published online: 02 May 2026; <a href=\"https://www.nature.com/articles/s41467-026-72684-2\">doi:10.1038/s41467-026-72684-2</a>The development of chemoenzymatic dynamic kinetic resolution has long been constrained by principal limitations, which need precise synchronization of racemization and resolution steps for rate matching. Here, the authors introduce a membrane-modulated strategy that circumvents the mandatory requirement for strict rate matching.",
+    "source": "Nature Communications",
+    "date": "2026-05-02",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-72546-x",
+    "title": "Synergistic Fe/Ni catalysis for electrochemical 1,1-difunctionalization of alkenes",
+    "link": "https://www.nature.com/articles/s41467-026-72546-x",
+    "authors": [
+      "Pengwei Hu",
+      "Chao Yang",
+      "Lin Guo",
+      "Wujiong Xia"
+    ],
+    "summary": "Nature Communications, Published online: 02 May 2026; <a href=\"https://www.nature.com/articles/s41467-026-72546-x\">doi:10.1038/s41467-026-72546-x</a>Alkene 1,1- difunctionalization holds significant importance in organic synthesis due to its ability to effectively enhance the complexity and functionality of molecular frameworks. Here, the authors report an electrochemical strategy for 1,1-difunctionalization of halogenated aromatics with unactivated alkenes, using synergistic Fe/Ni catalysis.",
+    "source": "Nature Communications",
+    "date": "2026-05-02",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-72697-x",
+    "title": "Transversely pumped laser driven particle accelerator",
+    "link": "https://www.nature.com/articles/s41467-026-72697-x",
+    "authors": [
+      "Tanner Nutting",
+      "Nicholas Ernst",
+      "Alexander G. R. Thomas",
+      "Karl Krushelnick"
+    ],
+    "summary": "Nature Communications, Published online: 02 May 2026; <a href=\"https://www.nature.com/articles/s41467-026-72697-x\">doi:10.1038/s41467-026-72697-x</a>Spatiotemporally structured laser fields are attracting interest for laser-based particle acceleration schemes. Here, the authors introduce transversely pumped acceleration, demonstrating potential practical advantage over previously established schemes and opening towards compact accelerators for applications.",
+    "source": "Nature Communications",
+    "date": "2026-05-02",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-72478-6",
+    "title": "Swimming with robots: investigating fish locomotion, sensing, and schooling behavior with robotic swimmers",
+    "link": "https://www.nature.com/articles/s41467-026-72478-6",
+    "authors": [
+      "Auke Ijspeert",
+      "Francesco Mondada",
+      "Emily Standen",
+      "Guy Theraulaz"
+    ],
+    "summary": "Nature Communications, Published online: 02 May 2026; <a href=\"https://www.nature.com/articles/s41467-026-72478-6\">doi:10.1038/s41467-026-72478-6</a>Robotic fish are shifting from engineering curiosities to experimental partners in biology. This Perspective highlights how adaptive, closed-loop robots enable controlled tests of neuromechanical, sensorimotor and social feedback underlying fish behavior.",
+    "source": "Nature Communications",
+    "date": "2026-05-02",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-72563-w",
+    "title": "Reconstructing magmatic histories with 3D diffusion modeling of complex crystals",
+    "link": "https://www.nature.com/articles/s41467-026-72563-w",
+    "authors": [
+      "Adrien J. Mourey",
+      "Euan J. F. Mutch"
+    ],
+    "summary": "Nature Communications, Published online: 02 May 2026; <a href=\"https://www.nature.com/articles/s41467-026-72563-w\">doi:10.1038/s41467-026-72563-w</a>3D mineral stopwatches reveal multi-stage magmatic history before the 1820 lava fountaining eruption at Kīlauea volcano, Hawai’i. Magmas can be stored for decades then mobilized over days before ascending to the surface in a matter of hours.",
+    "source": "Nature Communications",
+    "date": "2026-05-02",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-026-03573-1",
+    "title": "Climate-driven electricity-hydrogen networking accelerates cost competitive carbon neutrality in Chinese cities",
+    "link": "https://www.nature.com/articles/s43247-026-03573-1",
+    "authors": [
+      "Zhongfan Gu",
+      "Guangsheng Pan",
+      "Wei Gu",
+      "Qinran Hu",
+      "Ershun Du",
+      "Chao Ning",
+      "Zhi Wu",
+      "Suyang Zhou"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 03 May 2026; <a href=\"https://www.nature.com/articles/s43247-026-03573-1\">doi:10.1038/s43247-026-03573-1</a>Coordinated electricity and hydrogen network expansion lowers costs and emissions while enabling efficient hydrogen transport, identified using a climate-driven city-level modelling framework based on long-term hourly data across Chinese cities.",
+    "source": "Communications Earth & Environment",
+    "date": "2026-05-03",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-026-03579-9",
+    "title": "Global sea urchin diversity patterns reveal shifts between shallow-water and deep-water benthic assemblages",
+    "link": "https://www.nature.com/articles/s43247-026-03579-9",
+    "authors": [
+      "Lin He",
+      "Jiao Cheng",
+      "Ning Xiao",
+      "Min Hui",
+      "Zhongli Sha"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 02 May 2026; <a href=\"https://www.nature.com/articles/s43247-026-03579-9\">doi:10.1038/s43247-026-03579-9</a>Sea urchins exhibit depth-mediated shifts in biodiversity, with temperature regulating patterns in shallow water and multi-factor drivers impacting deep water assemblages, according to integrated occurrence records and model-based predictions.",
+    "source": "Communications Earth & Environment",
+    "date": "2026-05-02",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012825226001364",
+    "title": "Geology of the Eurasia Basin and Gakkel Ridge, Arctic Ocean: Review and update",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012825226001364?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 1 May 2026<b>Source:</b> Earth-Science ReviewsAuthor(s): Anatoly M. Nikishin, Ksenia F. Aleshina, Viktor Yu. Tatarinov, Gillian R. Foulger, Oxana A. Khlebnikova, Aleksey G. Pilitsin, Henry W. Posamentier, Elizaveta A. Rodina, Andrey A. Chernykh, Vladimir E. Verzhbitsky",
+    "source": "ScienceDirect Publication: Earth-Science Reviews",
+    "date": "2026-05-03",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026JB033858",
+    "title": "High Temperature Friction and Strength of Felsite and Basalt: Implications for Supercritical EGS at Krafla, Iceland",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026JB033858?af=R",
+    "authors": [
+      "E. Rybacki, \nV. Schuster, \nJ. Starke, \nS. Incel"
+    ],
+    "summary": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 5, May 2026.",
+    "source": "Wiley: Journal of Geophysical Research: Solid Earth: Table of Contents",
+    "date": "2026-05-01",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0016703726002814",
+    "title": "Barium isotopes reveal widespread recycled oceanic crust in the deep mantle",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0016703726002814?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 1 May 2026<b>Source:</b> Geochimica et Cosmochimica ActaAuthor(s): Junhua Yao, Guo-Liang Zhang, Zhi-Hua Zhao, Fang Huang",
+    "source": "ScienceDirect Publication: Geochimica et Cosmochimica Acta",
+    "date": "2026-05-03",
+    "sent": true
+  },
+  {
     "id": "https://www.nature.com/articles/s41586-026-10601-9",
     "title": "Author Correction: Titration of RAS alters senescent state and influences tumour initiation",
     "link": "https://www.nature.com/articles/s41586-026-10601-9",
