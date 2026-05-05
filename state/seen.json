@@ -1,5 +1,277 @@
 [
   {
+    "id": "https://www.nature.com/articles/d41586-026-01410-1",
+    "title": "Powerful tools are revealing the ‘control knobs’ of the genome",
+    "link": "https://www.nature.com/articles/d41586-026-01410-1",
+    "authors": [
+      "Michael Eisenstein"
+    ],
+    "summary": "Nature, Published online: 04 May 2026; <a href=\"https://www.nature.com/articles/d41586-026-01410-1\">doi:10.1038/d41586-026-01410-1</a>By accelerating the identification of DNA sequences that control gene expression, assays are revealing the hidden grammar of the regulatory genome — and giving scientists the means to rewrite it",
+    "source": "Nature",
+    "date": "2026-05-04",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-01450-7",
+    "title": "Hantavirus crops up on a cruise ship — what scientists are watching",
+    "link": "https://www.nature.com/articles/d41586-026-01450-7",
+    "authors": [
+      "Mohana Basu",
+      "Rachel Fieldhouse"
+    ],
+    "summary": "Nature, Published online: 04 May 2026; <a href=\"https://www.nature.com/articles/d41586-026-01450-7\">doi:10.1038/d41586-026-01450-7</a>The group of rodent viruses can cause disease in humans, but cases are rare.",
+    "source": "Nature",
+    "date": "2026-05-04",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-01394-y",
+    "title": "'Heartbreaking': Iranian scientists on losing labs, libraries and liberty",
+    "link": "https://www.nature.com/articles/d41586-026-01394-y",
+    "authors": [
+      "Michele Catanzaro"
+    ],
+    "summary": "Nature, Published online: 04 May 2026; <a href=\"https://www.nature.com/articles/d41586-026-01394-y\">doi:10.1038/d41586-026-01394-y</a>Bombing of Iran's civilian infrastructure has damaged universities, destroyed thousands of books and manuscripts, amid a government-imposed Internet blackout, some of the country's researchers have told Nature.",
+    "source": "Nature",
+    "date": "2026-05-04",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-72467-9",
+    "title": "Behavioural separation of face memory and face perception",
+    "link": "https://www.nature.com/articles/s41467-026-72467-9",
+    "authors": [
+      "Jan Kadlec",
+      "Catherine R. Walsh",
+      "Meytal Wilf",
+      "Jesse Rissman",
+      "Michal Ramot"
+    ],
+    "summary": "Nature Communications, Published online: 05 May 2026; <a href=\"https://www.nature.com/articles/s41467-026-72467-9\">doi:10.1038/s41467-026-72467-9</a>How and when face perception and face memory interact is debated. Here, the authors introduce the FMP task and use it to show that these processes are largely independent, interacting only when face-specific interference forces feature-based processing.",
+    "source": "Nature Communications",
+    "date": "2026-05-05",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-72395-8",
+    "title": "The SIRT3-DsbA-L-TFAM axis restrains cGAS-driven metabolic dysfunction-associated steatohepatitis in male mice",
+    "link": "https://www.nature.com/articles/s41467-026-72395-8",
+    "authors": [
+      "Li Hu",
+      "Juli Bai",
+      "Jie Wen",
+      "Hairong Luo",
+      "Dongqing Yin",
+      "Bulent T. Delibasi",
+      "Juanhong Liu",
+      "Yan Yang",
+      "Jingjing Zhang",
+      "Cynthia Ju",
+      "Alan Frazer",
+      "Lily Q. Dong",
+      "Feng Liu"
+    ],
+    "summary": "Nature Communications, Published online: 05 May 2026; <a href=\"https://www.nature.com/articles/s41467-026-72395-8\">doi:10.1038/s41467-026-72395-8</a>This study identifies a mitochondrial protection pathway that safeguards mitochondrial DNA integrity and limits liver damage. Disrupting this pathway triggers inflammation and fibrosis, while restoring protection or inhibiting DNA sensing markedly ameliorates fatty liver disease.",
+    "source": "Nature Communications",
+    "date": "2026-05-05",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-72848-0",
+    "title": "Reactivating dead sodium for durable and high-rate anode-free sodium batteries",
+    "link": "https://www.nature.com/articles/s41467-026-72848-0",
+    "authors": [
+      "Weihao Wang",
+      "Jiawei Wang",
+      "Qiaonan Zhu",
+      "Shuai Dong",
+      "Liqiang Wu",
+      "Siqi Lyu",
+      "Yong Gao",
+      "Sicong Wang",
+      "Shuaihan Zou",
+      "Xinyu Liu",
+      "Bin Zhou",
+      "Daojun Yang",
+      "Jing Zhou",
+      "Wei-Li Song",
+      "Hua Wang"
+    ],
+    "summary": "Nature Communications, Published online: 05 May 2026; <a href=\"https://www.nature.com/articles/s41467-026-72848-0\">doi:10.1038/s41467-026-72848-0</a>Dead metal severely inhibited the development of alkali metal batteries. Here, authors reactivated dead Na by a reverse-pulse-interspersed charging strategy, which enhanced the rate and cycle capabilities of anode-free battery, and showed wide applicability to various alkali metal batteries.",
+    "source": "Nature Communications",
+    "date": "2026-05-05",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-71205-5",
+    "title": "Real-time visualization of collagen assembly uncovers metastable properties in hierarchical organization",
+    "link": "https://www.nature.com/articles/s41467-026-71205-5",
+    "authors": [
+      "Bohuan Fang",
+      "Dan Zeng",
+      "Zhiguang Duan",
+      "Bei Gao",
+      "Tong Zhu",
+      "Xiao He",
+      "Liming Xu",
+      "Xinglan Liu",
+      "Qixin He",
+      "Luobin Huang",
+      "Huangchen Shen",
+      "Zhaoting Yuan",
+      "Siqi Li",
+      "Yawen Jiang",
+      "Yuxi Zhang",
+      "Yinghui Feng",
+      "Chuanxi Zhang",
+      "Hao Wei",
+      "John Z. H. Zhang",
+      "Grant J. Jensen",
+      "Daidi Fan",
+      "Lujia Zhang"
+    ],
+    "summary": "Nature Communications, Published online: 05 May 2026; <a href=\"https://www.nature.com/articles/s41467-026-71205-5\">doi:10.1038/s41467-026-71205-5</a>Using time-resolved cryo-EM, this study captures fibrillar collagen assembly as it matures from a metastable to a stable state, shedding light on tissue maintenance and disease-linked defects.",
+    "source": "Nature Communications",
+    "date": "2026-05-05",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-72471-z",
+    "title": "Interfacial anionic competition-driven electrochemical evolution in FeF<sub>3</sub> conversion electrodes",
+    "link": "https://www.nature.com/articles/s41467-026-72471-z",
+    "authors": [
+      "Ziang Jiang",
+      "Shunrui Luo",
+      "Pengfei Wang",
+      "Jiali Peng",
+      "Ming Hao",
+      "Fulu Chu",
+      "Jie Lei",
+      "Paulo Ferreira",
+      "Feixiang Wu"
+    ],
+    "summary": "Nature Communications, Published online: 05 May 2026; <a href=\"https://www.nature.com/articles/s41467-026-72471-z\">doi:10.1038/s41467-026-72471-z</a>Iron fluoride electrodes show contrasting stability in ether- and ester-based electrolytes. Here, the authors reveal that interfacial anion chemistry governs conversion pathways and phase evolution, explaining the origin of stability differences and guiding the design of high-energy lithium batteries.",
+    "source": "Nature Communications",
+    "date": "2026-05-05",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-72512-7",
+    "title": "A Monte Carlo Potts model for solidification",
+    "link": "https://www.nature.com/articles/s41467-026-72512-7",
+    "authors": [
+      "Sang-Ho Oh",
+      "Byeong-Joo Lee"
+    ],
+    "summary": "Nature Communications, Published online: 04 May 2026; <a href=\"https://www.nature.com/articles/s41467-026-72512-7\">doi:10.1038/s41467-026-72512-7</a>A Monte Carlo Potts model was developed to simulate solidification and grain growth within a single algorithm with low computational cost. The model can quantitatively describe solidification behavior and microstructural morphology across scales.",
+    "source": "Nature Communications",
+    "date": "2026-05-04",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-72413-9",
+    "title": "Automated deep learning by recurrent hyperparameter optimization",
+    "link": "https://www.nature.com/articles/s41467-026-72413-9",
+    "authors": [
+      "Zhanzhan Cheng",
+      "Yuyi Cheng",
+      "Chenbo Zhang",
+      "Xingbo Li",
+      "Jihong Guan",
+      "Fei Wu",
+      "Shuigeng Zhou"
+    ],
+    "summary": "Nature Communications, Published online: 04 May 2026; <a href=\"https://www.nature.com/articles/s41467-026-72413-9\">doi:10.1038/s41467-026-72413-9</a>Rocket introduces a self-play RL framework for automated hyperparameter optimization, handling mixed types without priors. It scales large datasets via reward approximation, achieving expert-level performance while cutting time and cost in real-world deployments.",
+    "source": "Nature Communications",
+    "date": "2026-05-04",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-72555-w",
+    "title": "Atlantic meridional overturning circulation slowdown modulates atmospheric rivers in a warmer climate",
+    "link": "https://www.nature.com/articles/s41467-026-72555-w",
+    "authors": [
+      "Mohima Sultana Mimi",
+      "Wei Liu",
+      "Weiming Ma",
+      "Gang Chen"
+    ],
+    "summary": "Nature Communications, Published online: 04 May 2026; <a href=\"https://www.nature.com/articles/s41467-026-72555-w\">doi:10.1038/s41467-026-72555-w</a>Using twenty-first-century climate model projections, this study shows that a weakening of the Atlantic meridional overturning circulation will increase the frequency of atmospheric rivers in the mid-latitudes, especially along North America’s west coast, leading to significant increase of atmospheric river–driven winter precipitation in California.",
+    "source": "Nature Communications",
+    "date": "2026-05-04",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012825226001376",
+    "title": "Carbon cycle perturbations during the late Devonian Upper Kellwasser event and their role in the biotic crisis",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012825226001376?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 3 May 2026<b>Source:</b> Earth-Science ReviewsAuthor(s): Kai Zhou, Ran Gao, Haoqing Liu, Jing Lu, Rongtao Guo, Peixin Zhang, Wanqing Wang, Zhiming Yan, Xiaowei Liu, Na Qian, Longyi Shao, Shuo Zhang",
+    "source": "ScienceDirect Publication: Earth-Science Reviews",
+    "date": "2026-05-05",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL122363",
+    "title": "Dependence of Mineral Dissolution Rates on Two‐Phase Hydrodynamics in Single Pores",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL122363?af=R",
+    "authors": [
+      "Xin Wang, \nHang Deng"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 9, 16 May 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-05-04",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GC012881",
+    "title": "Ediacara Obscura: Unveiling Hidden Magnetisations in the Fen Complex, Southern Norway",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GC012881?af=R",
+    "authors": [
+      "Justin A. D. Tonti‐Filippini, \nPaul Y. J. Antonio, \nSven Dahlgren, \nRosa de Boer, \nLeandro Gallo, \nPetter Silkoset, \nBertwin de Groot, \nLennart de Groot, \nMathew Domeier"
+    ],
+    "summary": "Geochemistry, Geophysics, Geosystems, Volume 27, Issue 5, May 2026.",
+    "source": "Wiley: Geochemistry, Geophysics, Geosystems: Table of Contents",
+    "date": "2026-05-04",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026JB034210",
+    "title": "Pn Velocity Structure and Anisotropy of the Uppermost Mantle Beneath Myanmar",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026JB034210?af=R",
+    "authors": [
+      "Mingyuan Cai, \nYinshuang Ai, \nXiaohui Yuan, \nMingming Jiang, \nYumei He, \nBernd Schurr, \nYan Lü, \nZhuowei Xiao, \nChit Thet Mon, \nYilin Feng, \nEnbo Fan, \nJifeng Chen, \nXinxin Yin, \nMyo Thant, \nKyaing Sein"
+    ],
+    "summary": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 5, May 2026.",
+    "source": "Wiley: Journal of Geophysical Research: Solid Earth: Table of Contents",
+    "date": "2026-05-04",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026JB033842",
+    "title": "High‐Precision Modelling of Global Three‐Dimensional Oceanic Tide‐Induced Electromagnetic Fields: A Hybrid FE‐IEE Approach on Unstructured Tetrahedral Meshes",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026JB033842?af=R",
+    "authors": [
+      "Tianyi Dai, \nYuguo Li, \nGuihang Shao, \nSijia Yu"
+    ],
+    "summary": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 5, May 2026.",
+    "source": "Wiley: Journal of Geophysical Research: Solid Earth: Table of Contents",
+    "date": "2026-05-03",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025TC009197",
+    "title": "Trench‐Parallel Shortening as a Key Driver of Forearc Deformation Along the Seaward‐Concave Northern Chilean Margin",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025TC009197?af=R",
+    "authors": [
+      "Bo Ma, \nYueyang Xia, \nDirk Klaeschen, \nHeidrun Kopp"
+    ],
+    "summary": "Tectonics, Volume 45, Issue 5, May 2026.",
+    "source": "Wiley: Tectonics: Table of Contents",
+    "date": "2026-05-03",
+    "sent": true
+  },
+  {
     "id": "https://www.sciencedirect.com/science/article/pii/S0012825226001388",
     "title": "A new class of mélange and its bearing on early earth tectonics, the Mesoarchean Fiskenæsset region, southern West Greenland",
     "link": "https://www.sciencedirect.com/science/article/pii/S0012825226001388?dgcid=rss_sd_all",
