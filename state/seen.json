@@ -1,5 +1,594 @@
 [
   {
+    "id": "https://www.nature.com/articles/s41586-026-10594-5",
+    "title": "Editorial Expression of Concern: Nociceptive neurons promote gastric tumour progression via a CGRP–RAMP1 axis",
+    "link": "https://www.nature.com/articles/s41586-026-10594-5",
+    "authors": [
+      "Xiaofei Zhi",
+      "Feijing Wu",
+      "Jin Qian",
+      "Yosuke Ochiai",
+      "Guodong Lian",
+      "Ermanno Malagola",
+      "Biyun Zheng",
+      "Ruhong Tu",
+      "Yi Zeng",
+      "Hiroki Kobayashi",
+      "Zhangchuan Xia",
+      "Ruizhi Wang",
+      "Yueqing Peng",
+      "Qiongyu Shi",
+      "Duan Chen",
+      "Sandra W. Ryeom",
+      "Timothy C. Wang"
+    ],
+    "summary": "Nature, Published online: 05 May 2026; <a href=\"https://www.nature.com/articles/s41586-026-10594-5\">doi:10.1038/s41586-026-10594-5</a>Editorial Expression of Concern: Nociceptive neurons promote gastric tumour progression via a CGRP–RAMP1 axis",
+    "source": "Nature",
+    "date": "2026-05-05",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-01442-7",
+    "title": "Precision medicine without equity is just stratified inequality",
+    "link": "https://www.nature.com/articles/d41586-026-01442-7",
+    "authors": [
+      "Afsaneh Shirani"
+    ],
+    "summary": "Nature, Published online: 05 May 2026; <a href=\"https://www.nature.com/articles/d41586-026-01442-7\">doi:10.1038/d41586-026-01442-7</a>Precision medicine without equity is just stratified inequality",
+    "source": "Nature",
+    "date": "2026-05-05",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-01445-4",
+    "title": "Tumbleweed-style robot can roll across the prairie — no wind needed",
+    "link": "https://www.nature.com/articles/d41586-026-01445-4",
+    "authors": [],
+    "summary": "Nature, Published online: 05 May 2026; <a href=\"https://www.nature.com/articles/d41586-026-01445-4\">doi:10.1038/d41586-026-01445-4</a>Woven from light-responsive strips, a tiny sphere trundles across a variety of surfaces when illuminated.",
+    "source": "Nature",
+    "date": "2026-05-05",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-01440-9",
+    "title": "AI agents in research: when productivity comes at the cost of apprenticeship",
+    "link": "https://www.nature.com/articles/d41586-026-01440-9",
+    "authors": [
+      "Jing Hu",
+      "Tony Huiquan Zhang"
+    ],
+    "summary": "Nature, Published online: 05 May 2026; <a href=\"https://www.nature.com/articles/d41586-026-01440-9\">doi:10.1038/d41586-026-01440-9</a>AI agents in research: when productivity comes at the cost of apprenticeship",
+    "source": "Nature",
+    "date": "2026-05-05",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-01443-6",
+    "title": "Thymic health under the microscope",
+    "link": "https://www.nature.com/articles/d41586-026-01443-6",
+    "authors": [
+      "Henry J. Kaminski",
+      "Linda L. Kusner",
+      "Gary Cutter",
+      "Rozen Le Panse"
+    ],
+    "summary": "Nature, Published online: 05 May 2026; <a href=\"https://www.nature.com/articles/d41586-026-01443-6\">doi:10.1038/d41586-026-01443-6</a>Thymic health under the microscope",
+    "source": "Nature",
+    "date": "2026-05-05",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-01441-8",
+    "title": "Legal rights for insects: a global imperative for stingless-bee conservation",
+    "link": "https://www.nature.com/articles/d41586-026-01441-8",
+    "authors": [
+      "Shi-Jie Wang",
+      "A. J. Wubie"
+    ],
+    "summary": "Nature, Published online: 05 May 2026; <a href=\"https://www.nature.com/articles/d41586-026-01441-8\">doi:10.1038/d41586-026-01441-8</a>Legal rights for insects: a global imperative for stingless-bee conservation",
+    "source": "Nature",
+    "date": "2026-05-05",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-01333-x",
+    "title": "Marvellous microscopes impress guests at a London party",
+    "link": "https://www.nature.com/articles/d41586-026-01333-x",
+    "authors": [],
+    "summary": "Nature, Published online: 05 May 2026; <a href=\"https://www.nature.com/articles/d41586-026-01333-x\">doi:10.1038/d41586-026-01333-x</a>A sensational scientific soirée, and reflections on how F. C. L. Wratten advanced photography in this week’s pick from the Nature archive.",
+    "source": "Nature",
+    "date": "2026-05-05",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-01299-w",
+    "title": "To move beyond GDP, don’t ignore environmental economists",
+    "link": "https://www.nature.com/articles/d41586-026-01299-w",
+    "authors": [
+      "Pushpam Kumar"
+    ],
+    "summary": "Nature, Published online: 05 May 2026; <a href=\"https://www.nature.com/articles/d41586-026-01299-w\">doi:10.1038/d41586-026-01299-w</a>Sustainable development will only be achieved when governments base decisions on human skills and natural resources, not just gross domestic product.",
+    "source": "Nature",
+    "date": "2026-05-05",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-01426-7",
+    "title": "NIH grant cuts disproportionately hit minority and female scientists",
+    "link": "https://www.nature.com/articles/d41586-026-01426-7",
+    "authors": [
+      "Max Kozlov"
+    ],
+    "summary": "Nature, Published online: 05 May 2026; <a href=\"https://www.nature.com/articles/d41586-026-01426-7\">doi:10.1038/d41586-026-01426-7</a>A survey reveals sharp divides in who bore the brunt of last year’s spree of grant cancellations by the Trump administration.",
+    "source": "Nature",
+    "date": "2026-05-05",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-01422-x",
+    "title": "Responses to the AI grant flood must prioritize fairness as part of excellence",
+    "link": "https://www.nature.com/articles/d41586-026-01422-x",
+    "authors": [],
+    "summary": "Nature, Published online: 05 May 2026; <a href=\"https://www.nature.com/articles/d41586-026-01422-x\">doi:10.1038/d41586-026-01422-x</a>Research funding agencies are battling a wave of AI-assisted applications. Countermeasures should not entrench existing power structures.",
+    "source": "Nature",
+    "date": "2026-05-05",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-01408-9",
+    "title": "Testosterone therapy is trending. Who really needs it, and why?",
+    "link": "https://www.nature.com/articles/d41586-026-01408-9",
+    "authors": [
+      "Mariana Lenharo"
+    ],
+    "summary": "Nature, Published online: 05 May 2026; <a href=\"https://www.nature.com/articles/d41586-026-01408-9\">doi:10.1038/d41586-026-01408-9</a>Some clinicians are pushing to broaden testosterone use, but there is debate about its benefits and risks.",
+    "source": "Nature",
+    "date": "2026-05-05",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-00508-w",
+    "title": "Meet the academics refusing to use generative AI",
+    "link": "https://www.nature.com/articles/d41586-026-00508-w",
+    "authors": [
+      "Hannah Docter-Loeb"
+    ],
+    "summary": "Nature, Published online: 05 May 2026; <a href=\"https://www.nature.com/articles/d41586-026-00508-w\">doi:10.1038/d41586-026-00508-w</a>Researchers say they have their reasons for avoiding AI tools — and they’re sick of arguing about it.",
+    "source": "Nature",
+    "date": "2026-05-05",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-01444-5",
+    "title": "Quantum ‘thermometer’ takes temperatures inside living cancer cells",
+    "link": "https://www.nature.com/articles/d41586-026-01444-5",
+    "authors": [
+      "Matthew Hutson"
+    ],
+    "summary": "Nature, Published online: 05 May 2026; <a href=\"https://www.nature.com/articles/d41586-026-01444-5\">doi:10.1038/d41586-026-01444-5</a>Nanosensors showed that different parts of the cell varied by as much as 1 ºC.",
+    "source": "Nature",
+    "date": "2026-05-05",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-025-03504-8",
+    "title": "How much of the scientific literature is generated by AI?",
+    "link": "https://www.nature.com/articles/d41586-025-03504-8",
+    "authors": [
+      "Miryam Naddaf"
+    ],
+    "summary": "Nature, Published online: 05 May 2026; <a href=\"https://www.nature.com/articles/d41586-025-03504-8\">doi:10.1038/d41586-025-03504-8</a>Tools for reliably estimating what artificial intelligence is being used for are still lacking.",
+    "source": "Nature",
+    "date": "2026-05-05",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-01409-8",
+    "title": "How fertilizer shortages caused by the energy crisis threaten food security",
+    "link": "https://www.nature.com/articles/d41586-026-01409-8",
+    "authors": [
+      "Meihua Yang",
+      "Xing Wang",
+      "Solmaz Fathololoumi",
+      "Hiteshkumar B. Vasava",
+      "Yuhong Zhou",
+      "Henry W. Chau",
+      "Huijie Li",
+      "Bingcheng Si",
+      "Hongyi Li",
+      "Asim Biswas"
+    ],
+    "summary": "Nature, Published online: 05 May 2026; <a href=\"https://www.nature.com/articles/d41586-026-01409-8\">doi:10.1038/d41586-026-01409-8</a>Unless governments treat fertilizer production as strategic infrastructure, the world will keep lurching from energy shock to harvest failure.",
+    "source": "Nature",
+    "date": "2026-05-05",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-01452-5",
+    "title": "Daily briefing: Five inspiring science stories to lift your mood",
+    "link": "https://www.nature.com/articles/d41586-026-01452-5",
+    "authors": [
+      "Flora Graham"
+    ],
+    "summary": "Nature, Published online: 01 May 2026; <a href=\"https://www.nature.com/articles/d41586-026-01452-5\">doi:10.1038/d41586-026-01452-5</a>The positive scientific developments that you might have missed. Plus, these exotic particles could finally break the Standard Model.",
+    "source": "Nature",
+    "date": "2026-05-01",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-01436-5",
+    "title": "Daily briefing: ‘A true pioneer and maverick’, Craig Venter dead at 79",
+    "link": "https://www.nature.com/articles/d41586-026-01436-5",
+    "authors": [
+      "Flora Graham"
+    ],
+    "summary": "Nature, Published online: 30 April 2026; <a href=\"https://www.nature.com/articles/d41586-026-01436-5\">doi:10.1038/d41586-026-01436-5</a>Craig Venter — who led a race to decode the human genome – has died, aged 79. Plus, how so many runners just broke the marathon world record.",
+    "source": "Nature",
+    "date": "2026-04-30",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41561-026-01963-w",
+    "title": "Continental evolution influenced by relamination of deeply subducted continental crust",
+    "link": "https://www.nature.com/articles/s41561-026-01963-w",
+    "authors": [
+      "Daniel Gómez-Frutos",
+      "Antonio Castro",
+      "Attila Balázs",
+      "Taras Gerya"
+    ],
+    "summary": "Nature Geoscience, Published online: 05 May 2026; <a href=\"https://www.nature.com/articles/s41561-026-01963-w\">doi:10.1038/s41561-026-01963-w</a>Post-collisional calc-alkaline magmatism has originated from the mixing and hybridization of relaminated continental crust and mantle peridotite since the Archaean, according to numerical simulations of continental subduction and melting experiments.",
+    "source": "Nature Geoscience",
+    "date": "2026-05-05",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41561-026-01976-5",
+    "title": "Mid-Holocene retreat of the Greenland Ice Sheet indicated by subglacial methane release",
+    "link": "https://www.nature.com/articles/s41561-026-01976-5",
+    "authors": [
+      "J. E. Hatton",
+      "A. Stehrer-Polášková",
+      "P. A. Píka",
+      "M. H. Garnett",
+      "P. Klímová",
+      "L. C. P. Wentzel",
+      "J. D. Žárský",
+      "J. Trubač",
+      "S. Arndt",
+      "A. Hubbard",
+      "J. C. Yde",
+      "J. R. Hawkings",
+      "E. L. Doting",
+      "J. G. Murphy",
+      "G. Lamarche-Gagnon",
+      "J. L. Wadham",
+      "S. E. Sapper",
+      "J. R. Christiansen",
+      "C. J. Jørgensen",
+      "M. Stibal"
+    ],
+    "summary": "Nature Geoscience, Published online: 05 May 2026; <a href=\"https://www.nature.com/articles/s41561-026-01976-5\">doi:10.1038/s41561-026-01976-5</a>Methane in modern subglacial meltwater coming from the western Greenland Ice Sheet largely dates back to the period following the Holocene Thermal Maximum, when a smaller ice sheet allowed organic matter accumulation and biological methane production after ice readvance.",
+    "source": "Nature Geoscience",
+    "date": "2026-05-05",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-72646-8",
+    "title": "Deep learning-enabled size estimation of comets indicates a more dynamic early solar system",
+    "link": "https://www.nature.com/articles/s41467-026-72646-8",
+    "authors": [
+      "Shunjing Zhao",
+      "Xian Shi",
+      "Hanlun Lei",
+      "Man-To Hui",
+      "Jianchun Shi"
+    ],
+    "summary": "Nature Communications, Published online: 06 May 2026; <a href=\"https://www.nature.com/articles/s41467-026-72646-8\">doi:10.1038/s41467-026-72646-8</a>Formation of the Solar System’s comet reservoirs remain uncertain. Here, the authors show that AI-based analysis of comet activity reveals a far more populated Oort Cloud than previously thought.",
+    "source": "Nature Communications",
+    "date": "2026-05-06",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-72722-z",
+    "title": "Remote disassembly of electronics-free modular structures",
+    "link": "https://www.nature.com/articles/s41467-026-72722-z",
+    "authors": [
+      "Xinyi Yang",
+      "Martin Nisser",
+      "Victor Riera Naranjo",
+      "Weijian Qian",
+      "Christos E. Athanasiou",
+      "Bolei Deng"
+    ],
+    "summary": "Nature Communications, Published online: 06 May 2026; <a href=\"https://www.nature.com/articles/s41467-026-72722-z\">doi:10.1038/s41467-026-72722-z</a>The authors present a low-cost modular structure built from self-locking cuboctahedral units, which can be selectively disassembled by a single vibration source. It enables electronics-free staged deployment, underwater release, load-bearing collapse, and 3D reconfiguration.",
+    "source": "Nature Communications",
+    "date": "2026-05-06",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-72833-7",
+    "title": "Engineered dCas12f1-SAM enables robust transcriptional activation and gain-of-function screening in primary human cells",
+    "link": "https://www.nature.com/articles/s41467-026-72833-7",
+    "authors": [
+      "Jiaxuan Cao",
+      "Zhirui Liu",
+      "Xinwen Chen",
+      "Zilin Lan",
+      "Li Liu",
+      "Yixin Zhai",
+      "Wentian Wang",
+      "Chaoyou Xue",
+      "Hui Cheng",
+      "Yao Yao",
+      "Tao Cheng",
+      "Shuquan Rao"
+    ],
+    "summary": "Nature Communications, Published online: 06 May 2026; <a href=\"https://www.nature.com/articles/s41467-026-72833-7\">doi:10.1038/s41467-026-72833-7</a>CRISPRa screening in primary human cells has remained a formidable technical challenge. Here, the authors developed dCas12f1-SAM and successfully implemented a gain-of-function screen in primary human T cells, identifying key regulators of T cell activation.",
+    "source": "Nature Communications",
+    "date": "2026-05-06",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-72773-2",
+    "title": "Time-synthetic optical neural networks with stable programmable gain",
+    "link": "https://www.nature.com/articles/s41467-026-72773-2",
+    "authors": [
+      "Bei Wu",
+      "Yudong Ren",
+      "Rui Zhao",
+      "Haiyao Luo",
+      "Fujia Chen",
+      "Li Zhang",
+      "Lu Zhang",
+      "Hongsheng Chen",
+      "Yihao Yang"
+    ],
+    "summary": "Nature Communications, Published online: 06 May 2026; <a href=\"https://www.nature.com/articles/s41467-026-72773-2\">doi:10.1038/s41467-026-72773-2</a>Optical neural networks (ONNs) are limited by unitary transformations and cumulative loss. Here, authors integrate programmable gain into time-synthetic ONNs to suppress feedback paths, which enables arbitrary complex-valued transformations and stable loss compensation for image classification.",
+    "source": "Nature Communications",
+    "date": "2026-05-06",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-72694-0",
+    "title": "The global economic burden of diabetes for 190 countries 2021-50: a macroeconomic modelling study",
+    "link": "https://www.nature.com/articles/s41467-026-72694-0",
+    "authors": [
+      "Jinxi Li",
+      "Ruxu Zhang",
+      "Ruixi Li",
+      "Qihua Song",
+      "Yanhong Gong",
+      "Chichen Zhang",
+      "Xiaoxv Yin"
+    ],
+    "summary": "Nature Communications, Published online: 05 May 2026; <a href=\"https://www.nature.com/articles/s41467-026-72694-0\">doi:10.1038/s41467-026-72694-0</a>Using a health-augmented macroeconomic model, this study finds that diabetes could reduce output by INT$5.2 trillion across 190 countries (2021–2050), with substantial cross-country heterogeneity in GDP losses.",
+    "source": "Nature Communications",
+    "date": "2026-05-05",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-72301-2",
+    "title": "Author Correction: Behavioural individuality in clonal fish arises despite near-identical rearing conditions",
+    "link": "https://www.nature.com/articles/s41467-026-72301-2",
+    "authors": [
+      "David Bierbach",
+      "Kate L. Laskowski",
+      "Max Wolf"
+    ],
+    "summary": "Nature Communications, Published online: 05 May 2026; <a href=\"https://www.nature.com/articles/s41467-026-72301-2\">doi:10.1038/s41467-026-72301-2</a>Author Correction: Behavioural individuality in clonal fish arises despite near-identical rearing conditions",
+    "source": "Nature Communications",
+    "date": "2026-05-05",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-72653-9",
+    "title": "A context-aware artificial metabzyme in intervertebral disc degeneration metabolic convergence therapy",
+    "link": "https://www.nature.com/articles/s41467-026-72653-9",
+    "authors": [
+      "Lei Li",
+      "Wei Deng",
+      "Siyuan Chen",
+      "Qiujiang Li",
+      "Xuanyu Xiao",
+      "Linyu Long",
+      "Yuanyuan Xu",
+      "Yuting Zhong",
+      "Dan Song",
+      "Jingyi Yang",
+      "Tianshu Wang",
+      "Ganjun Feng",
+      "Yunbing Wang"
+    ],
+    "summary": "Nature Communications, Published online: 05 May 2026; <a href=\"https://www.nature.com/articles/s41467-026-72653-9\">doi:10.1038/s41467-026-72653-9</a>Hypoxia-driven dysregulated lactate metabolism is a feature of intervertebral disc degeneration (IDD), but biological metabzymes and most biomimetic counterparts are ineffective under hypoxic conditions and often yield harmful metabolites. Here, the authors report a biogenic Fe-N-C artificial metabzyme for IDD metabolic therapy that reprograms lactate metabolism and corrects metabolic dysfunction.",
+    "source": "Nature Communications",
+    "date": "2026-05-05",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-026-03577-x",
+    "title": "Hierarchically tracking aquaculture effluent in waters by microbial fingerprints-driven machine learning ensemble",
+    "link": "https://www.nature.com/articles/s43247-026-03577-x",
+    "authors": [
+      "Pengcheng Li",
+      "Mengzhu Xue",
+      "Guohui Xia",
+      "Lu Dong",
+      "Kening Wang",
+      "Xin Zhang",
+      "Peng Liu",
+      "Liping Li",
+      "Cheng Zhang",
+      "Baoshan Cui",
+      "Junhong Bai",
+      "Xinhui Liu"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 05 May 2026; <a href=\"https://www.nature.com/articles/s43247-026-03577-x\">doi:10.1038/s43247-026-03577-x</a>Effective tracing of aquaculture effluent becomes feasible using microbial fingerprints and a combined machine learning model, with high throughput sequencing of 386 samples enabling hierarchical identification of targeted source.",
+    "source": "Communications Earth & Environment",
+    "date": "2026-05-05",
+    "sent": true
+  },
+  {
+    "id": "https://www.pnas.org/doi/abs/10.1073/pnas.2536503123?af=R",
+    "title": "Tracing the origins and recurrence of the South Atlantic Anomaly: A 2000-year absolute paleointensity record from central South America",
+    "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2536503123?af=R",
+    "authors": [
+      "Miriam Gómez-PaccardF. Javier Pavón-CarrascoAnnick ChauvinAlicia Palencia-OrtasMercedes Rivero-MonteroMarina Puente-BorqueSaioa A. CampuzanoAída AdsuarRaquel Bonilla-AlbaJudit del RíoRegina Velázquez-MartínMaría Luisa OseteMaría Gabriela OrtízMaría Amalia ZaburlínMaría Marta Sampietro-VattuoneDiego Martín BassoJosé Luis Peña-MonnéClarisa OteroAgustina ScaroaInstituto de Geociencias (Consejo Superior de Investigaciones Científicas-Universidad Complutense de Madrid), Spanish National Research Council, Madrid 28040, SpainbDepartamento de Física de la Tierra y Astrofísica, Universidad Complutense de Madrid, Madrid 28040, SpaincUniversity of Rennes, French National Centre for Scientific Research, Géosciences-Rennes-UMR 6118, Rennes 35000, FrancedDepartamento de Ingeniería Eléctrica, Electrónica, Automática y Física Aplicada, Escuela Técnica Superior, Ingeniería y diseño industrial, Universidad Politécnica de Madrid, Madrid 28012, SpaineDepartamento de Didáctica de las Matemáticas y de las Ciencias de la Educación, Universidad de Salamanca, Salamanca 37008, SpainfDepartamento de Didáctica de las Matemáticas y de las Ciencias de la Educación, Universidad Internacional de La Rioja, La Rioja 26008, SpaingIstituto Nazionale di Geofisica e Vulcanologia–Roma, Roma 00143, ItalyhDepartamento de Historia, Universidad de Burgos, Geografía y Comunicación, Burgos 09001, SpainiConsejo Nacional de Investigaciones Científicas y Técnicas, Unidad Ejecutora en Ciencias Sociales Regionales y Humanidades, Universidad Nacional de Jujuy, Facultad de Humanidades y Ciencias Sociales, San Salvador de Jujuy Y4600, ArgentinajInstituto de Datación y Arqueometría, Centro de Desarrollo Tecnológico “Gral Manuel Savio”, Palpalá, ArgentinakCentro Regional de Estudios Arqueológicos, Facultad de Humanidades y Ciencias Sociales, Universidad Nacional de Jujuy, San Salvador de Jujuy Y4600, ArgentinalConsejo Nacional de Investigaciones Científicas y Técnicas, Universidad Nacional de Tucumán, Laboratorio de Geoarqueología, San Miguel de Tucumán 4000, ArgentinamDepartamento de Geografía y Ordenación del Territorio, Universidad de Zaragoza, Zaragoza 50009, SpainnConsejo Nacional de Investigaciones Científicas y Técnicas, Universidad de Buenos Aires, Facultad de Filosofía y Letras, Buenos Aires C1406, Argentina"
+    ],
+    "summary": "Proceedings of the National Academy of Sciences, Volume 123, Issue 20, May 2026. <br />SignificanceThe geomagnetic field, generated by fluid motion in the outer core, protects the planet from harmful cosmic radiation. Over the past two centuries, the field has weakened significantly, coinciding with the growth of the South Atlantic Anomaly (...",
+    "source": "Proceedings of the National Academy of Sciences: Earth, Atmospheric, and Planetary Sciences",
+    "date": "2026-05-04",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012821X26002645",
+    "title": "Editorial Board",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012821X26002645?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: 15 July 2026<b>Source:</b> Earth and Planetary Science Letters, Volume 686Author(s):",
+    "source": "ScienceDirect Publication: Earth and Planetary Science Letters",
+    "date": "2026-05-06",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL120961",
+    "title": "Global Diurnal Precipitation Cycle in the AI Model GraphCast and a 5‐km Unified Model: Challenges and Opportunities",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL120961?af=R",
+    "authors": [
+      "Emanuele Silvio Gentile, \nKieran M. R. Hunt, \nLorenzo Tomassini, \nBen Harvey, \nOscar Martinez‐Alvarado"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 9, 16 May 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-05-04",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL118106",
+    "title": "Temporal Change in Resistivity Structure Before and After the 2018 Small Phreatic Eruption Iwo‐Yama Volcano, Kirishima Volcanic Complex, Japan",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL118106?af=R",
+    "authors": [
+      "K. Aizawa, \nN. Matsushima, \nY. Matsunaga"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 9, 16 May 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-05-04",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL121737",
+    "title": "Multi‐Stage Shallow Rupture and Pre‐Event Shallow Deformation During the 2025 Mw 5.9 Asadabad Earthquake (Afghanistan)",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL121737?af=R",
+    "authors": [
+      "Ping He, \nTimothy J. Craig, \nYangmao Wen, \nHuihui Weng, \nKefeng He, \nCaijun Xu"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 9, 16 May 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-05-04",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL121483",
+    "title": "Understanding the Influence of Soil Moisture on Machine Learning Predictions of Photosynthesis and Evapotranspiration",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL121483?af=R",
+    "authors": [
+      "Daniel Power, \nMiguel Angel Rico‐Ramirez, \nPierre Gentine, \nDavid McJannet, \nMartin Schrön, \nCorinna Rebmann, \nHumberto da Rocha, \nRafael Rosolem"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 9, 16 May 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-05-04",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL121743",
+    "title": "Large Earthquakes Along the Mendocino Oceanic Transform Fault Hardly Have Any Foreshocks",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL121743?af=R",
+    "authors": [
+      "Hui Liu, \nMin Liu, \nYen Joe Tan"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 9, 16 May 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-05-04",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL122817",
+    "title": "Stress Field and Megathrust Strength in the Western Hellenic Subduction System: Insights From the 2024 Mw 5.9 Strofades Earthquake Sequence, Greece",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL122817?af=R",
+    "authors": [
+      "G. M. Bocchini, \nD. Essing, \nI. Nikolopoulou, \nA. Dielforder, \nM. P. Roth, \nA. Serpetsidaki, \nE. Sokos, \nC. P. Evangelidis, \nR. M. Harrington"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 9, 16 May 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-05-04",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025JB032527",
+    "title": "Refinement of Tropospheric Delay Modeling in Satellite Laser Ranging via Atmospheric Ray Tracing Technique",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JB032527?af=R",
+    "authors": [
+      "Hua Chen, \nZilu Cui, \nMingyuan Zhang, \nXingyu Zhou, \nZhao Li, \nWeiping Jiang"
+    ],
+    "summary": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 5, May 2026.",
+    "source": "Wiley: Journal of Geophysical Research: Solid Earth: Table of Contents",
+    "date": "2026-05-05",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025JB031818",
+    "title": "Interactions Between the Hainan Plume and Oceanic Lithosphere: Insights From 3D Lithospheric Structure of the South China Sea",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JB031818?af=R",
+    "authors": [
+      "Yan Li, \nJudith Bott, \nShaowen Liu, \nPingchuan Tan, \nDenis Anikiev, \nMagdalena Scheck‐Wenderoth"
+    ],
+    "summary": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 5, May 2026.",
+    "source": "Wiley: Journal of Geophysical Research: Solid Earth: Table of Contents",
+    "date": "2026-05-05",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025JB032163",
+    "title": "A Hierarchical Bayesian Model for the Global Holocene Geomagnetic Field",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JB032163?af=R",
+    "authors": [
+      "M. A. Schanner, \nS. Panovska, \nM. Korte"
+    ],
+    "summary": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 5, May 2026.",
+    "source": "Wiley: Journal of Geophysical Research: Solid Earth: Table of Contents",
+    "date": "2026-05-04",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0016703726002863",
+    "title": "Tin isotope compositions of ocean island basalt mantle sources",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0016703726002863?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 4 May 2026<b>Source:</b> Geochimica et Cosmochimica ActaAuthor(s): James M.D. Day, Frédéric Moynier, John Creech, Eric Siciliano Rego",
+    "source": "ScienceDirect Publication: Geochimica et Cosmochimica Acta",
+    "date": "2026-05-06",
+    "sent": true
+  },
+  {
+    "id": "https://pubs.geoscienceworld.org/gsa/gsabulletin/article/doi/10.1130/B38783.1/730444/Onset-time-of-left-lateral-strike-slip-and-lateral",
+    "title": "Onset time of left-lateral strike-slip and lateral extrusion−related growth-fold deformation along the Laohushan fault of the Qilian−Haiyuan fault zone, northeastern Tibetan Plateau",
+    "link": "https://pubs.geoscienceworld.org/gsa/gsabulletin/article/doi/10.1130/B38783.1/730444/Onset-time-of-left-lateral-strike-slip-and-lateral",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\">The continuous extrusion and expansion of the Tibetan Plateau toward the northeast have led to intense crustal shortening and left-lateral shearing in the Qilian Shan region. The Qilian−Haiyuan fault zone, a major block-boundary fault in the region, is the subject of considerable debate regarding the intensity of extrusion and thrusting, as well as the onset time and maximum displacement of left-lateral strike-slip motion. This study focuses on the Laohushan fault within the central-eastern segment of the Qilian−Haiyuan fault zone. Through geological mapping, stratigraphic correlation, and cosmogenic nuclide burial dating, we established a chronological framework for the Cenozoic strata. The provenance characteristics, such as paleocurrent directions and heavy mineral assemblages, suggest that the Pliocene strata on both sides originated from the same paleodrainage system. The conclusions suggest that the maximum strike-slip displacement of the Miocene strata is 15.2 ± 0.7 km. Based on the late Quaternary slip rate of 4.5 ± 1.0 mm/yr, the onset time of strike-slip activity is estimated to be 3.4 Ma. The base of the growth fold suggests that the onset of early compressional thrusting occurred earlier than 7.8 Ma. The Qilian−Haiyuan fault zone underwent two main evolutionary stages. During the middle Miocene (13−8 Ma), thrusting activities exhibited a west-to-east propagation pattern. During the Pliocene (5−2.5 Ma), it transitioned to predominantly strike-slip activity. The northeastward compressive expansion of the Tibetan Plateau may also be accommodated by a cyclic mechanism involving the alternating conversion of thrust and strike-slip faults, while simultaneously generating new thrust faults propagating forward.</span>",
+    "source": "GSA Bulletin Advance Access",
+    "date": "2026-05-04",
+    "sent": true
+  },
+  {
+    "id": "http://doi.org/10.1093/nsr/nwag225",
+    "title": "Atomic imaging of air- and electron-beam-sensitive materials by inert-gas-protected cryogenic aberration-corrected TEM",
+    "link": "https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwag225/8669891?rss=1",
+    "authors": [],
+    "summary": "",
+    "source": "National Science Review Advance Access",
+    "date": "2026-05-05",
+    "sent": true
+  },
+  {
     "id": "https://www.nature.com/articles/d41586-026-01410-1",
     "title": "Powerful tools are revealing the ‘control knobs’ of the genome",
     "link": "https://www.nature.com/articles/d41586-026-01410-1",
