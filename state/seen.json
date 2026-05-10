@@ -1,5 +1,383 @@
 [
   {
+    "id": "https://www.nature.com/articles/s41467-026-72420-w",
+    "title": "Recyclable dual Z-scheme perovskite/g-C<sub>3</sub>N<sub>4</sub> heterojunction enables photoredox nickel-catalyzed C(<i>sp</i><sup><i>2</i></sup>)–C(<i>sp</i><sup><i>3</i></sup>) cross-electrophile coupling",
+    "link": "https://www.nature.com/articles/s41467-026-72420-w",
+    "authors": [
+      "Rui Wang",
+      "Donghao Huo",
+      "Shentong Xie",
+      "Honghui Ou",
+      "Renyi Shi"
+    ],
+    "summary": "Nature Communications, Published online: 09 May 2026; <a href=\"https://www.nature.com/articles/s41467-026-72420-w\">doi:10.1038/s41467-026-72420-w</a>This work presents a recyclable dual Z-scheme LaFeO3/LaCoO3/g-C3N4 heterojunction that effectively enables nickel/photoredox dual-catalyzed cross-electrophile coupling between aryl iodides and alkyl halides.",
+    "source": "Nature Communications",
+    "date": "2026-05-09",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-73015-1",
+    "title": "A universal scaling law of intra-urban inequality",
+    "link": "https://www.nature.com/articles/s41467-026-73015-1",
+    "authors": [
+      "Conghong Huang",
+      "Xiaodan Liu",
+      "Shibin Zhang",
+      "Zongyang Jin",
+      "Nan Xu",
+      "Weixin Ou"
+    ],
+    "summary": "Nature Communications, Published online: 09 May 2026; <a href=\"https://www.nature.com/articles/s41467-026-73015-1\">doi:10.1038/s41467-026-73015-1</a>Intra-urban inequality scales super-linearly with city size. Analyzing over 11,000 cities globally, this study reveals that a doubling in population exacerbates spatial disparities in thermal, green space, and economic exposure by 8-9%.",
+    "source": "Nature Communications",
+    "date": "2026-05-09",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-72661-9",
+    "title": "Tracking coherent vibronic and vibrational motions in ultrafast proton transfer",
+    "link": "https://www.nature.com/articles/s41467-026-72661-9",
+    "authors": [
+      "Somnath Biswas",
+      "Jason W. Sandwisch",
+      "Robert B. Weakly",
+      "Munira Khalil"
+    ],
+    "summary": "Nature Communications, Published online: 09 May 2026; <a href=\"https://www.nature.com/articles/s41467-026-72661-9\">doi:10.1038/s41467-026-72661-9</a>Multidimensional spectroscopy probes both the electronic and nuclear degrees of freedom during and following ultrafast proton transfer, revealing vibronic dynamics that govern reaction coordinates and intramolecular vibrational redistribution.",
+    "source": "Nature Communications",
+    "date": "2026-05-09",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-72297-9",
+    "title": "Large language models exhibit speciesist bias against animals",
+    "link": "https://www.nature.com/articles/s41467-026-72297-9",
+    "authors": [
+      "Monika Jotautaitė",
+      "Lucius Caviola",
+      "David A. Brewster",
+      "Thilo Hagendorff"
+    ],
+    "summary": "Nature Communications, Published online: 09 May 2026; <a href=\"https://www.nature.com/articles/s41467-026-72297-9\">doi:10.1038/s41467-026-72297-9</a>Large language models detect speciesist statements but often reproduce mainstream moral reasoning that treats harm toward animals as acceptable. Here, the authors demonstrate that they reflect human-like trade-offs, highlighting the need to extend AI fairness frameworks.",
+    "source": "Nature Communications",
+    "date": "2026-05-09",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-72745-6",
+    "title": "Anti-PD-1 plus nab-paclitaxel and bevacizumab for second-line treatment of cancer of unknown primary (Fudan CUP-002): a phase II trial",
+    "link": "https://www.nature.com/articles/s41467-026-72745-6",
+    "authors": [
+      "Xiaowei Zhang",
+      "Ting Zhao",
+      "Midie Xu",
+      "Yanjing Guo",
+      "Qifeng Wang",
+      "Yanli Wang",
+      "Liangping Zhou",
+      "Silong Hu",
+      "Qinghua Xu",
+      "Xichun Hu",
+      "Xin Liu",
+      "Zhiguo Luo"
+    ],
+    "summary": "Nature Communications, Published online: 09 May 2026; <a href=\"https://www.nature.com/articles/s41467-026-72745-6\">doi:10.1038/s41467-026-72745-6</a>Cancer of unknown primary (CUP) represents a heterogenous group of metastatic malignancies with no standard of care following disease progression. Here, the authors report a phase II clinical trial evaluating F520 (anti-PD-1), bevacizumab (VEGF inhibitor) and nab-paclitaxel in the second line setting for patients with cancer of unknown primary.",
+    "source": "Nature Communications",
+    "date": "2026-05-09",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-72797-8",
+    "title": "Proactive collaboration via autonomous interaction",
+    "link": "https://www.nature.com/articles/s41467-026-72797-8",
+    "authors": [
+      "Peiyan Li",
+      "Shuyuan Zhang",
+      "Wenju Yang",
+      "Yitong Hu",
+      "Yuhang Wang",
+      "Dunzheng Wang",
+      "Hang Li",
+      "Di Guo",
+      "Huaping Liu"
+    ],
+    "summary": "Nature Communications, Published online: 09 May 2026; <a href=\"https://www.nature.com/articles/s41467-026-72797-8\">doi:10.1038/s41467-026-72797-8</a>The study shows that proactive collaboration, driven by team initiatives, enables robot teams to anticipate needs and reorganize themselves by recruiting or releasing teammates, improving performance in real-world and simulated tasks.",
+    "source": "Nature Communications",
+    "date": "2026-05-09",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-026-03601-0",
+    "title": "Reversing methanogenesis to produce ethanol",
+    "link": "https://www.nature.com/articles/s43247-026-03601-0",
+    "authors": [
+      "Ruchira Mitra",
+      "Yunjeong Choi",
+      "Hyeon-Ji Hwang",
+      "Rodolfo García-Contreras",
+      "Vanesa Angarita-Zapata",
+      "Shotaro Toya",
+      "Ilke Gurgan",
+      "Ingmar H. Riedel-Kruse",
+      "Thomas K. Wood"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 09 May 2026; <a href=\"https://www.nature.com/articles/s43247-026-03601-0\">doi:10.1038/s43247-026-03601-0</a>Acetate produced by methanogens from captured methane and carbon dioxide can be converted efficiently to ethanol, demonstrated by lab experiments on the engineered methanogen Methanosarcina acetivorans.",
+    "source": "Communications Earth & Environment",
+    "date": "2026-05-09",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012821X26002566",
+    "title": "Geodynamic controls on the habitable basement of shallow coral reefs at rifted continental margins",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012821X26002566?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: 1 August 2026<b>Source:</b> Earth and Planetary Science Letters, Volume 687Author(s): Zhibin Lei, Shaohong Xia, Sascha Brune, Michaël Pons, Chenglong Zhang, Tao Gou, Changrong Zhang, Chaoyan Fan",
+    "source": "ScienceDirect Publication: Earth and Planetary Science Letters",
+    "date": "2026-05-10",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012821X26002554",
+    "title": "Linking deep-time magmatism to present-day lithospheric architecture through integrating geochemical mapping, geophysical observation, and phase equilibrium modeling",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012821X26002554?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: 1 August 2026<b>Source:</b> Earth and Planetary Science Letters, Volume 687Author(s): He Huang, Tao Wang, Daniel Gómez-Frutos, Antonio Castro, Hua Xiang, Xuewei Bao, Xiaosan Zhu, Jiyuan Yin, Yannan Wang, Xuxuan Ma, Zhenyu He",
+    "source": "ScienceDirect Publication: Earth and Planetary Science Letters",
+    "date": "2026-05-10",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012821X2600275X",
+    "title": "Injected fluids both trigger and facilitate a cascade of larger earthquake ruptures",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012821X2600275X?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: 1 August 2026<b>Source:</b> Earth and Planetary Science Letters, Volume 687Author(s): Yapei Ye, Wen Yang, Jian Xu, Junlun Li, Renqi Lu, Hongyu Yu, Chang Guo, Yingwen Zhao, Haijiang Zhang, Ryan Schultz",
+    "source": "ScienceDirect Publication: Earth and Planetary Science Letters",
+    "date": "2026-05-10",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012821X26002724",
+    "title": "Effect of realistic heat flux patterns on geodynamo simulations",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012821X26002724?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: 1 August 2026<b>Source:</b> Earth and Planetary Science Letters, Volume 687Author(s): T. Frasson, N. Schaeffer, H.-C. Nataf, S. Labrosse",
+    "source": "ScienceDirect Publication: Earth and Planetary Science Letters",
+    "date": "2026-05-10",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012821X26002608",
+    "title": "Periodic seismic velocity variations in shallow marine sediments using decommissioned fiber-optic cable",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012821X26002608?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: 1 August 2026<b>Source:</b> Earth and Planetary Science Letters, Volume 687Author(s): Zhenghong Song, Xiangfang Zeng, Herbert F. Wang, He Tang, Sidao Ni, Jiangcun Zhou, Ruyu Yan, Qingwen Liu, Tengfei Xu",
+    "source": "ScienceDirect Publication: Earth and Planetary Science Letters",
+    "date": "2026-05-10",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012821X26002748",
+    "title": "Machine learning reveals early preseismic signals of laboratory earthquakes",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012821X26002748?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: 1 August 2026<b>Source:</b> Earth and Planetary Science Letters, Volume 687Author(s): Ying Huang, Muao Shen, Fengming Shen, Lifeng Wang, Peixun Liu, Shengli Ma",
+    "source": "ScienceDirect Publication: Earth and Planetary Science Letters",
+    "date": "2026-05-10",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL122356",
+    "title": "Water‐Regulated Carbon Cost–Benefit Drives Divergent Effective Rooting Depth Across the Greening Loess Plateau",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL122356?af=R",
+    "authors": [
+      "Tongxuan Su, \nRui Shao, \nYao Li, \nXining Zhao, \nBaoqing Zhang"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 9, 16 May 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-05-08",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL120775",
+    "title": "Land‐Ocean Contrast in Low‐Cloud Adiabatic Fraction Modulated by Cloud Thickness and Droplet Size",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL120775?af=R",
+    "authors": [
+      "Xin Lu, \nYannian Zhu, \nDaniel Rosenfeld"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 9, 16 May 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-05-08",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL121809",
+    "title": "Seismic Imaging Reveals Ongoing Modification of Craton Margins in Northeast Asia",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL121809?af=R",
+    "authors": [
+      "Hwaju Lee, \nYoungHee Kim, \nMaximiliano J. Bezada, \nHyunwoo Lee"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 9, 16 May 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-05-08",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL121302",
+    "title": "Eastward Propagation of Anomalous Indo–Pacific Walker Circulation During ENSO Transition",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL121302?af=R",
+    "authors": [
+      "Longjun Fan, \nTao Lian, \nRuikun Hu, \nTing Liu, \nWendi Wu"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 9, 16 May 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-05-08",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL122061",
+    "title": "Siderite Concretions in Svalbard Lake Sediments Capture 7,000 Years of Extreme Arctic Cold Season Climate Change",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL122061?af=R",
+    "authors": [
+      "Willem G. M. van der Bilt, \nBarnabás Csiszár, \nMarie Bulínová, \nLeif‐Erik R. Pedersen, \nAlexandra Rouillard, \nIngunn H. Thorseth, \nTorgeir O. Røthe, \nMateusz C. Strzelecki, \nAnders Schomacker"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 9, 16 May 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-05-08",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL120322",
+    "title": "A Submesoscale Cascade‐Driven Mesoscale Seasonal Cycle in the Subtropics",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL120322?af=R",
+    "authors": [
+      "Ling Feng, \nKaushik Srinivasan, \nJames C. McWilliams, \nPierre Damien, \nRoy Barkan, \nChuanyu Liu, \nFan Wang"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 9, 16 May 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-05-08",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL120160",
+    "title": "3D Variations in Viscosity Reconcile the Strength of the Lower Mantle Inferred From Glacial Isostatic Adjustment and Mantle Convection",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL120160?af=R",
+    "authors": [
+      "A. Bellas‐Manley, \nK. Kang, \nT. W. Becker, \nR. S. Nerem"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 9, 16 May 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-05-08",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL121619",
+    "title": "Apollo 17 Lunar Surface Gravimeter as a Seismometer: Relocating Shallow‐Moonquake Sources and Implications for Source Mechanism",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL121619?af=R",
+    "authors": [
+      "Keisuke Onodera, \nTaichi Kawamura"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 9, 16 May 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-05-08",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GC012958",
+    "title": "Consolidated‐Undrained Shear Behavior of Diatomaceous Mudstones: Implications for Submarine Landslides",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GC012958?af=R",
+    "authors": [
+      "Wyatt Scott, \nJulia S. Reece"
+    ],
+    "summary": "Geochemistry, Geophysics, Geosystems, Volume 27, Issue 5, May 2026.",
+    "source": "Wiley: Geochemistry, Geophysics, Geosystems: Table of Contents",
+    "date": "2026-05-08",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025JB033043",
+    "title": "Unraveling the Mystery of Melt Migration in Migmatites: From Channeling Instability to Pattern Formation",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JB033043?af=R",
+    "authors": [
+      "Qingpei Sun, \nManman Hu, \nRoberto Weinberg, \nKlaus Regenauer‐Lieb"
+    ],
+    "summary": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 5, May 2026.",
+    "source": "Wiley: Journal of Geophysical Research: Solid Earth: Table of Contents",
+    "date": "2026-05-08",
+    "sent": true
+  },
+  {
+    "id": "https://pubs.geoscienceworld.org/gsa/geology/article/doi/10.1130/G54531.1/730581/Origin-and-fate-of-an-episodic-oil-seep-Gulf-of-St",
+    "title": "Origin and fate of an episodic oil seep, Gulf of St. Lawrence (Canada)",
+    "link": "https://pubs.geoscienceworld.org/gsa/geology/article/doi/10.1130/G54531.1/730581/Origin-and-fate-of-an-episodic-oil-seep-Gulf-of-St",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\">Natural oil seeps are surface indicators of hydrocarbon migration in sedimentary basins. Current understanding of oil seeps is mainly based on the study of persistent seeps, even if episodic seeps are likely to be much more widespread worldwide. We present the first evidence of an episodic oil seep in the Gulf of St. Lawrence, Canada, where the presence of oil seeps and oil resources has been disputed. High-temporal-resolution data at an unprecedented level—sub-daily satellite imaging and hourly data from an oceanographic buoy—enable the first-ever quantification of oil emission rates over time for an episodic seep. After a rapid onset without an obvious external trigger, the oil emission rate declined until emissions were no longer detectable 53 d later. About 30,000 L of oil was released over this period, with no estimate of gas emissions. We link our observations into a schematic model describing hydrocarbon migration, accumulation, and seepage in the Carboniferous Maritimes Basin. Beyond being a regionally significant discovery, this research provides a well-documented example that may serve as analog for understanding fluid migration and episodic leakage in other sedimentary basins.</span>",
+    "source": "Geology Advance Access",
+    "date": "2026-05-08",
+    "sent": true
+  },
+  {
+    "id": "https://pubs.geoscienceworld.org/gsa/geology/article/doi/10.1130/G54222.1/730580/Transient-behavior-in-the-lithosphere-driven-by",
+    "title": "Transient behavior in the lithosphere driven by coaxial narrowing in shear zones",
+    "link": "https://pubs.geoscienceworld.org/gsa/geology/article/doi/10.1130/G54222.1/730580/Transient-behavior-in-the-lithosphere-driven-by",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\">Shear zones dynamically evolve through time due to a range of geologic processes, including changes in temperature, pressure, and deformation mechanism as well as chemical transformations and fluid-mediated processes. We consider a process that is capable of stress change throughout the lithosphere: shear zone narrowing due to a coaxial component of deformation. In shear zones bounded by high rheological contrasts, any coaxial (e.g., pure shear) component of deformation causes the shear zone boundaries to move toward one another. This narrowing leads to faster strain rates and thus higher differential stress. A 2-D cross-sectional analytical model of a lithospheric-scale shear zone system with 15° convergence angle (sub-simple shear) demonstrates that highly localized zones in the middle crust, deep crust, and upper mantle can experience significant stress increases on the decade to millennium scale due only to coaxial narrowing. This stress increase can lead to brittle failure and, coupled with other localizing or delocalizing mechanisms, drive cyclic, transient behavior throughout the lithosphere.</span>",
+    "source": "Geology Advance Access",
+    "date": "2026-05-08",
+    "sent": true
+  },
+  {
+    "id": "https://pubs.geoscienceworld.org/gsa/geology/article/doi/10.1130/G54520.1/730579/Large-mid-to-late-Holocene-warming-of-equatorial",
+    "title": "Large mid- to late Holocene warming of equatorial Atlantic intermediate waters: The role of the southern branch of the Meridional Overturning Circulation",
+    "link": "https://pubs.geoscienceworld.org/gsa/geology/article/doi/10.1130/G54520.1/730579/Large-mid-to-late-Holocene-warming-of-equatorial",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\">The ongoing intensification and southward shift of Southern Hemisphere westerly winds (SWWs) are dynamically involved in the downward deep-ocean transfer of excess heat arising from Earth’s radiative forcing imbalances. Yet, the process and extent of this heat transfer are poorly understood, in part due to insufficient data on analogous processes in the geologic record. I show, for the first time, an unprecedented and significant warming (5 ± 0.9 °C) of equatorial Atlantic upper intermediate waters (830 m) during the mid- to late Holocene, a period without significant increases in radiative forcing. I propose that this warming was dynamically linked to enhanced downwelling and advection of warm water equatorward of the wind stress maximum of intensified SWWs. My discovery highlights the important, yet underexplored, role of the wind-driven southern branch of the Meridional Overturning Circulation in redistributing heat to the tropical oceans. More broadly, my observations serve as an analogue, demonstrating the important role tropical upper intermediate waters may play in sequestering excess heat under ongoing global warming.</span>",
+    "source": "Geology Advance Access",
+    "date": "2026-05-08",
+    "sent": true
+  },
+  {
+    "id": "https://pubs.geoscienceworld.org/gsa/gsabulletin/article/doi/10.1130/B38892.1/730578/Sound-velocities-of-peridotite-and-the-role-of",
+    "title": "Sound velocities of peridotite and the role of orthopyroxene on Lehmann and X discontinuities",
+    "link": "https://pubs.geoscienceworld.org/gsa/gsabulletin/article/doi/10.1130/B38892.1/730578/Sound-velocities-of-peridotite-and-the-role-of",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\">The current sound velocities of peridotite are primarily determined based on the individual mineral properties under mantle temperature and pressure conditions. To provide directly experimental constraints on the sound velocities of peridotite at high pressure and high temperature, we simulated peridotite using olivine-orthopyroxene aggregates and employed ultrasonic interferometry to measure the sound velocities of these aggregates at room temperature up to 12 GPa, and at up to 873 K and 8 GPa. The experimental results demonstrate that sound velocities increase with pressure but decrease with orthopyroxene content and temperature. Empirical equations have been established to describe the relationship between sound velocities and factors such as pressure, temperature, and orthopyroxene content in peridotite. By integrating the seismic characteristics of the Lehmann and X discontinuities, we found that discontinuities with 1%−2% velocity jumps can be explained by the orthopyroxene content in the mantle. Discontinuities exhibiting 3%−6% velocity jumps are predominantly observed in hot and wet regions, which can be attributed to the localized enrichment of orthopyroxene resulting from reactions between olivine and silica-rich fluids generated by melting of eclogite. Thus, the phase transition from orthopyroxene to high-pressure clinopyroxene is proposed as a potential explanation for both the L and X discontinuities.</span>",
+    "source": "GSA Bulletin Advance Access",
+    "date": "2026-05-08",
+    "sent": true
+  },
+  {
+    "id": "http://doi.org/10.1093/nsr/nwag268",
+    "title": "Spatio-dipolar synergy modulated interfacial molecular bridge for calendar aging resistant aqueous zinc-ion batteries",
+    "link": "https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwag268/8675043?rss=1",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\"><div class=\"boxTitle\">Abstract</div>Short calendar-aging life and interfacial degradation hinder the applications of aqueous Zn-ion batteries. Herein, trimorpholinophosphine-oxide (TPO), featuring high Topological Polar Surface Area (TPSA), is introduced as an electrolyte additive that modulates interfacial ions via steric-dipolar synergism. Specifically, the topological polarity of TPO facilitates Zn<sup>2+</sup> coordination and strong surface adsorption, creating migration channels within solvation-interfacial networks. Moreover, the steric hindrance of TPO disrupts the solvation sheath of Zn<sup>2+</sup>, forming H<sub>3</sub>O<sup>+</sup>-repelled layers. Consequently, TPO-containing cells achieve an exceptional average Coulombic efficiency (CE) of 99.91% and operate steadily at ultrahigh current densities (280 mA cm<sup>−2</sup>). At -20°C, TPO-containing cells retain 177 mAh g⁻<sup>1</sup> after 6000 cycles, yet additive-free cells fail after 1400 cycles (84 mAh g⁻<sup>1</sup>). Most importantly, TPO-containing cells maintain high CE exceeding 95% over a superior 2500 h under intermittent calendar-aging, far exceeding the 72 h of additive-free cells. This work offers molecular-level insights into TPSA-induced steric-dipole synergism for ultra-stable batteries.</span>",
+    "source": "National Science Review Advance Access",
+    "date": "2026-05-09",
+    "sent": true
+  },
+  {
+    "id": "http://doi.org/10.1093/nsr/nwag264",
+    "title": "Redefining the active site: when the support takes center stage",
+    "link": "https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwag264/8675034?rss=1",
+    "authors": [],
+    "summary": "",
+    "source": "National Science Review Advance Access",
+    "date": "2026-05-09",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026TC009414",
+    "title": "Serial Folding of Partially Molten Crust in the Chinese Altai Driven by Mechanical Anisotropy and Migrating Melt",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026TC009414?af=R",
+    "authors": [
+      "Ondřej Krýza, \nYing‐De Jiang, \nProkop Závada, \nKarel Schulmann, \nJohn Cosgrove, \nTan Shu, \nJiří Semerád, \nWan‐Feng Zhang"
+    ],
+    "summary": "Tectonics, Volume 45, Issue 5, May 2026.",
+    "source": "Wiley: Tectonics: Table of Contents",
+    "date": "2026-05-08",
+    "sent": true
+  },
+  {
     "id": "https://www.nature.com/articles/d41586-026-01500-0",
     "title": "Radioactive rain and proving relativity: Books in brief",
     "link": "https://www.nature.com/articles/d41586-026-01500-0",
