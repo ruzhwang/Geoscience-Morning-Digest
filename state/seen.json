@@ -1,5 +1,485 @@
 [
   {
+    "id": "https://www.nature.com/articles/s41586-026-10578-5",
+    "title": "Publisher Correction: Presymptomatic training mitigates functional deficits in a mouse model of Rett syndrome",
+    "link": "https://www.nature.com/articles/s41586-026-10578-5",
+    "authors": [
+      "Nathan P. Achilly",
+      "Wei Wang",
+      "Huda Y. Zoghbi"
+    ],
+    "summary": "Nature, Published online: 11 May 2026; <a href=\"https://www.nature.com/articles/s41586-026-10578-5\">doi:10.1038/s41586-026-10578-5</a>Publisher Correction: Presymptomatic training mitigates functional deficits in a mouse model of Rett syndrome",
+    "source": "Nature",
+    "date": "2026-05-11",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-01522-8",
+    "title": "Audio long read: The air is full of DNA — here’s what scientists are using it for",
+    "link": "https://www.nature.com/articles/d41586-026-01522-8",
+    "authors": [
+      "Aisling Irwin",
+      "Benjamin Thompson"
+    ],
+    "summary": "Nature, Published online: 11 May 2026; <a href=\"https://www.nature.com/articles/d41586-026-01522-8\">doi:10.1038/d41586-026-01522-8</a>Floating genetic material could give insights into ecosystem health, the presence of invasive species, and help researchers identify pathogens before they cause harm.",
+    "source": "Nature",
+    "date": "2026-05-11",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-01478-9",
+    "title": "The sleep paradox: why do humans sleep so little when we need it so much?",
+    "link": "https://www.nature.com/articles/d41586-026-01478-9",
+    "authors": [
+      "Nathaniel J. Dominy"
+    ],
+    "summary": "Nature, Published online: 11 May 2026; <a href=\"https://www.nature.com/articles/d41586-026-01478-9\">doi:10.1038/d41586-026-01478-9</a>A new book brings together ethnography, neurobiology and primatology to argue that how much our species sleeps is an evolutionary trade-off, with lessons for how each of us can sleep better.",
+    "source": "Nature",
+    "date": "2026-05-11",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-01481-0",
+    "title": "Elsevier vs Meta: first science publisher sues over scraped research papers",
+    "link": "https://www.nature.com/articles/d41586-026-01481-0",
+    "authors": [
+      "Elizabeth Gibney"
+    ],
+    "summary": "Nature, Published online: 11 May 2026; <a href=\"https://www.nature.com/articles/d41586-026-01481-0\">doi:10.1038/d41586-026-01481-0</a>Science publishing giant Elsevier has joined a class-action lawsuit against Meta that alleges the reproduction of copyrighted works in developing the Llama AI model.",
+    "source": "Nature",
+    "date": "2026-05-11",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-01479-8",
+    "title": "Best. Day. Ever. What does a good day in science look like?",
+    "link": "https://www.nature.com/articles/d41586-026-01479-8",
+    "authors": [
+      "Virginia Gewin"
+    ],
+    "summary": "Nature, Published online: 11 May 2026; <a href=\"https://www.nature.com/articles/d41586-026-01479-8\">doi:10.1038/d41586-026-01479-8</a>Struggling to remember why you picked a career in science? Here are some heart-warming tales to jog your memory.",
+    "source": "Nature",
+    "date": "2026-05-11",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-01512-w",
+    "title": "Hantavirus outbreak exposes uncertainty about how disease spreads",
+    "link": "https://www.nature.com/articles/d41586-026-01512-w",
+    "authors": [
+      "Mohana Basu",
+      "Rachel Fieldhouse"
+    ],
+    "summary": "Nature, Published online: 11 May 2026; <a href=\"https://www.nature.com/articles/d41586-026-01512-w\">doi:10.1038/d41586-026-01512-w</a>Passengers who were on the cruise ship MV Hondius will quarantine in their home countries.",
+    "source": "Nature",
+    "date": "2026-05-11",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-01491-y",
+    "title": "Giant map reveals thousands of cities worldwide with successful green policies",
+    "link": "https://www.nature.com/articles/d41586-026-01491-y",
+    "authors": [
+      "Chris Simms"
+    ],
+    "summary": "Nature, Published online: 11 May 2026; <a href=\"https://www.nature.com/articles/d41586-026-01491-y\">doi:10.1038/d41586-026-01491-y</a>Greenhouse-gas emissions from burning fossil fuel have been mapped across thousands of cities worldwide.",
+    "source": "Nature",
+    "date": "2026-05-11",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-01510-y",
+    "title": "Briefing Chat: Can’t focus? It’s not your attention span, it’s your notifications",
+    "link": "https://www.nature.com/articles/d41586-026-01510-y",
+    "authors": [
+      "Nick Petrić Howe",
+      "Flora Graham"
+    ],
+    "summary": "Nature, Published online: 08 May 2026; <a href=\"https://www.nature.com/articles/d41586-026-01510-y\">doi:10.1038/d41586-026-01510-y</a>Nature staff discuss some of the week’s top science news.",
+    "source": "Nature",
+    "date": "2026-05-08",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41561-026-01951-0",
+    "title": "Stratospheric cooling explained",
+    "link": "https://www.nature.com/articles/s41561-026-01951-0",
+    "authors": [
+      "Nadir Jeevanjee"
+    ],
+    "summary": "Nature Geoscience, Published online: 11 May 2026; <a href=\"https://www.nature.com/articles/s41561-026-01951-0\">doi:10.1038/s41561-026-01951-0</a>Models have long predicted, and satellites have observed, stratospheric cooling from rising anthropogenic carbon dioxide, yet its magnitude and structure have lacked a robust theoretical explanation — until now.",
+    "source": "Nature Geoscience",
+    "date": "2026-05-11",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41561-026-01965-8",
+    "title": "Stratospheric cooling and amplification of radiative forcing with rising carbon dioxide",
+    "link": "https://www.nature.com/articles/s41561-026-01965-8",
+    "authors": [
+      "Sean Cohen",
+      "Robert Pincus",
+      "Lorenzo M. Polvani"
+    ],
+    "summary": "Nature Geoscience, Published online: 11 May 2026; <a href=\"https://www.nature.com/articles/s41561-026-01965-8\">doi:10.1038/s41561-026-01965-8</a>Higher carbon dioxide levels widen the part of the heat spectrum that can emit energy to space, cooling the stratosphere and strengthening the warming effect of this gas, according to idealized spectroscopy and radiative transfer model simulations.",
+    "source": "Nature Geoscience",
+    "date": "2026-05-11",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-72711-2",
+    "title": "Conserved pathogenesis of ancestral and contemporary Oropouche virus strains in a murine pregnancy model",
+    "link": "https://www.nature.com/articles/s41467-026-72711-2",
+    "authors": [
+      "Krista B. Gunter",
+      "James M. Bowen",
+      "Andrew T. Clarke",
+      "Melanie McFarlane",
+      "Dorcus C. A. Omoga",
+      "Stephanie Pozuelos",
+      "Henry Giesel",
+      "Curtis Witt",
+      "Lisa M. Rogers",
+      "David M. Aronoff",
+      "Andrew M. Lunel",
+      "Jay Vornhagen",
+      "Benjamin Brennan",
+      "Natasha L. Tilston"
+    ],
+    "summary": "Nature Communications, Published online: 12 May 2026; <a href=\"https://www.nature.com/articles/s41467-026-72711-2\">doi:10.1038/s41467-026-72711-2</a>Oropouche virus (OROV) is an emerging virus in Latin America. Here the authors show in a mouse model that OROV infects the placenta and can reach the fetus during pregnancy, a conserved feature across ancestral and recent strains that highlights emerging risks to maternal and fetal health.",
+    "source": "Nature Communications",
+    "date": "2026-05-12",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-72826-6",
+    "title": "Publisher Correction: Strong nickel enrichment co-located with redox-organic interactions in Neretva Vallis, Mars",
+    "link": "https://www.nature.com/articles/s41467-026-72826-6",
+    "authors": [
+      "H. T. Manelski",
+      "R. C. Wiens",
+      "A. Broz",
+      "J. A. Hurowitz",
+      "M. Tice",
+      "S. Clegg",
+      "E. Dehouck",
+      "N. Randazzo",
+      "S. A. Connell",
+      "O. Forni",
+      "S. J. VanBommel",
+      "S. Schröder",
+      "L. Mandon",
+      "T. S. J. Gabriel",
+      "C. C. Bedford",
+      "R. K. Martinez",
+      "E. A. Cloutis",
+      "A. Cousin",
+      "M. L. Cable"
+    ],
+    "summary": "Nature Communications, Published online: 11 May 2026; <a href=\"https://www.nature.com/articles/s41467-026-72826-6\">doi:10.1038/s41467-026-72826-6</a>Publisher Correction: Strong nickel enrichment co-located with redox-organic interactions in Neretva Vallis, Mars",
+    "source": "Nature Communications",
+    "date": "2026-05-11",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-73041-z",
+    "title": "Author Correction: <i>S</i>-nitrosoglutathione reductase GSNOR drives age-related obesity by promoting adipose tissue whitening through de-nitrosation of Beclin-1",
+    "link": "https://www.nature.com/articles/s41467-026-73041-z",
+    "authors": [
+      "Xinhua Qiao",
+      "Ting Xie",
+      "Yuying Zhang",
+      "Chuanxin Sun",
+      "Xuanhao Wu",
+      "Yuzhe Chen",
+      "Qin Yao",
+      "Haoyang Shi",
+      "Shilong Li",
+      "Hongyu Zhao",
+      "Tiepeng Wang",
+      "Jiao Meng",
+      "Li Zhou",
+      "Mutian Niu",
+      "Yangxi Hu",
+      "Hansong Liu",
+      "Chang Chen"
+    ],
+    "summary": "Nature Communications, Published online: 11 May 2026; <a href=\"https://www.nature.com/articles/s41467-026-73041-z\">doi:10.1038/s41467-026-73041-z</a>Author Correction: <i>S</i>-nitrosoglutathione reductase GSNOR drives age-related obesity by promoting adipose tissue whitening through de-nitrosation of Beclin-1",
+    "source": "Nature Communications",
+    "date": "2026-05-11",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-71875-1",
+    "title": "Author Correction: TORC1 controls G<sub>1</sub>–S cell cycle transition in yeast via Mpk1 and the greatwall kinase pathway",
+    "link": "https://www.nature.com/articles/s41467-026-71875-1",
+    "authors": [
+      "Marta Moreno-Torres",
+      "Malika Jaquenoud",
+      "Claudio De Virgilio"
+    ],
+    "summary": "Nature Communications, Published online: 11 May 2026; <a href=\"https://www.nature.com/articles/s41467-026-71875-1\">doi:10.1038/s41467-026-71875-1</a>Author Correction: TORC1 controls G<sub>1</sub>–S cell cycle transition in yeast via Mpk1 and the greatwall kinase pathway",
+    "source": "Nature Communications",
+    "date": "2026-05-11",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-72851-5",
+    "title": "SAASI: Sampling Aware Ancestral State Inference",
+    "link": "https://www.nature.com/articles/s41467-026-72851-5",
+    "authors": [
+      "Yexuan Song",
+      "Ivan Gill",
+      "Ailene MacPherson",
+      "Caroline Colijn"
+    ],
+    "summary": "Nature Communications, Published online: 11 May 2026; <a href=\"https://www.nature.com/articles/s41467-026-72851-5\">doi:10.1038/s41467-026-72851-5</a>Ancestral state inference methods are used to reconstruct host species transmission histories over time; however, these methods are biased by uneven sampling. The authors develop SAASI, a new ancestral state inference method that accounts for sampling bias.",
+    "source": "Nature Communications",
+    "date": "2026-05-11",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-72899-3",
+    "title": "Structural insights into cobalamin loading and reactivation of human methionine synthase",
+    "link": "https://www.nature.com/articles/s41467-026-72899-3",
+    "authors": [
+      "Douglas S. M. Ferreira",
+      "Katie McLennan",
+      "Calum Diamond",
+      "Melanie Vollmar",
+      "Wasim Kiyani",
+      "D. Sean Froese",
+      "Jola Kopec",
+      "Henry J. Bailey",
+      "Rod Chalk",
+      "Arnaud Baslé",
+      "Jonathan M. Elkins",
+      "Jesse A. Coker",
+      "Wyatt W. Yue",
+      "Thomas J. McCorvie"
+    ],
+    "summary": "Nature Communications, Published online: 11 May 2026; <a href=\"https://www.nature.com/articles/s41467-026-72899-3\">doi:10.1038/s41467-026-72899-3</a>Human methionine synthase, a cobalamin-dependent enzyme linking the methionine and folate cycles, shows a flexible architecture by cryo-EM. Computational and biophysical data reveal partner interactions key for cofactor loading and activation.",
+    "source": "Nature Communications",
+    "date": "2026-05-11",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-73000-8",
+    "title": "Soft tactile chip with in-situ sensing for haptic rendering and reverse feedback enhanced gross to fine teleoperation",
+    "link": "https://www.nature.com/articles/s41467-026-73000-8",
+    "authors": [
+      "Minglu Zhu",
+      "Hao Ling",
+      "Rui Wang",
+      "Zhanpeng Du",
+      "Qi Sun",
+      "Kuihan Chen",
+      "Ke Chen",
+      "Lining Sun",
+      "Cheng Fan",
+      "Chengkuo Lee",
+      "Xuan Li",
+      "Tao Chen"
+    ],
+    "summary": "Nature Communications, Published online: 11 May 2026; <a href=\"https://www.nature.com/articles/s41467-026-73000-8\">doi:10.1038/s41467-026-73000-8</a>Soft tactile chips embed in-situ sensing in pneumatic actuators, improving teleoperation via adaptive haptic feedback. Liquid-metal pressure and pectin temperature sensors enable precise manipulation and better human-robot interaction.",
+    "source": "Nature Communications",
+    "date": "2026-05-11",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-73043-x",
+    "title": "Author Correction: Injured epithelial cell states impact kidney allograft survival after T-cell-mediated rejection",
+    "link": "https://www.nature.com/articles/s41467-026-73043-x",
+    "authors": [
+      "Anna Maria Pfefferkorn",
+      "Lorenz Jahn",
+      "Patrick T. Gauthier",
+      "Vera Anna Kulow",
+      "Johannes Roeles",
+      "Niklas Müller-Bötticher",
+      "Louisa M. S. Gerhardt",
+      "Janna Leiz",
+      "Sadia Sarfraz",
+      "Izabela Plumbom",
+      "Robert Greite",
+      "Svjetlana Lovric",
+      "Jaba Gamrekelashvili",
+      "Florian Limbourg",
+      "Jessica Schmitz",
+      "Jan Hinrich Bräsen",
+      "Irina Scheffner",
+      "Igor M. Sauer",
+      "Felix Aigner",
+      "Janine Altmüller",
+      "Thomas Conrad",
+      "Wilfried Gwinner",
+      "Naveed Ishaque",
+      "Michael Fähling",
+      "Kai M. Schmidt-Ott",
+      "Philip F. Halloran",
+      "Muhammad Imtiaz Ashraf",
+      "Christian Hinze"
+    ],
+    "summary": "Nature Communications, Published online: 11 May 2026; <a href=\"https://www.nature.com/articles/s41467-026-73043-x\">doi:10.1038/s41467-026-73043-x</a>Author Correction: Injured epithelial cell states impact kidney allograft survival after T-cell-mediated rejection",
+    "source": "Nature Communications",
+    "date": "2026-05-11",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-026-03482-3",
+    "title": "Dissolved organic carbon decomposed or polymerized in ice depending on nitrate-mediated carbon-nitrogen coupling",
+    "link": "https://www.nature.com/articles/s43247-026-03482-3",
+    "authors": [
+      "Lang Zhu",
+      "Na Chen",
+      "Rui Zou",
+      "Luyao Ren",
+      "Jia Xie",
+      "Zelin Hao",
+      "Haoyang Jiang",
+      "Hanzhong Jia"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 11 May 2026; <a href=\"https://www.nature.com/articles/s43247-026-03482-3\">doi:10.1038/s43247-026-03482-3</a>Pyrogenic dissolved black carbon in ice degraded oxidatively during carbon-nitrogen coupling, causing carbon loss, while compost-derived dissolved organic carbon humified and stabilized, as shown in freezing experiments with straw biomass derivatives.",
+    "source": "Communications Earth & Environment",
+    "date": "2026-05-11",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-026-03560-6",
+    "title": "Meso-scale pressure reactor demonstrates biostimulation of coal-dependent methanogenesis",
+    "link": "https://www.nature.com/articles/s43247-026-03560-6",
+    "authors": [
+      "Margaux Meslé",
+      "Adrienne Phillips",
+      "Elliott P. Barnhart",
+      "Laura Dobeck",
+      "Joachim Eldring",
+      "Randy Hiebert",
+      "Rita Park",
+      "Alfred Cunningham",
+      "Robin Gerlach",
+      "Lee Spangler",
+      "Katherine Davis",
+      "Matthew W. Fields"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 11 May 2026; <a href=\"https://www.nature.com/articles/s43247-026-03560-6\">doi:10.1038/s43247-026-03560-6</a>Microalgae accelerate early methanogenesis and enhance coal-derived methane production over time, according to the pressurized incubation of a large block of coal collected in the Powder River Basin, Montana, USA.",
+    "source": "Communications Earth & Environment",
+    "date": "2026-05-11",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-026-03604-x",
+    "title": "Arctic sea ice decline, increasing successive sudden stratospheric warmings and cold northern hemisphere continents",
+    "link": "https://www.nature.com/articles/s43247-026-03604-x",
+    "authors": [
+      "Jian Rao",
+      "Chaim I. Garfinkel",
+      "Judah Cohen",
+      "Yue Wang",
+      "Xiaoqi Zhang",
+      "Rongcai Ren",
+      "Pengfei Zhang"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 11 May 2026; <a href=\"https://www.nature.com/articles/s43247-026-03604-x\">doi:10.1038/s43247-026-03604-x</a>New evidence shows successive sudden stratospheric warmings have been increasing, with broader cold air influence in the northern hemisphere continents. Multimodel historical simulations and polar climate modeling attribute this change to the Arctic sea ice decline.",
+    "source": "Communications Earth & Environment",
+    "date": "2026-05-11",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012825226001480",
+    "title": "Two asynchronous Ediacaran paleoceans in the Damara orogen of Namibia?",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012825226001480?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 10 May 2026<b>Source:</b> Earth-Science ReviewsAuthor(s): Paul F. Hoffman",
+    "source": "ScienceDirect Publication: Earth-Science Reviews",
+    "date": "2026-05-12",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012821X26002682",
+    "title": "Chert formation pathways through geological time constrained by triple silicon isotopes",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012821X26002682?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: 1 August 2026<b>Source:</b> Earth and Planetary Science Letters, Volume 687Author(s): Isaac J. Onyett, Andreas Pack, Elias J. Rugen, Martin Schiller",
+    "source": "ScienceDirect Publication: Earth and Planetary Science Letters",
+    "date": "2026-05-12",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025JB032718",
+    "title": "Nine‐Year L‐Band InSAR Time Series of Tectonic and Non‐Tectonic Surface Deformation in Northern California",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JB032718?af=R",
+    "authors": [
+      "D. Lindsay, \nR. Bürgmann, \nK. Materna, \nE. J. Fielding"
+    ],
+    "summary": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 5, May 2026.",
+    "source": "Wiley: Journal of Geophysical Research: Solid Earth: Table of Contents",
+    "date": "2026-05-10",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025JB032054",
+    "title": "Inherited Structure of a Paleo‐Subduction Zone Beneath the Northern Tibetan Plateau: Insights From 3‐D Anisotropic Magnetotelluric Imaging",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JB032054?af=R",
+    "authors": [
+      "Zelin Sun, \nZeyi Dong, \nQibin Xiao, \nJin Zhang, \nBing Han, \nLifeng Wang, \nJi Tang"
+    ],
+    "summary": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 5, May 2026.",
+    "source": "Wiley: Journal of Geophysical Research: Solid Earth: Table of Contents",
+    "date": "2026-05-10",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0016703726002826",
+    "title": "NADW attenuation and millennial-scale overturning circulation variability in the Arabian Sea constrained through authigenic ε<sub>Nd</sub> at the Carlsberg Ridge",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0016703726002826?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 10 May 2026<b>Source:</b> Geochimica et Cosmochimica ActaAuthor(s): Sayantan De, Sunil Kumar Singh",
+    "source": "ScienceDirect Publication: Geochimica et Cosmochimica Acta",
+    "date": "2026-05-12",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0016703726002917",
+    "title": "Progressive change of the water column, pore water and sediment chromium isotope composition at the Rainbow hydrothermal vent field, North Atlantic Ocean",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0016703726002917?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 10 May 2026<b>Source:</b> Geochimica et Cosmochimica ActaAuthor(s): Delphine Gilliard, David J. Janssen, Zvi Steiner, Zhouling Zhang, Sylvie Bruggmann, Eric P. Achterberg, Samuel L. Jaccard",
+    "source": "ScienceDirect Publication: Geochimica et Cosmochimica Acta",
+    "date": "2026-05-12",
+    "sent": true
+  },
+  {
+    "id": "http://doi.org/10.1093/nsr/nwag265",
+    "title": "In situ exsolving RuFe/La0.6Sr0.4Fe0.95Ru0.05O3-δ interfaces for direct and ethane-intensified CO2 electrolysis in solid oxide electrolysis cells",
+    "link": "https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwag265/8676051?rss=1",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\"><div class=\"boxTitle\">Abstract</div>CO<sub>2</sub> electrolysis in solid oxide electrolysis cells (SOECs) holds promise for renewable energy storage and carbon recycling. However, current catalysts used in SOECs show decent electrochemical performance but limited CO<sub>2</sub> conversion. Here, <span style=\"font-style: italic;\">in situ</span> exsolution process of the confined RuFe nanoparticles anchored on La<sub>0.6</sub>Sr<sub>0.4</sub>Fe<sub>0.95</sub>Ru<sub>0.05</sub>O<sub>3-δ</sub> perovskite (RuFe/LSFRu) was revealed, and SOEC using RuFe/LSFRu as cathode shows a current density of 2.75 A cm<sup>−2</sup> and a CO<sub>2</sub> conversion of 83.4% for direct CO<sub>2</sub> electrolysis. Furthermore, the ethane-intensified SOEC employing RuFe/LSFRu cathode achieves ethane and CO<sub>2</sub> conversion of over 95% (CO<sub>2</sub>/C<sub>2</sub>H<sub>6 </sub>= 4) and syngas production of 0.91 L h<sup>−1</sup> cm<sup>−2</sup> by integrating dry ethane reforming process with the reverse water-gas shift and electrolysis reactions. <span style=\"font-style: italic;\">In situ</span> electrochemical diffuse reflectance infrared Fourier transform spectroscopy and density functional theory calculations reveal that the decomposition of OH* species to produce H<sub>2</sub> under the electric ‘driving force’ is crucial to the increase in H<sub>2</sub> selectivity and CO<sub>2</sub> conversion. These results highlight the superiority of RuFe/LSFRu as bi-functional catalyst for direct and ethane-intensified CO<sub>2</sub> electrolysis in SOECs.</span>",
+    "source": "National Science Review Advance Access",
+    "date": "2026-05-11",
+    "sent": true
+  },
+  {
+    "id": "http://doi.org/10.1093/nsr/nwag271",
+    "title": "Carbon nanotube superplastic with long-awaited performance",
+    "link": "https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwag271/8676050?rss=1",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\"><div class=\"boxTitle\">Abstract</div>Plastics are widely used in daily life. They are light, easy to fabricate into different shapes, but usually not good conductors for heat and electricity, which had limited their application of many fields. One way to alter the properties of a plastic involves the incorporation of an additive phase. For example, introducing carbon nanotube (CNT) can improve the thermal and electric conductivity of a polymer. However, conventional methods usually need harsh pretreatments, which deteriorates the intrinsic high conductance of the materials. As a result, the properties of these obtained CNT-polymer composites are usually way less than expectation.</span>",
+    "source": "National Science Review Advance Access",
+    "date": "2026-05-11",
+    "sent": true
+  },
+  {
+    "id": "http://doi.org/10.1093/nsr/nwag269",
+    "title": "Brain-computer interfaces for robotic control",
+    "link": "https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwag269/8676048?rss=1",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\">Continued advances in neural decoding algorithms and humanâ€“machine intelligence are expected to further enhance BCI-based robotic systems.</span>",
+    "source": "National Science Review Advance Access",
+    "date": "2026-05-11",
+    "sent": true
+  },
+  {
     "id": "https://www.nature.com/articles/s41467-026-70018-w",
     "title": "Geometry of the cumulant series in diffusion MRI",
     "link": "https://www.nature.com/articles/s41467-026-70018-w",
