@@ -1,5 +1,805 @@
 [
   {
+    "id": "https://www.nature.com/articles/s41586-026-10652-y",
+    "title": "A multi-agent system for automating scientific discovery",
+    "link": "https://www.nature.com/articles/s41586-026-10652-y",
+    "authors": [
+      "Ali Essam Ghareeb",
+      "Benjamin Chang",
+      "Ludovico Mitchener",
+      "Angela Yiu",
+      "Caralyn J. Szostkiewicz",
+      "Dmytro Shved",
+      "Gavin J. Gyimesi",
+      "Jon M. Laurent",
+      "Samantha M. Wright",
+      "Muhammed T. Razzak",
+      "Andrew D. White",
+      "Silvia C. Finnemann",
+      "Michaela M. Hinks",
+      "Samuel G. Rodriques"
+    ],
+    "summary": "Nature, Published online: 19 May 2026; <a href=\"https://www.nature.com/articles/s41586-026-10652-y\">doi:10.1038/s41586-026-10652-y</a>A multi-agent system for automating scientific discovery",
+    "source": "Nature",
+    "date": "2026-05-19",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41586-026-10658-6",
+    "title": "An AI system to help scientists write expert-level empirical software",
+    "link": "https://www.nature.com/articles/s41586-026-10658-6",
+    "authors": [
+      "Eser Aygün",
+      "Anastasiya Belyaeva",
+      "Gheorghe Comanici",
+      "Marc Coram",
+      "Hao Cui",
+      "Jake Garrison",
+      "Renee Johnston",
+      "Anton Kast",
+      "Cory Y. McLean",
+      "Peter Norgaard",
+      "Zahra Shamsi",
+      "David Smalling",
+      "James Thompson",
+      "Subhashini Venugopalan",
+      "Brian P. Williams",
+      "Chujun He",
+      "Sarah Martinson",
+      "Martyna Plomecka",
+      "Lai Wei",
+      "Yuchen Zhou",
+      "Qian-Ze Zhu",
+      "Matthew Abraham",
+      "Erica Brand",
+      "Anna Bulanova",
+      "Jeffrey A. Cardille",
+      "Chris Co",
+      "Scott Ellsworth",
+      "Grace Joseph",
+      "Malcolm Kane",
+      "Ryan Krueger",
+      "Johan Kartiwa",
+      "Dan Liebling",
+      "Jan-Matthis Lueckmann",
+      "Paul Raccuglia",
+      "Xuefei Julie Wang",
+      "Katherine Chou",
+      "James Manyika",
+      "Yossi Matias",
+      "John C. Platt",
+      "Lizzie Dorfman",
+      "Shibl Mourad",
+      "Michael P. Brenner"
+    ],
+    "summary": "Nature, Published online: 19 May 2026; <a href=\"https://www.nature.com/articles/s41586-026-10658-6\">doi:10.1038/s41586-026-10658-6</a>An AI system to help scientists write expert-level empirical software",
+    "source": "Nature",
+    "date": "2026-05-19",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41586-026-10644-y",
+    "title": "Accelerating scientific discovery with Co-Scientist",
+    "link": "https://www.nature.com/articles/s41586-026-10644-y",
+    "authors": [
+      "Juraj Gottweis",
+      "Wei-Hung Weng",
+      "Alexander Daryin",
+      "Tao Tu",
+      "Petar Sirkovic",
+      "Artiom Myaskovsky",
+      "Grzegorz Glowaty",
+      "Felix Weissenberger",
+      "Alessio Orlandi",
+      "Dan Popovici",
+      "Anil Palepu",
+      "Keran Rong",
+      "Ryutaro Tanno",
+      "Khaled Saab",
+      "Fan Zhang",
+      "Jacob Blum",
+      "Andrew Carroll",
+      "Kavita Kulkarni",
+      "Nenad Tomašev",
+      "Dina Zverinski",
+      "Ivor Rendulic",
+      "Elahe Vedadi",
+      "Florian Hasler",
+      "Luka Rimanic",
+      "Marina Boia",
+      "Ivan Budiselic",
+      "Ben Feinstein",
+      "Mathias Bellaiche",
+      "Tom Sheffer",
+      "Jan Freyberg",
+      "Jeremy Ratcliff",
+      "Ottavia Bertolli",
+      "Katherine Chou",
+      "Avinatan Hassidim",
+      "Burak Gokturk",
+      "Amin Vahdat",
+      "Yuan Guan",
+      "Vikram Dhillon",
+      "Eeshit Dhaval Vaishnav",
+      "Byron Lee",
+      "Tiago R. D. Costa",
+      "José R. Penadés",
+      "Gary Peltz",
+      "Yossi Matias",
+      "James Manyika",
+      "Demis Hassabis",
+      "Yunhan Xu",
+      "Pushmeet Kohli",
+      "Annalisa Pawlosky",
+      "Alan Karthikesalingam",
+      "Vivek Natarajan"
+    ],
+    "summary": "Nature, Published online: 19 May 2026; <a href=\"https://www.nature.com/articles/s41586-026-10644-y\">doi:10.1038/s41586-026-10644-y</a>Accelerating scientific discovery with Co-Scientist",
+    "source": "Nature",
+    "date": "2026-05-19",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-01605-6",
+    "title": "AI might jeopardize the uncertainty required in science",
+    "link": "https://www.nature.com/articles/d41586-026-01605-6",
+    "authors": [
+      "Sarah Mikula"
+    ],
+    "summary": "Nature, Published online: 19 May 2026; <a href=\"https://www.nature.com/articles/d41586-026-01605-6\">doi:10.1038/d41586-026-01605-6</a>AI might jeopardize the uncertainty required in science",
+    "source": "Nature",
+    "date": "2026-05-19",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-01603-8",
+    "title": "Support academic institutions under attack",
+    "link": "https://www.nature.com/articles/d41586-026-01603-8",
+    "authors": [
+      "Roozbeh Kiani",
+      "Sepiedeh Keshavarzi",
+      "Athena Akrami"
+    ],
+    "summary": "Nature, Published online: 19 May 2026; <a href=\"https://www.nature.com/articles/d41586-026-01603-8\">doi:10.1038/d41586-026-01603-8</a>Support academic institutions under attack",
+    "source": "Nature",
+    "date": "2026-05-19",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-01594-6",
+    "title": "River oxygen levels are dropping around the world as Earth warms",
+    "link": "https://www.nature.com/articles/d41586-026-01594-6",
+    "authors": [],
+    "summary": "Nature, Published online: 19 May 2026; <a href=\"https://www.nature.com/articles/d41586-026-01594-6\">doi:10.1038/d41586-026-01594-6</a>Satellite data on more than 20,000 rivers reveals small but widespread decreases in dissolved oxygen.",
+    "source": "Nature",
+    "date": "2026-05-19",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-01606-5",
+    "title": "France’s research-primate project goes against its own ethics panel",
+    "link": "https://www.nature.com/articles/d41586-026-01606-5",
+    "authors": [
+      "Cédric Sueur",
+      "Roland Cash",
+      "Virginie Courtier"
+    ],
+    "summary": "Nature, Published online: 19 May 2026; <a href=\"https://www.nature.com/articles/d41586-026-01606-5\">doi:10.1038/d41586-026-01606-5</a>France’s research-primate project goes against its own ethics panel",
+    "source": "Nature",
+    "date": "2026-05-19",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-01335-9",
+    "title": "On the right track in the design of an early typewriter",
+    "link": "https://www.nature.com/articles/d41586-026-01335-9",
+    "authors": [],
+    "summary": "Nature, Published online: 19 May 2026; <a href=\"https://www.nature.com/articles/d41586-026-01335-9\">doi:10.1038/d41586-026-01335-9</a>A beautiful and ingenious machine hit the headlines 150 years ago, and a book explores bird migration in this week’s pick from the Nature archive.",
+    "source": "Nature",
+    "date": "2026-05-19",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-01604-7",
+    "title": "Airborne DNA can yield insights with the right techniques",
+    "link": "https://www.nature.com/articles/d41586-026-01604-7",
+    "authors": [
+      "Fumito Maruyama",
+      "Naomichi Yamamoto",
+      "Stefan J. Green",
+      "Stephan C. Schuster"
+    ],
+    "summary": "Nature, Published online: 19 May 2026; <a href=\"https://www.nature.com/articles/d41586-026-01604-7\">doi:10.1038/d41586-026-01604-7</a>Airborne DNA can yield insights with the right techniques",
+    "source": "Nature",
+    "date": "2026-05-19",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-01596-4",
+    "title": "Teams of AI agents boost speed of research",
+    "link": "https://www.nature.com/articles/d41586-026-01596-4",
+    "authors": [],
+    "summary": "Nature, Published online: 19 May 2026; <a href=\"https://www.nature.com/articles/d41586-026-01596-4\">doi:10.1038/d41586-026-01596-4</a>Systems can generate hypotheses, interpret data and suggest ways to develop medicines.",
+    "source": "Nature",
+    "date": "2026-05-19",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-01551-3",
+    "title": "Why AI cannot do good science without humans",
+    "link": "https://www.nature.com/articles/d41586-026-01551-3",
+    "authors": [],
+    "summary": "Nature, Published online: 19 May 2026; <a href=\"https://www.nature.com/articles/d41586-026-01551-3\">doi:10.1038/d41586-026-01551-3</a>With the arrival of ‘AI scientists’, it’s as well to remember that human wisdom, empathy and sheer messiness are as much part of progress as are process and efficiency.",
+    "source": "Nature",
+    "date": "2026-05-19",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-01535-3",
+    "title": "Could this synthetic egg bring back extinct birds? Researchers urge caution",
+    "link": "https://www.nature.com/articles/d41586-026-01535-3",
+    "authors": [
+      "Ewen Callaway"
+    ],
+    "summary": "Nature, Published online: 19 May 2026; <a href=\"https://www.nature.com/articles/d41586-026-01535-3\">doi:10.1038/d41586-026-01535-3</a>Colossal Biosciences says its artificial egg has de-extinction and conservation potential.",
+    "source": "Nature",
+    "date": "2026-05-19",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-01557-x",
+    "title": "The uncritical adoption of AI in science is alarming — we urgently need guard rails",
+    "link": "https://www.nature.com/articles/d41586-026-01557-x",
+    "authors": [
+      "Lisa Messeri",
+      "M. J. Crockett"
+    ],
+    "summary": "Nature, Published online: 19 May 2026; <a href=\"https://www.nature.com/articles/d41586-026-01557-x\">doi:10.1038/d41586-026-01557-x</a>Artificial intelligence is rapidly accelerating scientific output, but risks narrowing inquiry, weakening judgement and undermining how scientists are trained.",
+    "source": "Nature",
+    "date": "2026-05-19",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-01595-5",
+    "title": "Researchers who use hallucinated references to face arXiv ban",
+    "link": "https://www.nature.com/articles/d41586-026-01595-5",
+    "authors": [
+      "Dalmeet Singh Chawla"
+    ],
+    "summary": "Nature, Published online: 19 May 2026; <a href=\"https://www.nature.com/articles/d41586-026-01595-5\">doi:10.1038/d41586-026-01595-5</a>The preprint server is the latest to impose stiff penalties on authors who contribute to AI ‘slop’ — but not everyone is convinced it’s the right approach.",
+    "source": "Nature",
+    "date": "2026-05-19",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-01329-7",
+    "title": "DNA-folding changes block production of self-directed antibodies",
+    "link": "https://www.nature.com/articles/d41586-026-01329-7",
+    "authors": [
+      "Zeqian Gao",
+      "Joan Boyes"
+    ],
+    "summary": "Nature, Published online: 19 May 2026; <a href=\"https://www.nature.com/articles/d41586-026-01329-7\">doi:10.1038/d41586-026-01329-7</a>DNA rearrangements in immune-system B cells generate diverse antibody-encoding genes and help to avoid producing antibodies that target the body’s own tissues.",
+    "source": "Nature",
+    "date": "2026-05-19",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-01553-1",
+    "title": "‘It is incredible’: How AI is transforming mathematics",
+    "link": "https://www.nature.com/articles/d41586-026-01553-1",
+    "authors": [
+      "Davide Castelvecchi"
+    ],
+    "summary": "Nature, Published online: 19 May 2026; <a href=\"https://www.nature.com/articles/d41586-026-01553-1\">doi:10.1038/d41586-026-01553-1</a>Thanks to some surprising advances, mathematicians are starting to realize that artificial intelligence could radically alter their profession.",
+    "source": "Nature",
+    "date": "2026-05-19",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-01592-8",
+    "title": "Secrets of giant ancient jar in Laos unpacked at last",
+    "link": "https://www.nature.com/articles/d41586-026-01592-8",
+    "authors": [],
+    "summary": "Nature, Published online: 18 May 2026; <a href=\"https://www.nature.com/articles/d41586-026-01592-8\">doi:10.1038/d41586-026-01592-8</a>A receptacle on the ‘Plain of Jars’ was used as a repository for human bones for generations.",
+    "source": "Nature",
+    "date": "2026-05-18",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41561-026-01981-8",
+    "title": "Evapotranspiration declines prolonged by deforestation and fire in South American biomes",
+    "link": "https://www.nature.com/articles/s41561-026-01981-8",
+    "authors": [
+      "Shahryar K. Ahmad",
+      "Thomas R. Holmes",
+      "Sujay V. Kumar",
+      "Timothy M. Lahmers",
+      "Goutam Konapala",
+      "Augusto Getirana",
+      "Wanshu Nie",
+      "Pang-Wei Liu",
+      "Christopher R. Hain",
+      "Kim A. Locke",
+      "Renata Libonati"
+    ],
+    "summary": "Nature Geoscience, Published online: 19 May 2026; <a href=\"https://www.nature.com/articles/s41561-026-01981-8\">doi:10.1038/s41561-026-01981-8</a>Human-driven disturbances intensify and prolong evapotranspiration declines across South American ecosystems, disrupting the water balance and threatening ecological resilience, according to hydrological modelling and remote sensing data.",
+    "source": "Nature Geoscience",
+    "date": "2026-05-19",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41561-026-01987-2",
+    "title": "Emergent constraints on future methane emissions from global wetlands",
+    "link": "https://www.nature.com/articles/s41561-026-01987-2",
+    "authors": [
+      "Zhen Zhang",
+      "Benjamin Poulter",
+      "Zhenxuan Wang",
+      "Lori Bruhwiler",
+      "Josep G. Canadell",
+      "Nicola Gedney",
+      "Akihiko Ito",
+      "Robert B. Jackson",
+      "Joe R. Melton",
+      "Changhui Peng",
+      "William J. Riley",
+      "Marielle Saunois",
+      "Andy Wiltshire",
+      "Qian Zhang",
+      "Qing Zhu",
+      "Qiuan Zhu",
+      "Xin Li"
+    ],
+    "summary": "Nature Geoscience, Published online: 19 May 2026; <a href=\"https://www.nature.com/articles/s41561-026-01987-2\">doi:10.1038/s41561-026-01987-2</a>Enhanced future methane emissions from global wetlands under warming could substantially offset the emissions reduction goals of the Global Methane Pledge, according to ensemble simulations from terrestrial biosphere models.",
+    "source": "Nature Geoscience",
+    "date": "2026-05-19",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-73483-5",
+    "title": "Digital twin-driven fault diagnosis of power substations by multi-modal fusion learning",
+    "link": "https://www.nature.com/articles/s41467-026-73483-5",
+    "authors": [
+      "Yulun Wu",
+      "Ying Chen",
+      "Tannan Xiao",
+      "Lifu Ding"
+    ],
+    "summary": "Nature Communications, Published online: 20 May 2026; <a href=\"https://www.nature.com/articles/s41467-026-73483-5\">doi:10.1038/s41467-026-73483-5</a>The study builds a digital twin of a power substation and combines topology, alarms, waveforms, and measurements using attention-based graph models to diagnose fault location, fault type, and protection failures with robust performance under noise and missing data.",
+    "source": "Nature Communications",
+    "date": "2026-05-20",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-73521-2",
+    "title": "Groundwater depletion contributes to an increase in global carbon emissions",
+    "link": "https://www.nature.com/articles/s41467-026-73521-2",
+    "authors": [
+      "Tong Sun",
+      "Li He",
+      "Fubin Zhang",
+      "Yao Wang",
+      "Haochuan Guo",
+      "Yanan Tian",
+      "Xu Duan",
+      "Yugeng Luo",
+      "Quanzhou Li",
+      "Kaiwen Cheng"
+    ],
+    "summary": "Nature Communications, Published online: 20 May 2026; <a href=\"https://www.nature.com/articles/s41467-026-73521-2\">doi:10.1038/s41467-026-73521-2</a>This study reveals that groundwater depletion releases substantial CO₂ worldwide, identifying a previously overlooked carbon source that should be considered in global carbon management.",
+    "source": "Nature Communications",
+    "date": "2026-05-20",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-72998-1",
+    "title": "Co-migration of hundreds of microbial species over metres drives selection and promotes non-motile hitchhikers",
+    "link": "https://www.nature.com/articles/s41467-026-72998-1",
+    "authors": [
+      "Susanna R. Grigson",
+      "Abbey L. K. Hutton",
+      "Jessica A. P. Carlson-Jones",
+      "James S. Paterson",
+      "Sarah K. Giles",
+      "Clarice M. Harker",
+      "Amelia K. Grigson",
+      "Amy N. Annells",
+      "Michael J. Roach",
+      "Peter G. Speck",
+      "Robert A. Edwards",
+      "James G. Mitchell"
+    ],
+    "summary": "Nature Communications, Published online: 20 May 2026; <a href=\"https://www.nature.com/articles/s41467-026-72998-1\">doi:10.1038/s41467-026-72998-1</a>Migration of microbial communities is poorly understood. Here, the authors use a meso-tube assay to show that hundreds of microbial species co-migrate over metre scales via chemotaxis, which restructures communities, enriches motility traits and facilitates dispersal of viruses and non-motile ‘hitchhikers’.",
+    "source": "Nature Communications",
+    "date": "2026-05-20",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-73333-4",
+    "title": "Dynamic regulation of origin firing factors links CDK activity to dormant origin activation",
+    "link": "https://www.nature.com/articles/s41467-026-73333-4",
+    "authors": [
+      "Md Shahadat Hossain",
+      "Courtney G. Sansam",
+      "Kimberlie A. Wittig",
+      "Tyler D. Noble",
+      "Kevin A. Boyd",
+      "Christopher L. Sansam"
+    ],
+    "summary": "Nature Communications, Published online: 20 May 2026; <a href=\"https://www.nature.com/articles/s41467-026-73333-4\">doi:10.1038/s41467-026-73333-4</a>Eukaryotic cells load more potential DNA replication origins than they activate, but how surplus origin firing is controlled during S phase remains unclear. Here, the authors show mechanisms by which cyclin dependent kinase governs origin usage through TRESLIN-MTBP.",
+    "source": "Nature Communications",
+    "date": "2026-05-20",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-73489-z",
+    "title": "Saliva, urine, and anorectal swabs as viable alternatives to lesion swabs for molecular diagnosis of mpox",
+    "link": "https://www.nature.com/articles/s41467-026-73489-z",
+    "authors": [
+      "Andrew Nsawotebba",
+      "Valeria Nakintu",
+      "Jonathan Kabazzi",
+      "Rodney Kisuule",
+      "Misaki Wayengera",
+      "Alisen Ayitewala",
+      "Caroline Makoha",
+      "Samuel Jefferson Mutyaba",
+      "Edward Kiyonga",
+      "Sulaiman Ikoba",
+      "Caroline Achola",
+      "Aloysious Ssemaganda",
+      "Isaac Ssewanyana",
+      "Susan Nabadda"
+    ],
+    "summary": "Nature Communications, Published online: 20 May 2026; <a href=\"https://www.nature.com/articles/s41467-026-73489-z\">doi:10.1038/s41467-026-73489-z</a>Mpox diagnosis typically depends on lesion swabs, which are impractical in certain settings. Here, the authors demonstrate that saliva can serve as a noninvasive alternative, while anorectal swabs are highly sensitive in mucosal exposure contexts, enhancing diagnostic strategies during outbreaks.",
+    "source": "Nature Communications",
+    "date": "2026-05-20",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-73449-7",
+    "title": "Western diet-induced MASH in PWK/PhJ mice identifies disruptions in amino acid and sphingolipid metabolism contributing to cardiac dysfunction",
+    "link": "https://www.nature.com/articles/s41467-026-73449-7",
+    "authors": [
+      "Sandra Rodríguez-López",
+      "Miguel Pérez-Rodríguez",
+      "Alaa Badreddine",
+      "Rafael Calais Gaspar",
+      "Henrique J. Novaes Morgan",
+      "Ikki Sakuma",
+      "Giacomo V. G. von Alvensleben",
+      "Alejandro Alonso-Calleja",
+      "Stacia P. A. Everts",
+      "Nicolas-Enzo Suter",
+      "Giorgia Benegiamo",
+      "Christine Goepfert",
+      "Simone de Brot",
+      "José Manuel Villalba",
+      "Gerald I. Shulman",
+      "Kristina Schoonjans",
+      "Johan Auwerx"
+    ],
+    "summary": "Nature Communications, Published online: 20 May 2026; <a href=\"https://www.nature.com/articles/s41467-026-73449-7\">doi:10.1038/s41467-026-73449-7</a>Metabolic liver disease is strongly linked to cardiovascular risk, but mechanisms connecting hepatic and cardiac pathology remain unclear. Here the authors show that PWK/PhJ mice develop diet-induced MASH with fibrosis and cardiac dysfunction, establishing this strain as a valuable model to dissect MASLD–CVD cross talk.",
+    "source": "Nature Communications",
+    "date": "2026-05-20",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-73323-6",
+    "title": "Views of EU citizens on economic growth and implications for climate policy",
+    "link": "https://www.nature.com/articles/s41467-026-73323-6",
+    "authors": [
+      "Ivan Savin",
+      "Lewis C. King",
+      "Jeroen van den Bergh",
+      "Thijs Bouman",
+      "Milan Ščasný",
+      "E. Keith Smith"
+    ],
+    "summary": "Nature Communications, Published online: 19 May 2026; <a href=\"https://www.nature.com/articles/s41467-026-73323-6\">doi:10.1038/s41467-026-73323-6</a>Survey results across 13 EU countries show most citizens view economic growth as essential for a sustainable society. No association is found with climate concern or policy support, suggesting a more nuanced picture than a trade-off between goals.",
+    "source": "Nature Communications",
+    "date": "2026-05-19",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-026-03627-4",
+    "title": "Author Correction: High profits from soybean-corn agriculture are associated with increased land prices and deforestation rates in Mato Grosso’s Amazon forests",
+    "link": "https://www.nature.com/articles/s43247-026-03627-4",
+    "authors": [
+      "Peter Richards",
+      "Eugenio Arima"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 19 May 2026; <a href=\"https://www.nature.com/articles/s43247-026-03627-4\">doi:10.1038/s43247-026-03627-4</a>Author Correction: High profits from soybean-corn agriculture are associated with increased land prices and deforestation rates in Mato Grosso’s Amazon forests",
+    "source": "Communications Earth & Environment",
+    "date": "2026-05-19",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-026-03632-7",
+    "title": "Subpolar North Atlantic heat flux drives projected U.S. East Coast sea-level trend in a climate model",
+    "link": "https://www.nature.com/articles/s43247-026-03632-7",
+    "authors": [
+      "Ou Wang",
+      "Tong Lee",
+      "Thomas Frederikse",
+      "Ichiro Fukumori",
+      "Ian Fenty"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 19 May 2026; <a href=\"https://www.nature.com/articles/s43247-026-03632-7\">doi:10.1038/s43247-026-03632-7</a>Subpolar North Atlantic heat flux is the key driver of the long-term sea-level rise trend of the US East Coast, while wind stress dominates interannual-to-decadal variability, according to an adjoint sensitivity-based attribution approach",
+    "source": "Communications Earth & Environment",
+    "date": "2026-05-19",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-026-03609-6",
+    "title": "Field in the frame: seals as meltwater monitors",
+    "link": "https://www.nature.com/articles/s43247-026-03609-6",
+    "authors": [
+      "Alice Drinkwater"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 19 May 2026; <a href=\"https://www.nature.com/articles/s43247-026-03609-6\">doi:10.1038/s43247-026-03609-6</a>Measuring meltwater coming off polar glaciers can help us to understand how climate change is impacting Antarctic ice sheets, but this meltwater is difficult to observe and track over time. Dr Zheng and colleagues solved this problem by using data collected by tagged seals. The seals were equipped with tags that measured temperature, salinity, and pressure, building a picture of Antarctic ice-shelf fronts. The team found that meltwater rises to the sea surface in winter, transporting heat and nutrients effectively upwards. The team found that meltwater rises to the sea surface in winter, transporting heat and nutrients effectively upwards. They suggest that the processes measured by the seals need to be accounted for in climate modelling.",
+    "source": "Communications Earth & Environment",
+    "date": "2026-05-19",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-026-03653-2",
+    "title": "Gold mobility in subduction zones, the slab perspective",
+    "link": "https://www.nature.com/articles/s43247-026-03653-2",
+    "authors": [
+      "Clifford G. C. Patten",
+      "Alexandre Peillod",
+      "Simon Hector",
+      "Barbara I. Kleine-Marshall",
+      "Aratz Beranoaguirre",
+      "Antonin Bilau",
+      "Kirsten Drüppel",
+      "Jesse B. Walters",
+      "Iain Pitcairn",
+      "Uwe Ring",
+      "Alasdair Skelton",
+      "Jochen Kolb"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 19 May 2026; <a href=\"https://www.nature.com/articles/s43247-026-03653-2\">doi:10.1038/s43247-026-03653-2</a>Gold can be mobilized by fluids during blueschist–eclogite facies transitions in subduction zones with only partial retention of gold in the mélange zone, according to petrological and geochemical analyses of metamorphic rocks from the Aegean islands",
+    "source": "Communications Earth & Environment",
+    "date": "2026-05-19",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-026-03510-2",
+    "title": "Peatland degradation restructures microbial communities and reduces soil multifunctionality through amplified β-diversity turnover",
+    "link": "https://www.nature.com/articles/s43247-026-03510-2",
+    "authors": [
+      "Jianwei Li",
+      "Haoran Fu",
+      "Peduruhewa H. Jeewani",
+      "Yanan Liu",
+      "Hongfeng Bian",
+      "Lianxi Sheng",
+      "Davey L. Jones",
+      "Qingxu Ma"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 19 May 2026; <a href=\"https://www.nature.com/articles/s43247-026-03510-2\">doi:10.1038/s43247-026-03510-2</a>Peatland degradation raised soil pH, depleted lignin- and lipid-rich carbon, increased hydrolytic enzymes and carbon dioxide emissions, and reduced soil multifunctionality via consistent shifts in microbial β diversity, based on a field study from Northeast China coupled with global meta-analysis.",
+    "source": "Communications Earth & Environment",
+    "date": "2026-05-19",
+    "sent": true
+  },
+  {
+    "id": "https://www.pnas.org/doi/abs/10.1073/pnas.2532741123?af=R",
+    "title": "Isotopic evidence for dietary variability among eastern Africa’s first pastoralists",
+    "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2532741123?af=R",
+    "authors": [
+      "Kendra L. ChritzElizabeth A. SawchukMary E. PrendergastScott A. BlumenthalThure E. CerlingJulie DunneSteven T. GoldsteinKatherine M. GrilloAnneke JanzenPurity KiuraJulia Lee-ThorpMarta Mirazón LahrFredrick K. ManthiEmmanuel K. NdiemaFredrick OdedeThomas W. PlummerJensen WainwrightElisabeth A. Hildebrandahttps://ror.org/03rmrcq20Department of Earth, Ocean and Atmospheric Sciences, University of British Columbia, Vancouver V6T 1Z4, Canadabhttps://ror.org/04b8x5a95Department of Anthropology, Cleveland Museum of Natural History, Cleveland, OH 44106chttps://ror.org/008zs3103Department of Anthropology, Rice University, Houston, TX 77005dhttps://ror.org/0293rh119Department of Anthropology, University of Oregon, Eugene, OR 97401ehttps://ror.org/03r0ha626Department of Geology and Geophysics, University of Utah, Salt Lake City, UT 84112fhttps://ror.org/0524sp257School of Chemistry, University of Bristol, Bristol BS8 1QU, United Kingdomghttps://ror.org/01an3r305Department of Anthropology, University of Pittsburgh, Pittsburgh, PA 15260hhttps://ror.org/02y3ad647Department of Anthropology, University of Florida, Gainesville, FL 32611ihttps://ror.org/020f3ap87Department of Anthropology, University of Tennessee Knoxville, Knoxville TN 37996jhttps://ror.org/04sjpp691National Museums of Kenya, Nairobi 00100, Kenyakhttps://ror.org/052gg0110School of Archaeology, Oxford University, Oxford OX1 3TG, United Kingdomlhttps://ror.org/013meh722Department of Archaeology, Cambridge University, Cambridge CB2 3DZ, United Kingdommhttps://ror.org/023pskh72Department of History and Archaeology, Maseno University, Maseno 40105, Kenyanhttps://ror.org/02nf34254Department of Anthropology, Queens College, Flushing, NY 11367ohttps://ror.org/05qghxh33Department of Anthropology, Stony Brook University, Stony Brook, NY 11794"
+    ],
+    "summary": "Proceedings of the National Academy of Sciences, Volume 123, Issue 22, June 2026. <br />SignificanceIsotopic studies of human remains can track changes in dietary variation across transitions from wild food procurement to food production. In Kenya and Tanzania, foragers and fishers of the African Humid Period had highly varied approaches to ...",
+    "source": "Proceedings of the National Academy of Sciences: Earth, Atmospheric, and Planetary Sciences",
+    "date": "2026-05-18",
+    "sent": true
+  },
+  {
+    "id": "https://www.pnas.org/doi/abs/10.1073/pnas.2537678123?af=R",
+    "title": "Human amplification of climate-induced greenhouse gas emissions from global small water bodies",
+    "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2537678123?af=R",
+    "authors": [
+      "Xuliang ZhuangXiaoxuan LiuShengjun XuXu WangAamer Ali ShahLei WangShanghua WuCancan JiangZhiyun OuyangShilong PiaoaResearch Center for Eco-Environmental Sciences, Chinese Academy of Sciences, Beijing 100085, Chinabhttps://ror.org/05qbk4x57College of Resources and Environment, University of Chinese Academy of Sciences, Beijing 100049, Chinachttps://ror.org/04c4dkn09School of Life Sciences, Division of Life Sciences and Medicine, University of Science and Technology of China, Hefei, Anhui 230027, Chinadhttps://ror.org/04s9hft57Department of Microbiology, Faculty of Biological Sciences Quaid-i-Azam University, Islamabad 45320, Pakistanehttps://ror.org/02v51f717Institute of Carbon Neutrality, College of Urban and Environmental Sciences, Peking University, Beijing 100871, China"
+    ],
+    "summary": "Proceedings of the National Academy of Sciences, Volume 123, Issue 22, June 2026. <br />SignificanceSmall water bodies (SWBs) are critical but often overlooked components of the global carbon cycle. We demonstrate that human activities, particularly agricultural nutrient loading and urbanization, amplify climate-driven greenhouse gas ...",
+    "source": "Proceedings of the National Academy of Sciences: Earth, Atmospheric, and Planetary Sciences",
+    "date": "2026-05-18",
+    "sent": true
+  },
+  {
+    "id": "https://www.pnas.org/doi/abs/10.1073/pnas.2603895123?af=R",
+    "title": "Decadal record of continental H2 reservoirs reveals potential for subsurface microbial life and natural H2 exploration",
+    "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2603895123?af=R",
+    "authors": [
+      "Barbara Sherwood LollarOliver Warrahttps://ror.org/03dbr7087Department of Earth Sciences, University of Toronto, Toronto, ON M5S 3B1, CanadabInstitut de Physique du Globe de Paris, Université Paris Cité, Paris 75005, Francechttps://ror.org/03c4mmv16Department of Earth and Environmental Sciences, University of Ottawa, Ottawa, ON K1N 6N5, Canada"
+    ],
+    "summary": "Proceedings of the National Academy of Sciences, Volume 123, Issue 21, May 2026. <br />SignificanceThis study presents, to our knowledge, the first long-term decadal record of hydrogen discharge rates from a Precambrian continental setting. The data demonstrate hydrogen production and storage sufficient to potentially sustain economically ...",
+    "source": "Proceedings of the National Academy of Sciences: Earth, Atmospheric, and Planetary Sciences",
+    "date": "2026-05-18",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012825226001571",
+    "title": "Review of paleoseismological records along the North Anatolian Fault (NW Türkiye), 1991–2025 CE",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012825226001571?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 18 May 2026<b>Source:</b> Earth-Science ReviewsAuthor(s): R. Gastineau, J. Domenge, P. Sabatier, Céline Beauval, J. de Sigoyer",
+    "source": "ScienceDirect Publication: Earth-Science Reviews",
+    "date": "2026-05-20",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S001282522600156X",
+    "title": "Corrigendum to the closure of a marginal sea: From subduction to collision in the southern South China Sea [Earth-Science Reviews, 278 (2026) 105524]",
+    "link": "https://www.sciencedirect.com/science/article/pii/S001282522600156X?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 18 May 2026<b>Source:</b> Earth-Science ReviewsAuthor(s): Xinong Xie, Cheng Zhang, Yunliu Yang, Dorrik Stow, Ming Su, Hui Chen",
+    "source": "ScienceDirect Publication: Earth-Science Reviews",
+    "date": "2026-05-20",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012825226001583",
+    "title": "Antimony in the environment: A critical review",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012825226001583?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 18 May 2026<b>Source:</b> Earth-Science ReviewsAuthor(s): Niyayesh Khorshidi, David R. Lentz, Michael B. Parsons",
+    "source": "ScienceDirect Publication: Earth-Science Reviews",
+    "date": "2026-05-20",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012821X26002931",
+    "title": "Constraining the strength of the brewer-dobson circulation during the last Glacial maximum using water <sup>17</sup>O-excess records from Antarctic ice cores",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012821X26002931?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: 15 August 2026<b>Source:</b> Earth and Planetary Science Letters, Volume 688Author(s): Hongxi Pang, Tao Xu, Wangbin Zhang, Shuangye Wu, Shugui Hou",
+    "source": "ScienceDirect Publication: Earth and Planetary Science Letters",
+    "date": "2026-05-20",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL120757",
+    "title": "Attribution of Recent Change in the Stratospheric Temperature and Its Application to Future Projection",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL120757?af=R",
+    "authors": [
+      "Shun Li, \nJiankai Zhang, \nSeok‐Woo Son, \nYang Chen, \nChongyang Zhang, \nZhe Wang, \nJunxuan Tang"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 10, 28 May 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-05-18",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL120284",
+    "title": "Superposition of Doppler‐Shifting Magnetopause Kelvin‐Helmholtz Modes Through Dynamic Mode Decomposition of a Global MHD Simulation",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL120284?af=R",
+    "authors": [
+      "H. M. Kelly, \nM. O. Archer, \nJ. P. Eastwood, \nM. Heyns, \nJ. W. B. Eggington, \nJ. P. Chittenden"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 10, 28 May 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-05-18",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL122168",
+    "title": "Distinct Vertical Structures of Global Eddy Heat and Salt Transports Revealed by Altimetry and Argo Observations",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL122168?af=R",
+    "authors": [
+      "Xiangpeng Wang, \nXiaoming Zhai, \nHelen L. Johnson, \nJ. H. LaCasce, \nQinbiao Ni, \nYan Du"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 10, 28 May 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-05-18",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL121856",
+    "title": "Daytime Ionospheric F‐Region Topside Irregularities Associated With Significant Density Enhancement at Low Latitudes During the 12 November 2025 Magnetic Storm",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL121856?af=R",
+    "authors": [
+      "Wenjie Sun, \nGuozhu Li, \nGuofeng Dai, \nHaiyong Xie, \nLianhuan Hu, \nBiqiang Zhao, \nZequan Wang, \nJianfei Liu, \nXiukuan Zhao, \nYi Li, \nBaiqi Ning"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 10, 28 May 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-05-18",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026JB033754",
+    "title": "Viscosity of Trachytic Melt Constrained by Integrated Rheological and In Situ Spectroscopic Analyses: Insights From the Agnano‐Monte Spina Eruption (Campi Flegrei, Italy)",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026JB033754?af=R",
+    "authors": [
+      "Sumith Abeykoon, \nLaura Calabrò, \nDanilo Di Genova, \nAlexander Kurnosov, \nEmily C. Bamber, \nDmitry Bondar, \nPedro Valdivia, \nAlessandro Vona, \nMichael R. Carroll, \nClaudia Romano, \nFabio Arzilli"
+    ],
+    "summary": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 5, May 2026.",
+    "source": "Wiley: Journal of Geophysical Research: Solid Earth: Table of Contents",
+    "date": "2026-05-19",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025JB033143",
+    "title": "Geodetic Resolution of the Interplay Between Earthquakes and Slow Slip in the Hikurangi Margin",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JB033143?af=R",
+    "authors": [
+      "Louise Maubant, \nLaura M. Wallace, \nCharles A. Williams, \nSylvain Michel, \nEmilie Klein, \nWilliam B. Frank"
+    ],
+    "summary": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 5, May 2026.",
+    "source": "Wiley: Journal of Geophysical Research: Solid Earth: Table of Contents",
+    "date": "2026-05-19",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025JB033375",
+    "title": "The Influence of Bedding Orientation and Temperature on the Creep Behavior of Opalinus Clay",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JB033375?af=R",
+    "authors": [
+      "L. Gotzen, \nL. Winhausen, \nF. Amann"
+    ],
+    "summary": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 5, May 2026.",
+    "source": "Wiley: Journal of Geophysical Research: Solid Earth: Table of Contents",
+    "date": "2026-05-18",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025JB033255",
+    "title": "The Impact of Erosion Efficiency on Rift‐Inversion Orogen Evolution: Implications for Serpentinization‐Derived Natural H2 Resources",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JB033255?af=R",
+    "authors": [
+      "Frank Zwaan, \nAnne C. Glerum, \nSascha Brune, \nDylan A. Vasey, \nJohn B. Naliboff, \nGianreto Manatschal, \nEric C. Gaucher"
+    ],
+    "summary": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 5, May 2026.",
+    "source": "Wiley: Journal of Geophysical Research: Solid Earth: Table of Contents",
+    "date": "2026-05-18",
+    "sent": true
+  },
+  {
+    "id": "https://pubs.geoscienceworld.org/gsa/geology/article/doi/10.1130/G54282.1/730910/Combining-microstructural-analysis-and-in-situ",
+    "title": "Combining microstructural analysis and in situ apatite−zircon U−Pb LA-ICP-MS to date fluid flow in world-class orogenic gold deposits: A case study from Oko West, Guyana",
+    "link": "https://pubs.geoscienceworld.org/gsa/geology/article/doi/10.1130/G54282.1/730910/Combining-microstructural-analysis-and-in-situ",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\">Determining the timing of mineralization in orogenic gold systems is a major challenge, given the difficulty of constraining fluid flow events and linking them to gold enrichment. However, it is critical for assessing whether world-class gold deposits result from a single mineralizing event or a multi-stage Au mobilization. In Paleoproterozoic settings, minerals suitable for precise dating of fluid flow are rare, and relying solely on intrusion-related geochronology may prove insufficient. In this context, combining detailed microstructural analysis with petrochronological data provides valuable insights into the tectonic and metallogenic evolution of deposits. In situ U−Pb dating was conducted on both zircon and apatite to investigate the timing of magmatism, deformation, and gold mineralization at Oko West, Guyana. Zircon and apatite ages from intrusive bodies indicate a magmatic event at ca. 2125 Ma, with apatite yielding the same age as that of zircon. Interpretation of the apatite U−Pb data set from mineralized volcano-sedimentary rocks was integrated with microstructural constraints on deformation and fluid flow. Apatite associated with metamorphic fluids and gold-bearing sulfidation records two successive stages at ca. 2100 Ma and ca. 2065 Ma, respectively. The clear temporal gap between the intrusion and the second mineralization stage supports the interpretation of at least two distinct geological events, the latter associated with post-magmatic gold mobilization. These results highlight the suitability of apatite U−Pb geochronology for resolving multi-stage gold deposition during the Rhyacian.</span>",
+    "source": "Geology Advance Access",
+    "date": "2026-05-18",
+    "sent": true
+  },
+  {
+    "id": "https://pubs.geoscienceworld.org/gsa/gsabulletin/article/doi/10.1130/B38865.1/730911/Svartevaeg-terrane-New-evidence-for-a-Silurian-arc",
+    "title": "Svartevaeg terrane: New evidence for a Silurian arc fragment in northern North America and its significance for early Paleozoic sinistral displacements along the Canadian Arctic transform system",
+    "link": "https://pubs.geoscienceworld.org/gsa/gsabulletin/article/doi/10.1130/B38865.1/730911/Svartevaeg-terrane-New-evidence-for-a-Silurian-arc",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\">The Canadian Arctic transform system defined a Paleozoic plate-boundary zone along northern Laurentia from the Svalbard Caledonides through Arctic Canada to eastern Alaska. Published models predict the early history of the Canadian Arctic transform system included Ordovician arc collision followed by Silurian reactivation of suture zone faults, sinistral translation of crustal fragments, and synorogenic flysch deposition. Here, we define the Svartevaeg terrane as a fault-bounded fragment in the northern Axel Heiberg and Ellesmere Islands region of Nunavut, Canada, and interpret its origin, displacement, and capture along the Canadian Arctic transform system. New igneous and detrital zircon U/Pb-Hf isotope and whole-rock geochemical results from the Svartevaeg Formation indicate the Svartevaeg terrane primarily consists of Silurian lava flow and volcaniclastic deposits that are the vestiges of an arc system. The new data allow three nonunique scenarios for the onset of Silurian arc volcanism: (1) Compressive stresses along a restraining bend forced oceanic lithosphere beneath northern Laurentia analogous to Puysegur subduction nucleation near the Australia-Pacific transform plate boundary, (2) postcollision convergence taken up by accreted Ordovician arc lithosphere led to a polarity reversal along northern Laurentia analogous to Ryukyu subduction nucleation near the Luzon arc−Eurasia collision, or (3) the Svartevaeg terrane had an outboard origin within a west-propagating island-arc system. Silurian−Devonian sinistral transpression resulted in arc cessation, deformation, and accretion of the Svartevaeg terrane along the Canadian Arctic transform system. Detrital zircon assessments of new and published flysch datasets constrain the initial juxtaposition and final imbrication of the Svartevaeg terrane against Laurentian margin successions at ca. 420 Ma and 360 Ma, respectively.</span>",
+    "source": "GSA Bulletin Advance Access",
+    "date": "2026-05-18",
+    "sent": true
+  },
+  {
+    "id": "http://doi.org/10.1093/nsr/nwag282",
+    "title": "On-chip large-scale all-optical interconnect for ultra-low-latency deep neural network inference",
+    "link": "https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwag282/8687745?rss=1",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\"><div class=\"boxTitle\">Abstract</div>As artificial intelligence (AI) models continue to expand rapidly and evolve at an accelerating pace, the sustainability of scaling law faces challenges as computational resources cannot expand indefinitely. A more promising strategy is to use high-performance interconnections to compose multiple modest-capacity computing chips into a high-efficiency system, enabling comparable capability to that of much larger resource-intensive systems. However, an effective on-chip communication and network that provides high bandwidth, low latency, and large-scale parallelism to accelerate distributed computation is still lacking. Here, we address this challenge by proposing an on-chip, all-optical-interconnect-based hybrid optoelectronic distributed computing system, achieving two orders of magnitude lower inference latency than a single graphics processing unit (GPU) while using only one-ninth of its computational resources. The 400-gigabits per second (Gbps) silicon photonic transceiver chips can provide high-speed and error-free optical input/output (I/O) for processing chips, and an ultra-low-loss (≤ 5 dB at 1300 nm), non-blocking 16×16 optical switch chip can further scale out the all-optical network for massive and flexible interconnection. As a validation, we configure the system to realize optical pipeline parallelism (OPP) and execute a five-layer convolutional neural network (CNN) denoising model, which processes a total of 1,000 images of 32,768 bits each in only 105.16 µs. These results convincingly illustrate a transformative pathway toward future high-efficiency computing architectures.</span>",
+    "source": "National Science Review Advance Access",
+    "date": "2026-05-19",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025TC009167",
+    "title": "Monazite and Xenotime U‐Pb Geochronology and Thermometry of the Blue Ridge and Inner Piedmont of North Carolina: Implications for the Thermal‐Metamorphic Evolution of the Southern Appalachian Metamorphic “Core”",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025TC009167?af=R",
+    "authors": [
+      "Nicholas E. Powell, \nJ. Ryan Thigpen, \nBrandon M. Spencer, \nArthur J. Merschat, \nDavid P. Moecher, \nCalvin A. Mako, \nRobert D. Hatcher Jr., \nHarold H. Stowell, \nAndrew Kylander‐Clark"
+    ],
+    "summary": "Tectonics, Volume 45, Issue 5, May 2026.",
+    "source": "Wiley: Tectonics: Table of Contents",
+    "date": "2026-05-18",
+    "sent": true
+  },
+  {
     "id": "https://www.nature.com/articles/d41586-026-01468-x",
     "title": "China moves AI brain implants from trials towards real-world use",
     "link": "https://www.nature.com/articles/d41586-026-01468-x",
