@@ -1,5 +1,384 @@
 [
   {
+    "id": "https://www.nature.com/articles/d41586-026-01621-6",
+    "title": "How I eavesdrop on frog conversations",
+    "link": "https://www.nature.com/articles/d41586-026-01621-6",
+    "authors": [
+      "Elizabeth Preston"
+    ],
+    "summary": "Nature, Published online: 25 May 2026; <a href=\"https://www.nature.com/articles/d41586-026-01621-6\">doi:10.1038/d41586-026-01621-6</a>Billie Goolsby’s experience with hearing loss helped her to develop a robotic tadpole for deciphering the secret lives of amphibians.",
+    "source": "Nature",
+    "date": "2026-05-25",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-01619-0",
+    "title": "How to breathe life back into brain theory",
+    "link": "https://www.nature.com/articles/d41586-026-01619-0",
+    "authors": [
+      "Àlex Gómez-Marín"
+    ],
+    "summary": "Nature, Published online: 25 May 2026; <a href=\"https://www.nature.com/articles/d41586-026-01619-0\">doi:10.1038/d41586-026-01619-0</a>Neuroscience needs to stop treating the brain as if it is a computer.",
+    "source": "Nature",
+    "date": "2026-05-25",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41561-026-01998-z",
+    "title": "Viral mediation of anaerobic methane oxidation to carbon sequestration in paddy soil",
+    "link": "https://www.nature.com/articles/s41561-026-01998-z",
+    "authors": [
+      "Di Tong",
+      "Youjing Wang",
+      "Xinwei Song",
+      "Haodan Yu",
+      "Yujie Zhou",
+      "Yu Zhang",
+      "Yong Li",
+      "Bin Ma",
+      "Caixian Tang",
+      "Randy A. Dahlgren",
+      "Jianming Xu"
+    ],
+    "summary": "Nature Geoscience, Published online: 25 May 2026; <a href=\"https://www.nature.com/articles/s41561-026-01998-z\">doi:10.1038/s41561-026-01998-z</a>Soil viruses greatly influence the carbon sequestration processes associated with anaerobic methane oxidation, according to analyses of carbon flows in paddy soil.",
+    "source": "Nature Geoscience",
+    "date": "2026-05-25",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41561-026-01985-4",
+    "title": "Reduction of tropical cyclone-induced ocean carbon outgassing since 1993",
+    "link": "https://www.nature.com/articles/s41561-026-01985-4",
+    "authors": [
+      "Hexin Ye",
+      "Zhanhong Ma",
+      "Jianfang Fei",
+      "Kevin E. Trenberth",
+      "Toste Tanhua",
+      "Lijing Cheng"
+    ],
+    "summary": "Nature Geoscience, Published online: 25 May 2026; <a href=\"https://www.nature.com/articles/s41561-026-01985-4\">doi:10.1038/s41561-026-01985-4</a>Carbon dioxide outgassing from the ocean associated with the passage of tropical cyclones has declined in recent decades and may switch to being a net sink of CO2 under high-emissions scenarios, according to an analysis of observational records.",
+    "source": "Nature Geoscience",
+    "date": "2026-05-25",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41561-026-01992-5",
+    "title": "Precipitation threshold-driven shifts in dominant controls of ecosystem nitrogen retention",
+    "link": "https://www.nature.com/articles/s41561-026-01992-5",
+    "authors": [
+      "Yong Peng",
+      "Jie Luo",
+      "Lulu Guo",
+      "Hongyi Chen",
+      "Yuxuan Gao",
+      "Ziyang Peng",
+      "Lingli Liu"
+    ],
+    "summary": "Nature Geoscience, Published online: 25 May 2026; <a href=\"https://www.nature.com/articles/s41561-026-01992-5\">doi:10.1038/s41561-026-01992-5</a>The dominant control of soil nitrogen retention changes at a threshold of around 700 mm precipitation, according to an analysis of soil nitrogen and biogeochemical measurements from 31 sites across the United States.",
+    "source": "Nature Geoscience",
+    "date": "2026-05-25",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41561-026-01988-1",
+    "title": "Diminished Ross Ice Shelf and West Antarctic Ice Sheet during Last Interglacial warming",
+    "link": "https://www.nature.com/articles/s41561-026-01988-1",
+    "authors": [
+      "Austin J. Carter",
+      "Sarah M. Aarons",
+      "Joseph C. Schnaubelt",
+      "Clay R. Tabor",
+      "John A. Higgins",
+      "Sarah A. Shackleton",
+      "Jenna A. Epifanio",
+      "Jacob D. Morgan",
+      "Janne M. Koornneef",
+      "Gareth R. Davies",
+      "Paolo Gabrielli",
+      "Alissa Choi",
+      "Jeffrey P. Severinghaus",
+      "Edward J. Brook",
+      "Douglas S. Introne",
+      "Julia C. Marks-Peterson",
+      "Johannes Sutter",
+      "Lindsey Davidge"
+    ],
+    "summary": "Nature Geoscience, Published online: 25 May 2026; <a href=\"https://www.nature.com/articles/s41561-026-01988-1\">doi:10.1038/s41561-026-01988-1</a>Dust derived from Antarctic sources measured in an ice core from the Allan Hills spanning the peak of the Last Interglacial suggests that the Ross Sea was probably open at the time, coincident with a reduction in the volume of the West Antarctic Ice Sheet.",
+    "source": "Nature Geoscience",
+    "date": "2026-05-25",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-73458-6",
+    "title": "Electrically reconfigurable polarization control with double tri-layer black phosphorus heterostructures",
+    "link": "https://www.nature.com/articles/s41467-026-73458-6",
+    "authors": [
+      "Samuel K. W. Seah",
+      "Souvik Biswas",
+      "Claudio U. Hail",
+      "George R. Rossman",
+      "Harry A. Atwater"
+    ],
+    "summary": "Nature Communications, Published online: 26 May 2026; <a href=\"https://www.nature.com/articles/s41467-026-73458-6\">doi:10.1038/s41467-026-73458-6</a>Layered anisotropic 2D materials hold potential for the realization of compact polarization modulators. Here, the authors realize a Fabry-Perot cavity integrating two orthogonally stacked and independently gated black phosphorus trilayers, showing tunable polarization control and predicting electronic access to up to 86% of the Poincaré sphere.",
+    "source": "Nature Communications",
+    "date": "2026-05-26",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-73607-x",
+    "title": "The widening partisan gap in legislative support for civil rights in the United States",
+    "link": "https://www.nature.com/articles/s41467-026-73607-x",
+    "authors": [
+      "Joshua Conrad Jackson",
+      "Yuanze Liu",
+      "Nour Kteily"
+    ],
+    "summary": "Nature Communications, Published online: 26 May 2026; <a href=\"https://www.nature.com/articles/s41467-026-73607-x\">doi:10.1038/s41467-026-73607-x</a>Civil rights legislation became a significant policy area after the Civil Rights Movement of the 1960s. Here, the authors show that it has since become a more common but more divisive area of policy, with party divergences in the mid-1990s and mid-2010s.",
+    "source": "Nature Communications",
+    "date": "2026-05-26",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-73663-3",
+    "title": "Benchmarking genome choice in functional genomics analyses",
+    "link": "https://www.nature.com/articles/s41467-026-73663-3",
+    "authors": [
+      "Juan F. Macias-Velasco",
+      "Xiaoyu Zhuo",
+      "Chad Tomlinson",
+      "Eddie A. Belter",
+      "Milinn Kremitzki",
+      "Derek Albracht",
+      "Tina Lindsay",
+      "Xiaoyun Xing",
+      "Nina Tekkey",
+      "Wenjin Zhang",
+      "John E. Garza",
+      "Zheng Xu",
+      "Zilan Xin",
+      "Qichen Fu",
+      "Heather A. Lawson",
+      "Nathan O. Stitziel",
+      "Robert S. Fulton",
+      "Daofeng Li",
+      "Ting Wang"
+    ],
+    "summary": "Nature Communications, Published online: 26 May 2026; <a href=\"https://www.nature.com/articles/s41467-026-73663-3\">doi:10.1038/s41467-026-73663-3</a>The authors compare standard and personalized genome references across multiple assays and find that genome choice has modest effects but can reveal biology missed by standard references, including hidden DNA methylation at non-reference elements.",
+    "source": "Nature Communications",
+    "date": "2026-05-26",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-73549-4",
+    "title": "A pivotal Wnt antagonist role promoting digit joint specification by constraining Wnt activity",
+    "link": "https://www.nature.com/articles/s41467-026-73549-4",
+    "authors": [
+      "Bau-Lin Huang",
+      "Sean Davis",
+      "Eiki Koyama",
+      "Maurizio Pacifici",
+      "Susan Mackem"
+    ],
+    "summary": "Nature Communications, Published online: 26 May 2026; <a href=\"https://www.nature.com/articles/s41467-026-73549-4\">doi:10.1038/s41467-026-73549-4</a>Wnts induce joints in long bone cartilage, but their role in digit joints which arise coordinately with phalanges is unclear. Here they show that Wnts act with Bmps to promote digit progenitor chondrogenic fate. Wnt antagonists maintain plasticity for joint/phalanx fates.",
+    "source": "Nature Communications",
+    "date": "2026-05-26",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-73717-6",
+    "title": "Role of garnet shaping the 660-km seismic discontinuity",
+    "link": "https://www.nature.com/articles/s41467-026-73717-6",
+    "authors": [
+      "Takayuki Ishii",
+      "Hiroshi Kojitani",
+      "Masaki Akaogi"
+    ],
+    "summary": "Nature Communications, Published online: 25 May 2026; <a href=\"https://www.nature.com/articles/s41467-026-73717-6\">doi:10.1038/s41467-026-73717-6</a>This study shows that garnet affects the 660-km seismic discontinuity. High-pressure experiments reveal that the post-garnet transition induces the post-spinel transition, explaining observed structural variations and supporting a pyrolitic mantle.",
+    "source": "Nature Communications",
+    "date": "2026-05-25",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-73715-8",
+    "title": "High energy triplet-state manipulation via temperature-responsive twisted hetero-annulation systems",
+    "link": "https://www.nature.com/articles/s41467-026-73715-8",
+    "authors": [
+      "Guigui Ye",
+      "Yan Gao",
+      "Wentao Yuan",
+      "Juqing Gu",
+      "Jiaqiang Wang",
+      "Yujie Yang",
+      "Qianqian Li",
+      "Zhen Li"
+    ],
+    "summary": "Nature Communications, Published online: 25 May 2026; <a href=\"https://www.nature.com/articles/s41467-026-73715-8\">doi:10.1038/s41467-026-73715-8</a>Control of excited state transitions is important for a range of applications, but can be challenging. Here, the authors report the tailoring of size, geometry and electronic properties of conjugated systems to control high-energy and lowest-energy triplet-mediated pathways.",
+    "source": "Nature Communications",
+    "date": "2026-05-25",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-73711-y",
+    "title": "Reconstructing calcium conductance in MCUb illuminates its molecular design for tuning the mitochondrial calcium uniporter",
+    "link": "https://www.nature.com/articles/s41467-026-73711-y",
+    "authors": [
+      "I-Chi Lee",
+      "Po-Hsuan Lai",
+      "Chen-Wei Tsai",
+      "Yung-Chi Tu",
+      "Yu-Chen Huang",
+      "Wei-Chen Chen",
+      "Ming-Feng Tsai"
+    ],
+    "summary": "Nature Communications, Published online: 25 May 2026; <a href=\"https://www.nature.com/articles/s41467-026-73711-y\">doi:10.1038/s41467-026-73711-y</a>Cells prevent the mitochondrial Ca2+ uniporter from causing Ca2+ overload and cell death by expressing the non-conductive regulator MCUb. Here, the authors rebuild Ca2+ conductance in MCUb, revealing the molecular basis of its regulatory function.",
+    "source": "Nature Communications",
+    "date": "2026-05-25",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-73655-3",
+    "title": "Author Correction: Climate resilience of European wine regions",
+    "link": "https://www.nature.com/articles/s41467-026-73655-3",
+    "authors": [
+      "Simon Tscholl",
+      "Sebastian Candiago",
+      "Thomas Marsoner",
+      "Helder Fraga",
+      "Carlo Giupponi",
+      "Lukas Egarter Vigl"
+    ],
+    "summary": "Nature Communications, Published online: 25 May 2026; <a href=\"https://www.nature.com/articles/s41467-026-73655-3\">doi:10.1038/s41467-026-73655-3</a>Author Correction: Climate resilience of European wine regions",
+    "source": "Nature Communications",
+    "date": "2026-05-25",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-026-03680-z",
+    "title": "Phytoplankton-induced radiation effects reshape the evolution of multi-year La Niña",
+    "link": "https://www.nature.com/articles/s43247-026-03680-z",
+    "authors": [
+      "Feng Tian",
+      "Rong-Hua Zhang",
+      "Xiujun Wang",
+      "Chuanyu Liu"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 25 May 2026; <a href=\"https://www.nature.com/articles/s43247-026-03680-z\">doi:10.1038/s43247-026-03680-z</a>Chlorophyll patterns modulate sea surface temperature gradients, helping to sustain multi-year La Niña conditions, according to coupled ocean physics– biogeochemical simulations.",
+    "source": "Communications Earth & Environment",
+    "date": "2026-05-25",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012825226001637",
+    "title": "Nonlinear mechanical behavior of rocks in ultra-low-temperature conditions: classifications and micro mechanisms",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012825226001637?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 25 May 2026<b>Source:</b> Earth-Science ReviewsAuthor(s): Longxiao Guo, Wenhui Shao, Guangqi Chen, Guowei Ma",
+    "source": "ScienceDirect Publication: Earth-Science Reviews",
+    "date": "2026-05-26",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL122779",
+    "title": "Seasonal Dependent Relationship of Tropical Cyclone Decadal Variation Between Western North Pacific and North Atlantic",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL122779?af=R",
+    "authors": [
+      "Lixia Pan, \nJiepeng Chen, \nLei Zhou"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 10, 28 May 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-05-24",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL118610",
+    "title": "Subducting Slab Thermo‐Petrologic Structure and Intermediate‐Depth Supra‐Slab Earthquakes Beneath Southern Colombia",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL118610?af=R",
+    "authors": [
+      "Benjamin M. Knott‐Byars, \nIkuko Wada, \nBrandon T. Bishop, \nLinda M. Warren, \nSungwon Cho"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 10, 28 May 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-05-24",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL121287",
+    "title": "High‐Pressure Elasticity of CAS Phase and Its Implications for the Fate of Subducted Anorthosite Crust",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL121287?af=R",
+    "authors": [
+      "Baoyun Wang, \nMeisu Xiang"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 10, 28 May 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-05-24",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL122483",
+    "title": "Tracking the Trajectory of Alluvial Channel Adjustment Reveals Along‐River Shifts in Sediment Mobility",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL122483?af=R",
+    "authors": [
+      "Claire C. Masteller, \nColin B. Phillips, \nRobert P. Kostynick, \nJosé F. Castejon‐Villalobos, \nCesar G. Lopez, \nMichaela K. Shallue, \nJesse Bower, \nAaron Sigman"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 10, 28 May 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-05-24",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GC012858",
+    "title": "Secular Evolution of Mantle Sulfur Isotopes Since the Archean",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GC012858?af=R",
+    "authors": [
+      "J. Eguchi, \nB. A. Black, \nE. G. Nisbet, \nY. Moussallam, \nG. Georgeais"
+    ],
+    "summary": "Geochemistry, Geophysics, Geosystems, Volume 27, Issue 5, May 2026.",
+    "source": "Wiley: Geochemistry, Geophysics, Geosystems: Table of Contents",
+    "date": "2026-05-24",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S001670372600298X",
+    "title": "The rate of mantle processing controls mantle-crust evolution",
+    "link": "https://www.sciencedirect.com/science/article/pii/S001670372600298X?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 25 May 2026<b>Source:</b> Geochimica et Cosmochimica ActaAuthor(s): Seema Kumari, Andreas Stracke",
+    "source": "ScienceDirect Publication: Geochimica et Cosmochimica Acta",
+    "date": "2026-05-26",
+    "sent": true
+  },
+  {
+    "id": "http://doi.org/10.1093/nsr/nwag302",
+    "title": "Digital heart initiative: an ecosystem for digital discovery and precision medicine in cardiology",
+    "link": "https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwag302/8692786?rss=1",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\">This paper proposes the development of a digital heart ecosystem comprising four interconnected micro-ecosystems: devices and data; digital tools; digital discovery and precision cardiology; and infrastructure and governance.</span>",
+    "source": "National Science Review Advance Access",
+    "date": "2026-05-25",
+    "sent": true
+  },
+  {
+    "id": "http://doi.org/10.1093/nsr/nwag304",
+    "title": "A calendar aging resistant aqueous battery",
+    "link": "https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwag304/8692774?rss=1",
+    "authors": [],
+    "summary": "",
+    "source": "National Science Review Advance Access",
+    "date": "2026-05-25",
+    "sent": true
+  },
+  {
+    "id": "http://doi.org/10.1093/nsr/nwag286",
+    "title": "Rock–paper–scissors interactions enable thermal localization",
+    "link": "https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwag286/8692773?rss=1",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\">Rock-paper-scissors interactions enable thermal localization to advance thermal metamaterials</span>",
+    "source": "National Science Review Advance Access",
+    "date": "2026-05-25",
+    "sent": true
+  },
+  {
     "id": "https://www.nature.com/articles/s43247-026-03659-w",
     "title": "Rapid increase in Antarctic intermediate water ventilation related to past Atlantic meridional overturning circulation weakening",
     "link": "https://www.nature.com/articles/s43247-026-03659-w",
