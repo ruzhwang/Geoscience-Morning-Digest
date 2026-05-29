@@ -1,5 +1,819 @@
 [
   {
+    "id": "https://www.science.org/doi/abs/10.1126/science.aeg5513?af=R",
+    "title": "An uncommon introduction to chemistry",
+    "link": "https://www.science.org/doi/abs/10.1126/science.aeg5513?af=R",
+    "authors": [
+      "Mark Miodownik"
+    ],
+    "summary": "Science, Volume 392, Issue 6801, Page 925-925, May 2026. <br />",
+    "source": "AAAS: Science: Table of Contents",
+    "date": "2026-05-28",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/science.aeh0733?af=R",
+    "title": "An Arctic community on the climate front lines",
+    "link": "https://www.science.org/doi/abs/10.1126/science.aeh0733?af=R",
+    "authors": [
+      "Sarah Boon"
+    ],
+    "summary": "Science, Volume 392, Issue 6801, Page 924-924, May 2026. <br />",
+    "source": "AAAS: Science: Table of Contents",
+    "date": "2026-05-28",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/science.aei4055?af=R",
+    "title": "Galileo's Fame: Science, Credibility, and Memory in the Seventeenth Century",
+    "link": "https://www.science.org/doi/abs/10.1126/science.aei4055?af=R",
+    "authors": [],
+    "summary": "Science, Volume 392, Issue 6801, Page 925-925, May 2026. <br />",
+    "source": "AAAS: Science: Table of Contents",
+    "date": "2026-05-28",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/science.adv0377?af=R",
+    "title": "Visualizing a lung neutrophil-platelet immunothrombosis cascade during sepsis in mice",
+    "link": "https://www.science.org/doi/abs/10.1126/science.adv0377?af=R",
+    "authors": [
+      "Luke Brown, Jared Schlechte, Mahum Rashid, Yuefei Lou, Angela P. Nguyen, Mortaza F. Hassanabad, Carlos H. Hiroki, Eduardo Cobo, Morley D. Hollenberg, Braeden McDonald, Bryan G. Yipp"
+    ],
+    "summary": "Science, Volume 392, Issue 6801, May 2026. <br />",
+    "source": "AAAS: Science: Table of Contents",
+    "date": "2026-05-28",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/science.adv5447?af=R",
+    "title": "Hematite is a mineralogical marker of ancient climate change on Mars",
+    "link": "https://www.science.org/doi/abs/10.1126/science.adv5447?af=R",
+    "authors": [
+      "Marek Szczerba, Tanya S. Peretyazhko, Elizabeth B. Rampe, Thomas F. Bristow, Benjamin M. Tutolo, Douglas W. Ming, David T. Vaniman, Richard V. Morris, Silas J. Ralston, Nikole C. Haney, Bum Soo Kim, David F. Blake, Steve J. Chipera, Robert T. Downs, Robert M. Hazen, Shaunna M. Morrison, Allan H. Treiman, Albert S. Yen, Valerie M. Tu, Michael T. Thorpe, Cherie N. Achilles, David J. Des Marais, John P. Grotzinger, Nicholas Castle, Patricia C. Craig, Elisabeth M. Hausrath, Sarah L. Simpson"
+    ],
+    "summary": "Science, Volume 392, Issue 6801, Page 966-971, May 2026. <br />",
+    "source": "AAAS: Science: Table of Contents",
+    "date": "2026-05-28",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/science.ady6472?af=R",
+    "title": "Stabilizing in-transition phases of superlattices through shape control of silver nanocrystals",
+    "link": "https://www.science.org/doi/abs/10.1126/science.ady6472?af=R",
+    "authors": [
+      "Yasutaka Nagaoka, Timothy C. Moore, Arseniy Epishin, Zhenyang Liu, Tong Cai, Na Jin, Ken Seungmin Hong, Peter Saghy, Ankai Wang, Yuzi Liu, Sooyeon Hwang, Yusong Bai, Shengli Zou, Ruipeng Li, Stephanie Reich, Sharon C. Glotzer, Ou Chen"
+    ],
+    "summary": "Science, Volume 392, Issue 6801, Page 951-957, May 2026. <br />",
+    "source": "AAAS: Science: Table of Contents",
+    "date": "2026-05-28",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/science.adz2742?af=R",
+    "title": "Pan-cancer spatial atlas of tertiary lymphoid structures",
+    "link": "https://www.science.org/doi/abs/10.1126/science.adz2742?af=R",
+    "authors": [
+      "Kyung Serk Cho, Yunhe Liu, Guangsheng Pei, Jianfeng Chen, Yibo Dai, Yang Liu, Tieling Zhou, Antoine Bougouin, Alejandra Serrano, Khalida Wani, Akshaya Jadhav, Jimin Min, Sharia Hernandez, Wei Lu, Daiwei Zhang, Jiahui Jiang, Diana Shamsutdinova, Enyu Dai, Fuduan Peng, Ansam Sinjab, Paola A Guerrero, Idania Carolina Lubo Julio, Kai Yu, Helen Clark, Dipen Maru, Mingyao Li, Andrew Futreal, Sanghoon Lee, Luisa Maren Solis Soto, Lulu Shang, Pavlos Msaouel, Jaffer A. Ajani, Hannah Beird, Amir A. Jazaeri, Alexander J. Lazar, Catherine Sautes-Fridman, Wolf H. Fridman, Anirban Maitra, Humam Kadara, Jianjun Gao, Padmanee Sharma, Linghua Wang"
+    ],
+    "summary": "Science, Volume 392, Issue 6801, May 2026. <br />",
+    "source": "AAAS: Science: Table of Contents",
+    "date": "2026-05-28",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/science.aea9895?af=R",
+    "title": "Upper-mantle earthquakes beneath East Antarctica",
+    "link": "https://www.science.org/doi/abs/10.1126/science.aea9895?af=R",
+    "authors": [
+      "Long M. Ho, José L. Sánchez-Roldán, Samantha E. Hansen, Jacob I. Walter"
+    ],
+    "summary": "Science, Volume 392, Issue 6801, Page 942-945, May 2026. <br />",
+    "source": "AAAS: Science: Table of Contents",
+    "date": "2026-05-28",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/science.aeb3087?af=R",
+    "title": "Dependence of catalytic properties of strongly supported platinum clusters with atom counts",
+    "link": "https://www.science.org/doi/abs/10.1126/science.aeb3087?af=R",
+    "authors": [
+      "Chyan Kyung Song, Junhyeok Jung, Shyama Charan Mandal, Sungsu Kang, Tae Yong Kim, Chan Kim, Gyeongrok Jang, Hyungjoo Kim, Younhwa Kim, Kyung Rok Lee, Ji Soo Kim, Junjie Chen, Yongmin Kim, Chang Won Yoon, Thomas F. Jaramillo, Matteo Cargnello, Frank Abild-Pedersen, Jungwon Park"
+    ],
+    "summary": "Science, Volume 392, Issue 6801, Page 958-965, May 2026. <br />",
+    "source": "AAAS: Science: Table of Contents",
+    "date": "2026-05-28",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/science.aec4652?af=R",
+    "title": "Valorization of lithium hardrock concentrates into battery raw materials and commodity products",
+    "link": "https://www.science.org/doi/abs/10.1126/science.aec4652?af=R",
+    "authors": [
+      "Benjamin A. W. Mowbray, Camden Hunt, Kalyn M. Fuelling, Jacqueline Prawira, Khashayar Jafari, Naia Strong, Yet-Ming Chiang"
+    ],
+    "summary": "Science, Volume 392, Issue 6801, Page 980-984, May 2026. <br />",
+    "source": "AAAS: Science: Table of Contents",
+    "date": "2026-05-28",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/science.aef3733?af=R",
+    "title": "Stopping phase reveals abrupt arrest of large strike-slip earthquakes",
+    "link": "https://www.science.org/doi/abs/10.1126/science.aef3733?af=R",
+    "authors": [
+      "Jesse Kearse and Yoshihiro Kaneko"
+    ],
+    "summary": "Science, Volume 392, Issue 6801, Page 946-950, May 2026. <br />",
+    "source": "AAAS: Science: Table of Contents",
+    "date": "2026-04-23",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/science.aef4139?af=R",
+    "title": "Mechanical resonator–based quantum computing",
+    "link": "https://www.science.org/doi/abs/10.1126/science.aef4139?af=R",
+    "authors": [
+      "Yu Yang, Igor Kladarić, Martynas Skrabulis, Michael Eichenberger, Stefano Marti, Simon Storz, Jonathan Esche, Raquel García Bellés, Max-Emanuel Kern, Andraz Omahen, Arianne Brooks, Marius Bild, Matteo Fadel, Yiwen Chu"
+    ],
+    "summary": "Science, Volume 392, Issue 6801, Page 972-976, May 2026. <br />",
+    "source": "AAAS: Science: Table of Contents",
+    "date": "2026-05-28",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/science.adu9554?af=R",
+    "title": "Selective autophagy fine-tunes plant immunity to promote cell survival during viral infection",
+    "link": "https://www.science.org/doi/abs/10.1126/science.adu9554?af=R",
+    "authors": [
+      "Marion Clavel, Anita Bianchi, Roksolana Kobylinska, Roan Groh, Xi Zhang, Juncai Ma, Ranjith K. Papareddy, Nenad Grujic, Lorenzo Picchianti, Ethan Stewart, Michael Schutzbier, Karel Stejskal, Juan Carlos de la Concepcion, Victor Sanchez de Medina Hernandez, Yoav Voichek, Pieter Clauw, Joanna Gunis, Gerhard Durnberger, Jens Christian Muelders, Annett Grimm, Arthur Sedivy, Mathieu Erhardt, Victoria Vyboishchikov, Peng Gao, Esther Lechner, Emilie Vantard, Thomas Potuschak, Jakub Jez, Elisabeth Roitinger, Pascal Genschik, Byung-Ho Kang, Yasin Dagdas"
+    ],
+    "summary": "Science, Volume 392, Issue 6801, May 2026. <br />",
+    "source": "AAAS: Science: Table of Contents",
+    "date": "2026-05-28",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/science.ady2486?af=R",
+    "title": "Homing pigeon navigation relies on superparamagnetic macrophages under overcast conditions",
+    "link": "https://www.science.org/doi/abs/10.1126/science.ady2486?af=R",
+    "authors": [
+      "Clivia Lisowski, Michael Quetting, Daniela Klaus, Lisa Lazarevski, Lea Seep, Maximilian Germer, Jian Li, Inge Müller, Daniel Zuniga, Wolfgang Fiedler, Dina K. N. Dechmann, Kasper Thorup, Jan Hasenauer, Lars Fester, Stefanie Kuerten, Michael Farle, Ulf Wiedwald, Martin WikelskiChristian Kurts"
+    ],
+    "summary": "Science, Volume 392, Issue 6801, Page 985-991, May 2026. <br />",
+    "source": "AAAS: Science: Table of Contents",
+    "date": "2026-05-28",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/science.aeb7062?af=R",
+    "title": "Importance of elephants for dung beetle biodiversity and ecosystem functions",
+    "link": "https://www.science.org/doi/abs/10.1126/science.aeb7062?af=R",
+    "authors": [
+      "Finote Gijsman, Ciara M. Nutter, Fathiya M. Khamis, Fidelis L. O. Ombura, Matthew C. Hutchinson, Todd M. Palmer, Jacob R. Goheen, Scott E. Miller, Robert M. Pringle"
+    ],
+    "summary": "Science, Volume 392, Issue 6801, May 2026. <br />",
+    "source": "AAAS: Science: Table of Contents",
+    "date": "2026-05-28",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/science.aed1630?af=R",
+    "title": "Strain-resilient intrinsically stretchable electrochemical biointerfaces",
+    "link": "https://www.science.org/doi/abs/10.1126/science.aed1630?af=R",
+    "authors": [
+      "Yadong Xu, Xiaotian Ma, Kexin Fan, Jihong Min, Jin Qu, Wenzheng Heng, Jiahong Li, Songsong Tang, Gwangmook Kim, Ruixiao Liu, Shukun Yin, Wenjian Li, Wei Gao"
+    ],
+    "summary": "Science, Volume 392, Issue 6801, May 2026. <br />",
+    "source": "AAAS: Science: Table of Contents",
+    "date": "2026-05-28",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/science.adq4418?af=R",
+    "title": "Disruptive effects of brief radiofrequency noise exposure on migratory bat navigation",
+    "link": "https://www.science.org/doi/abs/10.1126/science.adq4418?af=R",
+    "authors": [
+      "Oliver Lindecke, William T. Schneider, Viesturs Vintulis, Nicole Jordan, Fyodor Cellarius, Lara C. Marggraf, Jaclyn Niehues, Valts Jaunzemis, Oskars Keišs, Richard A. Holland"
+    ],
+    "summary": "Science, Volume 392, Issue 6801, Page 977-979, May 2026. <br />",
+    "source": "AAAS: Science: Table of Contents",
+    "date": "2026-05-28",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/science.adv3081?af=R",
+    "title": "A high-throughput selection system for fast-acting covalent protein drugs",
+    "link": "https://www.science.org/doi/abs/10.1126/science.adv3081?af=R",
+    "authors": [
+      "Qiongxuan Fan, Jiahao Mei, Tian Li, Chuanlong Zang, Mengjiao Li, Jing Tang, You Xu, Ge Yu, Dandan Liu, Kai Chen, Bing Yang, Jing Huang, Ting Zhou, Bobo Dang"
+    ],
+    "summary": "Science, Volume 392, Issue 6801, May 2026. <br />",
+    "source": "AAAS: Science: Table of Contents",
+    "date": "2026-05-28",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/science.aeb6487?af=R",
+    "title": "Unstructured transcription factor interactions enable emergent specificity",
+    "link": "https://www.science.org/doi/abs/10.1126/science.aeb6487?af=R",
+    "authors": [
+      "Abrar A. Abidi, Claudia Cattoglio, Natalie N. Tang, Vinson B. Fan, Gina M. Dailey, Amir D. Hay, Prasanthi Kunamaneni, Daniel E. Milkie, Xavier Darzacq, Eric Betzig, Robert Tjian, Thomas G. W. Graham"
+    ],
+    "summary": "Science, Volume 392, Issue 6801, May 2026. <br />",
+    "source": "AAAS: Science: Table of Contents",
+    "date": "2026-05-28",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/science.aei9225?af=R",
+    "title": "In Other Journals",
+    "link": "https://www.science.org/doi/abs/10.1126/science.aei9225?af=R",
+    "authors": [
+      "Corinne Simonti, and Jesse Smith, Corinne Simonti, Unnati Sonawala, Mattia Maroso, Sacha Vignieri, Phil Szuromi, Marc S. Lavine, and Ian S. Osborne"
+    ],
+    "summary": "Science, Volume 392, Issue 6801, Page 934-934, May 2026. <br />",
+    "source": "AAAS: Science: Table of Contents",
+    "date": "2026-05-28",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/science.aei9226?af=R",
+    "title": "Take it slow",
+    "link": "https://www.science.org/doi/abs/10.1126/science.aei9226?af=R",
+    "authors": [
+      "Ruijie Yang"
+    ],
+    "summary": "Science, Volume 392, Issue 6801, Page 994-994, May 2026. <br />",
+    "source": "AAAS: Science: Table of Contents",
+    "date": "2026-05-28",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/science.aeh9507?af=R",
+    "title": "Getting home in the dark",
+    "link": "https://www.science.org/doi/abs/10.1126/science.aeh9507?af=R",
+    "authors": [
+      "Simon Spiro and Hal Drakesmith"
+    ],
+    "summary": "Science, Volume 392, Issue 6801, Page 919-920, May 2026. <br />",
+    "source": "AAAS: Science: Table of Contents",
+    "date": "2026-05-28",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/science.aei1181?af=R",
+    "title": "Closing the loop on lithium refining",
+    "link": "https://www.science.org/doi/abs/10.1126/science.aei1181?af=R",
+    "authors": [
+      "Gang San Lee and Karthish Manthiram"
+    ],
+    "summary": "Science, Volume 392, Issue 6801, Page 921-922, May 2026. <br />",
+    "source": "AAAS: Science: Table of Contents",
+    "date": "2026-05-28",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/science.aei2362?af=R",
+    "title": "The hidden consequences of elephant extinction",
+    "link": "https://www.science.org/doi/abs/10.1126/science.aei2362?af=R",
+    "authors": [
+      "Owen T. Lewis and Eleanor M. Slade"
+    ],
+    "summary": "Science, Volume 392, Issue 6801, Page 918-919, May 2026. <br />",
+    "source": "AAAS: Science: Table of Contents",
+    "date": "2026-05-28",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/science.aei2381?af=R",
+    "title": "Silent interference",
+    "link": "https://www.science.org/doi/abs/10.1126/science.aei2381?af=R",
+    "authors": [
+      "Alfonso Balmori and Alfonso Balmori-de la Puente"
+    ],
+    "summary": "Science, Volume 392, Issue 6801, Page 922-923, May 2026. <br />",
+    "source": "AAAS: Science: Table of Contents",
+    "date": "2026-05-28",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/science.aeh5443?af=R",
+    "title": "Old scientific art inspires generations",
+    "link": "https://www.science.org/doi/abs/10.1126/science.aeh5443?af=R",
+    "authors": [
+      "Ragupathy Kannan"
+    ],
+    "summary": "Science, Volume 392, Issue 6801, Page 927-927, May 2026. <br />",
+    "source": "AAAS: Science: Table of Contents",
+    "date": "2026-05-28",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/science.aeh4080?af=R",
+    "title": "Volatile food trade policy threatens biodiversity",
+    "link": "https://www.science.org/doi/abs/10.1126/science.aeh4080?af=R",
+    "authors": [
+      "Cai Li, Zhongci Deng, and Zhen Wang"
+    ],
+    "summary": "Science, Volume 392, Issue 6801, Page 927-927, May 2026. <br />",
+    "source": "AAAS: Science: Table of Contents",
+    "date": "2026-05-28",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/science.aeh3585?af=R",
+    "title": "Rethinking invertebrate welfare in science",
+    "link": "https://www.science.org/doi/abs/10.1126/science.aeh3585?af=R",
+    "authors": [
+      "Yuling Liang, Yunbo Song, Meng Chen, Xinying Zhang, Yizhou Wang, Jinle Lin, Weiqian Zhou, Jinhang Zhang, Wenzhi Wang, Lam Theresia Sri Andriani, Mingrong Liang, Shamshad Ahmed Khan, and Claudio Carere"
+    ],
+    "summary": "Science, Volume 392, Issue 6801, Page 926-926, May 2026. <br />",
+    "source": "AAAS: Science: Table of Contents",
+    "date": "2026-05-28",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/science.aej2007?af=R",
+    "title": "Disembodied human brains used for drug testing",
+    "link": "https://www.science.org/doi/abs/10.1126/science.aej2007?af=R",
+    "authors": [
+      "Sara Reardon"
+    ],
+    "summary": "Science, Volume 392, Issue 6801, Page 906-907, May 2026. <br />",
+    "source": "AAAS: Science: Table of Contents",
+    "date": "2026-05-28",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/science.aej2008?af=R",
+    "title": "Ship surveys capture the pulsing beat of mantle plumes",
+    "link": "https://www.science.org/doi/abs/10.1126/science.aej2008?af=R",
+    "authors": [
+      "Paul Voosen"
+    ],
+    "summary": "Science, Volume 392, Issue 6801, Page 908-909, May 2026. <br />",
+    "source": "AAAS: Science: Table of Contents",
+    "date": "2026-05-28",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/science.aej2009?af=R",
+    "title": "Has JWST spotted an exploding primordial star?",
+    "link": "https://www.science.org/doi/abs/10.1126/science.aej2009?af=R",
+    "authors": [
+      "Daniel Clery"
+    ],
+    "summary": "Science, Volume 392, Issue 6801, Page 909-910, May 2026. <br />",
+    "source": "AAAS: Science: Table of Contents",
+    "date": "2026-05-28",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/science.aej2010?af=R",
+    "title": "Ebola outbreak puts nimble treatment trial designs to the test",
+    "link": "https://www.science.org/doi/abs/10.1126/science.aej2010?af=R",
+    "authors": [
+      "Kai Kupferschmidt"
+    ],
+    "summary": "Science, Volume 392, Issue 6801, Page 910-911, May 2026. <br />",
+    "source": "AAAS: Science: Table of Contents",
+    "date": "2026-05-28",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/science.aej2011?af=R",
+    "title": "NIH, NASA place limits on foreign co-authors",
+    "link": "https://www.science.org/doi/abs/10.1126/science.aej2011?af=R",
+    "authors": [
+      "Jeffrey Brainard"
+    ],
+    "summary": "Science, Volume 392, Issue 6801, Page 912-913, May 2026. <br />",
+    "source": "AAAS: Science: Table of Contents",
+    "date": "2026-05-28",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/science.aej1922?af=R",
+    "title": "Researching while Chinese",
+    "link": "https://www.science.org/doi/abs/10.1126/science.aej1922?af=R",
+    "authors": [
+      "Jeffrey Mervis"
+    ],
+    "summary": "Science, Volume 392, Issue 6801, Page 914-917, May 2026. <br />",
+    "source": "AAAS: Science: Table of Contents",
+    "date": "2026-05-28",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/science.aei8900?af=R",
+    "title": "Australia’s erosion of peer review",
+    "link": "https://www.science.org/doi/abs/10.1126/science.aei8900?af=R",
+    "authors": [
+      "Mark A. Dawson and Massimo A. Hilliard"
+    ],
+    "summary": "Science, Volume 392, Issue 6801, Page 905-905, May 2026. <br />",
+    "source": "AAAS: Science: Table of Contents",
+    "date": "2026-05-28",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/science.aej1106?af=R",
+    "title": "AAAS unveils the AAAS Learning Hub to equip STEMM professionals with skills needed for today’s world",
+    "link": "https://www.science.org/doi/abs/10.1126/science.aej1106?af=R",
+    "authors": [
+      "Mary Catherine Longshore and Lili Niederkorn"
+    ],
+    "summary": "Science, Volume 392, Issue 6801, Page 992-992, May 2026. <br />",
+    "source": "AAAS: Science: Table of Contents",
+    "date": "2026-05-28",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/science.adt7494?af=R",
+    "title": "Maternal work and children’s development: A review",
+    "link": "https://www.science.org/doi/abs/10.1126/science.adt7494?af=R",
+    "authors": [
+      "Maria C. Lo Bue, Elizaveta Perova, and Sarah Reynolds"
+    ],
+    "summary": "Science, Volume 392, Issue 6801, Page 929-931, May 2026. <br />",
+    "source": "AAAS: Science: Table of Contents",
+    "date": "2026-05-28",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/science.aei9224?af=R",
+    "title": "In Science Journals",
+    "link": "https://www.science.org/doi/abs/10.1126/science.aei9224?af=R",
+    "authors": [
+      "Michael Funk, and Keith T. Smith, Angela Hessler, Jack Huang, Melissa L. Norton, Phil Szuromi, Priscilla N. Kelly, Bianca Lopez, Wei Wong, Ian S. Osborne, Di Jiang, Sarah H. Ross, Unnati Sonawala, Madeleine Seale, Michael A. Funk, Marc S. Lavine, Sacha Vignieri, and Claire Olingy"
+    ],
+    "summary": "Science, Volume 392, Issue 6801, Page 932-935, May 2026. <br />",
+    "source": "AAAS: Science: Table of Contents",
+    "date": "2026-05-28",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41561-026-01979-2",
+    "title": "Increased sensitivity of the Antarctic Ice Sheet to decreasing CO<sub>2</sub> across the Mid-Pleistocene Transition",
+    "link": "https://www.nature.com/articles/s41561-026-01979-2",
+    "authors": [
+      "Kyung-Sook Yun",
+      "Axel Timmermann"
+    ],
+    "summary": "Nature Geoscience, Published online: 28 May 2026; <a href=\"https://www.nature.com/articles/s41561-026-01979-2\">doi:10.1038/s41561-026-01979-2</a>A transient ice sheet model simulation of the past 3 million years suggests that the Antarctic Ice Sheet became more sensitive to decreasing CO2 levels following the Mid-Pleistocene Transition, driven by the increasing influence of global sea-level changes.",
+    "source": "Nature Geoscience",
+    "date": "2026-05-28",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-73737-2",
+    "title": "Impact of air-ice CO<sub>2</sub> fluxes on polar ocean carbon budgets from a bipolar data compilation",
+    "link": "https://www.nature.com/articles/s41467-026-73737-2",
+    "authors": [
+      "Odile Crabeck",
+      "Daiki Nomura",
+      "Laique M. Djeutchouang",
+      "Victoria R. Dutch",
+      "Sebastien Moreau",
+      "G. T. Else Brent",
+      "Lisa A. Miller",
+      "Bruno Delille"
+    ],
+    "summary": "Nature Communications, Published online: 29 May 2026; <a href=\"https://www.nature.com/articles/s41467-026-73737-2\">doi:10.1038/s41467-026-73737-2</a>A bipolar compilation of air-sea ice CO2 fluxes shows that sea ice emits CO2 in winter and absorbs it in summer. Annually, the sea ice represents a small net source of 2 to 4 Tg C per year for each polar ocean, negligible relative to total open-ocean carbon uptake.",
+    "source": "Nature Communications",
+    "date": "2026-05-29",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-73695-9",
+    "title": "ToxiTaRGET: a multi-omics database for toxicant-responsive molecular targets",
+    "link": "https://www.nature.com/articles/s41467-026-73695-9",
+    "authors": [
+      "Ravindra Kumar",
+      "Tianyi Fu",
+      "Prashant Kumar Kuntala",
+      "Benpeng Miao",
+      "Shuhua Fu",
+      "Daofeng Li",
+      "Frederick L. Tyson",
+      "Marisa S. Bartolomei",
+      "Cheryl L. Walker",
+      "Ting Wang",
+      "Bo A. Zhang"
+    ],
+    "summary": "Nature Communications, Published online: 29 May 2026; <a href=\"https://www.nature.com/articles/s41467-026-73695-9\">doi:10.1038/s41467-026-73695-9</a>Environmental toxicants can change gene expression and increase disease risk. Here, the authors generated 3,607 multi-omics datasets from mice and created the ToxiTaRGET platform, enabling exploration of transcriptomic and epigenomic changes across tissues and life stages.",
+    "source": "Nature Communications",
+    "date": "2026-05-29",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-73566-3",
+    "title": "Bridging quantum mechanics to liquid properties via a universal organic force field",
+    "link": "https://www.nature.com/articles/s41467-026-73566-3",
+    "authors": [
+      "Tianze Zheng",
+      "Xingyuan Xu",
+      "Zhi Wang",
+      "Zhenze Yang",
+      "Yuanheng Wang",
+      "Xu Han",
+      "Lei Chen",
+      "Zhenliang Mu",
+      "Ziqing Zhang",
+      "Siyuan Liu",
+      "Sheng Gong",
+      "Kuang Yu",
+      "Wen Yan"
+    ],
+    "summary": "Nature Communications, Published online: 28 May 2026; <a href=\"https://www.nature.com/articles/s41467-026-73566-3\">doi:10.1038/s41467-026-73566-3</a>The authors present ByteFF-Pol, a force field trained solely on quantum data to accurately predict liquid and electrolyte properties. It bridges the gap between microscopic calculations and materials design without experimental calibration.",
+    "source": "Nature Communications",
+    "date": "2026-05-28",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-73701-0",
+    "title": "Photonic-integrated quantum sensor array for microscale magnetic localisation",
+    "link": "https://www.nature.com/articles/s41467-026-73701-0",
+    "authors": [
+      "Hao-Cheng Weng",
+      "John G. Rarity",
+      "Krishna C. Balram",
+      "Joe A. Smith"
+    ],
+    "summary": "Nature Communications, Published online: 28 May 2026; <a href=\"https://www.nature.com/articles/s41467-026-73701-0\">doi:10.1038/s41467-026-73701-0</a>Arrays of NV centres operating in parallel promise advantages in resolving spatio-temporal dynamics. Here, the authors report an array of eight localised NV-ensemble sensors integrated in silicon nitride photonic circuits with simultaneous readout and demonstrate applications to magnetic localisation and position tracking.",
+    "source": "Nature Communications",
+    "date": "2026-05-28",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-73044-w",
+    "title": "Author Correction: A ZFYVE21-Rubicon-RNF34 signaling complex promotes endosome-associated inflammasome activity in endothelial cells",
+    "link": "https://www.nature.com/articles/s41467-026-73044-w",
+    "authors": [
+      "Xue Li",
+      "Quan Jiang",
+      "Guiyu Song",
+      "Mahsa Nouri Barkestani",
+      "Qianxun Wang",
+      "Shaoxun Wang",
+      "Matthew Fan",
+      "Caodi Fang",
+      "Bo Jiang",
+      "Justin Johnson",
+      "Arnar Geirsson",
+      "George Tellides",
+      "Jordan S. Pober",
+      "Dan Jane-wit"
+    ],
+    "summary": "Nature Communications, Published online: 28 May 2026; <a href=\"https://www.nature.com/articles/s41467-026-73044-w\">doi:10.1038/s41467-026-73044-w</a>Author Correction: A ZFYVE21-Rubicon-RNF34 signaling complex promotes endosome-associated inflammasome activity in endothelial cells",
+    "source": "Nature Communications",
+    "date": "2026-05-28",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-73763-0",
+    "title": "North Atlantic influence reconciling model-observation discrepancy in the tropical Pacific warming pattern",
+    "link": "https://www.nature.com/articles/s41467-026-73763-0",
+    "authors": [
+      "Yueh-Chi Lin",
+      "Masahiro Watanabe"
+    ],
+    "summary": "Nature Communications, Published online: 28 May 2026; <a href=\"https://www.nature.com/articles/s41467-026-73763-0\">doi:10.1038/s41467-026-73763-0</a>This study shows that climate models underestimate the strengthening of the Pacific east–west temperature contrast observed in recent decades. The mismatch arises from poorly represented North Atlantic warming influences on the tropical Pacific in the models, but correcting spatial biases improves agreement with observations.",
+    "source": "Nature Communications",
+    "date": "2026-05-28",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-73732-7",
+    "title": "Miocene ocean circulation shifted expansive oxygen deficient zones to the Atlantic",
+    "link": "https://www.nature.com/articles/s41467-026-73732-7",
+    "authors": [
+      "Janet E. Burke",
+      "Keyi Cheng",
+      "Andy Ridgwell",
+      "Donald E. Penman",
+      "Dalton S. Hardisty"
+    ],
+    "summary": "Nature Communications, Published online: 28 May 2026; <a href=\"https://www.nature.com/articles/s41467-026-73732-7\">doi:10.1038/s41467-026-73732-7</a>Distributions of expansive low oxygen waters during the Miocene Climatic Optimum greenhouse interval (14.7-17 million years ago) were flipped compared to today, with low oxygen waters engulfing much of the Equatorial Atlantic but contracted in the Pacific.",
+    "source": "Nature Communications",
+    "date": "2026-05-28",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-73429-x",
+    "title": "Retraction Note: Daylight saving time affects European mortality patterns",
+    "link": "https://www.nature.com/articles/s41467-026-73429-x",
+    "authors": [
+      "Laurent Lévy",
+      "Jean-Marie Robine",
+      "Grégoire Rey",
+      "Raúl Fernando Méndez Turrubiates",
+      "Marcos Quijal-Zamorano",
+      "Hicham Achebak",
+      "Joan Ballester",
+      "Xavier Rodó",
+      "François R. Herrmann"
+    ],
+    "summary": "Nature Communications, Published online: 28 May 2026; <a href=\"https://www.nature.com/articles/s41467-026-73429-x\">doi:10.1038/s41467-026-73429-x</a>Retraction Note: Daylight saving time affects European mortality patterns",
+    "source": "Nature Communications",
+    "date": "2026-05-28",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-026-03692-9",
+    "title": "Deep learning-based forecasting provides a pathway to closing wildfire information gaps in underserved regions",
+    "link": "https://www.nature.com/articles/s43247-026-03692-9",
+    "authors": [
+      "Yoojin Kang",
+      "Sihyun Lee",
+      "Dongjin Cho",
+      "Jungho Im"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 28 May 2026; <a href=\"https://www.nature.com/articles/s43247-026-03692-9\">doi:10.1038/s43247-026-03692-9</a>A new deep learning-based framework shows improved medium-range predictability for global fire weather forecasts compared to traditional forecast products by learning nonlinear and lagged fire-weather relationships, especially in vulnerable regions.",
+    "source": "Communications Earth & Environment",
+    "date": "2026-05-28",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-026-03643-4",
+    "title": "Future water constraints on United States lithium mining under climate change",
+    "link": "https://www.nature.com/articles/s43247-026-03643-4",
+    "authors": [
+      "Jenna N. Trost",
+      "Nedal T. Nassar",
+      "Jennifer B. Dunn"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 28 May 2026; <a href=\"https://www.nature.com/articles/s43247-026-03643-4\">doi:10.1038/s43247-026-03643-4</a>United States domestic lithium production is likely to be limited by water scarcity in the future, which could make the United States more reliant on imports, suggests an analysis of water use, climate change and mining sites based on five climate models and four socioeconomic climate scenarios.",
+    "source": "Communications Earth & Environment",
+    "date": "2026-05-28",
+    "sent": true
+  },
+  {
+    "id": "https://www.pnas.org/doi/abs/10.1073/pnas.2604717123?af=R",
+    "title": "Interfacial electric fields create hyperalkaline shells on fatty acid–coated microdroplet aerosols",
+    "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2604717123?af=R",
+    "authors": [
+      "Yangyang LiuSonali SrivastavaDelicia GonsalvesPeter J. VikeslandaDepartment of Civil and Environmental Engineering, Virginia Tech, Blacksburg, VA 24061bVirginia Tech Institute of Critical Technology and Applied Science, Virginia Tech Sustainable Nanotechnology Center (VTSun), Blacksburg, VA 24061"
+    ],
+    "summary": "Proceedings of the National Academy of Sciences, Volume 123, Issue 22, June 2026. <br />SignificanceCurrent atmospheric models indicate that aerosols generally have an acidic surface. This study challenges that paradigm by revealing the existence of an “alkaline shell” (pH ~ 11) on organic-coated microdroplet aerosols. We show that this ...",
+    "source": "Proceedings of the National Academy of Sciences: Earth, Atmospheric, and Planetary Sciences",
+    "date": "2026-05-27",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012825226001546",
+    "title": "The spatiotemporal distributions of global paleo-Köppen climate zones during the Mesozoic-Cenozoic",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012825226001546?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 27 May 2026<b>Source:</b> Earth-Science ReviewsAuthor(s): Chenmin Yu, Daniel J. Lunt, Laiming Zhang, Linshu Hu, Chengshan Wang",
+    "source": "ScienceDirect Publication: Earth-Science Reviews",
+    "date": "2026-05-29",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012821X26003183",
+    "title": "Reconstructing atmospheric nitrogen pressure from N<sub>2</sub>-Ne-Ar systematics in quartz-hosted fluid inclusions",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012821X26003183?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: 15 September 2026<b>Source:</b> Earth and Planetary Science Letters, Volume 690Author(s): Guangming Su, Guillaume Avice, Félix Vayrac, Raphaël Melis",
+    "source": "ScienceDirect Publication: Earth and Planetary Science Letters",
+    "date": "2026-05-29",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012821X26003298",
+    "title": "Editorial Board",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012821X26003298?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: 1 September 2026<b>Source:</b> Earth and Planetary Science Letters, Volume 689Author(s):",
+    "source": "ScienceDirect Publication: Earth and Planetary Science Letters",
+    "date": "2026-05-29",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GC012692",
+    "title": "Anomalously Low 3He/4He and Elevated Heat Flow in the Northern Apennines Explained by Lithospheric Delamination: A Modeling Approach",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GC012692?af=R",
+    "authors": [
+      "Jean de la Paix Izerumugaba, \nAnne Battani, \nFrédéric Mouthereau, \nAnthony Ranchou‐Peyruse"
+    ],
+    "summary": "Geochemistry, Geophysics, Geosystems, Volume 27, Issue 5, May 2026.",
+    "source": "Wiley: Geochemistry, Geophysics, Geosystems: Table of Contents",
+    "date": "2026-05-27",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0016703726003297",
+    "title": "The impact of early-marine diagenesis on bulk carbonate δ<sup>11</sup>B values",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0016703726003297?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 27 May 2026<b>Source:</b> Geochimica et Cosmochimica ActaAuthor(s): Maria Luiza de Carvalho Ferreira, Roger N. Bryant, Jordan P. Todes, Chiza N. Mwinde, Tara C. Kalia, Dan Razionale, Clara L. Blättler",
+    "source": "ScienceDirect Publication: Geochimica et Cosmochimica Acta",
+    "date": "2026-05-29",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0016703726003285",
+    "title": "Phosphatization processes diverge in contrasting climate zones in circum-Antarctic ice-free regions",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0016703726003285?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 27 May 2026<b>Source:</b> Geochimica et Cosmochimica ActaAuthor(s): Zhangqin Zheng, Jihua Hao, Libin Wu, Can Liu, Yaguang Nie, Yulu Xue, Yongyan Chen, Pengcheng Ju, Steven.D. Emslie, Xiaodong Liu",
+    "source": "ScienceDirect Publication: Geochimica et Cosmochimica Acta",
+    "date": "2026-05-29",
+    "sent": true
+  },
+  {
+    "id": "https://pubs.geoscienceworld.org/gsa/gsabulletin/article/doi/10.1130/B38520.1/731312/Deciphering-the-evolution-of-the-magma-plumbing",
+    "title": "Deciphering the evolution of the magma plumbing system in a dilated continental fault: A case study from the Datong volcanic field, North China Craton",
+    "link": "https://pubs.geoscienceworld.org/gsa/gsabulletin/article/doi/10.1130/B38520.1/731312/Deciphering-the-evolution-of-the-magma-plumbing",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\">The spatiotemporal evolution of magma plumbing systems in continental rift settings is fundamental to understanding volcanic activity and assessing associated hazards. However, the processes governing this evolution, particularly the transition from simple to complex architectures, remain poorly constrained. This study investigated the Datong volcanic field, North China Craton, as a natural laboratory to unravel the evolutionary pathway of a magma plumbing system controlled by active faulting. We present a comprehensive analysis of three successive eruptive episodes—a pyroclastic density current, Lava 1, and Lava 2—distributed along the Sanggan River fault in northern China.Our integrated approach combines field relationships, petrography, whole-rock and mineral geochemistry, thermodynamic modeling, mantle source inversion, and geothermobarometry. The results reveal that the first two eruptive episodes were fed by a transient, shallow (&lt;3 kbar) dike cluster, suggesting rapid magma ascent with limited crustal residence. In contrast, the third episode sourced magma from a more mature and complex two-tiered reservoir system, comprising a deep magma chamber at ∼8 kbar and a shallow crystal mush zone at ∼2 kbar. Critically, we demonstrate that the development of plumbing systems is not strictly linear. Instead, we propose a model of plumbing system duality in extensional settings, where mature, stable reservoirs can coexist with transient, structurally controlled magma conduits. This suggests that fault-induced stress concentration may facilitate the propagation of new dikes that bypass established reservoirs. This finding highlights the unpredictability of eruption pathways, offering significant implications for volcanic hazard assessment in continental rifts globally.</span>",
+    "source": "GSA Bulletin Advance Access",
+    "date": "2026-05-27",
+    "sent": true
+  },
+  {
+    "id": "https://pubs.geoscienceworld.org/gsa/gsabulletin/article/doi/10.1130/B38935.1/731311/Early-Carboniferous-ophiolite-discovery-in-central",
+    "title": "Early Carboniferous ophiolite discovery in central Mongolia: Expanding the record of subduction initiation in the Mongol-Okhotsk Ocean",
+    "link": "https://pubs.geoscienceworld.org/gsa/gsabulletin/article/doi/10.1130/B38935.1/731311/Early-Carboniferous-ophiolite-discovery-in-central",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\">The subduction initiation dynamics and southwestern extension of the Mongol-Okhotsk suture zone in Central Asia have been enigmatic due to a scarcity of robust ophiolitic records. This study presents an integrated analysis of petrography, geochemistry, and geochronology conducted on the newly discovered Erdendalai ophiolite in the Dundgobi Province of Mongolia. The ophiolite mainly comprises serpentinized peridotite, gabbro, anorthosite, and chert. Zircon U-Pb dating of an anorthosite sample yields a crystallization age of 350 ± 4 Ma (early Carboniferous), which identifies this ophiolite as the oldest documented ophiolite within the Mongol-Okhotsk Ocean realm. Geochemically, the gabbroic rocks exhibit normal mid-ocean-ridge basalt−like signatures with slight depletion in high field strength elements and enrichment in large ion lithophile elements, resembling forearc basalts. The anorthosites are interpreted to have crystallized from hydrous, arc-related tholeiitic magmas derived from boninitic precursors. These features collectively indicate that the Erdendalai ophiolite formed in a supra-subduction zone setting, specifically an intra-oceanic forearc, during the early Carboniferous. Detrital zircon age spectra from the enclosing Khoidgobi Formation schists show a youngest peak at ca. 302 Ma, constraining the accretion and emplacement of the ophiolite to the latest Carboniferous or later. Our findings not only confirm the southwestern extension of the Mongol-Okhotsk suture but also provide critical evidence for the early Carboniferous subduction initiation of the Mongol-Okhotsk Ocean, likely facilitated by the presence of a continental ribbon rifted during the ocean’s opening. The distribution of supra-subduction zone ophiolites with different ages along the Mongol-Okhotsk suture zone may document lateral propagation of subduction initiation.</span>",
+    "source": "GSA Bulletin Advance Access",
+    "date": "2026-05-27",
+    "sent": true
+  },
+  {
+    "id": "http://doi.org/10.1093/nsr/nwag325",
+    "title": "MRI-compatible soft fiber bioelectronics for multimodal assessment of electrical neural stimulation on whole-brain activation",
+    "link": "https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwag325/8697354?rss=1",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\"><div class=\"boxTitle\">Abstract</div>Deciphering mechanisms of electrical neural stimulation using multimodal approaches combining electrophysiology and magnetic resonance imaging (MRI) is pivotal for advancing neuromodulation therapies. However, this paradigm has been hindered by the lack of high-performance neural electrodes that are compatible with ultra-high-field MRI while possessing exceptional electrochemical properties. Here, we report an MRI-compatible fiber neural electrode (MFE) fabricated from structurally optimized conductive polymer fiber emulating brain tissue characteristics. The MFE induces little-to-no MRI artifacts at 11.7 T and combines low modulus, low impedance, and high charge‐injection-limit, enabling precise neural stimulation and recording. Utilizing these MFEs, we investigated frequency-dependent whole-brain responses to electrical stimulation of the medial prefrontal cortex in wild-type and autism‐model rats, revealing responses potentially relevant to autism intervention. This was achieved through electrical stimulation synchronized with electrophysiological recording and multimodal MRI, including functional MRI, diffusion‐weighted imaging (tissue structural assessment), and magnetic resonance spectroscopy (metabolite profiling). Our MFE enables previously unattained simultaneous acquisition of multimodal information, providing a powerful tool for in-depth mechanistic studies of neuromodulation.</span>",
+    "source": "National Science Review Advance Access",
+    "date": "2026-05-28",
+    "sent": true
+  },
+  {
+    "id": "http://doi.org/10.1093/nsr/nwag319",
+    "title": "Occupancy as a key attribute linking saprotrophic fungi to soil carbon decomposition",
+    "link": "https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwag319/8697353?rss=1",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\"><div class=\"boxTitle\">Abstract</div>Understanding how fungal biogeography shapes ecosystem processes is central to predicting biogeochemical responses to environmental change. However, the properties of saprotrophic fungi that link their distribution patterns to belowground carbon cycling remain unclear. Here, we provide a comprehensive assessment linking widespread (high-occurrence) and narrowly distributed (low-occurrence) saprotrophic fungi (saprotrophs) to carbon decomposition processes across a broad latitudinal gradient from tropical to boreal zones. Our results show that the diversity of saprotrophic fungi is shaped by distinct community assembly processes, which in turn generate contrasting geographic patterns across latitudes. Widespread saprotrophs are mainly structured by large-scale climatic and local soil variables (environmental filtering) and show increasing diversity toward higher latitudes, whereas narrow-ranged saprotrophs are primarily constrained by the regional species pool (dispersal filtering), leading to declining diversity with latitude. By integrating large-scale biogeographic data with DNA stable isotope probing experiment, we provide evidence that fungal taxa actively participating in straw decomposition are dominated by widespread saprotrophs, underscoring their essential role in carbon cycling. Our findings highlight occupancy as a key biogeographic attribute regulating fungal contributions to carbon cycling and provide a predictive framework for understanding how belowground biodiversity shapes soil carbon dynamics under global change.</span>",
+    "source": "National Science Review Advance Access",
+    "date": "2026-05-28",
+    "sent": true
+  },
+  {
+    "id": "http://doi.org/10.1093/nsr/nwag321",
+    "title": "A chemo-free thermo-sensitive necroptosis inducing perfusate to enable potent hyperthermic intraperitoneal immunotherapy",
+    "link": "https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwag321/8697349?rss=1",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\"><div class=\"boxTitle\">Abstract</div>Hyperthermic intraperitoneal chemotherapy (HIPEC) is widely performed for treating peritoneal malignancies, yet its clinical application remains limited by insufficient efficacies and risks in chemotherapy-associated side effects. This study demonstrates that mild hyperthermia enhances cancer cell sensitivity to hydrogen peroxide (H<sub>2</sub>O<sub>2</sub>) and Ca<sup>2+</sup> exposure while sparing normal cells at both elevated and physiological temperatures. Mechanistically, mild hyperthermia promotes H<sub>2</sub>O<sub>2</sub> cellular entry, synergistically activating calcium channels in the plasma membrane and endoplasmic reticulum to induce Ca<sup>2+</sup>-overload-dependent cancer cell necroptosis. Using H<sub>2</sub>O<sub>2</sub> and Ca<sup>2+</sup> solution as a thermo-activatable necroptosis-inducing perfusate (TNIP), peritoneal perfusion at 43°C demonstrates stronger suppressive effects on the growth of multiple peritoneal tumors in mice compared to conventional HIPEC using various chemotherapeutics. TNIP-mediated hyperthermic intraperitoneal treatment also elicits robust antitumor immunity in syngeneic murine models, with enhanced therapeutic efficacy when combined with postoperative immune checkpoint blockade therapy. The superior immune activation capacities of this strategy are further validated in patient-derived organoids. This work establishes a chemo-free, thermo-activated immunogenic perfusion strategy to selectively trigger cancer cell necroptosis, demonstrating a translatable hyperthermic intraperitoneal immunotherapy with improved therapeutic efficacy and safety.</span>",
+    "source": "National Science Review Advance Access",
+    "date": "2026-05-28",
+    "sent": true
+  },
+  {
+    "id": "http://doi.org/10.1093/nsr/nwag322",
+    "title": "Genetic recombination shapes complex hybrid effects across the pig genome",
+    "link": "https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwag322/8697348?rss=1",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\"><div class=\"boxTitle\">Abstract</div>Genome and phenotype evolution during hybridization has been a central topic in evolutionary biology, yet the genetic mechanism underlying the hybrid effect variation remain elusive. Here we use the pig as a model and quantify hybrid effects by measuring the phenotypic difference between homozygotes and heterozygotes across 135 traits in 578 F2 individuals from a Eurasian pig cross population. We demonstrate that hybrid effect sizes follow an exponential distribution across the genome. The rate parameter (λ) of this exponential distribution exhibits a hump-shaped pattern with increasing levels of F0 genomic divergence, indicating a genomic transition from inbreeding depression to hybrid vigor and ultimately to hybrid depression. Further analysis reveals that genetic recombination is significantly correlated with the variation in λ, supporting a model in which both recombination and genomic divergence jointly shape the landscape of hybrid effects. Females display lower λ values, with a pronounced reduction in regions exhibiting hybrid depression, revealing a fundamental sex difference in Eurasian pig hybridization. We further show that the λ positively correlates with F2 heterozygote-to-homozygote genotype frequency ratio. This suggests that recombination may introduce advantageous hybrid effect in genetic backgrounds otherwise characterized by inbreeding depression or hybrid depression, resulting in asynchronous evolutionary paces across the genome.</span>",
+    "source": "National Science Review Advance Access",
+    "date": "2026-05-28",
+    "sent": true
+  },
+  {
+    "id": "http://doi.org/10.1093/nsr/nwag324",
+    "title": "Deep learning-driven intelligent mesoscopic model (DeepMeso): a case study on ferroelectrics",
+    "link": "https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwag324/8697347?rss=1",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\"><div class=\"boxTitle\">Abstract</div>Integrating artificial intelligence with computational methods has emerged as a transformative force in materials research, exemplified by breakthroughs such as DeepH and DeepMD. However, a critical gap persists in multiscale intelligent design: the lack of mesoscopic models capable of bridging microstructural features with macroscopic properties. Here, we develop DeepMeso, a generative deep learning-enabled mesoscopic model, for the intelligent design of complex heterogeneous materials. To exemplify the framework, we instantiate it in ferroelectrics (DeepFerro), where our workflow first integrates a data-driven surrogate model to predict key ferroelectric properties with an accuracy exceeding 99.6%. Then, we implement a 3D generative network to achieve inverse design across both composition and microstructure spaces, directly targeting predefined polarization objectives. When tasked with multi-objective on-demand generation, DeepFerro yields a mean squared error of 0.0497 and an <span style=\"font-style: italic;\">R</span><sup>2</sup> value of 95.44% against simulation benchmarks. Critically, it also exhibits robust transferability and extrapolation capability across 63 distinct ferroelectric systems, demonstrating its generalizability in end-to-end optimization. In parallel, model interpretability translates the learned relations into explicit, hierarchical guidelines. This generalizable intelligent design framework DeepMeso could be further extended to diverse heterogeneous materials, which will deepen the understanding of composition–microstructure–property relationships and facilitate the on-demand inverse design at the mesoscopic scale.</span>",
+    "source": "National Science Review Advance Access",
+    "date": "2026-05-28",
+    "sent": true
+  },
+  {
+    "id": "http://doi.org/10.1093/nsr/nwag320",
+    "title": "Low-power biomimetic ionic thermoelectric device for multi-gas olfaction",
+    "link": "https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwag320/8697345?rss=1",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\"><div class=\"boxTitle\">Abstract</div>The escalating demand for intelligent multi-gas sensing has driven the need for high-performance artificial olfactory systems with enhanced power efficiency. This work proposes an innovative gas sensing mechanism enabled by the giant ionic-thermoelectric effects in solid-state ionic polymer, which overcomes the low thermopower-to-thermal conductivity (<span style=\"font-style: italic;\">S/κ</span>) limitation of the conventional electronic thermoelectric materials. Using wafer-scale microfabrication technology, we demonstrate the first functional ionic-thermoelectric biomimetic olfactory device that can simultaneously resolve mixed gas analytes. This monolithic platform integrates multiple sub-100 μm sensing units, each combining an ionic-thermoelectric module with a narrow-bandpass optical filter, to selectively resolve the contributions of individual gas species in mixed-gas environments. The device achieves a record responsivity of 2340 V/W, a 20-fold improvement over commercial detectors (typically &lt;200 V/W) and achieves limits of detection of 1.42 ppm, 0.15 ppm, and 1.16 ppb for CO<sub>2</sub>, CH<sub>4</sub> and CO, respectively. This work establishes a promising route to next-generation artificial olfactory systems based on the ionic-thermoelectric effects.</span>",
+    "source": "National Science Review Advance Access",
+    "date": "2026-05-28",
+    "sent": true
+  },
+  {
+    "id": "http://doi.org/10.1093/nsr/nwag317",
+    "title": "Self-powered intelligence for personalized healthcare",
+    "link": "https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwag317/8696388?rss=1",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\"><div class=\"boxTitle\">Abstract</div>Personalized healthcare is crucial for transforming medical practice, offering more precise, efficient, and patient-centred care. It not only improves individual health outcomes but also enhances the overall efficiency of healthcare systems. Wearable and implantable devices have emerged as key technologies in this transformation, offering unprecedented opportunities for real-time physiological monitoring, early disease detection, and personalized health intervention. In parallel, the rapid advancement of artificial intelligence (AI) has further accelerated the integration of data-driven intelligence into healthcare systems, making interdisciplinary research at the intersection of AI, flexible electronics, and biomedical engineering increasingly important. However, the long-term deployment of intelligent wearable and implantable healthcare systems remains fundamentally constrained by power sustainability, mechanical flexibility, and the energy cost of on-device data processing. This review focuses on self-powered intelligence as an emerging paradigm for personalized healthcare, enabling continuous, long-term and autonomous health monitoring beyond the limitations of battery-powered systems. By integrating flexible and smart electronics with low-power AI, self-powered intelligence provide a viable pathway toward intelligent, on-body and in-body healthcare platforms capable of real-time analysis and personalized health management.</span>",
+    "source": "National Science Review Advance Access",
+    "date": "2026-05-27",
+    "sent": true
+  },
+  {
     "id": "https://www.nature.com/articles/s41586-026-10700-7",
     "title": "Author Correction: Modelling late gastrulation in stem cell-derived monkey embryo models",
     "link": "https://www.nature.com/articles/s41586-026-10700-7",
