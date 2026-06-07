@@ -1,5 +1,502 @@
 [
   {
+    "id": "https://www.nature.com/articles/s41467-026-74177-8",
+    "title": "Grain boundary engineered aluminum current collector for energy-dense initially anode-free sodium metal batteries",
+    "link": "https://www.nature.com/articles/s41467-026-74177-8",
+    "authors": [
+      "Xueying Zheng",
+      "Dongpeng Yu",
+      "Fei Tian",
+      "Danni Lei",
+      "Chengxin Wang"
+    ],
+    "summary": "Nature Communications, Published online: 06 June 2026; <a href=\"https://www.nature.com/articles/s41467-026-74177-8\">doi:10.1038/s41467-026-74177-8</a>The initially anode-free sodium metal offer advantages in energy density and safety. Here, authors design a grain-boundary Ga-rich polycrystalline aluminum current collector that enables controlled Al3+ dissolution to compensate Na loss, stabilizes Na plating/stripping, and delivers reversible batteries.",
+    "source": "Nature Communications",
+    "date": "2026-06-06",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-73154-5",
+    "title": "Superballistic flow of viscous electron fluid induced by edge magnetoplasmons in point contacts",
+    "link": "https://www.nature.com/articles/s41467-026-73154-5",
+    "authors": [
+      "Xinghao Wang",
+      "Wenfeng Zhang",
+      "Loren N. Pfeiffer",
+      "Kirk W. Baldwin",
+      "K. W. West",
+      "Rui-Rui Du"
+    ],
+    "summary": "Nature Communications, Published online: 06 June 2026; <a href=\"https://www.nature.com/articles/s41467-026-73154-5\">doi:10.1038/s41467-026-73154-5</a>Superballistic transport is a known hydrodynamic effect where viscous electrons can move collectively. Here, the authors provide evidence of superballistic electron flow under microwave irradiation in point contacts induced by edge magnetoplasmons.",
+    "source": "Nature Communications",
+    "date": "2026-06-06",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-74014-y",
+    "title": "Towards practical aqueous zinc metal pouch cell batteries via weakly bound water-mediated shear-thickening electrolyte",
+    "link": "https://www.nature.com/articles/s41467-026-74014-y",
+    "authors": [
+      "Guowei Gao",
+      "Boxin Li",
+      "Xiaomei Huo",
+      "Zhuzhu Du",
+      "Yuhao Guan",
+      "Fangyue Lin",
+      "Zhenkai Zhou",
+      "Xin Yu",
+      "Jingxuan Bi",
+      "Wei Ai"
+    ],
+    "summary": "Nature Communications, Published online: 06 June 2026; <a href=\"https://www.nature.com/articles/s41467-026-74014-y\">doi:10.1038/s41467-026-74014-y</a>Zinc dendrite growth and corrosion limit zinc metal electrode performance. Here, authors design a weakly bound water-mediated shear-thickening electrolyte that integrates chemical regulation with mechanical reinforcement to suppress dendrites and corrosion, enabling stable zinc metal electrodes.",
+    "source": "Nature Communications",
+    "date": "2026-06-06",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-73964-7",
+    "title": "Mapping the absorption landscape of far-red Photosystem II",
+    "link": "https://www.nature.com/articles/s41467-026-73964-7",
+    "authors": [
+      "Ho Fong Leong",
+      "Giovanni Consoli",
+      "Geoffry A. Davis",
+      "Ben Hancox-Lachman",
+      "Kenta Renard",
+      "Fiazall Tufail",
+      "Lauren E. Lee",
+      "Lucas Gautier",
+      "James W. Murray",
+      "Andrea Fantuzzi",
+      "A. William Rutherford"
+    ],
+    "summary": "Nature Communications, Published online: 06 June 2026; <a href=\"https://www.nature.com/articles/s41467-026-73964-7\">doi:10.1038/s41467-026-73964-7</a>Some cyanobacteria do oxygenic photosynthesis with near-infrared photons using specialized pigments. Here, the authors identify their positions and colors by combining phylogenetic, spectroscopic, and structural methods.",
+    "source": "Nature Communications",
+    "date": "2026-06-06",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-74021-z",
+    "title": "Ameliorating calcium homeostasis improves longevity and healthspan in progeroid and naturally aged mice",
+    "link": "https://www.nature.com/articles/s41467-026-74021-z",
+    "authors": [
+      "Weifang Xiang",
+      "Qianying Hu",
+      "Pingli Sun",
+      "Xiaohan Wu",
+      "Hui Jiang",
+      "Min Qu",
+      "Lei Li",
+      "Yu Wang",
+      "Zhiyao Wang",
+      "Xuan Liu",
+      "Jun Ma",
+      "Dahai Zhu",
+      "Hu Li",
+      "Yuanyi Wang",
+      "Yang Jiao",
+      "Baiqu Huang",
+      "Jun Lu",
+      "Xianling Cong",
+      "Wei Li",
+      "Yu Zhang"
+    ],
+    "summary": "Nature Communications, Published online: 06 June 2026; <a href=\"https://www.nature.com/articles/s41467-026-74021-z\">doi:10.1038/s41467-026-74021-z</a>The study shows that disruption of calcium homeostasis triggers the aberrant accumulation of S100A6 in the cytoplasm, thereby promoting Hutchinson-Gilford Progeria Syndrome (HGPS) and natural aging. Mianserin was found to effectively retard the aging process and significantly extend the lifespan of both progeroid and naturally aged mice by restoring calcium homeostasis.",
+    "source": "Nature Communications",
+    "date": "2026-06-06",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-74000-4",
+    "title": "ArchVelo: archetypal velocity modeling for single-cell multi-omic trajectories",
+    "link": "https://www.nature.com/articles/s41467-026-74000-4",
+    "authors": [
+      "Maria Avdeeva",
+      "Sarah K. Walker",
+      "Joris van der Veeken",
+      "Alexander Y. Rudensky",
+      "Yuri Pritykin"
+    ],
+    "summary": "Nature Communications, Published online: 06 June 2026; <a href=\"https://www.nature.com/articles/s41467-026-74000-4\">doi:10.1038/s41467-026-74000-4</a>Mapping cell dynamics from static data is a challenge in genomics. Here, authors introduce ArchVelo, a computational method for modeling transcription dynamics and trajectory inference using chromatin accessibility archetypes in single-cell multi-omics, and infer new T cell transitions in infection.",
+    "source": "Nature Communications",
+    "date": "2026-06-06",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-74052-6",
+    "title": "Bioinspired nano-architecture for cellulose fibers with spider silk–like toughness",
+    "link": "https://www.nature.com/articles/s41467-026-74052-6",
+    "authors": [
+      "Xiaotong Fu",
+      "Xizhe Zhang",
+      "Tingting Yang",
+      "Yi Zhang",
+      "Chenlu Jiao",
+      "Shuze Zhu",
+      "Dongdong Ye"
+    ],
+    "summary": "Nature Communications, Published online: 06 June 2026; <a href=\"https://www.nature.com/articles/s41467-026-74052-6\">doi:10.1038/s41467-026-74052-6</a>Cellulose fibers derived from renewable biomass offer great tensile strength performance, but their toughness remains limited. Here the authors develop cellulose fibers with uniquely high toughness and tensile strength, that can form from single fibers to woven fabrics.",
+    "source": "Nature Communications",
+    "date": "2026-06-06",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-026-03707-5",
+    "title": "Static connectivity models underestimate ecological risk under long-term climate and land-use change",
+    "link": "https://www.nature.com/articles/s43247-026-03707-5",
+    "authors": [
+      "Bo Xu",
+      "Tong Dang",
+      "Xuefei Wu"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 06 June 2026; <a href=\"https://www.nature.com/articles/s43247-026-03707-5\">doi:10.1038/s43247-026-03707-5</a>Dynamic connectivity framework with time-evolving corridor strategies shows pervasive turnover in core areas and shifting corridor priorities through time in a proof-of-concept corridor priorities experiment for four major taxonomic groups, whereas static and single-dimension models underestimate long-term exposure",
+    "source": "Communications Earth & Environment",
+    "date": "2026-06-06",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-026-03646-1",
+    "title": "Regionalization and drivers of severe water erosion in China",
+    "link": "https://www.nature.com/articles/s43247-026-03646-1",
+    "authors": [
+      "Hongna Wang",
+      "Baoyuan Liu",
+      "Enwei Zhang",
+      "Enxuan Su",
+      "Xingwu Duan"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 06 June 2026; <a href=\"https://www.nature.com/articles/s43247-026-03646-1\">doi:10.1038/s43247-026-03646-1</a>Severe water erosion regions in China are concentrated along the Hu Line, where steep terrain, intensive agriculture, concentrated rainfall, and highly erodible soils jointly intensified erosion processes, as indicated by the Chinese soil loss equation and regionalization of water erosion based on erosion intensity.",
+    "source": "Communications Earth & Environment",
+    "date": "2026-06-06",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-026-03714-6",
+    "title": "Arabian Sea stratification and deoxygenation driven by weakening monsoon winds over the Holocene",
+    "link": "https://www.nature.com/articles/s43247-026-03714-6",
+    "authors": [
+      "Ponnusamy Saravanan",
+      "Kaustubh Thirumalai",
+      "Xiangzhong Li",
+      "Ravi Mishra",
+      "Hongbo Zheng",
+      "Ryuji Tada",
+      "Guangxin Liu",
+      "Qing Yang",
+      "Zhonghui Liu"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 06 June 2026; <a href=\"https://www.nature.com/articles/s43247-026-03714-6\">doi:10.1038/s43247-026-03714-6</a>Weakening of the Indian summer monsoon and surface warming during the mid-Holocene strengthened upper ocean stratification and reduced ventilation in the Arabian Sea, according to sea-surface temperature reconstructions and multiproxy records.",
+    "source": "Communications Earth & Environment",
+    "date": "2026-06-06",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-026-03705-7",
+    "title": "Transport of warm bias from Indian Ocean subsurface to Southern Ocean surface in Coupled Model Intercomparison Project phase 6 models",
+    "link": "https://www.nature.com/articles/s43247-026-03705-7",
+    "authors": [
+      "Libin Ma",
+      "Fei Liu",
+      "Tongwen Wu",
+      "Xinyao Rong",
+      "Yixiong Lu",
+      "Jingzhi Su",
+      "Cuiting Song"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 06 June 2026; <a href=\"https://www.nature.com/articles/s43247-026-03705-7\">doi:10.1038/s43247-026-03705-7</a>Modelled subsurface Indian Ocean warm bias accounts for approximately 37% of sea surface temperature warm bias in the Southern Ocean, according to analysis of Coupled Model Intercomparison Project results.",
+    "source": "Communications Earth & Environment",
+    "date": "2026-06-06",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-026-03699-2",
+    "title": "Worst-case European heat storylines generated using ensemble boosting",
+    "link": "https://www.nature.com/articles/s43247-026-03699-2",
+    "authors": [
+      "Laura Suarez-Gutierrez",
+      "Urs Beyerle",
+      "Magdalena Mittermeier",
+      "Robert Vautard",
+      "Erich M. Fischer"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 06 June 2026; <a href=\"https://www.nature.com/articles/s43247-026-03699-2\">doi:10.1038/s43247-026-03699-2</a>Worst-case European heatwaves occur predominantly after another extreme heatwave, compounding danger to ecosystems, according to analyses of worst-case Earth system model simulations.",
+    "source": "Communications Earth & Environment",
+    "date": "2026-06-06",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-026-03722-6",
+    "title": "Global clean air improvements mask socioeconomic inequalities in fine particulate matter health burden",
+    "link": "https://www.nature.com/articles/s43247-026-03722-6",
+    "authors": [
+      "Jizhe Xia",
+      "Kaiming Xia",
+      "Zhehan Huang",
+      "Ranyu Chen",
+      "Yi Wang",
+      "John J. Qu",
+      "Ashbindu Singh",
+      "Yanan Huang",
+      "Qiang Fang",
+      "Qingquan Li",
+      "Chenyang Xu"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 06 June 2026; <a href=\"https://www.nature.com/articles/s43247-026-03722-6\">doi:10.1038/s43247-026-03722-6</a>From 2000–2019, global fine particulate matter related mortality burdens grew more unequal, with rising high risk populations and worsening socioeconomic disparities across 181 countries, according to air pollution, epidemic modeling and inequality decomposition.",
+    "source": "Communications Earth & Environment",
+    "date": "2026-06-06",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-026-03735-1",
+    "title": "Polar processes set Arctic marine heatwaves apart",
+    "link": "https://www.nature.com/articles/s43247-026-03735-1",
+    "authors": [
+      "Marylou Athanase",
+      "Ruijian Gou",
+      "Eike E. Köhn",
+      "Benjamin Richaud",
+      "Amélie Simon"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 06 June 2026; <a href=\"https://www.nature.com/articles/s43247-026-03735-1\">doi:10.1038/s43247-026-03735-1</a>Arctic marine heatwaves are influenced by unique, overlooked drivers including sea ice (which modulates air-sea heat fluxes, mixed layer depth, and temperature variability) and upward fluxes of Arctic subsurface heat.",
+    "source": "Communications Earth & Environment",
+    "date": "2026-06-06",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-026-03701-x",
+    "title": "Biomass burning and nitrogen dioxide pollution over West Africa",
+    "link": "https://www.nature.com/articles/s43247-026-03701-x",
+    "authors": [
+      "Prince Junior Asilevi",
+      "Lydia Korley",
+      "Robert Owusu Nkansah",
+      "Michael Oppong",
+      "Gideon Luluwa",
+      "Pinkrah Nana Ofosuhene",
+      "Emmanuel Quansah"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 05 June 2026; <a href=\"https://www.nature.com/articles/s43247-026-03701-x\">doi:10.1038/s43247-026-03701-x</a>Fire occurrences are a major driver of severe, seasonally intense nitrogen dioxide pollution in West Africa, necessitating urgent policy interventions to mitigate the significant risks to human health, according to remote sensing data.",
+    "source": "Communications Earth & Environment",
+    "date": "2026-06-05",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012821X26003079",
+    "title": "Metasomatic fluids from subducted oceanic crust: Evidence from isotopic composition of potassium in Sierra Leone diamonds",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012821X26003079?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: 15 September 2026<b>Source:</b> Earth and Planetary Science Letters, Volume 690Author(s): Oded Elazar, Yaakov Weiss, Lauren Tafla, Peng Ni, Steven B. Shirey",
+    "source": "ScienceDirect Publication: Earth and Planetary Science Letters",
+    "date": "2026-06-07",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012821X26003353",
+    "title": "Corrigendum to “Residual mass-independently fractionated oxygen present in solids accreted during planetesimal formation in the early Solar System: potential evidence from main group pallasites” [Earth and Planetary Science Letters 676 (2026) 119717]",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012821X26003353?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 6 June 2026<b>Source:</b> Earth and Planetary Science LettersAuthor(s): Martin F. Miller",
+    "source": "ScienceDirect Publication: Earth and Planetary Science Letters",
+    "date": "2026-06-07",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL122804",
+    "title": "Sulfur Exposure for Airplane Passengers From Stratospheric Aerosol Injection",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL122804?af=R",
+    "authors": [
+      "Alan Robock, \nAlistair Duffey, \nWalker Raymond Lee, \nLauren Wheeler"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 11, 16 June 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-06-05",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL121955",
+    "title": "Seasonal Prediction Skill Contrasts of Subtropical North Atlantic Sea Surface Temperature Anomalies Under Different AMV Phases",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL121955?af=R",
+    "authors": [
+      "Bingjiang Wei, \nXiaoqin Yan, \nYoumin Tang"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 11, 16 June 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-06-05",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL122211",
+    "title": "How the Relative Contribution of DP‐1 and DP‐2 Currents Reshapes the Global Current System During Substorms",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL122211?af=R",
+    "authors": [
+      "Jiarong Ma, \nChao Yue, \nHaobo Fu, \nShan Wang, \nQiugang Zong, \nXuzhi Zhou"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 11, 16 June 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-06-05",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL121339",
+    "title": "Anthropogenic Carbon Isotope Signals in North Atlantic Water Masses at 48°N",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL121339?af=R",
+    "authors": [
+      "E. Bavoux, \nS. Mulitza, \nR. Steinfeldt, \nH. Kuhnert, \nG. Martinez‐Mendez, \nH. Pälike"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 11, 16 June 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-06-05",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL122271",
+    "title": "Training‐Domain Gaps in Data‐Driven Ocean Color Algorithms",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL122271?af=R",
+    "authors": [
+      "P. C. Gray, \nC. Begouen Demeaux, \nA. Chase, \nR. Frouin, \nE. S. Boss"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 11, 16 June 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-06-05",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL121357",
+    "title": "Elucidating the Reactivity and Fate of Dissolved Organic Matter in Groundwater Entering the Alaska Beaufort Sea Coast Using 14C Ramped Oxidation",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL121357?af=R",
+    "authors": [
+      "C. T. Connolly, \nR. G. M. Spencer, \nJ. W. McClelland"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 11, 16 June 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-06-05",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL121858",
+    "title": "Multi‐Step Gravity Wave Propagation From a Tropospheric Vortex to the Ionosphere Near the Tibetan Plateau",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL121858?af=R",
+    "authors": [
+      "Wei Yao, \nHuijun Le, \nWenjie Sun, \nLibo Liu, \nYiding Chen"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 11, 16 June 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-06-05",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL121489",
+    "title": "Volcanic Forcing Amplifies Extreme Wet‐to‐Dry in Pre‐Flood South China Driven by Internal Variability",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL121489?af=R",
+    "authors": [
+      "Qi Wen, \nYan Li, \nMengying Du, \nJiahao Li, \nZhilan Wang, \nXiaodan Guan"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 11, 16 June 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-06-05",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GC012635",
+    "title": "Feasibility of Crosshole Seismic Tomography for Monitoring In Situ CO2 Mineral Storage in Basalts: A Rock Physics‐ and Seismic Modeling Study",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GC012635?af=R",
+    "authors": [
+      "Jonas Simon Junker, \nHansruedi Maurer, \nAlba Zappone, \nSin‐Mei Wu, \nAnne Obermann"
+    ],
+    "summary": "Geochemistry, Geophysics, Geosystems, Volume 27, Issue 6, June 2026.",
+    "source": "Wiley: Geochemistry, Geophysics, Geosystems: Table of Contents",
+    "date": "2026-06-05",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GC012835",
+    "title": "Intrusive Magmatism, Plate Stresses, and the Cause of Orthogonal Versus Oblique Spreading Mid‐Ocean Ridges",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GC012835?af=R",
+    "authors": [
+      "Garrett Ito, \nJana Schierjott, \nMark D. Behn, \nXiaochuan Tian, \nBoris J. P. Kaus, \nAnton A. Popov"
+    ],
+    "summary": "Geochemistry, Geophysics, Geosystems, Volume 27, Issue 6, June 2026.",
+    "source": "Wiley: Geochemistry, Geophysics, Geosystems: Table of Contents",
+    "date": "2026-06-05",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GC012773",
+    "title": "Geochemical and Isotopic Constraints on Long‐Lived Source Enrichment and Mantle Evolution in Paleoproterozoic Cratonic Lamprophyres",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GC012773?af=R",
+    "authors": [
+      "Sourav Naskar, \nRohit Pandey, \nNils Björn Baumann, \nN. V. Chalapathi Rao, \nGeorge Mathew, \nJ. Amal Dev, \nJ. K. Tomson"
+    ],
+    "summary": "Geochemistry, Geophysics, Geosystems, Volume 27, Issue 6, June 2026.",
+    "source": "Wiley: Geochemistry, Geophysics, Geosystems: Table of Contents",
+    "date": "2026-06-05",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GC012838",
+    "title": "Middle Cretaceous Andean‐Type Arc Evolution in the Sanandaj–Sirjan Zone (Shalair Valley), Iraq: New Geochronological and Geochemical Constraints",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GC012838?af=R",
+    "authors": [
+      "Imad Kadhim Abdulzahra, \nYoshihiro Asahara, \nYousif Mohammad, \nAyten Hadi"
+    ],
+    "summary": "Geochemistry, Geophysics, Geosystems, Volume 27, Issue 6, June 2026.",
+    "source": "Wiley: Geochemistry, Geophysics, Geosystems: Table of Contents",
+    "date": "2026-06-05",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0016703726003558",
+    "title": "Sedimentary Hg isotope signatures overprinted by lateral transport and upwelling-driven Hg recycling in the Benguela upwelling system",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0016703726003558?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 6 June 2026<b>Source:</b> Geochimica et Cosmochimica ActaAuthor(s): Yaqiu Zhao, Michelle L. Abshire, Stephen J. Romaniello, Jiayu Wu, Ruoyu Sun, Yi Liu, Jiubin Chen, Wang Zheng",
+    "source": "ScienceDirect Publication: Geochimica et Cosmochimica Acta",
+    "date": "2026-06-07",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0016703726003583",
+    "title": "Trace elements distribution in colloform chalcopyrite and tennantite: insights from Butte (USA) and Lisheen (Ireland)",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0016703726003583?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 5 June 2026<b>Source:</b> Geochimica et Cosmochimica ActaAuthor(s): Alexandre Cugerone, Denis Fougerouse, Max Frenzel, Kalin Kouzmanov, William D.A. Rickard, Kai Luo, Vincent Motto-Ros, Valby van Schijndel, Lorenzo Tavazzani, David W. Saxey, Steven M. Reddy",
+    "source": "ScienceDirect Publication: Geochimica et Cosmochimica Acta",
+    "date": "2026-06-07",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0016703726003546",
+    "title": "FTIR constraints on Martian mantle water from clinopyroxene in nakhlite and shergottite meteorites",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0016703726003546?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 5 June 2026<b>Source:</b> Geochimica et Cosmochimica ActaAuthor(s): Ioana-Bogdana Radu, Cécile Deligny, Henrik Skogby, Roland Stalder, Jeremy J. Bellucci, Martin J. Whitehouse",
+    "source": "ScienceDirect Publication: Geochimica et Cosmochimica Acta",
+    "date": "2026-06-07",
+    "sent": true
+  },
+  {
+    "id": "https://pubs.geoscienceworld.org/gsa/geology/article/doi/10.1130/G54710.1/731694/Tourmaline-40Ar-39Ar-petrochronology-as-a-timing",
+    "title": "Tourmaline  40 Ar/ 39 Ar petrochronology as a timing constraint on ore formation",
+    "link": "https://pubs.geoscienceworld.org/gsa/geology/article/doi/10.1130/G54710.1/731694/Tourmaline-40Ar-39Ar-petrochronology-as-a-timing",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\">Recent experimental work has demonstrated that tourmaline (tur) can serve as a relatively high-temperature (400−600 °C) <sup>40</sup>Ar/<sup>39</sup>Ar geochronometer. Incremental heating of tur from two mineralized localities in the Yukon (Canada), the Casino Cu-Au-Mo porphyry (74.8 ± 0.74 Ma) and Seagull Batholith (96.9 ± 0.14 Ma), yield <sup>40</sup>Ar/<sup>39</sup>Ar plateau ages that overlap with zircon U-Pb ages from the host plutons, indicating rapid development of hydrothermal mineralization following regional magmatism. However, differences in K contents between Casino and Seagull tur and differing crystallization textures between successful (age plateaus) and unsuccessful (discordant) heating experiments illustrate that crystallochemical features (e.g., partial replacement) exert a strong control on geochronology. A petrochronologic approach integrating tur texture, chemistry, and <sup>40</sup>Ar/<sup>39</sup>Ar ages can contribute insights into the formation conditions of tur-bearing mineralized systems.</span>",
+    "source": "Geology Advance Access",
+    "date": "2026-06-05",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025TC009333",
+    "title": "Protracted High‐Grade Metamorphism and Slow Cooling in the Adirondacks Recalibrate Neoproterozoic Global Paleogeography",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025TC009333?af=R",
+    "authors": [
+      "Yiming Zhang, \nEben Blake Hodgin, \nMark D. Schmitz, \nDarin M. Schwartz, \nMichael T. Mohr, \nJames L. Crowley, \nNicholas L. Swanson‐Hysell"
+    ],
+    "summary": "Tectonics, Volume 45, Issue 6, June 2026.",
+    "source": "Wiley: Tectonics: Table of Contents",
+    "date": "2026-06-05",
+    "sent": true
+  },
+  {
     "id": "https://www.nature.com/articles/d41586-026-01831-y",
     "title": "Briefing chat: Spinosaurs with salt glands could have lived in marine environments",
     "link": "https://www.nature.com/articles/d41586-026-01831-y",
