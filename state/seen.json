@@ -1,5 +1,354 @@
 [
   {
+    "id": "https://www.nature.com/articles/s41467-026-74184-9",
+    "title": "Corylin promotes healthy aging via RAGA–mTOR suppression and sex-dependent activation of SIRT3",
+    "link": "https://www.nature.com/articles/s41467-026-74184-9",
+    "authors": [
+      "Shu-Fang Cheng",
+      "Yu-Tsun Lin",
+      "Tong-Hong Wang",
+      "Yann-Lii Leu",
+      "Kuo-Chiang Hsia",
+      "Wen-Chih Lee",
+      "Chun-Hao Feng",
+      "Chen-Hsin Kuo",
+      "Sien-Hung Yang",
+      "Meng-Chun Wang",
+      "Chieh-Yu Liu",
+      "Pei-Chih Hu",
+      "Yi-Cheng Hsieh",
+      "Chih-Wei Yang",
+      "Shu-Huei Wang",
+      "Jau-Song Yu",
+      "Chi-Yuan Chen",
+      "Chin-Chuan Chen"
+    ],
+    "summary": "Nature Communications, Published online: 10 June 2026; <a href=\"https://www.nature.com/articles/s41467-026-74184-9\">doi:10.1038/s41467-026-74184-9</a>Corylin improves metabolic health and physical performance and extends lifespan in female mice, with multi-omics analyses linking these effects to modulation of key aging pathways, positioning Corylin as a candidate intervention for healthy aging.",
+    "source": "Nature Communications",
+    "date": "2026-06-10",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-74178-7",
+    "title": "Imaging of a van der Waals spin-orbit torque system using spin ensembles in hBN",
+    "link": "https://www.nature.com/articles/s41467-026-74178-7",
+    "authors": [
+      "Xi Zhang",
+      "Jingcheng Zhou",
+      "Chaowei Hu",
+      "PeiYu Cai",
+      "Kuangyin Deng",
+      "Chuangtang Wang",
+      "Nishkarsh Agarwal",
+      "Hanshang Jin",
+      "Faris A. Al-Matouq",
+      "Stelo Xu",
+      "Roshan S. Trivedi",
+      "Senlei Li",
+      "Sumedh Rathi",
+      "Hanyi Lu",
+      "Zhigang Jiang",
+      "Valentin Taufour",
+      "Robert Hovden",
+      "Liuyan Zhao",
+      "Ran Cheng",
+      "Xiaodong Xu",
+      "Elton J. G. Santos",
+      "Jiun-Haw Chu",
+      "Chunhui Rita Du",
+      "Hailong Wang"
+    ],
+    "summary": "Nature Communications, Published online: 10 June 2026; <a href=\"https://www.nature.com/articles/s41467-026-74178-7\">doi:10.1038/s41467-026-74178-7</a>Recently field-free spin-orbit torque switching has been demonstrated in van der Waals magnetic materials. Here, taking advantage of the quantum sensing properties of spin defects in hexagonal Boron Nitride, Zhang, Zhou, and coauthors image the current-induced spin-orbit torque switching in the van der Waals magnet, Fe3GaTe2",
+    "source": "Nature Communications",
+    "date": "2026-06-10",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-73818-2",
+    "title": "Prefrontal parvalbumin neurons mediate working memory in a task demand-dependent manner",
+    "link": "https://www.nature.com/articles/s41467-026-73818-2",
+    "authors": [
+      "Tyler D. Dexter",
+      "Meira M. F. Machado",
+      "Shahnaza Hamidullah",
+      "Daniel Palmer",
+      "Ahmed. M. Hashad",
+      "Marcus Doyle",
+      "Megan Attard",
+      "Brian L. Allman",
+      "Wataru Inoue",
+      "Lisa M. Saksida",
+      "Timothy J. Bussey"
+    ],
+    "summary": "Nature Communications, Published online: 10 June 2026; <a href=\"https://www.nature.com/articles/s41467-026-73818-2\">doi:10.1038/s41467-026-73818-2</a>There has been conflicting evidence on the role of parvalbumin expressing neurons (PVNs) in the prefrontal cortex in working memory. Here, the authors show that prefrontal PVN activity scales with task demands during working memory, that optimal activity is critical for performance under conditions of increased delay length and interference, and that gamma-frequency stimulation of PVNs improves working memory performance.",
+    "source": "Nature Communications",
+    "date": "2026-06-10",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-74281-9",
+    "title": "Nondestructive removal of superhydrophobic coatings by an electric switch",
+    "link": "https://www.nature.com/articles/s41467-026-74281-9",
+    "authors": [
+      "Shuangyan Huang",
+      "Qilin Yue",
+      "Jiahao Lv",
+      "Yanan Wang",
+      "Hailei Yang",
+      "Qisheng He",
+      "Jianwen Zhang",
+      "Yong Wei",
+      "Shanlin Wang"
+    ],
+    "summary": "Nature Communications, Published online: 09 June 2026; <a href=\"https://www.nature.com/articles/s41467-026-74281-9\">doi:10.1038/s41467-026-74281-9</a>Extensive efforts have been made to enhance the durability of superhydrophobic coatings by adhesives, yet the non-destructive removal of coatings remains challenging. Here, the authors propose a superhydrophobic coating that can be removed non-destructively via an electrical switch",
+    "source": "Nature Communications",
+    "date": "2026-06-09",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-74188-5",
+    "title": "Photoelectrocatalytic self-cross coupling enabling carbon chain elongation",
+    "link": "https://www.nature.com/articles/s41467-026-74188-5",
+    "authors": [
+      "Yuye Jiao",
+      "Zhiqiang Hu",
+      "Yurou Song",
+      "Biao Yang",
+      "Siyu Jiao",
+      "Guanghao Chen",
+      "Shijie Lu",
+      "Jungang Hou"
+    ],
+    "summary": "Nature Communications, Published online: 09 June 2026; <a href=\"https://www.nature.com/articles/s41467-026-74188-5\">doi:10.1038/s41467-026-74188-5</a>To establish green and efficient carbon chain elongation protocols, this study reports a photoelectrocatalytic system enabling radical-mediated self-cross-coupling reactions.",
+    "source": "Nature Communications",
+    "date": "2026-06-09",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-74181-y",
+    "title": "Intermetallic charge redistribution restructures the oxygen-bound intermediate network for efficient ethylene electrosynthesis",
+    "link": "https://www.nature.com/articles/s41467-026-74181-y",
+    "authors": [
+      "Limin Liu",
+      "Rongxin Xia",
+      "Chen Deng",
+      "Huiyan Zhang",
+      "Shangqian Zhu",
+      "Qi Hao",
+      "Xunhua Zhao",
+      "Daolun Liang",
+      "Jason Chun-Ho Lam",
+      "Dekui Shen",
+      "Wenlei Zhu",
+      "Richen Lin"
+    ],
+    "summary": "Nature Communications, Published online: 09 June 2026; <a href=\"https://www.nature.com/articles/s41467-026-74181-y\">doi:10.1038/s41467-026-74181-y</a>Turning carbon dioxide into ethylene requires catalysts that control intermediate formation and coupling on copper surfaces. Here, the authors show that aluminum-doped copper tunes these intermediates through orbital interactions, enabling efficient ethylene production from dilute carbon dioxide.",
+    "source": "Nature Communications",
+    "date": "2026-06-09",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-74078-w",
+    "title": "Inhibition of the QPCT–PDIA4 axis rescues ΔF508 and N1303K CFTR in cystic fibrosis",
+    "link": "https://www.nature.com/articles/s41467-026-74078-w",
+    "authors": [
+      "Le Sun",
+      "Larry Rodriguez",
+      "Sandra Pankow",
+      "Jolene Diedrich",
+      "Ke Qin",
+      "Jianan Zhang",
+      "Xu Wu",
+      "Peng Wu",
+      "John R. Yates III"
+    ],
+    "summary": "Nature Communications, Published online: 09 June 2026; <a href=\"https://www.nature.com/articles/s41467-026-74078-w\">doi:10.1038/s41467-026-74078-w</a>Cystic fibrosis (CF) arises from CFTR mutations, which result in defective ion transport and multisystem pathology. Here, the authors identify a QPCT-PDIA4 pathway that promotes ER retention of misfolded CFTR. QPCT inhibition disrupts the PDIA4-CFTR interaction and restores trafficking and function of ΔF508 and N1303K CFTR variants.",
+    "source": "Nature Communications",
+    "date": "2026-06-09",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-74113-w",
+    "title": "Structural and functional characterisation of the Crimean-Congo haemorrhagic fever virus RNA dependent RNA polymerase",
+    "link": "https://www.nature.com/articles/s41467-026-74113-w",
+    "authors": [
+      "Adrian Deng",
+      "Rory Cunnison",
+      "Loïc Carrique",
+      "Franziska Günl",
+      "Els Pardon",
+      "Jan Steyaert",
+      "David Nguyen Duc",
+      "Jonathan M. Grimes",
+      "Nicole Robb",
+      "Jeremy R. Keown"
+    ],
+    "summary": "Nature Communications, Published online: 09 June 2026; <a href=\"https://www.nature.com/articles/s41467-026-74113-w\">doi:10.1038/s41467-026-74113-w</a>Authors present CryoEM structures of the Crimean-Congo haemorrhagic fever virus L-protein RdRp core bound to the 5′ genome end, develop in vitro functional assays, and demonstrate their utility for antiviral screening.",
+    "source": "Nature Communications",
+    "date": "2026-06-09",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012825226001819",
+    "title": "Editorial Board",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012825226001819?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: August 2026<b>Source:</b> Earth-Science Reviews, Volume 279Author(s):",
+    "source": "ScienceDirect Publication: Earth-Science Reviews",
+    "date": "2026-06-10",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012825226001686",
+    "title": "A new chronostratigraphic anchor for the early Cambrian: Integrating δ<sup>13</sup>C chemostratigraphy and Bayesian astrochronology in West Gondwana (Anti-Atlas, Morocco)",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012825226001686?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 8 June 2026<b>Source:</b> Earth-Science ReviewsAuthor(s): Damien Pas, Matthias Sinnesael, Kamal Mghazli, Valentin Jamart, Gerd Geyer, Ed Landing, Nasrrddine Youbi, Jihane Ounar, Hamdi Omar, Moulay Ahmed Boumehdi, Michiel Arts, Jarno J.C. Huygh, Anne-Christine Da Silva, Allison C. Daley",
+    "source": "ScienceDirect Publication: Earth-Science Reviews",
+    "date": "2026-06-10",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012825226001881",
+    "title": "A review of the change patterns of precipitation phases and their multifaceted impacts in the Tibetan Plateau",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012825226001881?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 8 June 2026<b>Source:</b> Earth-Science ReviewsAuthor(s): Lei Wang, Meixian Wang, Weijun Sun, Rensheng Chen, Chuntan Han, Baojuan Huai, Yuzhe Wang, Hongmin An, Minghu Ding",
+    "source": "ScienceDirect Publication: Earth-Science Reviews",
+    "date": "2026-06-10",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S001282522600173X",
+    "title": "Evolution of shale fracture systems in sedimentary basins: Constraints from multi-stage diagenetic processes and multi-field coupling",
+    "link": "https://www.sciencedirect.com/science/article/pii/S001282522600173X?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 8 June 2026<b>Source:</b> Earth-Science ReviewsAuthor(s): Junran Wang, Chao Liang, Tianyou Qin, Yingchang Cao, Keyu Liu, Fang Hao",
+    "source": "ScienceDirect Publication: Earth-Science Reviews",
+    "date": "2026-06-10",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012825226001893",
+    "title": "Regional diversity in black carbon emissions, size, and mixing state Across Asia: Implications for climate and public health",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012825226001893?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 8 June 2026<b>Source:</b> Earth-Science ReviewsAuthor(s): Shalini Mishra, Saehee Lim, I. seul Cho",
+    "source": "ScienceDirect Publication: Earth-Science Reviews",
+    "date": "2026-06-10",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012821X26002384",
+    "title": "Taking the temperature of the Hawaiian plume using multiple geochemical approaches: Evidence for secular heating from 47 Ma to present",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012821X26002384?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: 15 September 2026<b>Source:</b> Earth and Planetary Science Letters, Volume 690Author(s): Michael O. Garcia, Keith D. Putirka, Jonathan P. Tree, Brian R. Jicha",
+    "source": "ScienceDirect Publication: Earth and Planetary Science Letters",
+    "date": "2026-06-10",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL121248",
+    "title": "Anthropogenic Aerosols Influence Tropical Pacific Sea Surface Temperature Gradient Trends",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL121248?af=R",
+    "authors": [
+      "Penelope Maher, \nRobin Chadwick, \nMatthew Collins, \nBen B. B. Booth, \nAndrea Dittus"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 11, 16 June 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-06-09",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL121372",
+    "title": "Mesoscale Soil Moisture Heterogeneity Can Locally Amplify Humid Heat",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL121372?af=R",
+    "authors": [
+      "G. Chagnaud, \nC. M. Taylor, \nL. S. Jackson, \nA. Barber, \nH. Burns, \nJ. H. Marsham, \nC. E. Birch"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 11, 16 June 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-06-08",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GC012734",
+    "title": "New Insights Into Hikurangi Subduction Inputs and Megathrust Host Rocks Spanning Along‐Margin Changes in Fault Slip Behavior",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GC012734?af=R",
+    "authors": [
+      "Philip M. Barnes, \nGareth J. Crutchley, \nMartin P. Crundwell, \nStuart A. Henrys, \nAndrew Gase, \nSam R. Davidson, \nNathan Bangs, \nHarm Van Avendonk, \nMichael Underwood, \nAnthony E. Shorrock, \nLaura S. McDonald, \nLorna J. Strachan, \nHelen C. Bostock"
+    ],
+    "summary": "Geochemistry, Geophysics, Geosystems, Volume 27, Issue 6, June 2026.",
+    "source": "Wiley: Geochemistry, Geophysics, Geosystems: Table of Contents",
+    "date": "2026-06-08",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025JB033711",
+    "title": "Shear Wave Velocity Anomalies in the Lowermost Mantle Beneath the Asia‐Pacific Region",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JB033711?af=R",
+    "authors": [
+      "Weiran Ye, \nZhouchuan Huang"
+    ],
+    "summary": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 6, June 2026.",
+    "source": "Wiley: Journal of Geophysical Research: Solid Earth: Table of Contents",
+    "date": "2026-06-08",
+    "sent": true
+  },
+  {
+    "id": "https://pubs.geoscienceworld.org/gsa/gsabulletin/article/doi/10.1130/B36667.1/731705/Anatomy-and-depositional-systems-of-Cretaceous",
+    "title": "Anatomy and depositional systems of Cretaceous isolated carbonate platforms of the western Gulf of Mexico",
+    "link": "https://pubs.geoscienceworld.org/gsa/gsabulletin/article/doi/10.1130/B36667.1/731705/Anatomy-and-depositional-systems-of-Cretaceous",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\">Carbonate platform systems reached a global acme during the Cretaceous, occupying shallow shelves throughout the Gulf of Mexico and recording some of the world’s most diverse platform systems. Most of our understanding of these systems stems from land-attached platforms in the northern Gulf of Mexico resulting in detailed assessments of their depositional systems. Isolated platforms in the region, however, have received less attention even though they display significant variations in their architecture, faunal makeup, and depositional histories. This study utilizes a comprehensive field-based data set collected from the well-exposed isolated Cretaceous El Doctor platform in central Mexico to characterize the platform’s 3-D shelf-to-basin depositional systems and stratigraphic architecture.Results from this study include 10 facies associations defined across El Doctor, covering platform-interior, shelf-crest, margin, slope, and basinal environments. These results are summarized in a 3-D genetic depositional model of El Doctor that highlights variable influences of intrinsic (e.g., dominant wind direction) and extrinsic (e.g., underpinning tectonics and paleogeographic position) factors on stratal distribution across the platform. Furthermore, unlike platform margins in the northern Gulf of Mexico, which are composed of coralgal and rudist associations, the El Doctor margins record a paucity of framework-building organisms and are instead dominated by caprinid rudist associations with ubiquitous early marine cement. Despite rudists being non-framework building organisms, they developed steep margins at El Doctor with an estimated shelf-to-basin relief of 700−1000 m, suggesting that early marine cementation likely played a more critical role in the development of the platform margin.</span>",
+    "source": "GSA Bulletin Advance Access",
+    "date": "2026-06-08",
+    "sent": true
+  },
+  {
+    "id": "http://doi.org/10.1093/nsr/nwag352",
+    "title": "Self-evolving experimental platform for 3D sand printing",
+    "link": "https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwag352/8704708?rss=1",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\"><div class=\"boxTitle\">Abstract</div>3D sand printing revolutionizes casting mold fabrication while confronting nonlinear high-dimensional optimization challenges stemming from variable combinations and objective conflicts. Here, we develop Ex3DSP, a self-evolving experimental platform combining robotic ‘can-do’ capabilities with artificial intelligence ‘can-think’ cognition to establish a ‘do-while-thinking’ self-evolving experimentation paradigm. Addressing a 3-objective, 3-variable high-dimensional optimization problem, our Ex3DSP discovers the Pareto front with a 1148-fold reduction in experimental workload. The platform provides two solution types (objective-optimal and balanced) with interpretability and reveals underlying mechanisms (variable-objective interaction and sand mold fracture behavior). Moreover, these solutions are applied to guide real-world casting parameter selection, yielding castings with up to 385% improved physicochemical and mechanical performances. This work demonstrates a self-evolving experimentation paradigm for 3D sand printing, offering both an intelligent additive manufacturing roadmap and pre-industrial screening potential.</span>",
+    "source": "National Science Review Advance Access",
+    "date": "2026-06-09",
+    "sent": true
+  },
+  {
+    "id": "http://doi.org/10.1093/nsr/nwag351",
+    "title": "DexAnyTwist: Learning General Dexterous Twisting with Hybrid Manipulation System Identification",
+    "link": "https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwag351/8704707?rss=1",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\"><div class=\"boxTitle\">Abstract</div>Developing general-purpose dexterous manipulation, particularly for intricate twisting tasks, remains a long-standing challenge. Large-scale training on massive datasets encompassing a vast spectrum of geometric and physical properties is a promising path. Yet, the hybrid dynamical space inherent in heterogeneous datasets creates optimization conflicts, where standard learning paradigms fail to synthesize a cohesive control strategy across disparate physical laws. This paper presents DexAnyTwist, a framework that reformulates the general twisting task as a problem of identification and control within a hybrid dynamical system. DexAnyTwist employs an iterative strategy to progressively partition the hybrid manipulation task into dynamically consistent subsystems. This approach utilizes forward partitioning to isolate data modes based on expert performance and backward refinement to optimize specialized policies. A learned gating mechanism then dynamically composes these experts, effectively mitigating interference between distinct dynamic modes. Beyond achieving state-of-the-art performance on our large-scale dataset, our framework spontaneously evolves manipulation primitives consistent with human twisting, and demonstrates superior zero-shot generalization to novel real-world geometries. This study not only solves a complex class of twisting tasks but also establishes a scalable pathway for robots to acquire general-purpose contact-rich manipulation skills.</span>",
+    "source": "National Science Review Advance Access",
+    "date": "2026-06-09",
+    "sent": true
+  },
+  {
+    "id": "http://doi.org/10.1093/nsr/nwag341",
+    "title": "Face-on crystallization in ambipolar organic mixed conductors enables homogeneous light-modulated artificial neurons",
+    "link": "https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwag341/8704706?rss=1",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\"><div class=\"boxTitle\">Abstract</div>Light-modulated artificial neurons are vital for clinical optic nerve repair and bionic robotics. Light-sensitive ambipolar organic mixed ionic-electronic conductors (OMIECs) allow for homogeneously integrated artificial neurons, free from issues such as voltage/resistance mismatch or digital-to-analog conversion. However, their development is constrained by a trade-off between ion and electron transport, which results in low figure-of-merit (<span style=\"font-style: italic;\">μC</span>*) values and P/N-mode imbalance. Here, through precise molecular weight tailoring, we develop an ambipolar OMIEC with a high face-on orientation ratio of 85.5% and a fourfold enhancement in backbone crystallinity. This approach simultaneously enhances vertical ionic transport and electron transport, enabling the synergetic optimization of electronic mobility and volumetric capacitance. The optimized material achieves high <span style=\"font-style: italic;\">μC</span>* values of 423.3 ± 17.3 F cm⁻¹ V⁻¹ s⁻¹ (N-type) and 359.8 ± 42.6 F cm⁻¹ V⁻¹ s⁻¹ (P-type). Using this OMIEC, we construct a homogeneous artificial neuron whose excitation/inhibition behaviors can be dually modulated by light and chemical environment, paving new paths for high-performance OMIECs in biological neural prosthetics and bionic machine vision systems.</span>",
+    "source": "National Science Review Advance Access",
+    "date": "2026-06-09",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025TC009260",
+    "title": "The Role of Ridge Subduction on Slab Window Formation: Insight From 3D Numerical Modeling",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025TC009260?af=R",
+    "authors": [
+      "Linfeng Liao, \nJie Liao, \nLun Li, \nJianke Fan, \nRui Gao"
+    ],
+    "summary": "Tectonics, Volume 45, Issue 6, June 2026.",
+    "source": "Wiley: Tectonics: Table of Contents",
+    "date": "2026-06-09",
+    "sent": true
+  },
+  {
     "id": "https://www.nature.com/articles/s41586-026-10749-4",
     "title": "GPR15-guided CD8<sup>+</sup> T regulatory cells control intestinal inflammation",
     "link": "https://www.nature.com/articles/s41586-026-10749-4",
