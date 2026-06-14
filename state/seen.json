@@ -1,5 +1,658 @@
 [
   {
+    "id": "https://www.nature.com/articles/s41561-026-02004-2",
+    "title": "Large CO<sub>2</sub> seeps and hydrate field on the seafloor offshore Mayotte Island",
+    "link": "https://www.nature.com/articles/s41561-026-02004-2",
+    "authors": [
+      "C. Cathalot",
+      "E. Rinnert",
+      "C. Scalabrin",
+      "O. Fandino",
+      "T. Giunta",
+      "H. Ondreas",
+      "O. Rouxel",
+      "C. Rabouille",
+      "J. P. Dumoulin",
+      "B. Bombled",
+      "M. Manoux",
+      "S. L. Walker",
+      "V. Chavagnac",
+      "A. L. Rizzo",
+      "M. Tardivel",
+      "E. Prado",
+      "M. Mastin",
+      "J. P. Donval",
+      "V. Guyader",
+      "A. S. Alix",
+      "G. Page",
+      "M. Matabos",
+      "V. Puzenat",
+      "N. Feuillet",
+      "V. Puzenat",
+      "N. Feuillet"
+    ],
+    "summary": "Nature Geoscience, Published online: 12 June 2026; <a href=\"https://www.nature.com/articles/s41561-026-02004-2\">doi:10.1038/s41561-026-02004-2</a>Carbon dioxide hydrates on the seafloor are sustained by the venting of liquid CO2 associated with volcanic activity near Mayotte Island, according to observations from remotely operated vehicles and geochemical analyses.",
+    "source": "Nature Geoscience",
+    "date": "2026-06-12",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-74155-0",
+    "title": "A probabilistic forecasting framework for neighbourhood-level disaggregation of electric vehicle adoption scenarios",
+    "link": "https://www.nature.com/articles/s41467-026-74155-0",
+    "authors": [
+      "Isaac Flower",
+      "Furong Li",
+      "Julian Padget"
+    ],
+    "summary": "Nature Communications, Published online: 13 June 2026; <a href=\"https://www.nature.com/articles/s41467-026-74155-0\">doi:10.1038/s41467-026-74155-0</a>A Gaussian process framework integrates neighbourhood EV registration data with regional scenarios to generate probabilistic local adoption forecasts with uncertainty estimates for electricity network planning.",
+    "source": "Nature Communications",
+    "date": "2026-06-13",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-74143-4",
+    "title": "Generation of ultra-broadband frequency comb in strongly bistable nonlinear magnonic resonator",
+    "link": "https://www.nature.com/articles/s41467-026-74143-4",
+    "authors": [
+      "Yu Jiang",
+      "Vasyl Tyberkevych",
+      "Yizhong Huang",
+      "Zixin Yan",
+      "Amin Pishehvar",
+      "Andrei Slavin",
+      "Xufeng Zhang"
+    ],
+    "summary": "Nature Communications, Published online: 13 June 2026; <a href=\"https://www.nature.com/articles/s41467-026-74143-4\">doi:10.1038/s41467-026-74143-4</a>Researchers report a breakthrough in ultra-broadband magnonic frequency combs by driving a nonlinear YIG resonator far off-resonance, yielding over 350 comb lines across 450 MHz with continuously tunable spacing.",
+    "source": "Nature Communications",
+    "date": "2026-06-13",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-74101-0",
+    "title": "Generative flow model on distance geometry for predicting transition states of chemical reactions",
+    "link": "https://www.nature.com/articles/s41467-026-74101-0",
+    "authors": [
+      "Yufei Luo",
+      "Xiang Gu",
+      "Jian Sun"
+    ],
+    "summary": "Nature Communications, Published online: 13 June 2026; <a href=\"https://www.nature.com/articles/s41467-026-74101-0\">doi:10.1038/s41467-026-74101-0</a>Predicting transition states of chemical reactions is demanding. A generative flow model in distance geometry space, dubbed TS-DFM, is proposed, achieving higher structural accuracy and better generalizability than Cartesian-based approaches.",
+    "source": "Nature Communications",
+    "date": "2026-06-13",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-74318-z",
+    "title": "Spatial cellular order underlies locally-confined mechanisms of immune resistance in oropharyngeal cancer",
+    "link": "https://www.nature.com/articles/s41467-026-74318-z",
+    "authors": [
+      "Cem Sievers",
+      "Yvette Robbins",
+      "Marco Craveiro",
+      "Jay Friedman",
+      "Angel Huynh",
+      "Xinping Yang",
+      "Michael Kelly",
+      "James W. Hodge",
+      "Dilara Akbulut",
+      "Martha Quezado",
+      "Wojciech Mydlarz",
+      "Nyall R. London Jr",
+      "Nancy Judd",
+      "John Deeken",
+      "Gopal Bajaj",
+      "Tian-Gen Chang",
+      "Clint T. Allen",
+      "Charalampos S. Floudas"
+    ],
+    "summary": "Nature Communications, Published online: 13 June 2026; <a href=\"https://www.nature.com/articles/s41467-026-74318-z\">doi:10.1038/s41467-026-74318-z</a>Mechanisms underlying effective immune escape in HPV-associated oropharyngeal cancers despite the presence of immune cells are incompletely understood. Here, authors use single-cell spatial analysis to show that tumors form distinct local immune niches, including hypoxic regions and chemokine foci, that shape immune cell composition and support cancer cell states able to evade HPV-specific T cell responses.",
+    "source": "Nature Communications",
+    "date": "2026-06-13",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-74384-3",
+    "title": "Clonal evolution and mutational trajectories of metastatic colorectal cancer shaped by anticancer therapies",
+    "link": "https://www.nature.com/articles/s41467-026-74384-3",
+    "authors": [
+      "Won Hee Lee",
+      "Bun Kim",
+      "Chang Hyun Nam",
+      "Hyun Yang Yeo",
+      "Dong Woon Lee",
+      "Sung Chan Park",
+      "Jae Hwan Oh",
+      "Sung-Sik Han",
+      "Myong Cheol Lim",
+      "Hail Kim",
+      "Young Seok Ju",
+      "Hee Jin Chang",
+      "Yongjun Cha"
+    ],
+    "summary": "Nature Communications, Published online: 13 June 2026; <a href=\"https://www.nature.com/articles/s41467-026-74384-3\">doi:10.1038/s41467-026-74384-3</a>The evolutionary changes in cancer genomes under treatment are not fully understood. Here, whole-genome sequencing of 58 single-cell tumoroids and 18 matched bulk tumours from 6 metastatic colorectal cancer patients reveals clonal structures and mutation patterns under therapy.",
+    "source": "Nature Communications",
+    "date": "2026-06-13",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-74320-5",
+    "title": "Spatial architecture of autism pathogenesis reveals mosaic structural disarray during early development",
+    "link": "https://www.nature.com/articles/s41467-026-74320-5",
+    "authors": [
+      "Li Lin",
+      "Tzuen Yih Saw",
+      "Nigel Chou",
+      "Jie Lin Jolene Goh",
+      "Jing Eugene Kwa",
+      "Wan Kee Chock",
+      "Vipul Singhal",
+      "Zheng Li",
+      "Mike J. Huang",
+      "Huck Hui Ng",
+      "Chiea Chuen Khor",
+      "Hwee Lee Kuan",
+      "Kok Hao Chen",
+      "Shyam Prabhakar",
+      "Jinyue Liu"
+    ],
+    "summary": "Nature Communications, Published online: 13 June 2026; <a href=\"https://www.nature.com/articles/s41467-026-74320-5\">doi:10.1038/s41467-026-74320-5</a>Spatial and single-cell transcriptomics of patient-derived brain organoids reveal disrupted progenitor–neuron organization and local neuronal disarray, implicating spatially mosaic pathogenesis in autism heterogeneity.",
+    "source": "Nature Communications",
+    "date": "2026-06-13",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-74061-5",
+    "title": "The PLK4 inhibitor RP-1664 demonstrates potent efficacy in neuroblastoma preclinical models through a dual mechanism of sensitivity",
+    "link": "https://www.nature.com/articles/s41467-026-74061-5",
+    "authors": [
+      "Isabel Soria-Bretones",
+      "Matias Casás-Selves",
+      "Minu Samanta",
+      "David Groff",
+      "Jayne Murray",
+      "Jamie I. Fletcher",
+      "Alvin Farrel",
+      "Steven Pastor",
+      "Khushbu Patel",
+      "Elliot Goodfellow",
+      "Li Li",
+      "Cathy Caron",
+      "Ariya Shiwram",
+      "Hyeyeon Kim",
+      "Danielle Henry",
+      "Nancy Laterreur",
+      "Julian Bowlan",
+      "Kateryna Krytska",
+      "Steven B. Neuhauser",
+      "Timothy M. Stearns",
+      "Jeffrey A. Schubert",
+      "Jinhua Wu",
+      "Lea F. Surrey",
+      "Daniel Martinez",
+      "Crystal Mak",
+      "Jennifer Brand",
+      "Caitlin Wesley",
+      "Klaartje Somers",
+      "Alejandro Álvarez-Quilón",
+      "Frédéric Vallée",
+      "Parham Nejad",
+      "Joseph D. Schonhoft",
+      "Joanna Li",
+      "Artur Veloso",
+      "Jordan T. F. Young",
+      "Marc L. Hyer",
+      "Stephen J. Morris",
+      "Yael P. Mossé",
+      "C. Gary Marshall",
+      "Michelle Haber",
+      "Michal Zimmermann",
+      "John M. Maris"
+    ],
+    "summary": "Nature Communications, Published online: 13 June 2026; <a href=\"https://www.nature.com/articles/s41467-026-74061-5\">doi:10.1038/s41467-026-74061-5</a>Inhibition of PLK4 is synthetic lethal in cancers with chromosome 17q TRIM37 copy number gain. Here, the authors show that while RP-1664 (PLK4 inhibitor) causes centrosome depletion in a TRIM37-dependent manner as high doses, low dose causes cell death in a TRIM37-independent manner via centrosome amplification and demonstrate its efficacy in preclinical models of neuroblastoma with TRIM37 gain.",
+    "source": "Nature Communications",
+    "date": "2026-06-13",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-73931-2",
+    "title": "YBX1 Confers immunosuppressive bone metastatic traits in non-small cell lung cancer",
+    "link": "https://www.nature.com/articles/s41467-026-73931-2",
+    "authors": [
+      "Kai Zhang",
+      "Bin Li",
+      "Qingshui Wang",
+      "Xiuli Zhang",
+      "Cheng Cheng",
+      "Mengyao Lv",
+      "Mengyang Huang",
+      "Zihui Liang",
+      "Zijie Xie",
+      "Yao Lin",
+      "Yang Zhao",
+      "Lilin Ge",
+      "Jing Chen"
+    ],
+    "summary": "Nature Communications, Published online: 13 June 2026; <a href=\"https://www.nature.com/articles/s41467-026-73931-2\">doi:10.1038/s41467-026-73931-2</a>Bone metastases derived from lung cancer typically exhibit an immunosuppressive microenvironment. This study identifies a YBX1 glycosylation–dependent mechanism that drives both metastasis and immunosuppression, and proposes the small molecule Icaritin as a potential therapeutic strategy through YBX1 degradation.",
+    "source": "Nature Communications",
+    "date": "2026-06-13",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-026-03719-1",
+    "title": "Unprecedented ongoing shrinkage of European winters revealed by a six-century snow cover reconstruction",
+    "link": "https://www.nature.com/articles/s43247-026-03719-1",
+    "authors": [
+      "Claudia Notarnicola",
+      "Rafael Pimentel",
+      "Chiara Bertolin",
+      "Jörg Franke",
+      "Patrick Fonti",
+      "Roland Psenner",
+      "Christian Rohr"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 13 June 2026; <a href=\"https://www.nature.com/articles/s43247-026-03719-1\">doi:10.1038/s43247-026-03719-1</a>European snow-cover extent has undergone an unprecedented seasonal reorganization since around 1850, with monthly declines of up to 30%, according to a 600-year reconstruction combining reanalysis data and machine learning method.",
+    "source": "Communications Earth & Environment",
+    "date": "2026-06-13",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-026-03757-9",
+    "title": "Distinct internal tropical Pacific sea surface temperature patterns drive similar Hadley circulation trend uncertainty",
+    "link": "https://www.nature.com/articles/s43247-026-03757-9",
+    "authors": [
+      "Mahdi Hasan",
+      "Sarah M. Larson"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 12 June 2026; <a href=\"https://www.nature.com/articles/s43247-026-03757-9\">doi:10.1038/s43247-026-03757-9</a>Internal variability in tropical Pacific Sea Surface Temperature modulates Southern Hemisphere Hadley circulation strength on multidecadal timescales and contributes to historical trend uncertainty, according to Earth system model simulations.",
+    "source": "Communications Earth & Environment",
+    "date": "2026-06-12",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-026-03754-y",
+    "title": "Forecasts of strong tropical cyclones improved by incorporating ocean waves at air–sea interface",
+    "link": "https://www.nature.com/articles/s43247-026-03754-y",
+    "authors": [
+      "Songlin Li",
+      "Biao Zhao",
+      "Qi Shu",
+      "Vladimir Ryabinin",
+      "Dong Ji",
+      "Guomin Chen",
+      "Fangli Qiao",
+      "Ka-Kit Tung"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 12 June 2026; <a href=\"https://www.nature.com/articles/s43247-026-03754-y\">doi:10.1038/s43247-026-03754-y</a>The dynamic air-sea interface should be accounted for in tropical cyclone forecasting, according to a coupled Atmosphere-Ocean-Wave model validated with cyclone intensification data.",
+    "source": "Communications Earth & Environment",
+    "date": "2026-06-12",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-026-03733-3",
+    "title": "Organic phosphorus mediates the preservation of peat carbon by woody plants during water-table decline",
+    "link": "https://www.nature.com/articles/s43247-026-03733-3",
+    "authors": [
+      "Leming Ge",
+      "Tong Li",
+      "Changhui Peng",
+      "Xiaolu Zhou",
+      "Hanxiong Song",
+      "Shengzhong Wang",
+      "Zhaojun Bu",
+      "Peng Li",
+      "Zhifeng Zhai",
+      "Pan He",
+      "Meng Wang"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 12 June 2026; <a href=\"https://www.nature.com/articles/s43247-026-03733-3\">doi:10.1038/s43247-026-03733-3</a>Groundwater table decline activates phytase-mediated organic phosphorus mineralization in the acrotelm and mesotelm, enhancing the release of bioavailable phosphorus to fuel woody plant growth, based on long-term drainage, fertilization, and pot experiments in a northern peatland in China",
+    "source": "Communications Earth & Environment",
+    "date": "2026-06-12",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-026-03740-4",
+    "title": "Springs are hotspots of microbial diversity in the hydrologic continuum",
+    "link": "https://www.nature.com/articles/s43247-026-03740-4",
+    "authors": [
+      "Monica Esmond",
+      "Mark de Bruyn",
+      "Joseph DiBattista",
+      "Harald Hofmann",
+      "Matthew Currell"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 12 June 2026; <a href=\"https://www.nature.com/articles/s43247-026-03740-4\">doi:10.1038/s43247-026-03740-4</a>Freshwater springs act as key ecohydrological links exporting groundwater-derived microbial diversity into surface waters, with springs harbouring the greatest biodiversity across the system, based on environmental DNA and radon tracer analyses of aquifer, spring, and surface waters.",
+    "source": "Communications Earth & Environment",
+    "date": "2026-06-12",
+    "sent": true
+  },
+  {
+    "id": "https://www.pnas.org/doi/abs/10.1073/pnas.2607916123?af=R",
+    "title": "Misattributed biospheric carbon sink to the Three-North Program in the Taklamakan Desert may lead to an impractical policy: A commentary",
+    "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2607916123?af=R",
+    "authors": [
+      "Tian GaoJiaojun ZhuXiao ZhengLining SongYirong SunDexiong TengXinhua Zhouahttps://ror.org/01thb7525Chinese Academy of Sciences Key Laboratory of Forest Ecology and Silviculture, Institute of Applied Ecology, Chinese Academy of Sciences, Shenyang 110016, ChinabQingyuan Forest Chinese Ecosystem Research Network, National Observation and Research Station, Liaoning Province, Shenyang 110016, Chinachttps://ror.org/034t30j35Chinese Academy of Sciences-Campbell Scientific Inc. Joint Laboratory of Research and Development for Monitoring Forest Fluxes of Trace Gases & Isotope Elements, Institute of Applied Ecology, Chinese Academy of Sciences, Shenyang 110016, ChinadCampbell Scientific Inc., Logan, UT 84321"
+    ],
+    "summary": "Proceedings of the National Academy of Sciences, Volume 123, Issue 25, June 2026. <br />",
+    "source": "Proceedings of the National Academy of Sciences: Earth, Atmospheric, and Planetary Sciences",
+    "date": "2026-06-12",
+    "sent": true
+  },
+  {
+    "id": "https://www.pnas.org/doi/abs/10.1073/pnas.2609809123?af=R",
+    "title": "Reply to Gao et al. and Xu: Greening the Taklamakan: Human efforts to convert desert into a carbon sink",
+    "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2609809123?af=R",
+    "authors": [
+      "Salma NoorXun JiangXinyue WangJiani YangSally NewmanKing-Fai LiLiming LiLe YuXiyu Liahttps://ror.org/048sx0r50Department of Earth and Atmospheric Sciences, University of Houston, Houston, TX 77004bDivision of Geological and Planetary Sciences, Caltech, Pasadena, CA 91125chttps://ror.org/04431t173Bay Area Air Quality Management District, San Francisco, CA 94105dhttps://ror.org/03nawhv43Department of Environmental Sciences, University of California Riverside, Riverside, CA 92521ehttps://ror.org/048sx0r50Department of Physics, University of Houston, Houston, TX 77004fhttps://ror.org/03cve4549Department of Earth System Science, Tsinghua University, Beijing 100084, ChinagDepartment of Earth System Science, Ministry of Education Ecological Field Station for East Asian Migratory Birds, Beijing 100084, Chinahhttps://ror.org/03cve4549Xi’an Institute of Surveying and Mapping Joint Research Center for Next-Generation Smart Mapping, Tsinghua University, Beijing 100084, China"
+    ],
+    "summary": "Proceedings of the National Academy of Sciences, Volume 123, Issue 25, June 2026. <br />",
+    "source": "Proceedings of the National Academy of Sciences: Earth, Atmospheric, and Planetary Sciences",
+    "date": "2026-06-12",
+    "sent": true
+  },
+  {
+    "id": "https://www.pnas.org/doi/abs/10.1073/pnas.2612132123?af=R",
+    "title": "Concerns on the human-induced biospheric carbon sink in the Taklamakan Desert",
+    "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2612132123?af=R",
+    "authors": [
+      "Nan XuaMinistry of Nature Resources, Key Laboratory for Geo-Environmental Monitoring of Great Bay Area & Guangdong Key Laboratory of Urban Informatics & Shenzhen Key Laboratory of Spatial Smart Sensing and Services, Shenzhen University, Shenzhen 518060, Chinabhttps://ror.org/01vy4gh70Department of Urban Informatics, School of Architecture & Urban Planning, Shenzhen University, Shenzhen 518060, China"
+    ],
+    "summary": "Proceedings of the National Academy of Sciences, Volume 123, Issue 25, June 2026. <br />",
+    "source": "Proceedings of the National Academy of Sciences: Earth, Atmospheric, and Planetary Sciences",
+    "date": "2026-06-12",
+    "sent": true
+  },
+  {
+    "id": "https://www.pnas.org/doi/abs/10.1073/pnas.2605694123?af=R",
+    "title": "Mapping ammonia emission plumes using shortwave infrared imaging spectroscopy",
+    "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2605694123?af=R",
+    "authors": [
+      "Nicholas BalasusDaniel H. CusworthJinsol KimDaniel J. VaronCharles E. MillerRiley M. DurenaCarbon Mapper, Pasadena, CA 91101bhttps://ror.org/042nb2s44Department of Aeronautics and Astronautics, Massachusetts Institute of Technology, Cambridge, MA 02139chttps://ror.org/05dxps055Jet Propulsion Laboratory, California Institute of Technology, Pasadena, CA 91101"
+    ],
+    "summary": "Proceedings of the National Academy of Sciences, Volume 123, Issue 24, June 2026. <br />Atmospheric ammonia emissions are harmful to ecosystems and human health. These emissions have traditionally been monitored using thermal infrared spectrometers, though such techniques are limited by thermal contrast requirements, the coarse spatial ...",
+    "source": "Proceedings of the National Academy of Sciences: Earth, Atmospheric, and Planetary Sciences",
+    "date": "2026-06-12",
+    "sent": true
+  },
+  {
+    "id": "https://www.pnas.org/doi/abs/10.1073/pnas.2617340123?af=R",
+    "title": "Correction for Ajourlou et al., Upper mantle temperatures illuminate the Iceland hotspot track and understanding of ice–Earth interactions in Greenland",
+    "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2617340123?af=R",
+    "authors": [],
+    "summary": "Proceedings of the National Academy of Sciences, Volume 123, Issue 24, June 2026. <br />",
+    "source": "Proceedings of the National Academy of Sciences: Earth, Atmospheric, and Planetary Sciences",
+    "date": "2026-06-12",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S001282522600190X",
+    "title": "Discussion on “Lucchi, F., Ciuccarelli, C., De Astis, G., & Tranne, C. (2025). Revised historical sources on the eruptive activity and chronology of Vulcano Island (Italy). Earth-Science Reviews, 105284.”",
+    "link": "https://www.sciencedirect.com/science/article/pii/S001282522600190X?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 13 June 2026<b>Source:</b> Earth-Science ReviewsAuthor(s): Mauro Rosi, Costanza Bonadonna, Raffaello Cioni, Federico Di Traglia, Tomaso Esposti Ongaro, Silvia Giansante, Arianna Beatrice Malaguti, Martin Menzies, Marco Pistolesi, Fabio Speranza",
+    "source": "ScienceDirect Publication: Earth-Science Reviews",
+    "date": "2026-06-14",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012825226001923",
+    "title": "Mesozoic continental crustal growth: A comprehensive review of the accretion-arc system in the Jilin-Heilongjiang high-pressure belt",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012825226001923?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 12 June 2026<b>Source:</b> Earth-Science ReviewsAuthor(s): Zhong-Hua Xin, Jian-Bo Zhou, Wen-Jiao Xiao, Jiang-Tao Han, Gong-Yu Li, Xiao-Miao Tan, Hong-Da Liang, Zhuo Chen, Hong-Yan Wang, Ning-Chen Sun, Rui Gao",
+    "source": "ScienceDirect Publication: Earth-Science Reviews",
+    "date": "2026-06-14",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012821X2600347X",
+    "title": "Duration of the lunar overturn during magma ocean crystallization",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012821X2600347X?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: 15 September 2026<b>Source:</b> Earth and Planetary Science Letters, Volume 690Author(s): Line Colin, Stéphane Labrosse, Chloé Michaut, Adrien Morison",
+    "source": "ScienceDirect Publication: Earth and Planetary Science Letters",
+    "date": "2026-06-14",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012821X26003018",
+    "title": "Comment on “Crustal section in the New England Appalachians records polybaric fractional crystallization-driven magma differentiation” by Liu et al. (2025), earth and planetary science letters, 671, https:/doi.org/10.1016/j.espl.2025.119647",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012821X26003018?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 12 June 2026<b>Source:</b> Earth and Planetary Science LettersAuthor(s): Michael J. Dorais",
+    "source": "ScienceDirect Publication: Earth and Planetary Science Letters",
+    "date": "2026-06-14",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL121625",
+    "title": "Windblown Diatoms for Reconstructing Westerly Wind Variability in the South Atlantic Sector of the Southern Ocean",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL121625?af=R",
+    "authors": [
+      "Dieter R. Tetzner, \nElizabeth R. Thomas, \nClaire S. Allen, \nDelia Segato, \nShaun Miller"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 12, 28 June 2026.",
+    "source": "Wiley-Online-Library: Geophysical Research Letters: Table of Contents",
+    "date": "2026-06-13",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL122429",
+    "title": "Electron Scattering by Highly Oblique Quasi‐Electrostatic Chorus Waves Under Realistic Magnetospheric Conditions",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL122429?af=R",
+    "authors": [
+      "Lixian Yang, \nSi Liu, \nZhonglei Gao, \nWenya Li, \nFuliang Xiao, \nZhaoguo He, \nXingran Chen, \nYuyue Jin, \nQian He, \nZhoukun Deng, \nJiawen Tang"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 12, 28 June 2026.",
+    "source": "Wiley-Online-Library: Geophysical Research Letters: Table of Contents",
+    "date": "2026-06-12",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL121896",
+    "title": "Western Disturbance Breaks and Extreme Spring Heat Over Northern India Linked to Quasi‐Stationary Rossby Waves",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL121896?af=R",
+    "authors": [
+      "Sanketa Kadam, \nMingfang Ting, \nAlex C. Ruane, \nRichard Seager"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 12, 28 June 2026.",
+    "source": "Wiley-Online-Library: Geophysical Research Letters: Table of Contents",
+    "date": "2026-06-12",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL122405",
+    "title": "The Importance of Tire Wear Particles for Atmospheric Ice Nucleation",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL122405?af=R",
+    "authors": [
+      "Siyuan Jing, \nKaiqi Wang, \nYanting Wang, \nShuling Chen, \nJie Chen, \nHeike Wex, \nThomas C. Wanger, \nXianda Gong"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 12, 28 June 2026.",
+    "source": "Wiley-Online-Library: Geophysical Research Letters: Table of Contents",
+    "date": "2026-06-12",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL121543",
+    "title": "Observational Evidence of a Very‐Low‐Frequency Earthquake (Mw 3.8) Leading to an Earthquake (Mw 4.2): Minto Flats Strike‐Slip Fault Zone, Central Alaska",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL121543?af=R",
+    "authors": [
+      "A. M. McPherson, \nC. Tape, \nY. Kaneko"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 12, 28 June 2026.",
+    "source": "Wiley-Online-Library: Geophysical Research Letters: Table of Contents",
+    "date": "2026-06-12",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL121977",
+    "title": "Nitrate Photolysis in the Upper Boundary Layer as a Daytime Missing Source of HONO: Revealed by In Situ Airship Measurements and Modeling",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL121977?af=R",
+    "authors": [
+      "Xueyu Zhou, \nXin Huang, \nJiaping Wang, \nTengyu Liu, \nHaoran Zhang, \nChuanhua Ren, \nTao Xu, \nXuguang Chi, \nAijun Ding"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 12, 28 June 2026.",
+    "source": "Wiley-Online-Library: Geophysical Research Letters: Table of Contents",
+    "date": "2026-06-12",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL122000",
+    "title": "Exploring the Influence of Equatorial Waves on a Record‐Breaking Extreme Precipitation Event in Central Sahel: Insights From Convection Permitting Simulations",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL122000?af=R",
+    "authors": [
+      "Moussa Diakhaté, \nPhilippe Peyrillé, \nJean‐Pierre Chaboureau, \nFlorent Beucher, \nFleur Couvreux"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 12, 28 June 2026.",
+    "source": "Wiley-Online-Library: Geophysical Research Letters: Table of Contents",
+    "date": "2026-06-12",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL123161",
+    "title": "Occurrence of Flat‐Top Electron Velocity Distributions in Magnetotail Plasma Jets",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL123161?af=R",
+    "authors": [
+      "L. Richard, \nYu. V. Khotyaintsev, \nC. Norgren"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 12, 28 June 2026.",
+    "source": "Wiley-Online-Library: Geophysical Research Letters: Table of Contents",
+    "date": "2026-06-12",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL121919",
+    "title": "Atmosphere‐Ocean Tendency Corrections Improve Seasonal Prediction Skill of CanESM5",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL121919?af=R",
+    "authors": [
+      "W. J. Merryfield, \nV. V. Kharin, \nW.‐S. Lee, \nJ. F. Scinocca, \nJ. Velletta"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 12, 28 June 2026.",
+    "source": "Wiley-Online-Library: Geophysical Research Letters: Table of Contents",
+    "date": "2026-06-12",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL122825",
+    "title": "Retrieving Hourly Aerosol Absorption From Space Using Physical Informed Deep Learning",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL122825?af=R",
+    "authors": [
+      "Tao Xia, \nWenfang Liang, \nFangwen Bao, \nXiaochuan Zhang"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 12, 28 June 2026.",
+    "source": "Wiley-Online-Library: Geophysical Research Letters: Table of Contents",
+    "date": "2026-06-12",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL122241",
+    "title": "Differences in Lightning—Storm Microphysical Relationships in Subtropical South America Versus the Continental U.S. and Their Impact on Model Lightning Parameterizations",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL122241?af=R",
+    "authors": [
+      "M. N. Rocque, \nW. Deierling, \nK. L. Rasmussen"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 12, 28 June 2026.",
+    "source": "Wiley-Online-Library: Geophysical Research Letters: Table of Contents",
+    "date": "2026-06-12",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL120321",
+    "title": "Satellite‐Based Assessment of Methane Emissions From the Darvaza Gas Crater",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL120321?af=R",
+    "authors": [
+      "Adriana Valverde, \nItziar Irakulis‐Loitxate, \nJavier Gorroño, \nZhipeng Pei, \nJavier Roger, \nLuis Guanter"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 12, 28 June 2026.",
+    "source": "Wiley-Online-Library: Geophysical Research Letters: Table of Contents",
+    "date": "2026-06-12",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL121189",
+    "title": "Reduced Distinctiveness of Extreme El Niño Teleconnections in Warmer Climates",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL121189?af=R",
+    "authors": [
+      "Margot Beniche, \nJérôme Vialard, \nAndréa S. Taschetto, \nMatthieu Lengaigne"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 12, 28 June 2026.",
+    "source": "Wiley-Online-Library: Geophysical Research Letters: Table of Contents",
+    "date": "2026-06-12",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL115356",
+    "title": "Influence of Observational Temperature Data Sets on ECS and TCR Estimates",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL115356?af=R",
+    "authors": [
+      "Vikrant Sapkota, \nChris E. Forest, \nAlex G. Libardoni, \nAndrei P. Sokolov"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 12, 28 June 2026.",
+    "source": "Wiley-Online-Library: Geophysical Research Letters: Table of Contents",
+    "date": "2026-06-12",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0016703726003765",
+    "title": "Constraining deformation timing of orogenic systems by fluid inclusion <sup>40</sup>Ar/<sup>39</sup>Ar geochronology of syn-kinematic tourmaline",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0016703726003765?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 12 June 2026<b>Source:</b> Geochimica et Cosmochimica ActaAuthor(s): Ming Xiao, Xiujuan Bai, Wanfeng Zhang, Huaning Qiu, Jérémie Soldner, Wenyong Duan, Ming Chen, Han Zheng, Kang Xu, Yang Wu, Guochun Zhao",
+    "source": "ScienceDirect Publication: Geochimica et Cosmochimica Acta",
+    "date": "2026-06-14",
+    "sent": true
+  },
+  {
+    "id": "http://doi.org/10.1093/nsr/nwag369",
+    "title": "Electronic softening of degraded LiCoO2 enables direct regeneration via ligand-mediated interface modulation",
+    "link": "https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwag369/8707691?rss=1",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\"><div class=\"boxTitle\">Abstract</div>The direct regeneration of degraded lithium cobalt oxide (LiCoO<sub>2</sub>, LCO) cathodes is pivotal for sustainable battery recycling, yet remains hindered by the intricate lattice defects arising from surface electronic-structure instability. Most existing regeneration strategies rely on compositional compensation while neglecting electronic-level regulation, and lack research on spontaneously formed, electrochemically unfavorable interface (rigid interface) that impede ion transport. Herein, we demonstrate a ligand-mediated electronic modulation strategy using a lithium-aluminum acetylacetonate complex (LAAE), where acetylacetonate (acac) functions as an electronic mediator rather than a conventional chelator. Through <span style=\"font-style: italic;\">π</span>→<span style=\"font-style: italic;\">d</span> orbital coupling with high-valence cobalt sites, acac redistributes Co-O bonding characteristics, creating an electronically compliant surface. This adsorption-induced bond weakening preferentially destabilizes defect-associated Co-O linkages, facilitating the removal of electronically inactive cobalt species and oxygen vacancy passivation, while lowering interfacial ion transport barriers. Simultaneously, lithium replenishment from Liacac-derived species together with Al<sup>3+</sup> incorporation contributes to stabilizing the layered framework. The regenerated LCO (R-LCO-Al) achieves a near-ideal stoichiometry with suppressed oxygen vacancies and restored structural ordering, delivering a high specific capacity of 179.9 mAh g<sup>−1</sup> at 0.5 C (3.0–4.5 V) and 87.0% capacity retention after 200 cycles, rivaling commercial LCO. These findings establish electronic-structure modulation as an effective strategy for closed-loop regeneration of degraded oxide cathodes.</span>",
+    "source": "National Science Review Advance Access",
+    "date": "2026-06-13",
+    "sent": true
+  },
+  {
+    "id": "http://doi.org/10.1093/nsr/nwag335",
+    "title": "Emerging Integrated Photonic Neural Network Technologies for Artificial Intelligence: From Devices to Systems",
+    "link": "https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwag335/8707690?rss=1",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\"><div class=\"boxTitle\">Abstract</div>The rapid expansion of artificial intelligence (AI) has created an explosive demand for computing power, while traditional von Neumann-based electronic computing faces the memory and interconnect bottlenecks. By migrating critical operations to the optical domain, photonic neural networks (PNNs) offer a promising solution to significantly reduce system latency and energy consumption. Driven by silicon (Si) photonics, on-chip PNNs achieve high-density integration on scalable platforms, promoting the evolution of optoelectronic integration systems. This paper presents a comprehensive review of emerging integrated PNN technology for AI, employing a cross-layer framework that spans from fundamental physical devices to system-level implementation. Based on the requirements of PNNs, this review analyzes key hardware devices and mainstream computing core architectures, evaluates integration strategies, and discusses advanced system packaging. Furthermore, the review provides a prospect on the field by identifying the remaining technical challenges and highlighting the transformative potential of PNNs as the infrastructure for next-generation AI.</span>",
+    "source": "National Science Review Advance Access",
+    "date": "2026-06-13",
+    "sent": true
+  },
+  {
+    "id": "http://doi.org/10.1093/nsr/nwag371",
+    "title": "A User’s Roadmap to Foundation Models on Single-Cell and Spatial-Omics – Cell Type and Lineage applications",
+    "link": "https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwag371/8707689?rss=1",
+    "authors": [],
+    "summary": "",
+    "source": "National Science Review Advance Access",
+    "date": "2026-06-13",
+    "sent": true
+  },
+  {
+    "id": "http://doi.org/10.1093/nsr/nwag339",
+    "title": "Analytical framework for understanding twisted 2D materials",
+    "link": "https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwag339/8707688?rss=1",
+    "authors": [],
+    "summary": "",
+    "source": "National Science Review Advance Access",
+    "date": "2026-06-13",
+    "sent": true
+  },
+  {
+    "id": "http://doi.org/10.1093/nsr/nwag368",
+    "title": "Technology roadmap from fiber materials to fiber electronics",
+    "link": "https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwag368/8707251?rss=1",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\"><div class=\"boxTitle\">Abstract</div>Fiber electronics, one-dimensional structures with active electronic functions while maintaining the flexibility of traditional fibers or textiles, represent a paradigm shift in electronic technologies, transforming passive fiber or textile substrates into active, intelligent systems that integrate powering, sensing, computation, and communication capabilities. This field has rapidly evolved from the development of simple conductive threads to the creation of sophisticated, multifunctional fiber devices. Significant progress is underpinned by the design of functional fiber materials with exceptional electrical, mechanical, and thermal properties for diverse fiber devices, such as batteries, solar cells, light-emitting displays, and neuromorphic computing devices, and these materials can be further woven into everyday fabrics. However, the transition from laboratory demonstrations to real-world applications faces significant interdisciplinary challenges, including reproducible large-scale manufacturing, the creation of robust, washable interconnects, and the establishment of community standards for reliability and qualification. To address these challenges, this review synthesizes recent progress and outlines a forward-looking roadmap. We emphasize the need for convergent research focusing on adaptive materials, fiber-native device architectures, intelligent manufacturing processes, and holistic system-level integrations. Overcoming these hurdles will unlock the full potential of fiber electronics, paving the way for transformative applications in personalized healthcare, human–machine interfaces, and extreme-environment systems, ultimately weaving the textile intelligence seamlessly into the fabric of daily life.</span>",
+    "source": "National Science Review Advance Access",
+    "date": "2026-06-12",
+    "sent": true
+  },
+  {
     "id": "https://www.nature.com/articles/d41586-026-01911-z",
     "title": "Why we seek to fly: Books in brief",
     "link": "https://www.nature.com/articles/d41586-026-01911-z",
