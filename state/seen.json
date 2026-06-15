@@ -1,5 +1,115 @@
 [
   {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012825226001947",
+    "title": "Chemical mohometry, thick and thin: Critical review and new steps forward",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012825226001947?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 13 June 2026<b>Source:</b> Earth-Science ReviewsAuthor(s): Matthew J. Kohn, Allen F. Glazner, Chris Yakymchuk, Armando Lopez, Gloria Roman",
+    "source": "ScienceDirect Publication: Earth-Science Reviews",
+    "date": "2026-06-15",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012821X26003584",
+    "title": "Cyclic water-sediment supply coarsens the temporal resolution of fluvio-deltaic strata",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012821X26003584?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: 15 September 2026<b>Source:</b> Earth and Planetary Science Letters, Volume 690Author(s): Youwei Wang, Vamsi Ganti, Ajay B. Limaye, Kyle M. Straub",
+    "source": "ScienceDirect Publication: Earth and Planetary Science Letters",
+    "date": "2026-06-15",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012821X26003535",
+    "title": "Evaluating the dipolarity of the mid-Proterozoic geomagnetic field",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012821X26003535?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: 15 September 2026<b>Source:</b> Earth and Planetary Science Letters, Volume 690Author(s): Zheng Gong, David A.D. Evans, Sten-Åke Elming, Yong-Xiang Li",
+    "source": "ScienceDirect Publication: Earth and Planetary Science Letters",
+    "date": "2026-06-15",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012821X26003511",
+    "title": "Low-spin ferrous iron suppresses mantle oxidation beyond Earth-like pressures",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012821X26003511?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: 15 September 2026<b>Source:</b> Earth and Planetary Science Letters, Volume 690Author(s): Alice Girani, Sylvain Petitgirard, Sergey Yaroslavtsev, Georgios Aprilis, James Badro, Antoine Bézos, Hugh St. C. O’Neill, Paolo A. Sossi",
+    "source": "ScienceDirect Publication: Earth and Planetary Science Letters",
+    "date": "2026-06-15",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012821X26003432",
+    "title": "Supercontinent cycles modulate mantle structure and plume activity: A mechanism to form long-term periodicity in detrital zircons and LIPs records",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012821X26003432?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: 15 September 2026<b>Source:</b> Earth and Planetary Science Letters, Volume 690Author(s): Peirong Zhu, Wei Leng",
+    "source": "ScienceDirect Publication: Earth and Planetary Science Letters",
+    "date": "2026-06-15",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL120001",
+    "title": "Correcting Underestimated Internal Variability Fails to Reconcile Models With Observed Pacific SST Gradient Strengthening",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL120001?af=R",
+    "authors": [
+      "Yann Yvon Planton, \nJérôme Vialard, \nAlexey Fedorov, \nMatthieu Lengaigne, \nShayne McGregor, \nMalte F. Stuecker"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 12, 28 June 2026.",
+    "source": "Wiley-Online-Library: Geophysical Research Letters: Table of Contents",
+    "date": "2026-06-13",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL120656",
+    "title": "Modeling of Elves Doublets Based on Variations of the Lightning Return Stroke Current",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL120656?af=R",
+    "authors": [
+      "Petr Kašpar, \nIvana Kolmašová, \nOndřej Santolík"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 12, 28 June 2026.",
+    "source": "Wiley-Online-Library: Geophysical Research Letters: Table of Contents",
+    "date": "2026-06-13",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL120831",
+    "title": "Oceanic Spatio‐Temporal Patterns of Vertical Velocities in the Cape Basin and Agulhas Current Retroflection From Two Years of SWOT Altimetry",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL120831?af=R",
+    "authors": [
+      "S. Coadou‐Chaventon, \nE. Carli, \nL. Siegelman, \nS. Swart, \nR. Schubert, \nS. Speich"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 12, 28 June 2026.",
+    "source": "Wiley-Online-Library: Geophysical Research Letters: Table of Contents",
+    "date": "2026-06-13",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL119220",
+    "title": "Formation and Arrest of a Surface Density Front via Strain‐Driven Frontogenesis",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL119220?af=R",
+    "authors": [
+      "Erin Atkinson, \nNicolas Grisouard"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 12, 28 June 2026.",
+    "source": "Wiley-Online-Library: Geophysical Research Letters: Table of Contents",
+    "date": "2026-06-13",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026JB033770",
+    "title": "Subduction Parameters Controlling the Occurrence of Shallow and Deep Slow‐Slip Events (SSEs)",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026JB033770?af=R",
+    "authors": [
+      "Mario Arroyo‐Solórzano, \nLucas Crisosto, \nJorge Jara, \nÁlvaro González, \nFabrice Cotton"
+    ],
+    "summary": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 6, June 2026.",
+    "source": "Wiley-Online-Library: Journal of Geophysical Research: Solid Earth: Table of Contents",
+    "date": "2026-06-13",
+    "sent": true
+  },
+  {
     "id": "https://www.nature.com/articles/s41561-026-02004-2",
     "title": "Large CO<sub>2</sub> seeps and hydrate field on the seafloor offshore Mayotte Island",
     "link": "https://www.nature.com/articles/s41561-026-02004-2",
