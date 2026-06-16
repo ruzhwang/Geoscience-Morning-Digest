@@ -1,5 +1,404 @@
 [
   {
+    "id": "https://www.nature.com/articles/s41561-026-02000-6",
+    "title": "Tracking hydrogen migration in iron under Earth’s core conditions",
+    "link": "https://www.nature.com/articles/s41561-026-02000-6",
+    "authors": [],
+    "summary": "Nature Geoscience, Published online: 15 June 2026; <a href=\"https://www.nature.com/articles/s41561-026-02000-6\">doi:10.1038/s41561-026-02000-6</a>Time-resolved X-ray diffraction experiments in a laser-heated diamond anvil cell suggest that hydrogen in iron hydride becomes highly mobile at Earth’s core pressures and high temperatures. The measurements provide experimental indications of a superionic state in which hydrogen moves through a crystalline iron lattice.",
+    "source": "Nature Geoscience",
+    "date": "2026-06-15",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41561-026-02013-1",
+    "title": "Major contribution of anaplerosis to inorganic carbon fixation in the dark ocean",
+    "link": "https://www.nature.com/articles/s41561-026-02013-1",
+    "authors": [
+      "C. Amano",
+      "U. Willhelm",
+      "T. Koch",
+      "T. Reinthaler",
+      "R. L. Hansman",
+      "E. Sintes",
+      "G. J. Herndl",
+      "J. M. González",
+      "F. Baltar"
+    ],
+    "summary": "Nature Geoscience, Published online: 15 June 2026; <a href=\"https://www.nature.com/articles/s41561-026-02013-1\">doi:10.1038/s41561-026-02013-1</a>While most newly formed organic carbon in the dark ocean is derived from chemolithoautotrophic microorganisms, 17% also comes from an alternative pathway called anaplerosis that is related to the tricarboxylic acid cycle, according to multi-omics datasets and single-cell analysis.",
+    "source": "Nature Geoscience",
+    "date": "2026-06-15",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-73563-6",
+    "title": "Drivers of technology diffusion speed in countries",
+    "link": "https://www.nature.com/articles/s41467-026-73563-6",
+    "authors": [
+      "Jenna H. Greene",
+      "Matthew J. Gidden",
+      "Elina Brutschin",
+      "Gregory F. Nemet"
+    ],
+    "summary": "Nature Communications, Published online: 16 June 2026; <a href=\"https://www.nature.com/articles/s41467-026-73563-6\">doi:10.1038/s41467-026-73563-6</a>National-level technology diffusion rates vary substantially across 130 technologies and 5,990 time series. Newer technologies, as well as smaller, less materially intensive, and shorter-lived technologies, tend to be adopted more quickly.",
+    "source": "Nature Communications",
+    "date": "2026-06-16",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-74057-1",
+    "title": "Genetic and pharmacological inactivation of peptidoglycan remodeling increases antibiotic susceptibility of vancomycin-resistant <i>Enterococcus faecium</i>",
+    "link": "https://www.nature.com/articles/s41467-026-74057-1",
+    "authors": [
+      "Kyong T. Fam",
+      "Pavan Kumar Chodisetti",
+      "Zifei Wang",
+      "Joshua A. Homer",
+      "Christopher J. Smedley",
+      "Seiya Kitamura",
+      "Benjamin Silva",
+      "Yijun Xiong",
+      "Althea Hansel-Harris",
+      "Matthew Holcomb",
+      "Simeon Babarinde",
+      "Adrianna M. Turner",
+      "Daria Van Tyne",
+      "Ian A. Wilson",
+      "Stefano Forli",
+      "Benjamin F. Cravatt",
+      "Donghyun Park",
+      "Dennis W. Wolan",
+      "John E. Moses",
+      "Howard C. Hang"
+    ],
+    "summary": "Nature Communications, Published online: 16 June 2026; <a href=\"https://www.nature.com/articles/s41467-026-74057-1\">doi:10.1038/s41467-026-74057-1</a>Fam K. et al. identified peptidoglycan hydrolase SagA that modulates antibiotic susceptibility of vancomycin-resistant Enterococcus faecium. Pharmacological inhibition of SagA restored vancomycin efficacy across multidrug-resistant clinical strains.",
+    "source": "Nature Communications",
+    "date": "2026-06-16",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-73844-0",
+    "title": "A minimal chemo-mechanical Markov model for rotary catalysis of F<sub>1</sub>-ATPase",
+    "link": "https://www.nature.com/articles/s41467-026-73844-0",
+    "authors": [
+      "Yixin Chen",
+      "Helmut Grubmüller"
+    ],
+    "summary": "Nature Communications, Published online: 15 June 2026; <a href=\"https://www.nature.com/articles/s41467-026-73844-0\">doi:10.1038/s41467-026-73844-0</a>F1-ATPase is a rotary motor protein essential for cellular energy transduction. Here the authors develop a thermodynamically consistent Markov model that quantitatively matches experimental data and reconciles prior controversies over its catalytic pathways and inherent stochasticity.",
+    "source": "Nature Communications",
+    "date": "2026-06-15",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-74317-0",
+    "title": "Carbocycle editing of ketones proceeds via a radical-mediated bidirectional C-C bond cleavage/coupling strategy",
+    "link": "https://www.nature.com/articles/s41467-026-74317-0",
+    "authors": [
+      "Ying-Jie Ma",
+      "Yuan Gao",
+      "Xin Chen",
+      "Le Liu",
+      "Xin-Hua Duan",
+      "Li-Na Guo"
+    ],
+    "summary": "Nature Communications, Published online: 15 June 2026; <a href=\"https://www.nature.com/articles/s41467-026-74317-0\">doi:10.1038/s41467-026-74317-0</a>1,n-Difunctionalized alkyl linchpins are valuable synthetic intermediates, but current routes suffer from poor step economy and limited functional group tolerance. Here, the authors report a radical-mediated bidirectional C–C bond cleavage strategy that transforms cyclic ketones into diverse functionalized linchpins via gem-diperoxide intermediates.",
+    "source": "Nature Communications",
+    "date": "2026-06-15",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-74336-x",
+    "title": "Deep learning completes US flood hazard maps revealing millions exposed to previously unrecognized risk",
+    "link": "https://www.nature.com/articles/s41467-026-74336-x",
+    "authors": [
+      "Abraham Noah Wu",
+      "Ye Zhang",
+      "Rudi Stouffs"
+    ],
+    "summary": "Nature Communications, Published online: 15 June 2026; <a href=\"https://www.nature.com/articles/s41467-026-74336-x\">doi:10.1038/s41467-026-74336-x</a>Millions in the US lack official flood risk data. This study uses an AI model to learn from existing maps and complete the US flood hazard map, revealing over 11 million more people exposed to flood risks, a 69% increase from current official records.",
+    "source": "Nature Communications",
+    "date": "2026-06-15",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-74459-1",
+    "title": "Distinguishing intrinsic and interfacial pyroelectric effects by polarization reversal measurements",
+    "link": "https://www.nature.com/articles/s41467-026-74459-1",
+    "authors": [
+      "Huiyu Dan",
+      "Weiqi Qian",
+      "Chong Guo",
+      "Wang Zhang",
+      "Huiqi Zhao",
+      "Chris R. Bowen",
+      "Ya Yang"
+    ],
+    "summary": "Nature Communications, Published online: 15 June 2026; <a href=\"https://www.nature.com/articles/s41467-026-74459-1\">doi:10.1038/s41467-026-74459-1</a>The authors develop a polarization reversal method to distinguish intrinsic and interfacial pyroelectric effects in ferroelectric films and clarify their material-specific dominance. It enables the development of better thermal energy harvesters and sensors.",
+    "source": "Nature Communications",
+    "date": "2026-06-15",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-74546-3",
+    "title": "Arene difunctionalization through an acyl-inserting Smiles rearrangement enabled by <i>N</i>-heterocyclic carbene catalysis",
+    "link": "https://www.nature.com/articles/s41467-026-74546-3",
+    "authors": [
+      "Qing-Zhu Li",
+      "Yan-Qing Liu",
+      "Long-Hai Hong",
+      "Ting Qi",
+      "Mei-Hao He",
+      "Peng-Tao Wang",
+      "Xin-Xin Kou",
+      "Jun-Long Li"
+    ],
+    "summary": "Nature Communications, Published online: 15 June 2026; <a href=\"https://www.nature.com/articles/s41467-026-74546-3\">doi:10.1038/s41467-026-74546-3</a>The authors report an N-heterocyclic carbene-catalyzed radical Smiles-type rearrangement which selectively produces 1,4-difunctionalized arenes.",
+    "source": "Nature Communications",
+    "date": "2026-06-15",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-74483-1",
+    "title": "Liposomal mitoxantrone plus tislelizumab in patients with relapsed or refractory extranodal natural killer/T-cell lymphoma: a phase 1b/2 trial",
+    "link": "https://www.nature.com/articles/s41467-026-74483-1",
+    "authors": [
+      "Qihua Zou",
+      "Shenrui Bai",
+      "Liang Wang",
+      "Hongyan Tong",
+      "Dongfeng Zeng",
+      "Ying Zhao",
+      "Yuerong Shuang",
+      "Xiaobo Wang",
+      "Xiuhua Sun",
+      "Zhenya Hong",
+      "Zhigang Peng",
+      "Yu Yang",
+      "Runhui Zheng",
+      "Huiqiang Huang",
+      "Jianbo Liu",
+      "Chunmei Yang",
+      "Xi Li",
+      "Xin Gao",
+      "Hao Xu",
+      "Daoguang Chen",
+      "Xiaojie Fang",
+      "Man Nie",
+      "Jinni Wang",
+      "Xinna Gao",
+      "Jingjing Ye",
+      "Wei Zhang",
+      "Jianzhen Shen",
+      "Rong Tao",
+      "Hong Cen",
+      "Yuchen Zhang",
+      "Jun Cai",
+      "Yi Xia",
+      "Qingqing Cai"
+    ],
+    "summary": "Nature Communications, Published online: 15 June 2026; <a href=\"https://www.nature.com/articles/s41467-026-74483-1\">doi:10.1038/s41467-026-74483-1</a>Responses to immune checkpoint inhibitors in patients with relapsed or refractory extranodal natural killer/T-cell lymphoma (R/R ENKTL) remain limited. Here the authors report the results of a phase 1b/2 trial of liposomal mitoxantrone plus anti-PD-1 tislelizumab in patients with R/R ENKTL.",
+    "source": "Nature Communications",
+    "date": "2026-06-15",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43017-026-00798-8",
+    "title": "Approaches, challenges and applications of climate change impact attribution",
+    "link": "https://www.nature.com/articles/s43017-026-00798-8",
+    "authors": [
+      "Sabine Undorf",
+      "Asya Dimitrova",
+      "Luke J. Harrington",
+      "Gabriele C. Hegerl",
+      "Aglaé Jézéquel",
+      "Joyce Kimutai",
+      "Y. T. Eunice Lo",
+      "Matthias Mengel",
+      "Sarah Perkins-Kirkpatrick",
+      "Rosa Pietroiusti",
+      "Izidine Pinto",
+      "Andrew Schurer",
+      "Paolo Scussolini",
+      "Sebastian Sippel",
+      "Dáithí Stone",
+      "Rupert Stuart-Smith",
+      "Lukas Gudmundsson",
+      "Veronika Huber",
+      "Felipe J. Colón-González",
+      "Simon Dellicour",
+      "Diana Erazo",
+      "Erich Fischer",
+      "Katja Frieler",
+      "Christoph Gornott",
+      "Ed Hawkins",
+      "Petra Holden",
+      "Gerbrand Koren",
+      "Seppe Lampe",
+      "Dann Mitchell",
+      "Lisa Murken",
+      "Mark New",
+      "Albert Nkwasa",
+      "Sonia I. Seneviratne",
+      "Michael Wehner",
+      "Wim Thiery"
+    ],
+    "summary": "Nature Reviews Earth &amp; Environment, Published online: 15 June 2026; <a href=\"https://www.nature.com/articles/s43017-026-00798-8\">doi:10.1038/s43017-026-00798-8</a>Climate change impact attribution quantifies the observed consequences of climate change through combining climate attribution aspects with impact modelling. Undorf et al. discuss the key steps and methodological choices required, possible societal uses of impact attribution results and ongoing challenges.",
+    "source": "Nature Reviews Earth & Environment",
+    "date": "2026-06-15",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-026-03763-x",
+    "title": "Modification of crust and mantle in the South Pole Aitken region of the Moon",
+    "link": "https://www.nature.com/articles/s43247-026-03763-x",
+    "authors": [
+      "Tao Long",
+      "Alexander Nemchin",
+      "Xiaochao Che",
+      "Shiwen Xie",
+      "Zengsheng Li",
+      "Chen Wang",
+      "Chun Yang",
+      "Dunyi Liu"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 15 June 2026; <a href=\"https://www.nature.com/articles/s43247-026-03763-x\">doi:10.1038/s43247-026-03763-x</a>Pb isotopes from Chang’e-6 impact melt fragments show that the SPA-region crust is not purely a primary product of lunar magma ocean crystallization, but formed through post-LMO remelting and differentiation of crust and upper mantle.",
+    "source": "Communications Earth & Environment",
+    "date": "2026-06-15",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-026-03723-5",
+    "title": "Millennial-scale lags in plant assembly are associated with topographic connectivity on the eastern Tibetan Plateau",
+    "link": "https://www.nature.com/articles/s43247-026-03723-5",
+    "authors": [
+      "Wenjia Li",
+      "Wei Shen",
+      "Kathleen R. Stoof-Leichsenring",
+      "Sisi Liu",
+      "Yanrong Zhang",
+      "Ying Liu",
+      "Xianyong Cao",
+      "Ulrike Herzschuh"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 15 June 2026; <a href=\"https://www.nature.com/articles/s43247-026-03723-5\">doi:10.1038/s43247-026-03723-5</a>Topographic connectivity to refugia shaped millennial plant community assembly, with delayed and spatially asynchronous responses to climate revealed by zeta diversity analysis of sedimentary ancient DNA from five lakes over the past 12,000 years.",
+    "source": "Communications Earth & Environment",
+    "date": "2026-06-15",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-026-03762-y",
+    "title": "Overlooked ammonium assimilation during sulfur autotrophic dissimilatory nitrate reduction to ammonium",
+    "link": "https://www.nature.com/articles/s43247-026-03762-y",
+    "authors": [
+      "Linjie Gao",
+      "Yiyi Zhao",
+      "Sherif Ismail",
+      "Bipro Ranjan Dhar",
+      "Shou-Qing Ni"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 15 June 2026; <a href=\"https://www.nature.com/articles/s43247-026-03762-y\">doi:10.1038/s43247-026-03762-y</a>Ammonium assimilation provides a reliable theoretical support for cell proliferation in sulfur-autotrophic dissimilatory nitrate reduction to ammonium in nature and wastewater treatment plants, which was overlooked earlier, based on metagenomic and incubation experiments.",
+    "source": "Communications Earth & Environment",
+    "date": "2026-06-15",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-026-03738-y",
+    "title": "Rapid rebound hides glacier mass loss from satellite observations in Alaska and Iceland",
+    "link": "https://www.nature.com/articles/s43247-026-03738-y",
+    "authors": [
+      "Ingo Sasgen",
+      "Sebastian Cruz Bacca",
+      "Volker Klemann",
+      "Anouk Vlug",
+      "Michael Zemp"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 15 June 2026; <a href=\"https://www.nature.com/articles/s43247-026-03738-y\">doi:10.1038/s43247-026-03738-y</a>Rapid glacial isostatic adjustment conceals glacier mass loss in Alaska and Iceland that could represent a ~ 4% increased contribution to global sea-level, according to millennium-to-present reconstructions, viscoelastic Earth modelling, and GRACE/GRACE-FO inversions.",
+    "source": "Communications Earth & Environment",
+    "date": "2026-06-15",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-026-03715-5",
+    "title": "The marine microbiome can accurately predict its chemical and biological environment",
+    "link": "https://www.nature.com/articles/s43247-026-03715-5",
+    "authors": [
+      "Emma Bell",
+      "Karin Garefelt",
+      "Krzysztof T. Jurdzinski",
+      "Luis F. Delgado",
+      "Fanny Lindrooth",
+      "Bengt Karlson",
+      "Anders F. Andersson"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 15 June 2026; <a href=\"https://www.nature.com/articles/s43247-026-03715-5\">doi:10.1038/s43247-026-03715-5</a>Microbial DNA profiles from seawater can act as biosensors of environmental conditions and ecosystem status, demonstrating the potential of metabarcoding and machine learning in marine monitoring and management.",
+    "source": "Communications Earth & Environment",
+    "date": "2026-06-15",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL120981",
+    "title": "Imminent Localized Precipitation Preceded by a Surge in Cloud‐Base Descent and Reflectivity",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL120981?af=R",
+    "authors": [
+      "Zhen Zhang, \nJianping Guo, \nNing Li, \nJianbo Deng, \nWeilong Deng, \nYuping Sun, \nYifei Wang, \nShuairu Jiang, \nLiping Zeng, \nFeng Ma, \nTianmeng Chen"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 12, 28 June 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-06-14",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL123977",
+    "title": "Regolith in Motion: Dynamic Surface Evolution After Lunar Impacts",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL123977?af=R",
+    "authors": [
+      "E. J. Speyerer, \nM. S. Robinson, \nA. K. Boyd"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 12, 28 June 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-06-14",
+    "sent": true
+  },
+  {
+    "id": "https://pubs.geoscienceworld.org/gsa/gsabulletin/article/doi/10.1130/B38942.1/731818/Rapid-exhumation-of-a-Miocene-ultrapotassic",
+    "title": "Rapid exhumation of a Miocene ultrapotassic intrusion in the eastern Qiangtang Terrane, Tibetan Plateau",
+    "link": "https://pubs.geoscienceworld.org/gsa/gsabulletin/article/doi/10.1130/B38942.1/731818/Rapid-exhumation-of-a-Miocene-ultrapotassic",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\">The timing and mechanisms of the uplift of the Tibetan Plateau are important for understanding orogenic geodynamics and environmental responses. Potassic−ultrapotassic volcanic rocks across the Tibetan Plateau have often been utilized to trace the plateau’s uplift due to their close association with lithospheric thinning. However, it remains unclear whether significant exhumation occurred during the eruption of these volcanic rocks. This study examines a newly identified Miocene pyroxene syenite intrusion containing granite xenoliths in eastern Qiangtang, Tibetan Plateau, integrating thermochronology, thermal modeling, mineral analyses, and thermodynamic simulations. The results indicate that the thermochronological ages of the pyroxene syenite largely match its crystallization age, and it experienced a period of rapid cooling at ca. 12−10 Ma. This cooling phase was associated with substantial exhumation of the pyroxene syenite, as inferred from the crystallization depth of 10−13 km, which was determined using clinopyroxene and biotite barometers. Thermodynamic modeling has identified four drivers of exhumation: (1) surface erosion, (2) lithospheric delamination, (3) magmatic underplating, and (4) Indian plate underthrusting. Collectively, these processes drove middle−late Miocene exhumation of the syenite and at least 700 m of surface uplift in eastern Qiangtang. Our study helps not only to elucidate the geodynamic mechanisms driving the uplift of the Tibetan Plateau, but also to interpret thermochronological data.</span>",
+    "source": "GSA Bulletin Advance Access",
+    "date": "2026-06-15",
+    "sent": true
+  },
+  {
+    "id": "https://pubs.geoscienceworld.org/gsa/gsabulletin/article/doi/10.1130/B38905.1/731817/Molybdenum-isotopic-constraints-on-temporal",
+    "title": "Molybdenum isotopic constraints on temporal variations in slab inputs to arc magmas within the Mongol-Okhotsk tectonic regime",
+    "link": "https://pubs.geoscienceworld.org/gsa/gsabulletin/article/doi/10.1130/B38905.1/731817/Molybdenum-isotopic-constraints-on-temporal",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\">This study documents temporal variations in slab inputs to arc magmas within the Mongol-Okhotsk tectonic regime by investigating molybdenum isotopic compositions of the Mesozoic mafic−intermediate igneous rocks in the Erguna Massif in NE China. The early Mesozoic rocks, formed in an active continental margin setting, exhibit higher δ<sup>98/95</sup>Mo values and Ce/Mo ratios, more enriched Sr-Nd isotopes than those of depleted mantle, along with positive Mo-Pb isotope correlations. These features suggest that their primary magmas were derived from partial melting of a mantle wedge modified by altered oceanic crust-derived aqueous fluids and sediment-derived melts. Conversely, the late Mesozoic igneous rocks, formed in an extensional setting, show lower δ<sup>98/95</sup>Mo values, higher Th/La ratios, and more radiogenic <sup>87</sup>Sr/<sup>86</sup>Sr and <sup>207</sup>Pb/<sup>204</sup>Pb ratios than mantle values. When integrated with higher Hf/Nd ratios compared to early Mesozoic counterparts, their magma sources are interpreted as the early Mesozoic mantle domains subsequently modified by residual sediment-derived melts. Additionally, early Mesozoic magmatism with heavy Mo isotopes is primarily associated with porphyry Cu-Mo deposits, whereas late Mesozoic magmatism with light Mo isotopes is linked to porphyry-type Mo and epithermal deposits. These findings reveal that temporal variations in slab inputs directly control the diversity of arc magmas and regional mineralization.</span>",
+    "source": "GSA Bulletin Advance Access",
+    "date": "2026-06-15",
+    "sent": true
+  },
+  {
+    "id": "http://doi.org/10.1093/nsr/nwag373",
+    "title": "Highly energy efficient information handling dynamics of brain",
+    "link": "https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwag373/8708461?rss=1",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\"><div class=\"boxTitle\">Abstract</div>Artificial intelligence can outperform humans in specific tasks but at extremely high energy cost. Here we show that brain can agglomerate neurons into sphere to achieve energy-efficient ultra-long period electrophysiological activities. Chaos dynamics and fractal theory demonstrated the principle of brain to memorize and process information through formation of electrophysiological strange attractors under the global cooperation of neurons in the spatio-temporal structure. Then the neural sphere based information handling dynamics of brain can be constructed, predicting a storage capacity of 7.48×10<sup>18</sup> Byte (3 orders higher than the previous estimates) and a computational power of 6.24×10<sup>18</sup> FLOPS (≈ 78 000 modern GPUs) for human brain with a surprising energy efficiency up to 79% via Landauer’s principle, 8-order higher than that of the latest computer chips.</span>",
+    "source": "National Science Review Advance Access",
+    "date": "2026-06-15",
+    "sent": true
+  },
+  {
+    "id": "http://doi.org/10.1093/nsr/nwag372",
+    "title": "Global source-sink dynamics of dengue viruses and epidemic establishment in areas on the fringe of endemic transmission",
+    "link": "https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwag372/8708460?rss=1",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\"><div class=\"boxTitle\">Abstract</div>The global expansion of dengue virus (DENV) poses a major public health threat, yet its circulation dynamics remain poorly understood. By integrating global genetic, epidemiological, and mobility data within a phylodynamic framework, we show that DENV circulation follows a source-sink model, with tropical endemic regions acting as persistent viral reservoirs (‘sources’) that seed epidemics in temperate areas (‘sinks’). Most areas at the fringe of endemic transmission exhibit sink-like characteristics with exception of South China. We identity a low-intensity dispersal route from South China to endemic Asia compared with the high-intensity source-to-sink direction, along with occasional DENV1 overwintering events in South China. Together, these findings suggest that South China occupies an intermediate state between endemic and non-endemic areas. These global DENV pathways were primarily driven by air travel and were reshaped by COVID-19 pandemic-related perturbations. Our findings highlight that dengue circulates within a fully interconnected global system that requires a shift from localized control to globally coordinated intervention efforts, as well as emphasize the importance of year-round genomic surveillance at the human-vector interface in fringe areas.</span>",
+    "source": "National Science Review Advance Access",
+    "date": "2026-06-15",
+    "sent": true
+  },
+  {
     "id": "https://www.sciencedirect.com/science/article/pii/S0012825226001947",
     "title": "Chemical mohometry, thick and thin: Critical review and new steps forward",
     "link": "https://www.sciencedirect.com/science/article/pii/S0012825226001947?dgcid=rss_sd_all",
