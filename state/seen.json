@@ -1,5 +1,475 @@
 [
   {
+    "id": "https://www.nature.com/articles/s41561-026-02008-y",
+    "title": "The pace of stratospheric circulation",
+    "link": "https://www.nature.com/articles/s41561-026-02008-y",
+    "authors": [
+      "Pengfei Yu"
+    ],
+    "summary": "Nature Geoscience, Published online: 16 June 2026; <a href=\"https://www.nature.com/articles/s41561-026-02008-y\">doi:10.1038/s41561-026-02008-y</a>Reanalysis of stratospheric air samples provides compelling evidence that stratospheric circulation has accelerated in recent decades, helping to resolve a long-standing debate about the strength of the stratospheric circulation.",
+    "source": "Nature Geoscience",
+    "date": "2026-06-16",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41561-026-02011-3",
+    "title": "Observed stratospheric mean age decrease consistent with circulation acceleration",
+    "link": "https://www.nature.com/articles/s41561-026-02011-3",
+    "authors": [
+      "Eric A. Ray",
+      "Bianca C. Baier",
+      "Fred L. Moore",
+      "Hella Garny",
+      "Markus Jesswein",
+      "Jianghanyang Li",
+      "Eric J. Hintsa",
+      "Bradley D. Hall",
+      "Geoff S. Dutton",
+      "David Nance",
+      "Colm Sweeney",
+      "Sean M. Davis",
+      "Béatrice Josse",
+      "Olaf Morgenstern",
+      "Patrick Jöckel",
+      "David Plummer"
+    ],
+    "summary": "Nature Geoscience, Published online: 16 June 2026; <a href=\"https://www.nature.com/articles/s41561-026-02011-3\">doi:10.1038/s41561-026-02011-3</a>Large-scale stratospheric circulation has accelerated since the 1990s and is stronger and more vertically structured than models predict, according to trace gas measurements showing declines in Northern Hemisphere extratropical stratospheric mean age.",
+    "source": "Nature Geoscience",
+    "date": "2026-06-16",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41561-026-02016-y",
+    "title": "Vigorous mantle convection triggered the Cretaceous Pacific large igneous provinces",
+    "link": "https://www.nature.com/articles/s41561-026-02016-y",
+    "authors": [
+      "Dingshan Deng",
+      "Sanzhong Li",
+      "Xianzhi Cao",
+      "Nicolas Flament",
+      "Yanhui Suo",
+      "Liming Dai",
+      "Heda Wang",
+      "Qiuling Liu",
+      "Liangliang Wang"
+    ],
+    "summary": "Nature Geoscience, Published online: 16 June 2026; <a href=\"https://www.nature.com/articles/s41561-026-02016-y\">doi:10.1038/s41561-026-02016-y</a>Large igneous province emplacement in the Pacific Ocean through the Cretaceous can be explained by interplay between spreading ridge migration and strong mantle upwelling partly driven by enhanced subduction flux, according to geodynamic simulations.",
+    "source": "Nature Geoscience",
+    "date": "2026-06-16",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41561-026-02012-2",
+    "title": "Enhanced marine burial of terrestrial organic carbon through the Palaeocene–Eocene Thermal Maximum",
+    "link": "https://www.nature.com/articles/s41561-026-02012-2",
+    "authors": [
+      "Gordon N. Inglis",
+      "Jordon D. Hemingway",
+      "Richard G. Stockey",
+      "Emily H. Hollingsworth",
+      "Paul J. Valdes",
+      "Alex Farnsworth",
+      "Felix J. Elling",
+      "Marcus P. S. Badger",
+      "Xiaoxiao Zhao",
+      "Richard D. Pancost",
+      "Ann Pearson",
+      "Thomas M. Gernon",
+      "Robert G. Hilton"
+    ],
+    "summary": "Nature Geoscience, Published online: 16 June 2026; <a href=\"https://www.nature.com/articles/s41561-026-02012-2\">doi:10.1038/s41561-026-02012-2</a>The burial of terrestrially derived organic carbon in coastal marine sediments greatly increased during the Palaeocene–Eocene Thermal Maximum, probably helping to draw down a large portion of carbon released during the hyperthermal event, according to biomarker records from five sites.",
+    "source": "Nature Geoscience",
+    "date": "2026-06-16",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-73904-5",
+    "title": "Molecular diffusion enhanced performance evaluation of metal-organic frameworks for CO<sub>2</sub> capture",
+    "link": "https://www.nature.com/articles/s41467-026-73904-5",
+    "authors": [
+      "Rodrigo Neumann Barros Ferreira",
+      "Yogesh V. Joshi",
+      "Felipe Lopes Oliveira",
+      "Anantha Sundaram",
+      "Ashish B. Mhadeshwar",
+      "Jayashree Kalyanaraman",
+      "Binquan Luan",
+      "Mathias B. Steiner"
+    ],
+    "summary": "Nature Communications, Published online: 17 June 2026; <a href=\"https://www.nature.com/articles/s41467-026-73904-5\">doi:10.1038/s41467-026-73904-5</a>Metal-organic frameworks are candidates for carbon capture. Here the authors introduce a computational workflow to investigate their CO2 capture performance considering molecular diffusivity and identify promising water-tolerant systems.",
+    "source": "Nature Communications",
+    "date": "2026-06-17",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-74354-9",
+    "title": "Stabilizing stiffness is the most limiting factor in human force exertion",
+    "link": "https://www.nature.com/articles/s41467-026-74354-9",
+    "authors": [
+      "F. Tessari",
+      "N. Hogan"
+    ],
+    "summary": "Nature Communications, Published online: 16 June 2026; <a href=\"https://www.nature.com/articles/s41467-026-74354-9\">doi:10.1038/s41467-026-74354-9</a>The limits of human force exertion remain an open and challenging research question in human biomechanics and motor neuroscience. Here, the authors demonstrate that the ability to generate stabilizing stiffness during force exertion is a key factor limiting performance.",
+    "source": "Nature Communications",
+    "date": "2026-06-16",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-74497-9",
+    "title": "Structural insights into PSL polysaccharide assembly and export to the cell surface via the Wzx/Wzy-dependent pathway",
+    "link": "https://www.nature.com/articles/s41467-026-74497-9",
+    "authors": [
+      "Jiao Liu",
+      "Yanlong Han",
+      "Lanxin Wang",
+      "Luyan Z. Ma",
+      "Dongchun Ni",
+      "Yihua Huang"
+    ],
+    "summary": "Nature Communications, Published online: 16 June 2026; <a href=\"https://www.nature.com/articles/s41467-026-74497-9\">doi:10.1038/s41467-026-74497-9</a>The mechanism of Psl polysaccharide assembly and export to the cell surface is still unclear. Here the authors determine the cryo-EM structures of PslD-PslE complex, providing insights into Psl polysaccharide biosynthesis.",
+    "source": "Nature Communications",
+    "date": "2026-06-16",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-73733-6",
+    "title": "Protracted ocean circulation slowdown drove exceptional ice-sheet melting during ice age termination IV",
+    "link": "https://www.nature.com/articles/s41467-026-73733-6",
+    "authors": [
+      "Hsun-Ming Hu",
+      "Gianluca Marino",
+      "María Fernanda Sánchez Goñi",
+      "Eelco Rohling",
+      "Teresa Rodrigues",
+      "Carlos Pérez-Mejías",
+      "Qiuping Ren",
+      "Xiuyang Jiang",
+      "Véronique Michel",
+      "Patricia Valensi",
+      "Elisabetta Starnini",
+      "Marta Zunino",
+      "J. Sakari Salonen",
+      "Chieh-Ju Hsieh",
+      "Liangcheng Tan",
+      "Baptiste Chaigneau",
+      "Maud Chevalier",
+      "Chuan-Chou Shen"
+    ],
+    "summary": "Nature Communications, Published online: 16 June 2026; <a href=\"https://www.nature.com/articles/s41467-026-73733-6\">doi:10.1038/s41467-026-73733-6</a>Precisely dated cave records show that a prolonged slowdown in Atlantic ocean circulation drove exceptional ocean heat buildup and rapid ice-sheet melting during Termination IV (~340,000 years ago), when sea-level rise rates exceeded those of today.",
+    "source": "Nature Communications",
+    "date": "2026-06-16",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-74368-3",
+    "title": "Rossby wave-modulated orbital precipitation anomalies in the Asia-Pacific region",
+    "link": "https://www.nature.com/articles/s41467-026-74368-3",
+    "authors": [
+      "Zhaojie Yu",
+      "Lina Song",
+      "Zhimin Jian",
+      "Mahyar Mohtadi",
+      "Yair Rosenthal",
+      "Kyung-Sook Yun",
+      "Xiaojie Tang",
+      "Lei Zhang",
+      "Yuanlong Li",
+      "Mingmei Xie",
+      "Peng Hu",
+      "Zehua Song",
+      "Franck Bassinot",
+      "Christophe Colin",
+      "Shiming Wan"
+    ],
+    "summary": "Nature Communications, Published online: 16 June 2026; <a href=\"https://www.nature.com/articles/s41467-026-74368-3\">doi:10.1038/s41467-026-74368-3</a>The study reveals that orbital-driven convection in the Indo-Pacific Warm Pool generates planetary Rossby waves. These waves propagate poleward, organizing a coherent, banded precipitation anomaly pattern across the Asia-Pacific region.",
+    "source": "Nature Communications",
+    "date": "2026-06-16",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-74667-9",
+    "title": "Catchment lithology controls net carbon balance along the Antarctic Peninsula",
+    "link": "https://www.nature.com/articles/s41467-026-74667-9",
+    "authors": [
+      "Songfan He",
+      "Xiaowen Zhang",
+      "Huanting Hu",
+      "Maojun Yan",
+      "Huiyuan Yang",
+      "Qiyue Gu",
+      "Thomas S. Bianchi",
+      "Xiaomei Xu",
+      "Xingqian Cui"
+    ],
+    "summary": "Nature Communications, Published online: 16 June 2026; <a href=\"https://www.nature.com/articles/s41467-026-74667-9\">doi:10.1038/s41467-026-74667-9</a>Thermochemical decomposition and carbon isotopes reveal lithological controls on petrogenic and biospheric organic carbon fluxes; while climate-driven ecosystem change may substantially enhance biospheric carbon sequestration in Antarctic fjords.",
+    "source": "Nature Communications",
+    "date": "2026-06-16",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43017-026-00803-0",
+    "title": "Formation and redox evolution of Earth’s early atmosphere and hydrosphere",
+    "link": "https://www.nature.com/articles/s43017-026-00803-0",
+    "authors": [
+      "Sara Vulpius",
+      "Eric Runge",
+      "Daniel Herwartz",
+      "Andreas Pack",
+      "Caroline Brachmann",
+      "Lena Noack"
+    ],
+    "summary": "Nature Reviews Earth &amp; Environment, Published online: 16 June 2026; <a href=\"https://www.nature.com/articles/s43017-026-00803-0\">doi:10.1038/s43017-026-00803-0</a>Understanding how Earth’s atmosphere and hydrosphere formed and evolved could help to explain how Earth became, and remains, habitable. This Review discusses the initial formation and redox evolution of Earth’s surface environments, with implications for other planetary bodies.",
+    "source": "Nature Reviews Earth & Environment",
+    "date": "2026-06-16",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-026-03732-4",
+    "title": "Global air quality and human health impacts of growing aircraft emissions",
+    "link": "https://www.nature.com/articles/s43247-026-03732-4",
+    "authors": [
+      "Flávio D. A. Quadros",
+      "Rick Nelen",
+      "Mirjam Snellen",
+      "Irene C. Dedoussi"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 16 June 2026; <a href=\"https://www.nature.com/articles/s43247-026-03732-4\">doi:10.1038/s43247-026-03732-4</a>Aircraft emissions can degrade air quality and result in excess deaths due to particulate matter and ozone, according to atmospheric chemistry transport model projections to 2040.",
+    "source": "Communications Earth & Environment",
+    "date": "2026-06-16",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-026-03761-z",
+    "title": "Irreversible climate changes driven by degree-years of temperature overshoot",
+    "link": "https://www.nature.com/articles/s43247-026-03761-z",
+    "authors": [
+      "Mitchell Dickau",
+      "Kirsten Zickfeld",
+      "H. Damon Matthews"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 16 June 2026; <a href=\"https://www.nature.com/articles/s43247-026-03761-z\">doi:10.1038/s43247-026-03761-z</a>Degree-years of temperature overshoot, which represent the time-integrated overshoot magnitude, are proportional to the outcome of overshoot in some slow-responding climate variables, revealed by experiments using an Earth system model.",
+    "source": "Communications Earth & Environment",
+    "date": "2026-06-16",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-026-03758-8",
+    "title": "Ubiquitous and expanding glacier algal blooms modelled around the Greenland Ice Sheet",
+    "link": "https://www.nature.com/articles/s43247-026-03758-8",
+    "authors": [
+      "Christopher J. Williamson",
+      "Andrew J. Tedstone"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 16 June 2026; <a href=\"https://www.nature.com/articles/s43247-026-03758-8\">doi:10.1038/s43247-026-03758-8</a>Glacier algal growth could occur around the entirety of the Greenland Ice Sheet margins regardless of the magnitude and duration of the melt season, suggests a Greenland-wide simulation of glacier algal blooms over the past two decades (2000–2022).",
+    "source": "Communications Earth & Environment",
+    "date": "2026-06-16",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-026-03677-8",
+    "title": "Coastal ecosystem degradation driven by decades of unregulated terrestrial mining",
+    "link": "https://www.nature.com/articles/s43247-026-03677-8",
+    "authors": [
+      "Mathisse Meyneng",
+      "Hugues Lemonnier",
+      "Dominique Ansquer",
+      "Florence Antypas",
+      "Nicolas Briant",
+      "Delphine Dissard",
+      "Axel Ehrhold",
+      "Thomas Haize",
+      "Gwenaël Jouet",
+      "Farid Juillot",
+      "Clémence Lavignon",
+      "Vladimir Mikryukov",
+      "Arthur Monjot",
+      "Pascal Le Roy",
+      "Sabine Schmidt",
+      "Leho Tedersoo",
+      "Raffaele Siano"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 16 June 2026; <a href=\"https://www.nature.com/articles/s43247-026-03677-8\">doi:10.1038/s43247-026-03677-8</a>Nickel mining in New Caledonia has progressively altered sediment run-off and microbial assemblages, according to analysis of a sediment core spanning ~1000 years of history.",
+    "source": "Communications Earth & Environment",
+    "date": "2026-06-16",
+    "sent": true
+  },
+  {
+    "id": "https://www.pnas.org/doi/abs/10.1073/pnas.2523984123?af=R",
+    "title": "Improved latitudinal carbon budgets from global airborne surveys",
+    "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2523984123?af=R",
+    "authors": [
+      "Britton B. StephensYuming JinColm SweeneyKathryn McKainBenjamin GaubertDavid F. BakerSourish BasuMichael BertolacciFrédéric ChevallierRóisín CommaneSean CrowellFeng DengMatthew S. JohnsonRalph F. KeelingJunjie LiuZhiqiang LiuSuman MaityEric J. MorganPrabir PatraSajeev PhilipSteven C. WofsyAndrew Zammit-Mangionahttps://ror.org/05cvfcr44NSF National Center for Atmospheric Research, Earth Observing Laboratory, Boulder, CO 80301bhttps://ror.org/01232eg66National Oceanic and Atmospheric Administration Global Monitoring Laboratory, Boulder, CO 80303chttps://ror.org/03k1gpj17Cooperative Institute for Research in the Atmosphere, Colorado State University, Fort Collins, CO 80521dhttps://ror.org/0171mag52NASA Goddard Space Flight Center, Global Modeling and Assimilation Office, Greenbelt, MD 20771ehttps://ror.org/042607708Earth System Science Interdisciplinary Center, College Park, MD 20740fhttps://ror.org/047272k79School of Physics, Mathematics and Computing, Mathematics and Statistics, University of Western Australia, Perth, WA 6009, Australiaghttps://ror.org/00jtmb277School of Mathematics and Applied Statistics, University of Wollongong, Wollongong, NSW 2522, Australiahhttps://ror.org/03xjwb503Laboratoire des Sciences du Climat et de L’Environnement Institut Pierre Simon Laplace, Université Paris-Saclay, Gif-sur-Yvette 91191, Franceihttps://ror.org/02e2tgs60Department of Earth and Environmental Sciences, Lamont Doherty Earth Observatory, Palisades, NY 10964jhttps://ror.org/022kthw22Department of Earth and Environmental Sciences, University of Rochester, Rochester, NY 14627khttps://ror.org/03dbr7087Department of Physics, University of Toronto, Toronto, ON M5S 1A7, Canadalhttps://ror.org/02acart68Earth Science Division, NASA Ames Research Center, Mountain View, CA 94035mhttps://ror.org/04v7hvq31Geosciences Research Division, Scripps Institution of Oceanography, La Jolla, CA 92093-0244nhttps://ror.org/05dxps055Jet Propulsion Laboratory, California Institute of Technology, Pasadena, CA 91011ohttps://ror.org/05dxps055Division of Geological and Planetary Sciences, California Institute of Technology, Pasadena, CA 91125phttps://ror.org/00bx3rb98China Meteorological Administration Key Open Laboratory of Transforming Climate Resources to Economy, Chongqing Institute of Meteorological Sciences, Chongqing 401147, Chinaqhttps://ror.org/059qg2m13Japan Agency for Marine-Earth Science and Technology, Yokohama Institute for Earth Sciences, Kanazawa-ku, Yokohama, Kanagawa, 236-0001, Japanrhttps://ror.org/02hw5fp67Earth System Division, National Institute for Environmental Studies, Tsukuba, Ibaraki 305-8506, Japanshttps://ror.org/049tgcd06Centre for Atmospheric Sciences, Indian Institute of Technology Delhi, New Delhi 110016, Indiathttps://ror.org/03vek6s52School of Engineering and Applied Sciences, Harvard University, Cambridge, MA 02138uhttps://ror.org/03r8z3t63School of Mathematics and Statistics, University of New South Wales, Sydney, NSW 2033, Australia"
+    ],
+    "summary": "Proceedings of the National Academy of Sciences, Volume 123, Issue 25, June 2026. <br />SignificanceWe show that large scale CO2patterns measured by global airborne surveys are able to discriminate among a collection of diverse atmospheric models that estimate total CO2fluxes. In combination with independent ocean and fossil-fuel flux ...",
+    "source": "Proceedings of the National Academy of Sciences: Earth, Atmospheric, and Planetary Sciences",
+    "date": "2026-06-15",
+    "sent": true
+  },
+  {
+    "id": "https://www.pnas.org/doi/abs/10.1073/pnas.2601235123?af=R",
+    "title": "Multidecadal preindustrial methane variability can be explained by noise in the source–sink imbalance",
+    "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2601235123?af=R",
+    "authors": [
+      "Eric J. MeiGregory J. HakimCristian ProistosescuThomas K. BauskaChristo BuizertAlexander J. Turnerahttps://ror.org/00cvxb145Department of Atmospheric and Climate Science, University of Washington, Seattle, WA 98195bhttps://ror.org/047426m28Department of Climate, Meteorology, and Atmospheric Sciences, University of Illinois at Urbana Champaign, Urbana, IL 61820chttps://ror.org/047426m28Department of Earth Sciences and Environmental Change, University of Illinois at Urbana Champaign, Urbana, IL 61820dhttps://ror.org/01rhff309British Antarctic Survey, Cambridge CB3 0ET, United Kingdomehttps://ror.org/00ysfqy60College of Earth, Ocean, and Atmospheric Sciences, Oregon State University, Corvallis, OR 97331"
+    ],
+    "summary": "Proceedings of the National Academy of Sciences, Volume 123, Issue 25, June 2026. <br />SignificancePrior to the Industrial Revolution, ice core methane records show multidecadal-to-centennial variability usually attributed to slow climate changes or human activity. We show that this variability can instead arise from fast, random ...",
+    "source": "Proceedings of the National Academy of Sciences: Earth, Atmospheric, and Planetary Sciences",
+    "date": "2026-06-15",
+    "sent": true
+  },
+  {
+    "id": "https://www.pnas.org/doi/abs/10.1073/pnas.2619149123?af=R",
+    "title": "Correction for Lollar and Warr, Decadal record of continental H2 reservoirs reveals potential for subsurface microbial life and natural H2 exploration",
+    "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2619149123?af=R",
+    "authors": [],
+    "summary": "Proceedings of the National Academy of Sciences, Volume 123, Issue 25, June 2026. <br />",
+    "source": "Proceedings of the National Academy of Sciences: Earth, Atmospheric, and Planetary Sciences",
+    "date": "2026-06-15",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012821X26003390",
+    "title": "Ohmic and viscous damping of inner core translational oscillations",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012821X26003390?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: 15 September 2026<b>Source:</b> Earth and Planetary Science Letters, Volume 690Author(s): Paolo Personnettaz, David Cébron, Nathanaël Schaeffer, Renaud Deguen, Mioara Mandea",
+    "source": "ScienceDirect Publication: Earth and Planetary Science Letters",
+    "date": "2026-06-17",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012821X26003560",
+    "title": "Caldera faults can be sintered volcanic conduits without necessarily requiring catastrophic rapid slip events",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012821X26003560?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: 15 September 2026<b>Source:</b> Earth and Planetary Science Letters, Volume 690Author(s): Frankie L. Haywood, Fabian B. Wadsworth, Madeleine C.S. Humphreys, Dave McGarvie, Richard J. Brown, Alexander A. Iveson, Leon Bowen, Annabelle Foster",
+    "source": "ScienceDirect Publication: Earth and Planetary Science Letters",
+    "date": "2026-06-17",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL122312",
+    "title": "ERA5‐Based Convective Environments Favorable for Tornadoes in Southern China",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL122312?af=R",
+    "authors": [
+      "Kanglong Cai, \nLanqiang Bai, \nQian Liu, \nGuixing Chen, \nZeyu Zhang, \nWenxiu Zhong"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 12, 28 June 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-06-15",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL120251",
+    "title": "Ridge Migration and Plate Boundary Readjustments at the Rodriguez Triple Junction",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL120251?af=R",
+    "authors": [
+      "A. Jegen, \nD. Lange, \nA. Dannowski, \nM. Engels, \nH. Kopp, \nU. Barckhausen, \nI. Grevemeyer"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 12, 28 June 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-06-15",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL119006",
+    "title": "Eastern Pacific Corals Track Robust ENSO Variability and Stronger La Niña Events 4,000 Years Before Present",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL119006?af=R",
+    "authors": [
+      "C. J. Tripp, \nJ. E. Cole, \nA. W. Tudhope, \nK. A. Dyez, \nD. M. Thompson, \nR. L. Edwards"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 12, 28 June 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-06-15",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025JB033337",
+    "title": "Middle‐Lower Crustal Deformation Drives Differential Vertical Motion Along the Western Margin of the Ordos Block: Constraints From Full‐Waveform Inversion",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JB033337?af=R",
+    "authors": [
+      "Junyi Li, \nWeisheng Hou, \nWenjun Zheng, \nShuo Zhang, \nHejun Zhu"
+    ],
+    "summary": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 6, June 2026.",
+    "source": "Wiley: Journal of Geophysical Research: Solid Earth: Table of Contents",
+    "date": "2026-06-15",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026JB033790",
+    "title": "Changes in Latitude of Pacific Hotspots From ∼56 Ma to ∼48 Ma Inferred From Pacific Plate Apparent Polar Wander Before and After Chron C24r: Implications for True Polar Wander",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026JB033790?af=R",
+    "authors": [
+      "Daniel Woodworth, \nRichard G. Gordon, \nKevin M. Gaastra"
+    ],
+    "summary": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 6, June 2026.",
+    "source": "Wiley: Journal of Geophysical Research: Solid Earth: Table of Contents",
+    "date": "2026-06-15",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0016703726003893",
+    "title": "Percolative core formation in oxidized planetesimals – I: experiments on melt migration in olivine aggregates",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0016703726003893?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 15 June 2026<b>Source:</b> Geochimica et Cosmochimica ActaAuthor(s): Varun Manilal, Kyusei Tsuno, Hideharu Kuwahara, Axel Wittmann, Anne Pommier, Christy Till, Damanveer S. Grewal",
+    "source": "ScienceDirect Publication: Geochimica et Cosmochimica Acta",
+    "date": "2026-06-17",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S001670372600387X",
+    "title": "The role of fluorine in the formation of hydrothermal beryllium deposits: insights from experiments and modeling",
+    "link": "https://www.sciencedirect.com/science/article/pii/S001670372600387X?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 15 June 2026<b>Source:</b> Geochimica et Cosmochimica ActaAuthor(s): Lu Zhang, Shunda Yuan, Jiaxin Wang, Qi Zhang, Yazhou Fu, Jingwen Mao",
+    "source": "ScienceDirect Publication: Geochimica et Cosmochimica Acta",
+    "date": "2026-06-17",
+    "sent": true
+  },
+  {
+    "id": "https://pubs.geoscienceworld.org/gsa/gsabulletin/article/doi/10.1130/B38579.1/731831/The-Great-Salt-Lake-Utah-USA-acoustic-and",
+    "title": "The Great Salt Lake (Utah, USA) acoustic and sedimentary archive of Wasatch Front earthquakes",
+    "link": "https://pubs.geoscienceworld.org/gsa/gsabulletin/article/doi/10.1130/B38579.1/731831/The-Great-Salt-Lake-Utah-USA-acoustic-and",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\">As the largest low-relief basin in the western United States, the Great Salt Lake offers an opportunity to explore acoustic and sedimentary archives of earthquake ruptures in a shallow terminal basin. Here, we use subbottom compressed high intensity radiated pulse (Chirp) profiles and sedimentary cores to address questions related to how Great Salt Lake sediments respond to surface rupture and earthquake shaking and whether the lake is sensitive to both Great Salt Lake fault (GSLF) and Wasatch fault zone (WFZ) earthquakes. Chirp profiles reveal laterally continuous seismic stratigraphy with vertically displaced strata, onlap surfaces, and growth stratigraphy produced by GSLF surface ruptures. We identify and date two ruptures on the Fremont Island section and three on the Antelope Island section; temporal overlap of these ruptures supports synchronous rupture of both sections. Combined with previous data, our results yield a record of four Holocene surface-rupturing (M<sub>W</sub> 6.9−7.3) earthquakes on the GSLF with a mean recurrence of ∼3.2 k.y. Sediment cores include ≤41-cm-thick, massive, homogeneous to normally graded disturbance beds that interrupt laminated bioclastic sediment. Disturbance bed correlations yield four lacustrine earthquake deposits since ca. 1.7 ka; the youngest possibly records the most recent GSLF surface rupture whereas older deposits were likely produced by WFZ earthquakes. Modeled historical earthquakes yield a Great Salt Lake sediment disturbance shaking threshold of MMI ∼VI, controlled in part by the lake-bottom expression of the GSLF scarp. Our integration of primary (fault-related) and secondary (shaking-related) earthquake evidence improves our understanding of sediment disturbance processes and the archival potential of low-relief lake basins.</span>",
+    "source": "GSA Bulletin Advance Access",
+    "date": "2026-06-16",
+    "sent": true
+  },
+  {
+    "id": "http://doi.org/10.1093/nsr/nwag365",
+    "title": "A general data-driven framework for scalable electron tomography",
+    "link": "https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwag365/8708937?rss=1",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\"><div class=\"boxTitle\">Abstract</div>Electron tomography (ET) is crucial for determining the three-dimensional (3D) structure of materials in real space but challenging due to the inherent missing-wedge, intensive-dose, and limited depth-of-field. Although deep learning can address these challenges in principle, the scarcity of ET data severely limits its application. In this study, we propose a general data-driven ET reconstruction framework that uses extensive and readily available random high-entropy projections to construct large-scale datasets. By integrating both real structural priors and depth-dependent imaging physics, the framework enables high-quality 3D reconstruction independent of specific materials or resolutions. Using this strategy, we successfully determine the 3D atomic structure of a 13-nm Pt nanoparticle containing 52 138 atoms, achieving a root-mean-square displacement of 22.6 pm; and the projection consistency error is significantly reduced, effectively expanding the depth-of-field limit of atomic-scale ET.</span>",
+    "source": "National Science Review Advance Access",
+    "date": "2026-06-16",
+    "sent": true
+  },
+  {
+    "id": "http://doi.org/10.1093/nsr/nwag374",
+    "title": "The Portuguese man-of-war genome reveals the genetic basis of medusa loss and sea–air interface adaptation",
+    "link": "https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwag374/8708935?rss=1",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\"><div class=\"boxTitle\">Abstract</div>The most conspicuous Portuguese man-of-war, <span style=\"font-style: italic;\">Physalia</span> sp., is a neustonic hydromedusa that lacks a free-living medusa stage and features a gas-filled float and venomous tentacles. However, the molecular basis of its specialized niche adaptation remains unknown. Herein, we generated chromosome-level genomes of two neustonic hydromedusae, <span style=\"font-style: italic;\">P. utriculus</span> and <span style=\"font-style: italic;\">Porpita porpita</span> (with pelagic medusae). Extensive contractions of neural and muscular gene families were observed for <span style=\"font-style: italic;\">P. utriculus</span>. Loss of <span style=\"font-style: italic;\">Hox1</span> was correlated with the absence of free-living medusae, and <span style=\"font-style: italic;\">Hox1</span> knockdown caused abnormal medusa development, suggesting that <span style=\"font-style: italic;\">Hox1</span> is a key regulator of medusa development in medusazoans. Since it has lost the free-swimming medusa stage, <span style=\"font-style: italic;\">P. utriculus</span> relies on its gas-filled float and toxic tentacles to occupy its ecological niche. Single-cell transcriptomics revealed the mechanism of carbon monoxide production for float inflation. Neurotoxic, cytotoxic, and hemolytic metabolites and toxins were detected in tentacles, and the expanded <span style=\"font-style: italic;\">CtrA</span> gene with toxin domains may enhance its predation and survival. These findings reveal the genetic and cellular adaptations of <span style=\"font-style: italic;\">Physalia</span> to the sea–air interface, elucidating the crucial role that key evolutionary innovations play in shaping unique survival strategies in dynamic marine environments.</span>",
+    "source": "National Science Review Advance Access",
+    "date": "2026-06-16",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025TC009254",
+    "title": "Basement Geometry and Cover‐Basement Relationships in the Central‐Western Jaca‐Pamplona Basin (Southern Pyrenees): Along‐Strike Variations and Role of Structural Inheritance",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025TC009254?af=R",
+    "authors": [
+      "Esther Izquierdo‐Llavall, \nRosibeth Toro, \nAntonio Casas, \nJosep Anton Muñoz, \nEmilio L. Pueyo"
+    ],
+    "summary": "Tectonics, Volume 45, Issue 6, June 2026.",
+    "source": "Wiley: Tectonics: Table of Contents",
+    "date": "2026-06-15",
+    "sent": true
+  },
+  {
     "id": "https://www.nature.com/articles/s41561-026-02000-6",
     "title": "Tracking hydrogen migration in iron under Earth’s core conditions",
     "link": "https://www.nature.com/articles/s41561-026-02000-6",
