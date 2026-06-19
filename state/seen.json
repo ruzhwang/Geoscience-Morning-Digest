@@ -1,5 +1,1014 @@
 [
   {
+    "id": "https://www.nature.com/articles/d41586-026-01925-7",
+    "title": "Stem cells banish severe autoimmune disease for 15 years",
+    "link": "https://www.nature.com/articles/d41586-026-01925-7",
+    "authors": [
+      "Rachel Fieldhouse"
+    ],
+    "summary": "Nature, Published online: 19 June 2026; <a href=\"https://www.nature.com/articles/d41586-026-01925-7\">doi:10.1038/d41586-026-01925-7</a>Two people were the first to receive the therapy for a condition that damages the spinal cord and optic nerve.",
+    "source": "Nature",
+    "date": "2026-06-19",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-01869-y",
+    "title": "Clues to the sloth’s sloth found in its genome",
+    "link": "https://www.nature.com/articles/d41586-026-01869-y",
+    "authors": [],
+    "summary": "Nature, Published online: 18 June 2026; <a href=\"https://www.nature.com/articles/d41586-026-01869-y\">doi:10.1038/d41586-026-01869-y</a>Sequencing shows duplication of genes that affect mitochondria, the organelles that provide energy for cells.",
+    "source": "Nature",
+    "date": "2026-06-18",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-01871-4",
+    "title": "It slices! It dices! Sashimi-Bot handles seafood with ease",
+    "link": "https://www.nature.com/articles/d41586-026-01871-4",
+    "authors": [],
+    "summary": "Nature, Published online: 18 June 2026; <a href=\"https://www.nature.com/articles/d41586-026-01871-4\">doi:10.1038/d41586-026-01871-4</a>Fillets of raw fish are irregular in shape and floppy in texture, but a robot with three arms has learnt how to manipulate a salmon loin.",
+    "source": "Nature",
+    "date": "2026-06-18",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-01947-1",
+    "title": "Is AI ruining our skills? Early results are in — and they’re not good",
+    "link": "https://www.nature.com/articles/d41586-026-01947-1",
+    "authors": [
+      "Mariana Lenharo"
+    ],
+    "summary": "Nature, Published online: 18 June 2026; <a href=\"https://www.nature.com/articles/d41586-026-01947-1\">doi:10.1038/d41586-026-01947-1</a>Reliance on artificial-intelligence tools degrades the abilities of physicians and software engineers, studies show.",
+    "source": "Nature",
+    "date": "2026-06-18",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-01841-w",
+    "title": "Brexit tore apart European science — now the research rifts are healing",
+    "link": "https://www.nature.com/articles/d41586-026-01841-w",
+    "authors": [
+      "Elizabeth Gibney"
+    ],
+    "summary": "Nature, Published online: 18 June 2026; <a href=\"https://www.nature.com/articles/d41586-026-01841-w\">doi:10.1038/d41586-026-01841-w</a>The UK’s share of EU research funding is climbing, but lost networks will be harder to recover.",
+    "source": "Nature",
+    "date": "2026-06-18",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-01910-0",
+    "title": "Cell transplant across the tree of life hints at how animals emerged",
+    "link": "https://www.nature.com/articles/d41586-026-01910-0",
+    "authors": [
+      "Ewen Callaway"
+    ],
+    "summary": "Nature, Published online: 18 June 2026; <a href=\"https://www.nature.com/articles/d41586-026-01910-0\">doi:10.1038/d41586-026-01910-0</a>Embryonic ‘organizer cells’ can tell embryos of various phyla what kind of body to build.",
+    "source": "Nature",
+    "date": "2026-06-18",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-01960-4",
+    "title": "Daily briefing: The proteins that protect us from deadly mutations",
+    "link": "https://www.nature.com/articles/d41586-026-01960-4",
+    "authors": [
+      "Flora Graham"
+    ],
+    "summary": "Nature, Published online: 18 June 2026; <a href=\"https://www.nature.com/articles/d41586-026-01960-4\">doi:10.1038/d41586-026-01960-4</a>Proteins that ‘buffer’ the effects of mutations could help to treat diseases such as cancers. Plus, goats can follow human voices and the battle over a key ocean observatory project in the United States.",
+    "source": "Nature",
+    "date": "2026-06-18",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/science.aeh4754?af=R",
+    "title": "Making the most of your time at work",
+    "link": "https://www.science.org/doi/abs/10.1126/science.aeh4754?af=R",
+    "authors": [
+      "Jonathan Wai"
+    ],
+    "summary": "Science, Volume 392, Issue 6804, Page 1248-1248, June 2026. <br />",
+    "source": "AAAS: Science: Table of Contents",
+    "date": "2026-06-18",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/science.aeh9238?af=R",
+    "title": "Reanimating ELIZA, the world’s first chatbot",
+    "link": "https://www.science.org/doi/abs/10.1126/science.aeh9238?af=R",
+    "authors": [
+      "Simson L. Garfinkel"
+    ],
+    "summary": "Science, Volume 392, Issue 6804, Page 1249-1249, June 2026. <br />",
+    "source": "AAAS: Science: Table of Contents",
+    "date": "2026-06-18",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/science.ads7910?af=R",
+    "title": "CD4+ T cells impair tumor growth through IL-3 and TNF-dependent vascular damage",
+    "link": "https://www.science.org/doi/abs/10.1126/science.ads7910?af=R",
+    "authors": [
+      "Qiaoshi Lian, Jia Nie, Jatinder Singh, Qiang Chen, Jennifer Matta, Waipan Chan, Mariah Balmaceno-Criss, Melanie S. Vacchio, Weiming Yu, Alexander D. Clark, Elijah Edmondson, Michael C. Kelly, Ronald N. Germain, Rémy Bosselut"
+    ],
+    "summary": "Science, Volume 392, Issue 6804, June 2026. <br />",
+    "source": "AAAS: Science: Table of Contents",
+    "date": "2026-06-18",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/science.adx1369?af=R",
+    "title": "Brain-wide topographic coordination of rotating waves",
+    "link": "https://www.science.org/doi/abs/10.1126/science.adx1369?af=R",
+    "authors": [
+      "Zhiwen Ye, Alexander E. Ladd, Nancy MacKenzie, Ljuvica Kolich, Anna J. Li, Daniel Birman, Matthew S. Bull, Tanya L. Daigle, Bosiljka Tasic, Hongkui Zeng, Nicholas A. Steinmetz"
+    ],
+    "summary": "Science, Volume 392, Issue 6804, June 2026. <br />",
+    "source": "AAAS: Science: Table of Contents",
+    "date": "2026-06-18",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/science.aea0869?af=R",
+    "title": "Scalable fabrication of COF membranes for aliphatic/aromatic separation of crude oil",
+    "link": "https://www.science.org/doi/abs/10.1126/science.aea0869?af=R",
+    "authors": [
+      "Li Cao, Shuhao An, Bingbing Yuan, Zhen Li, Vasilios G. Samaras, Ting Xu, Xixiang Zhang, Huabin Zhang, Zhiping Lai"
+    ],
+    "summary": "Science, Volume 392, Issue 6804, Page 1262-1267, June 2026. <br />",
+    "source": "AAAS: Science: Table of Contents",
+    "date": "2026-06-18",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/science.aea4041?af=R",
+    "title": "Maternal trans-vaccenic acid shapes neonatal T cell development and early-life immune imprinting",
+    "link": "https://www.science.org/doi/abs/10.1126/science.aea4041?af=R",
+    "authors": [
+      "Hao Fan, Zhong Zheng, Kaitlyn Oliphant, Jiacheng Li, Ryan Mack, Cheng-Wei Ju, Brandon Trandai, Jiayi Tu, Freya Q. Zhang, Rukang Zhang, Zhicheng Xie, Chunzhao Yin, Chufan Cai, Megan S. Kennedy, Tess McNeely, Candace Cham, Hardik Shah, Lei Dong, Rui Su, Camilia R. Martin, Brian T. Layden, Robert B. Hamanaka, Gökhan M. Mutlu, Eugene B. Chang, Jiwang Zhang, Hongbo Chi, Erika C. Claud, Chuan He, Jing Chen"
+    ],
+    "summary": "Science, Volume 392, Issue 6804, June 2026. <br />",
+    "source": "AAAS: Science: Table of Contents",
+    "date": "2026-06-18",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/science.aeb6410?af=R",
+    "title": "Decoupling of global metabolic flux and proteome partitioning in bacteria",
+    "link": "https://www.science.org/doi/abs/10.1126/science.aeb6410?af=R",
+    "authors": [
+      "Ryan Thiermann, Jin Yang, Aniket Zodage, Fukang She, Danny K. Fung, Taylor Rytlewski, Farshad Abdollah-Nia, Fangzhou Xiao, John T. Sauls, Sarah Cox, Zulfar Ghulam-Jelani, Victoria Castillo, Quinn A. Paulsen, David M. Stevenson, Daniel Amador-Noguez, James R. Williamson, Jue D. Wang, Suckjoon Jun"
+    ],
+    "summary": "Science, Volume 392, Issue 6804, June 2026. <br />",
+    "source": "AAAS: Science: Table of Contents",
+    "date": "2026-06-18",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/science.aeb7635?af=R",
+    "title": "Direct development of stem tetrapods across the fin-to-limb transition",
+    "link": "https://www.science.org/doi/abs/10.1126/science.aeb7635?af=R",
+    "authors": [
+      "Jason D. Pardo and Arjan Mann"
+    ],
+    "summary": "Science, Volume 392, Issue 6804, Page 1292-1296, June 2026. <br />",
+    "source": "AAAS: Science: Table of Contents",
+    "date": "2026-06-18",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/science.aec0503?af=R",
+    "title": "The Lucy flyby of (52246) Donaldjohanson: A bilobed asteroid with tumbling rotation",
+    "link": "https://www.science.org/doi/abs/10.1126/science.aec0503?af=R",
+    "authors": [
+      "Simone Marchi, Harold F. Levison, Keith S. Noll, John R. Spencer, Thomas S. Statler, Olivier S. Barnouin, James F. Bell, Edward B. Bierhaus, Richard Binzel, William F. Bottke, Daniel Britt, Michael E. Brown, Marc W. Buie, Philip R. Christensen, Neil Dello Russo, Joshua P. Emery, William M. Grundy, Victoria E. Hamilton, Carly Howett, Hannah H. Kaplan, Katherine Kretke, Tod R. Lauer, Brian H. May, Stefano Mottola, Catherine B. Olkin, Martin Pätzold, Joel Wm. Parker, Frank Preusker, Silvia Protopapa, Dennis C. Reuter, Stuart J. Robbins, Julien Salmon, Amy A. Simon, S. Alan Stern, Jessica M. Sunshine, David Vokrouhlický, Harold A. Weaver, Harrison Agrusa, Emily S. Costello, Masatoshi Hirabayashi, Fiona Nichols-Fleming, Jennifer E. C. Scully, Anne Verbiscer, Coralie Adam, John Andrews, Kevin E. Berry, Emma Birath, Rich Burns, Russell Carpenter, Mark Effertz, Kristen Francis, Jeroen Geeraert, Sheila Gray, Katie Hegedus, David Kaufmann, Brian A. Keeney, Thomas Kennedy, Jim McAdams, Matthew Montanaro, Jon Pineau, Devin Poland, Eric Sahr, Ishita Solanki, Dale Stanbridge, Brian Sutter, Michael Vincent"
+    ],
+    "summary": "Science, Volume 392, Issue 6804, Page 1287-1291, June 2026. <br />",
+    "source": "AAAS: Science: Table of Contents",
+    "date": "2026-06-18",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/science.aec4995?af=R",
+    "title": "Strain-induced fully coherent triphase nanoarchitecture in refractory high-entropy alloys",
+    "link": "https://www.science.org/doi/abs/10.1126/science.aec4995?af=R",
+    "authors": [
+      "Yu Zhang, Zhiqiao Li, Jin Xie, Xiaojun Zhao, Houwen Chen, Yunzhi Wang, Jian-Feng Nie"
+    ],
+    "summary": "Science, Volume 392, Issue 6804, Page 1308-1312, June 2026. <br />",
+    "source": "AAAS: Science: Table of Contents",
+    "date": "2026-06-18",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/science.aed1111?af=R",
+    "title": "Ultrathin polymer membranes with locked intrinsic microporosity for hydrocarbon fractionation",
+    "link": "https://www.science.org/doi/abs/10.1126/science.aed1111?af=R",
+    "authors": [
+      "Adam Oxley, Chunchun Ye, Seok Ju Han, Guoke Zhao, Yihao Guo, Xin Shi, Jie Liu, Keenan Smith, Mona Sarter, Lakshmeesha Upadhyaya, Shanshan Hong, Vasilios G. Samaras, Qin Qian, Yanan Liu, Gary S. Nichol, Yiqun Liu, Suzana P. Nunes, Fabrizia Foglia, Jianwen Jiang, Anqi Wang, Neil B. McKeown, Andrew G. Livingston, Zhiwei Jiang"
+    ],
+    "summary": "Science, Volume 392, Issue 6804, Page 1268-1273, June 2026. <br />",
+    "source": "AAAS: Science: Table of Contents",
+    "date": "2026-06-18",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/science.aed1493?af=R",
+    "title": "Changes in wildlife activity patterns in response to war in Ukraine",
+    "link": "https://www.science.org/doi/abs/10.1126/science.aed1493?af=R",
+    "authors": [
+      "Svitlana Kudrenko, Richard Bischof, Andreas Zedrosser, Nuria Selva, Kateryna Korepanova, Denys Vyshnevskiy, Martin Gahbauer, Serhii Obrizan, Serhii Domashevskiy, Oleksandr Borsuk, Alona Varukha, Marco Heurich"
+    ],
+    "summary": "Science, Volume 392, Issue 6804, Page 1282-1286, June 2026. <br />",
+    "source": "AAAS: Science: Table of Contents",
+    "date": "2026-06-18",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/science.aed2953?af=R",
+    "title": "Viola seed pod architecture shapes sequential, force-augmented pinching",
+    "link": "https://www.science.org/doi/abs/10.1126/science.aed2953?af=R",
+    "authors": [
+      "Cheongsan Kim, Jihyun Won, Donghyeon Kim, Sohyun Jung, Ho-Young Kim, Youbong Hyun"
+    ],
+    "summary": "Science, Volume 392, Issue 6804, Page 1302-1307, June 2026. <br />",
+    "source": "AAAS: Science: Table of Contents",
+    "date": "2026-06-18",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/science.aea2535?af=R",
+    "title": "Lamprey 3D single-cell transcriptomics reveals ancestral and specialized features of the vertebrate brain",
+    "link": "https://www.science.org/doi/abs/10.1126/science.aea2535?af=R",
+    "authors": [
+      "Haixu Wu, Duoyuan Chen, Jun Li, Tao Zhou, Zhenkun Zhuang, Zhiwei Niu, Zeyu Du, Yongjie Chen, Shunqin Chuan, Chunyan Xu, Xun Liao, Xiaoyu Meng, Jiali Lu, Wenxue Cui, Youning Lin, Fubaoqian Huang, Kuo Liao, Yan Liu, Tao Yang, Jing Chen, Hui Wang, Zhiqiang Dong, Longqi Liu, Xiaodong Fang, Xun Xu, Qingwei Li, Yue Pang, Shiping Liu, Bing Su"
+    ],
+    "summary": "Science, Volume 392, Issue 6804, June 2026. <br />",
+    "source": "AAAS: Science: Table of Contents",
+    "date": "2026-06-18",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/science.aec4190?af=R",
+    "title": "ScS-triggered slip on megathrust interfaces after the 2011 MW 9.0 Tohoku-Oki earthquake",
+    "link": "https://www.science.org/doi/abs/10.1126/science.aec4190?af=R",
+    "authors": [
+      "Sunyoung Park, Hiroo Kanamori, Luis Rivera"
+    ],
+    "summary": "Science, Volume 392, Issue 6804, Page 1297-1301, June 2026. <br />",
+    "source": "AAAS: Science: Table of Contents",
+    "date": "2026-06-18",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/science.aea4922?af=R",
+    "title": "Age and early life adversity shape heterogeneity of the epigenome across tissues in macaques",
+    "link": "https://www.science.org/doi/abs/10.1126/science.aea4922?af=R",
+    "authors": [
+      "Baptiste Sadoughi, Rachel M. Petersen, Sam K. Patterson, Elizabeth Slikas, Christine Adjangba, Nicholas Ryan, Christina E. Costa, Laura E. Newman, Marina M. Watowich, Cameron R. Kelsey, Ashlee Greenier, Elisabeth A. Goldman, Josué E. Negrón-Del Valle, Daniel Phillips, Indya Thompson, Samuel E. Bauman Surratt, Olga González, Nicole Compo, Armando Burgos, Cayo Biobank Research Unit‡, Alex R. DeCasien, Kenneth L. Chiou, Christopher S. Walker, Angelina V. Ruiz Lambides, Melween I. Martínez, Kirstin N. Sterner, Amanda D. Melin, Lauren J. N. Brent, James P. Higham, Michael J. Montague, Michael L. Platt, Noah Snyder-Mackler, Amanda J. LeaSusan C. Antón, Lauren J. N. Brent, James P. Higham, Melween I. Martínez, Amanda D. Melin, Michael J. Montague, Michael L. Platt, Jerome Sallet, Noah Snyder-MacklerCayo Biobank Research UnitSusan C. Antón, Lauren J. N. Brent, James P. Higham, Melween I. Martínez, Amanda D. Melin, Michael J. Montague, Michael L. Platt, Jerome Sallet, Noah Snyder-Mackler"
+    ],
+    "summary": "Science, Volume 392, Issue 6804, June 2026. <br />",
+    "source": "AAAS: Science: Table of Contents",
+    "date": "2026-06-18",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/science.aec6396?af=R",
+    "title": "Induction of broadly neutralizing HIV antibodies by a two-step mechanism informs vaccine design",
+    "link": "https://www.science.org/doi/abs/10.1126/science.aec6396?af=R",
+    "authors": [
+      "Ashwin N. Skelly, Harry B. Gristick, Hui Li, Edem Gavor, Andrew J. Connell, Edward F. Kreider, Lorie Marchitto, Michael P. Hogarty, Maddy L. Newby, Joel D. Allen, Weimin Liu, Anthony P. West, Kasirajan Ayyanathan, Mary S. Campion, Kaitlyn Winters, Colette G. Gordon, Rebecca A. Osbaldeston, Macy J. Akeley, Emily Lewis, Yingying Li, Ajay Singh, Kendra Cruickshank, Younghoon Park, Chengyan Zhao, Xuduo Li, Khaled Amereh, Elizabeth Van Itallie, John W. Carey, Amie Albertus, Andrew T. DeLaitsch, Jennifer R. Keeffe, Melinda G. Lituchy, Agnes A. Walsh, Daniel J. Morris, Rumi Habib, Frederic Bibollet-Ruche, Nitesh Mishra, Gabriel Avillion, Nicholas S. Koranda, Samantha J. Plante, Christian L. Martella, Jinery Lora, Eric J. D. Wang, Mark G. Lewis, Malcolm A. Martin, Michel C. Nussenzweig, Michael S. Seaman, Darrell J. Irvine, Kevin J. Wiehe, Barton F. Haynes, Kshitij Wagh, Bette Korber, Raiees Andrabi, Max Crispin, Drew Weissman, Pamela J. Bjorkman, Beatrice H. Hahn, George M. Shaw"
+    ],
+    "summary": "Science, Volume 392, Issue 6804, June 2026. <br />",
+    "source": "AAAS: Science: Table of Contents",
+    "date": "2026-06-18",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/science.aed1656?af=R",
+    "title": "Protein-templated synthesis of dinucleotide repeat DNA by an antiphage reverse transcriptase",
+    "link": "https://www.science.org/doi/abs/10.1126/science.aed1656?af=R",
+    "authors": [
+      "Pujuan Deng, Hyunbin Lee, Carlo Armijo, Haoqing Wang, Alex Gao"
+    ],
+    "summary": "Science, Volume 392, Issue 6804, Page 1274-1281, June 2026. <br />",
+    "source": "AAAS: Science: Table of Contents",
+    "date": "2026-04-16",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/science.aej7459?af=R",
+    "title": "In Other Journals",
+    "link": "https://www.science.org/doi/abs/10.1126/science.aej7459?af=R",
+    "authors": [
+      "Corinne Simonti, and Jesse Smith, Angela Hessler, L. Bryan Ray, Bianca Lopez, Priscilla N. Kelly, Corinne Simonti, Jake S. Yeston, and Yury Suleymanov"
+    ],
+    "summary": "Science, Volume 392, Issue 6804, Page 1253-1254, June 2026. <br />",
+    "source": "AAAS: Science: Table of Contents",
+    "date": "2026-06-18",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/science.aej7460?af=R",
+    "title": "Paws for thought",
+    "link": "https://www.science.org/doi/abs/10.1126/science.aej7460?af=R",
+    "authors": [
+      "Manuel Spitschan"
+    ],
+    "summary": "Science, Volume 392, Issue 6804, Page 1314-1314, June 2026. <br />",
+    "source": "AAAS: Science: Table of Contents",
+    "date": "2026-06-18",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/science.aef0941?af=R",
+    "title": "Tracking the roots of zoonoses",
+    "link": "https://www.science.org/doi/abs/10.1126/science.aef0941?af=R",
+    "authors": [
+      "Felix M. Key"
+    ],
+    "summary": "Science, Volume 392, Issue 6804, Page 1242-1243, June 2026. <br />",
+    "source": "AAAS: Science: Table of Contents",
+    "date": "2026-06-18",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/science.aei3106?af=R",
+    "title": "An HIV vaccine blueprint",
+    "link": "https://www.science.org/doi/abs/10.1126/science.aei3106?af=R",
+    "authors": [
+      "James Binley"
+    ],
+    "summary": "Science, Volume 392, Issue 6804, Page 1241-1242, June 2026. <br />",
+    "source": "AAAS: Science: Table of Contents",
+    "date": "2026-06-18",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/science.aei4111?af=R",
+    "title": "A metastable solid solution transforms into complex nanostructures",
+    "link": "https://www.science.org/doi/abs/10.1126/science.aei4111?af=R",
+    "authors": [
+      "Wenhao Sun and Amit Misra"
+    ],
+    "summary": "Science, Volume 392, Issue 6804, Page 1239-1240, June 2026. <br />",
+    "source": "AAAS: Science: Table of Contents",
+    "date": "2026-06-18",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/science.aei6084?af=R",
+    "title": "Violet seed propulsion inspires robot design",
+    "link": "https://www.science.org/doi/abs/10.1126/science.aei6084?af=R",
+    "authors": [
+      "S. N. Patek"
+    ],
+    "summary": "Science, Volume 392, Issue 6804, Page 1238-1239, June 2026. <br />",
+    "source": "AAAS: Science: Table of Contents",
+    "date": "2026-06-18",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/science.aeh7938?af=R",
+    "title": "Inheriting trauma, rethinking science",
+    "link": "https://www.science.org/doi/abs/10.1126/science.aeh7938?af=R",
+    "authors": [
+      "Rana Dajani"
+    ],
+    "summary": "Science, Volume 392, Issue 6804, Page 1251-1251, June 2026. <br />",
+    "source": "AAAS: Science: Table of Contents",
+    "date": "2026-06-18",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/science.aeh4940?af=R",
+    "title": "AI may raise the bar and thin the pipeline",
+    "link": "https://www.science.org/doi/abs/10.1126/science.aeh4940?af=R",
+    "authors": [
+      "Zhangxin (Frank) Liu"
+    ],
+    "summary": "Science, Volume 392, Issue 6804, Page 1250-1251, June 2026. <br />",
+    "source": "AAAS: Science: Table of Contents",
+    "date": "2026-06-18",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/science.aei1236?af=R",
+    "title": "Preserve EEOC data collection",
+    "link": "https://www.science.org/doi/abs/10.1126/science.aei1236?af=R",
+    "authors": [
+      "Fidan Ana Kurtulus, Edo Navot, and Donald Tomaskovic-Devey"
+    ],
+    "summary": "Science, Volume 392, Issue 6804, Page 1250-1250, June 2026. <br />",
+    "source": "AAAS: Science: Table of Contents",
+    "date": "2026-06-18",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/science.aej7910?af=R",
+    "title": "Hour of the wolf",
+    "link": "https://www.science.org/doi/abs/10.1126/science.aej7910?af=R",
+    "authors": [
+      "Gretchen Vogel"
+    ],
+    "summary": "Science, Volume 392, Issue 6804, Page 1232-1237, June 2026. <br />",
+    "source": "AAAS: Science: Table of Contents",
+    "date": "2026-06-18",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/science.aej7944?af=R",
+    "title": "Big Ebola outbreak puts research spotlight on little-known virus",
+    "link": "https://www.science.org/doi/abs/10.1126/science.aej7944?af=R",
+    "authors": [
+      "Kai Kupferschmidt"
+    ],
+    "summary": "Science, Volume 392, Issue 6804, Page 1222-1223, June 2026. <br />",
+    "source": "AAAS: Science: Table of Contents",
+    "date": "2026-06-18",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/science.aej7945?af=R",
+    "title": "New list of political jobs at science agencies called ‘weird and capricious’",
+    "link": "https://www.science.org/doi/abs/10.1126/science.aej7945?af=R",
+    "authors": [
+      "Jeffrey Mervis"
+    ],
+    "summary": "Science, Volume 392, Issue 6804, Page 1224-1225, June 2026. <br />",
+    "source": "AAAS: Science: Table of Contents",
+    "date": "2026-06-18",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/science.aej7946?af=R",
+    "title": "El Niño is here. It may be the strongest this century",
+    "link": "https://www.science.org/doi/abs/10.1126/science.aej7946?af=R",
+    "authors": [
+      "Hannah Richter"
+    ],
+    "summary": "Science, Volume 392, Issue 6804, Page 1226-1227, June 2026. <br />",
+    "source": "AAAS: Science: Table of Contents",
+    "date": "2026-06-18",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/science.aej7947?af=R",
+    "title": "A space telescope is falling to Earth. NASA is racing to rescue it",
+    "link": "https://www.science.org/doi/abs/10.1126/science.aej7947?af=R",
+    "authors": [
+      "Daniel Clery"
+    ],
+    "summary": "Science, Volume 392, Issue 6804, Page 1227-1228, June 2026. <br />",
+    "source": "AAAS: Science: Table of Contents",
+    "date": "2026-06-18",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/science.aej7948?af=R",
+    "title": "AI finds legal loopholes, even when not asked",
+    "link": "https://www.science.org/doi/abs/10.1126/science.aej7948?af=R",
+    "authors": [
+      "Celina Zhao"
+    ],
+    "summary": "Science, Volume 392, Issue 6804, Page 1228-1229, June 2026. <br />",
+    "source": "AAAS: Science: Table of Contents",
+    "date": "2026-06-18",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/science.aej7951?af=R",
+    "title": "Unlikely chemistry of life may have originated on the ocean floor",
+    "link": "https://www.science.org/doi/abs/10.1126/science.aej7951?af=R",
+    "authors": [
+      "Viviane Callier"
+    ],
+    "summary": "Science, Volume 392, Issue 6804, Page 1230-1230, June 2026. <br />",
+    "source": "AAAS: Science: Table of Contents",
+    "date": "2026-06-18",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/science.aej7952?af=R",
+    "title": "Russia plans deep quest for ‘endless oil’",
+    "link": "https://www.science.org/doi/abs/10.1126/science.aej7952?af=R",
+    "authors": [
+      "Olga Dobrovidova"
+    ],
+    "summary": "Science, Volume 392, Issue 6804, Page 1231-1231, June 2026. <br />",
+    "source": "AAAS: Science: Table of Contents",
+    "date": "2026-06-18",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/science.aei6193?af=R",
+    "title": "Managing the pitfalls of private money",
+    "link": "https://www.science.org/doi/abs/10.1126/science.aei6193?af=R",
+    "authors": [
+      "Naomi Oreskes"
+    ],
+    "summary": "Science, Volume 392, Issue 6804, June 2026. <br />",
+    "source": "AAAS: Science: Table of Contents",
+    "date": "2026-06-18",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/science.aej6498?af=R",
+    "title": "Britain’s next research choice",
+    "link": "https://www.science.org/doi/abs/10.1126/science.aej6498?af=R",
+    "authors": [
+      "Ben Johnson and Will Stone"
+    ],
+    "summary": "Science, Volume 392, Issue 6804, Page 1217-1217, June 2026. <br />",
+    "source": "AAAS: Science: Table of Contents",
+    "date": "2026-06-18",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/science.aej3572?af=R",
+    "title": "Another red alert for American science",
+    "link": "https://www.science.org/doi/abs/10.1126/science.aej3572?af=R",
+    "authors": [
+      "H. Holden Thorp"
+    ],
+    "summary": "Science, Volume 392, Issue 6804, Page 1219-1219, June 2026. <br />",
+    "source": "AAAS: Science: Table of Contents",
+    "date": "2026-06-02",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/science.aef4214?af=R",
+    "title": "Scientific computing in an AI world",
+    "link": "https://www.science.org/doi/abs/10.1126/science.aef4214?af=R",
+    "authors": [
+      "Jack Dongarra, Daniel Reed, and Dennis Gannon"
+    ],
+    "summary": "Science, Volume 392, Issue 6804, Page 1244-1247, June 2026. <br />",
+    "source": "AAAS: Science: Table of Contents",
+    "date": "2026-06-18",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/science.aej7458?af=R",
+    "title": "In Science Journals",
+    "link": "https://www.science.org/doi/abs/10.1126/science.aej7458?af=R",
+    "authors": [
+      "Michael Funk, and Sacha Vignieri, Keith T. Smith, Corinne Simonti, Angela Hessler, Priscilla N. Kelly, Di Jiang, Julius Baeck, Diane Ebert-May, Sarah H. Ross, Marc S. Lavine, L. Bryan Ray, Mattia Maroso, Unnati Sonawala, Madeleine Seale, John F. Foley, and Christiana N. Fogg"
+    ],
+    "summary": "Science, Volume 392, Issue 6804, Page 1252-1254, June 2026. <br />",
+    "source": "AAAS: Science: Table of Contents",
+    "date": "2026-06-18",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41561-026-02018-w",
+    "title": "Negative core–mantle boundary heat flux beneath low-shear-wave-velocity provinces",
+    "link": "https://www.nature.com/articles/s41561-026-02018-w",
+    "authors": [
+      "Frédéric Deschamps",
+      "Joshua Martin Guerrero",
+      "Hagay Amit",
+      "Filipe Terra-Nova",
+      "Wen-Pin Hsieh"
+    ],
+    "summary": "Nature Geoscience, Published online: 17 June 2026; <a href=\"https://www.nature.com/articles/s41561-026-02018-w\">doi:10.1038/s41561-026-02018-w</a>Heat flux across the core–mantle boundary is laterally variable, and heat may flow into the core beneath hot piles of dense material such as large low-shear-wave-velocity provinces, according to mantle thermochemical convection models.",
+    "source": "Nature Geoscience",
+    "date": "2026-06-17",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-74549-0",
+    "title": "Entropy-driven order-to-disorder transition in perovskite anodes for high-performance solid oxide fuel cells",
+    "link": "https://www.nature.com/articles/s41467-026-74549-0",
+    "authors": [
+      "Gaige Wang",
+      "Rongzheng Ren",
+      "Xiaodan Yu",
+      "Chunming Xu",
+      "Jinshuo Qiao",
+      "Wang Sun",
+      "Zhenhua Wang",
+      "Kening Sun"
+    ],
+    "summary": "Nature Communications, Published online: 19 June 2026; <a href=\"https://www.nature.com/articles/s41467-026-74549-0\">doi:10.1038/s41467-026-74549-0</a>Carbon deposition and insufficient reactivity hinder the development of anodes in solid oxide fuel cells. Here, authors propose an entropy-induced order–disorder transition strategy to fabricate high-entropy anodes to attain improved catalytic activity and durable coking resistance.",
+    "source": "Nature Communications",
+    "date": "2026-06-19",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-74217-3",
+    "title": "Lateral septum GABAergic neurons mediate the effects of dexmedetomidine on allodynia and sleep in a male mouse model of neuropathic pain",
+    "link": "https://www.nature.com/articles/s41467-026-74217-3",
+    "authors": [
+      "Haiting Fan",
+      "Yingying Su",
+      "Jie Deng",
+      "Zhengkai Liang",
+      "Meiying Chen",
+      "Kaibin Wu",
+      "Peiwen Tang",
+      "Chen Wang",
+      "Deyi Kong",
+      "Ting Xu",
+      "Feixue Liang",
+      "Wenjun Xin",
+      "Yan Wu",
+      "Xia Feng"
+    ],
+    "summary": "Nature Communications, Published online: 19 June 2026; <a href=\"https://www.nature.com/articles/s41467-026-74217-3\">doi:10.1038/s41467-026-74217-3</a>The authors find that dexmedetomidine reduces hyperactivity of lateral septum GABAergic neurons, alleviating pain and sleep disruption induced by spared nerve injury in male mice via the downstream circuits in the lateral preoptic area.",
+    "source": "Nature Communications",
+    "date": "2026-06-19",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-73779-6",
+    "title": "Memorization in large language models in medicine prevalence characteristics and implications",
+    "link": "https://www.nature.com/articles/s41467-026-73779-6",
+    "authors": [
+      "Anran Li",
+      "Lingfei Qian",
+      "Mengmeng Du",
+      "Yu Yin",
+      "Yan Hu",
+      "Zihao Sun",
+      "Yihang Fu",
+      "Hyunjae Kim",
+      "Erica Stutz",
+      "Xuguang Ai",
+      "Qianqian Xie",
+      "Rui Zhu",
+      "Jimin Huang",
+      "Yifan Yang",
+      "Siru Liu",
+      "Yih-Chung Tham",
+      "Lucila Ohno-Machado",
+      "Hyunghoon Cho",
+      "Zhiyong Lu",
+      "Hua Xu",
+      "Qingyu Chen"
+    ],
+    "summary": "Nature Communications, Published online: 19 June 2026; <a href=\"https://www.nature.com/articles/s41467-026-73779-6\">doi:10.1038/s41467-026-73779-6</a>This study examines how large language models memorize medical data. It categorizes it into beneficial, uninformative, and harmful types. The work offers recommendations to enhance clinical utility and protect patient privacy.",
+    "source": "Nature Communications",
+    "date": "2026-06-19",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-74555-2",
+    "title": "All-2D vertical metal-semiconductor field-effect transistor with sub-10 nm channel and contact lengths",
+    "link": "https://www.nature.com/articles/s41467-026-74555-2",
+    "authors": [
+      "Yi Zhang",
+      "Xionghui Jia",
+      "Jiamin Chen",
+      "Minglai Li",
+      "Yanping Li",
+      "Lun Dai"
+    ],
+    "summary": "Nature Communications, Published online: 19 June 2026; <a href=\"https://www.nature.com/articles/s41467-026-74555-2\">doi:10.1038/s41467-026-74555-2</a>The simultaneous downscaling of the channel length (Lch) and contact length (Lc) remains an important challenge towards the industrialization of 2D transistors. Here, the authors report the realization of high-performance vertical metal–semiconductor field-effect transistors based on 2D MoS2 channels with sub-10 nm Lch and Lc.",
+    "source": "Nature Communications",
+    "date": "2026-06-19",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-74494-y",
+    "title": "Conformational landscape and ligand-dependent clustering of the human type 2 IP<sub>3</sub> receptor",
+    "link": "https://www.nature.com/articles/s41467-026-74494-y",
+    "authors": [
+      "Caifeng Liu",
+      "Yu-Jing Lan",
+      "Max G. Kushner",
+      "Qingyu Tang",
+      "Erkan Karakas"
+    ],
+    "summary": "Nature Communications, Published online: 19 June 2026; <a href=\"https://www.nature.com/articles/s41467-026-74494-y\">doi:10.1038/s41467-026-74494-y</a>Here the authors define the conformational landscape of human IP3R-2 and identify a ligand-dependent inter-channel interface that mediates receptor clustering during calcium signalling.",
+    "source": "Nature Communications",
+    "date": "2026-06-19",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-74612-w",
+    "title": "Paleorecords inform the limits of Indo-Pacific coral reef survival under accelerating sea-level rise",
+    "link": "https://www.nature.com/articles/s41467-026-74612-w",
+    "authors": [
+      "Riovie D. Ramos",
+      "Tanghua Li",
+      "Kyle M. Morgan"
+    ],
+    "summary": "Nature Communications, Published online: 19 June 2026; <a href=\"https://www.nature.com/articles/s41467-026-74612-w\">doi:10.1038/s41467-026-74612-w</a>Rising seas threaten the capacity of coral reefs to maintain their structure and ecosystem services on which millions depend. This study analyses Indo-Pacific Holocene fossil records to show that 76% of reefs risk submergence by 2100, with reef growth unlikely to be sufficient when sea-level rise exceeds 5.3 mm yr⁻¹.",
+    "source": "Nature Communications",
+    "date": "2026-06-19",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-74295-3",
+    "title": "Author Correction: Forecasting the dissemination of antibiotic resistance genes across bacterial genomes",
+    "link": "https://www.nature.com/articles/s41467-026-74295-3",
+    "authors": [
+      "Morten O. A. Sommer",
+      "Christian Munck"
+    ],
+    "summary": "Nature Communications, Published online: 18 June 2026; <a href=\"https://www.nature.com/articles/s41467-026-74295-3\">doi:10.1038/s41467-026-74295-3</a>Author Correction: Forecasting the dissemination of antibiotic resistance genes across bacterial genomes",
+    "source": "Nature Communications",
+    "date": "2026-06-18",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-73870-y",
+    "title": "Enantioselective construction of polychiral helical compounds via dynamic kinetic resolution",
+    "link": "https://www.nature.com/articles/s41467-026-73870-y",
+    "authors": [
+      "Chengwen Li",
+      "Xiao-Qin Liu",
+      "Chen Yang",
+      "Ying-Bo Shao",
+      "Zhengxing Zhang",
+      "Xin Li"
+    ],
+    "summary": "Nature Communications, Published online: 18 June 2026; <a href=\"https://www.nature.com/articles/s41467-026-73870-y\">doi:10.1038/s41467-026-73870-y</a>Chiral helicenes are valuable across disciplines, yet strategies to construct helical chirality—particularly in polychiral or heteroatom containing systems—remain limited by limited substrates and challenging stereochemical control. Here, the authors report an enantioselective dynamic kinetic resolution enabling efficient construction of polychiral helical architectures.",
+    "source": "Nature Communications",
+    "date": "2026-06-18",
+    "sent": true
+  },
+  {
+    "id": "https://www.pnas.org/doi/abs/10.1073/pnas.2608700123?af=R",
+    "title": "The dynamic mesoscale sink and source niches for eukaryotic phytoplankton in a subtropical gyre",
+    "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2608700123?af=R",
+    "authors": [
+      "Alexandra E. Jones-KellettJesse C. McNicholYubin RautJed A. FuhrmanMichael J. Followsahttps://ror.org/042nb2s44Departments of Earth, Atmospheric and Planetary Sciences, Massachusetts Institute of Technology, Cambridge, MA 02139bhttps://ror.org/03zbnzt98Biology Department, Woods Hole Oceanographic Institution, Woods Hole, MA 02543chttps://ror.org/01wspgy28Department of Oceanography, University of Hawai‘i at Mānoa, Honolulu, HI 96822dhttps://ror.org/03taz7m60Department of Biological Sciences, University of Southern California, Los Angeles, CA 90007ehttps://ror.org/01wcaxs37Biology Department, St. Francis Xavier University, Antigonish, NS B2G 2W5, Canada"
+    ],
+    "summary": "Proceedings of the National Academy of Sciences, Volume 123, Issue 25, June 2026. <br />SignificanceCompetition theory predicts that organisms with the highest evolutionary fitness for a particular environment will outcompete less fit species. Subtropical gyres are desert-like with low average nutrient concentrations, yet a diversity of ...",
+    "source": "Proceedings of the National Academy of Sciences: Earth, Atmospheric, and Planetary Sciences",
+    "date": "2026-06-17",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012825226002023",
+    "title": "The inclusion of burrowing animals in soil hydro-physical equations and models: A review",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012825226002023?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 17 June 2026<b>Source:</b> Earth-Science ReviewsAuthor(s): Marta Loreggian, Annegret Larsen, Jakob Wallinga, Jantiene Baartman",
+    "source": "ScienceDirect Publication: Earth-Science Reviews",
+    "date": "2026-06-19",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012825226001984",
+    "title": "Organic matter in Martian radiation environment: Occurrence, evolutionary pathways, influence factors, characterization techniques, and further perspectives",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012825226001984?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 17 June 2026<b>Source:</b> Earth-Science ReviewsAuthor(s): Zhongyi Liu, Peixin Du, Meng Han, Enming Ju, David C. Fernández-Remolar, Ting Huang, Shaolin Li, Peng Yuan",
+    "source": "ScienceDirect Publication: Earth-Science Reviews",
+    "date": "2026-06-19",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012821X26003663",
+    "title": "Slab flattening in the mantle transition zone drives extrusion and upwelling of ancient subducted material",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012821X26003663?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: 15 September 2026<b>Source:</b> Earth and Planetary Science Letters, Volume 690Author(s): Liang Zhou, Hong-Yan Li, Bo Pan, Zhong-Hai Li, Yangfan Deng, Shui-Jiong Wang, Chun Yang, Yi-Gang Xu",
+    "source": "ScienceDirect Publication: Earth and Planetary Science Letters",
+    "date": "2026-06-19",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012821X26003237",
+    "title": "Volatile loss of martian magmas drives redox evolution and volatile transfer from interior to subsurface",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012821X26003237?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: 15 September 2026<b>Source:</b> Earth and Planetary Science Letters, Volume 690Author(s): Sophie Benaroya, Christopher D.K. Herd",
+    "source": "ScienceDirect Publication: Earth and Planetary Science Letters",
+    "date": "2026-06-19",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012821X26003614",
+    "title": "Evaluating the roles of alkalinity, evaporation, and basin hydrology in phosphorite deposition",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012821X26003614?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: 15 September 2026<b>Source:</b> Earth and Planetary Science Letters, Volume 690Author(s): Chenyi Tu, Jana Meixnerova, Brett Smith, Eva E. Stüeken, Roger Buick, Christopher J. Tino, Michael A. Kipp",
+    "source": "ScienceDirect Publication: Earth and Planetary Science Letters",
+    "date": "2026-06-19",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012821X26003638",
+    "title": "Hypermobility induced by extensive grain fragmentation: Insights from the 1991 Touzhai rock avalanche",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012821X26003638?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: 15 September 2026<b>Source:</b> Earth and Planetary Science Letters, Volume 690Author(s): Yan Li, Wei Hu, Yi Ge, Heng Liang, Mauri McSaveney",
+    "source": "ScienceDirect Publication: Earth and Planetary Science Letters",
+    "date": "2026-06-19",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012821X26003626",
+    "title": "Contrasting lithospheric structure beneath the 2023 earthquake doublet in southeastern Türkiye",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012821X26003626?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: 15 September 2026<b>Source:</b> Earth and Planetary Science Letters, Volume 690Author(s): Yangfan Deng, Özcan Özyıldırım, Xin Li, Zhou Zhang, Ahmet Yildiz, Ümit Avşar, Metin Bağci, Gokhan Karcioglu, Deniz Varilsüha, Zhigang Peng, Eric Sandvol",
+    "source": "ScienceDirect Publication: Earth and Planetary Science Letters",
+    "date": "2026-06-19",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012821X26003389",
+    "title": "Geomorphic imprint of an Early Pleistocene uplift phase of the Andean forearc and its underlying mechanisms",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012821X26003389?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: 15 September 2026<b>Source:</b> Earth and Planetary Science Letters, Volume 690Author(s): Conrado Gianni, Paolo Ballato, Taylor Schildgen, Guido Gianni, Hella Wittmann, Daniel Melnick, Claudio Faccenna",
+    "source": "ScienceDirect Publication: Earth and Planetary Science Letters",
+    "date": "2026-06-19",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL122605",
+    "title": "First Lidar Observations of Ionosphere‐Thermosphere‐Mesosphere (ITM) Na Transition Layer (∼120–95 km): Regular Occurrence Over Boulder (40.13°N, 105.24°W) and Possible Formation Mechanisms",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL122605?af=R",
+    "authors": [
+      "Yingfei Chen, \nXinzhao Chu"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 12, 28 June 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-06-17",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GC012935",
+    "title": "Accretionary Prism and Forearc Deformation Driven by the Beata Ridge Indentation in Southern Hispaniola: Insights From the Offshore San Pedro Basin",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GC012935?af=R",
+    "authors": [
+      "J. M. Gorosabel‐Araus, \nJ. L. Granja‐Bruña, \nP. Mann, \nA. Gallego‐Mingo"
+    ],
+    "summary": "Geochemistry, Geophysics, Geosystems, Volume 27, Issue 6, June 2026.",
+    "source": "Wiley: Geochemistry, Geophysics, Geosystems: Table of Contents",
+    "date": "2026-06-17",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025JB033516",
+    "title": "Magnetotelluric Imaging Suggests Minimal Downward Saline Fluid Migration in the Region of the Largest‐Known Injection‐Induced Earthquake, Oklahoma",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JB033516?af=R",
+    "authors": [
+      "Huy Le, \nFolarin Kolawole, \nKerry Key, \nMicah Mayle, \nEstella A. Atekwana, \nRob L. Evans, \nJacob I. Walter"
+    ],
+    "summary": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 6, June 2026.",
+    "source": "Wiley: Journal of Geophysical Research: Solid Earth: Table of Contents",
+    "date": "2026-06-17",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025JB033719",
+    "title": "Three‐Dimensional Numerical Study on Dissolution and Precipitation in Diffusion‐Dominated Fractures",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JB033719?af=R",
+    "authors": [
+      "Ruoyu Li, \nQinjun Kang, \nKishore K. Mohanty, \nJeffrey D. Hyman, \nChelsea W. Neil, \nHari S. Viswanathan"
+    ],
+    "summary": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 6, June 2026.",
+    "source": "Wiley: Journal of Geophysical Research: Solid Earth: Table of Contents",
+    "date": "2026-06-17",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0016703726003935",
+    "title": "Lithium and calcium isotopes in various shallow-water carbonates: Disentangling the effects of mineralogy, vital effects, and early diagenesis",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0016703726003935?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 17 June 2026<b>Source:</b> Geochimica et Cosmochimica ActaAuthor(s): Guang-Yi Wei, Simon V. Hohl, Jack G. Murphy, Ashley N. Martin, Yi-Sheng Yin, Zhuang Xiao, Xiaobin Cao, Hong-Fei Ling",
+    "source": "ScienceDirect Publication: Geochimica et Cosmochimica Acta",
+    "date": "2026-06-19",
+    "sent": true
+  },
+  {
+    "id": "https://pubs.geoscienceworld.org/gsa/geology/article/doi/10.1130/G54686.1/731861/The-anisotropy-of-permeability-under-simulated",
+    "title": "The anisotropy of permeability under simulated crustal stress conditions: Experimental evidence of flow enhancement parallel to the intermediate principal stress",
+    "link": "https://pubs.geoscienceworld.org/gsa/geology/article/doi/10.1130/G54686.1/731861/The-anisotropy-of-permeability-under-simulated",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\">Fluid circulation in Earth’s crust influences fault slip, mineralization, and volcanic activity. The geometry and efficiency of fluid transport depend on the orientation and magnitude of crustal stresses, but laboratory insights into this relationship remain limited. Most experiments use simplified stress states and one-directional flow measurements, missing the full three-dimensional behavior of permeability. We present results from a novel apparatus that quantifies the directional permeability of cubic rock samples when subjected to three independent principal stresses. We identify two regimes for stress-controlled anisotropic fluid flow in initially isotropic basalt. First, permeability decreases due to anisotropic crack closure, with higher flow reduction in the direction of maximum principal stress. Then, once new crack damage develops, permeability increases sharply along the intermediate principal stress direction. These results provide laboratory evidence that stress anisotropy alone can reorganize fluid pathways, with implications for crustal fluid flow during seismic rupture, volcanic unrest, and ore formation.</span>",
+    "source": "Geology Advance Access",
+    "date": "2026-06-18",
+    "sent": true
+  },
+  {
+    "id": "https://pubs.geoscienceworld.org/gsa/geology/article/doi/10.1130/G54149.1/731860/Punctuated-energetics-of-dehydration-contributes",
+    "title": "Punctuated energetics of dehydration contributes to slow earthquake phenomena",
+    "link": "https://pubs.geoscienceworld.org/gsa/geology/article/doi/10.1130/G54149.1/731860/Punctuated-energetics-of-dehydration-contributes",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\">The prograde breakdown of hydrous minerals like lawsonite is energy-intensive and releases fluids at depths coincident with extensive slow earthquake phenomena for many subduction geotherms. However, there remains inconsistency between the spatial occurrence and inferred temporal rates of these dehydration reactions relative to the episodic character of slow earthquakes. The example of lawsonite breakdown shows that dehydration reactions will dictate heat consumption, thus buffering the rate of temperature increase for a rock undergoing intervals of metamorphism (&lt;30 °C) and delaying each small increment (∼1 °C) of fluid release. A nonlinear behavior is predicted involving periods of fast fluid release paused by periods of slower heat absorption. Such stepped reaction progress is consistent with natural rock textures of lawsonite breakdown indicating intermittent fluid-present crack propagation and associated step changes in mineral growth. Pulsed fluid flow into rocks of heterogeneous permeability may result in stress build-up enabling crack propagation and slip at different scales. Energetics of punctuated dehydration and resultant fluid flow match temporal and spatial characteristics of slow slip behavior. Consequently, episodic dehydration is suggested as a viable trigger for slow slip.</span>",
+    "source": "Geology Advance Access",
+    "date": "2026-06-18",
+    "sent": true
+  },
+  {
+    "id": "https://pubs.geoscienceworld.org/gsa/geology/article/doi/10.1130/G54718.1/731859/Recurrent-super-highlands-since-2-1-Ga-reveal",
+    "title": "Recurrent super highlands since 2.1 Ga reveal rhythmic coupling between deep Earth and surface evolution",
+    "link": "https://pubs.geoscienceworld.org/gsa/geology/article/doi/10.1130/G54718.1/731859/Recurrent-super-highlands-since-2-1-Ga-reveal",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\">Whether Earth’s continents developed continent-scale highlands comparable to the Tibetan Plateau and Cordilleran systems in the past, and what governed their formation, remains a fundamental question. Here, we present the first globally consistent reconstruction of continental paleoelevation over the past 4 b.y., integrating a global igneous geochemical dataset (&gt;100,000 samples) with machine-learning−derived crustal thickness and time-varying isostatic modeling. Continents remained largely underwater through most of the Archean, progressively emerging in the Neoarchean. Since ca. 2.1 Ga, extreme elevations recurrently exceeded Tibetan-level thresholds (∼4.5 km; 95th percentile), forming laterally coherent, continent-scale orogenic systems. These super-highland intervals broadly coincide with major supercontinent assembly phases, including Columbia (Nuna), Rodinia, Gondwana, and Pangea. Spatial clustering further shows that these extreme elevations formed organized orogenic belts rather than isolated topographic highs. In contrast, the Mesoproterozoic exhibits persistently subdued topography and weak orogenic clustering, reflecting sluggish plate convergence and inefficient crustal thickening, favoring distributed, low-relief deformation. Renewed orogenesis in the Stenian to Tonian (ca. 1.1−0.9 Ga) briefly restored high elevations before Rodinia breakup. After Rodinia’s breakup, extreme elevations became more sustained, consistent with a cooler and mechanically stronger lithosphere under a more efficient convergent regime. These results show that laterally extensive orogenic super highlands have recurred since the Paleoproterozoic and were controlled by the coupled evolution of plate kinematics and lithospheric strength. The Mesoproterozoic marks a pivotal transition toward the colder, stronger-lithosphere configuration that governs modern orogeny.</span>",
+    "source": "Geology Advance Access",
+    "date": "2026-06-18",
+    "sent": true
+  },
+  {
+    "id": "https://pubs.geoscienceworld.org/gsa/geology/article/doi/10.1130/G54665.1/731858/Hidden-carbon-storage-in-the-continental",
+    "title": "Hidden carbon storage in the continental lithosphere revealed by Mg-Zn isotopes of adakite-like magmas",
+    "link": "https://pubs.geoscienceworld.org/gsa/geology/article/doi/10.1130/G54665.1/731858/Hidden-carbon-storage-in-the-continental",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\">Carbon cycling into Earth’s interior regulates long-term climate and habitability, yet the fate of subducted sedimentary carbon remains widely debated. Competing models predict either efficient carbon release from the subducting slab and surface return or massive deep sequestration into the mantle. Here, we present coupled Mg and Zn isotope systematics of Oligocene adakite-like granites derived from partially melted metasediments previously relaminated into the lower continental crust. The granites display variable δ<sup>26</sup>Mg (−0.41‰ to +0.02‰) and δ<sup>66</sup>Zn (0.27‰ to 0.46‰) values that define a negative correlation, trending from silicate sediment signatures toward isotopically lighter Mg and heavier Zn characteristic of carbonates. These signatures indicate recycled contribution from carbonate-bearing sediments to the magma source. We propose that diapiric relamination of carbonate-bearing sediments during subduction represents an efficient mechanism for storing carbon in the deep crust, thereby helping to resolve the imbalance between subducted and released carbon at convergent margins. Partial melting of such relaminated carbonate during the postcollision stage may subsequently act as a potential driver of atmospheric CO<sub>2</sub>.</span>",
+    "source": "Geology Advance Access",
+    "date": "2026-06-18",
+    "sent": true
+  },
+  {
+    "id": "https://pubs.geoscienceworld.org/gsa/geology/article/doi/10.1130/G54583.1/731857/Mud-volcanism-and-creepy-mud-flows-A-new-model",
+    "title": "Mud volcanism and creepy mud flows: A new model",
+    "link": "https://pubs.geoscienceworld.org/gsa/geology/article/doi/10.1130/G54583.1/731857/Mud-volcanism-and-creepy-mud-flows-A-new-model",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\">Mud volcanism is a widespread geological phenomenon characterized by spectacular mud flow deposits extending for kilometers. However, only a few eruptive events have been reported to be long-lasting and voluminous enough to create such extensive flows. We report findings from a multidisciplinary investigation conducted after three eruptions occurring since August 2022 at the Lokbatan mud volcano in Azerbaijan. During these three short-lived events, only a moderate volume of mud breccia was expelled around the crater site. However, field observations show that these events promoted the downslope motion of the &gt;1-km-long older mud flow. Electrical tomography reveals a conductive unit at ∼25 m depth below the volcano, which lubricates the detachment upon which sediments slide. Cross-checking legacy satellite imagery (from 2009) combined with InSAR data (from 2014) reveals that this type of movement was already occurring as early as 2009, indicating a long-lasting process. Our findings suggest that kilometer-sized mud flows observed at other mud volcanoes may not stem from single, voluminous eruptions, as previously thought, but from gradual sliding processes initiated by new loads of erupted material. This mechanism is essential for understanding the dynamics of mud volcanoes on Earth.</span>",
+    "source": "Geology Advance Access",
+    "date": "2026-06-18",
+    "sent": true
+  },
+  {
+    "id": "https://pubs.geoscienceworld.org/msa/ammin/article/doi/10.2138/am-2025-10125/731843/Neoarchean-high-pressure-metamorphic-record-in-the",
+    "title": "Neoarchean high-pressure metamorphic record in the 1.9 Ga Belomorian eclogite: implication for plate tectonics onset",
+    "link": "https://pubs.geoscienceworld.org/msa/ammin/article/doi/10.2138/am-2025-10125/731843/Neoarchean-high-pressure-metamorphic-record-in-the",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\"><div class=\"boxTitle\">Abstract</div>The timing of plate tectonics onset is still debated. It may have developed gradually since the Archean, evolving from warm (ancient) to cold (modern) regimes. However, there is still a lack of robust petrologic evidence, such as Archean subduction products like eclogite, and it is unclear when and how such a tectonic mode transition occurred. Here we examine the well-preserved Belomorian eclogites from Fennoscandia, in which we identify two high-pressure metamorphic events in the Neoarchean (2.72-2.70 Ga) and Paleoproterozoic (1.92-1.84 Ga). The Neoarchean event is inferred from the omphacite-associated inclusions within the metamorphic zircon cores, reflecting likely warm tectonic conditions (333-425 °C/GPa). The Paleoproterozoic metamorphism, recorded by zircon rims, represents eclogite facies. The petrologic-mineralogical data of these eclogites indicate cold subduction conditions (300 ± 12 °C/GPa) consistent with our previous conclusions. Each event has global counterparts, marking ancient and modern style plate tectonics. In summary, the Belomorian eclogite records the transition in plate tectonics from ancient (warm) to modern (cold) styles through two episodes of HP metamorphism.</span>",
+    "source": "American Mineralogist Advance Access",
+    "date": "2026-06-17",
+    "sent": true
+  },
+  {
+    "id": "https://pubs.geoscienceworld.org/msa/ammin/article/doi/10.2138/am-2025-9829/731842/Nano-scale-study-of-cobaltite-in-pyrite-insights",
+    "title": "Nano scale study of cobaltite in pyrite: insights and significance",
+    "link": "https://pubs.geoscienceworld.org/msa/ammin/article/doi/10.2138/am-2025-9829/731842/Nano-scale-study-of-cobaltite-in-pyrite-insights",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\"><div class=\"boxTitle\">Abstract</div>The cobalt in pyrite from skarn deposits often exhibits strong heterogeneous distribution at the micrometer scale, but its genetic mechanism is still unclear. In this study, we investigate pyrite form the Longqiao cobalt bearing skarn iron deposit in the Middle-Lower Yangtze River Metallogenic Belt in eastern China. By comprehensively utilizing multi-scale analysis methods such as LA-ICP-MS, EPMA, EBSD, FIB-SEM, and STEM, the distribution characteristics and occurrence states of cobalt in pyrite were systematically revealed. The results indicate that Co and As are enriched in a concentric ring shape in the core of pyrite, essentially in the form of nanoscale cobaltite, which has the same crystal band axis [2-1-1] as the pyrite matrix. EBSD analysis reveals the absence of significant plastic deformation in pyrite, indicating that cobalt migration is dominated by diffusion rather than dislocation pipe diffusion. The fluid-induced solid-state diffusion may drive Co and As redistribution toward the pyrite-fluid interface, producing local supersaturation with respect to CoAsS and thereby promoting the nanoscale nucleation and growth of cobaltite. The formation of these nano phases consumes cobalt from adjacent pyrite and fluids, leaving domains with locally lower- Co abundances and resulting in the observed micrometer-scale heterogeneous distribution of cobalt. This study emphasizes that whether cobalt enrichment occurs in pyrite depends not only on the composition of the initial magmatic-hydrothermal fluid, but also on the potential for diffusion-controlled reorganization of cobalt within pyrite itself.</span>",
+    "source": "American Mineralogist Advance Access",
+    "date": "2026-06-17",
+    "sent": true
+  },
+  {
+    "id": "https://pubs.geoscienceworld.org/msa/ammin/article/doi/10.2138/am-2025-10007/731841/Modraite-Ca19Fe2-Al4-Al7Fe2-SiO4-10-Si2O7-4O-OH-9",
+    "title": "Modraite, Ca 19 Fe 2+ Al 4 (Al 7 Fe 2+ )(SiO 4 ) 10 (Si 2 O 7 ) 4 O(OH) 9 , a new vesuvianite-group mineral from the Modra skarn, Malé Karpaty Mountains, Slovakia",
+    "link": "https://pubs.geoscienceworld.org/msa/ammin/article/doi/10.2138/am-2025-10007/731841/Modraite-Ca19Fe2-Al4-Al7Fe2-SiO4-10-Si2O7-4O-OH-9",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\"><div class=\"boxTitle\">Abstract</div>Modraite, ideally Ca<sub>19</sub>Fe<sup>2+</sup>Al<sub>4</sub>(Al<sub>7</sub>Fe<sup>2+</sup>)(SiO<sub>4</sub>)<sub>10</sub>(Si<sub>2</sub>O<sub>7</sub>)<sub>4</sub>O(OH)<sub>9</sub>, is a new member of the vesuvianite group. It was found at Modra, Harmónia skarn rock in the Malé Karpaty Mountains, Pezinok District, Slovakia. Modraite formed as a high-temperature and low-pressure metamorphic mineral on the contact zone between Devonian limestones and Carboniferous granitic rocks, in association with diopside-hedenbergite, rarely grossular, calcite, titanite, and clinozoisite-epidote. The new mineral forms dark brown microscopically transparent euhedral to subhedral prismatic crystals or radiating aggregates (up to 5 cm long) in diopside-hedenbergite groundmass. Modraite crystals are characterized by dominant {100} and minor {110} prism faces; the mineral is brittle, has an irregular (uneven) fracture without cleavage or parting. The Mohs’ hardness is 6−7. The measured and calculated densities are 3.35(2) and 3.42 g/cm<sup>3</sup>, respectively. The new mineral is microscopically transparent to translucent, optically uniaxial, negative, ω = 1.7221(2), ε = 1.7151(3). The mean chemical composition of modraite (wt%, electron microprobe, REE and Li by LA-ICP-MS, Fe<sub>2</sub>O<sub>3</sub> and FeO by Mössbauer spectroscopy, H<sub>2</sub>O calculated from stoichiometry) is: SiO<sub>2</sub> 36.42, TiO<sub>2</sub> 1.79, Al<sub>2</sub>O<sub>3</sub> 16.37, V<sub>2</sub>O<sub>3</sub> 0.03, Cr<sub>2</sub>O<sub>3</sub> 0.03, La<sub>2</sub>O<sub>3</sub> 0.03, Ce<sub>2</sub>O<sub>3</sub> 0.08, Pr<sub>2</sub>O<sub>3</sub> 0.01, Nd<sub>2</sub>O<sub>3</sub> 0.04, Sm<sub>2</sub>O<sub>3</sub> 0.01, Gd<sub>2</sub>O<sub>3</sub> 0.01, Fe<sub>2</sub>O<sub>3</sub> 1.32, FeO 3.65, MnO 0.23, ZnO 0.05, MgO 0.87, CaO 34.92, BaO 0.26, Li<sub>2</sub>O 0.03, Na<sub>2</sub>O 0.09, H<sub>2</sub>O 1.80, F 1.49, Cl 0.16, O=F -0.63, O=Cl -0.04, total 99.02. The empirical formula based on 50 cations (excluding H) per formula unit is: <sup>X1–X4</sup>(Ca<sub>18.60</sub>Na<sub>0.09</sub>Ba<sub>0.05</sub>Ce<sub>0.02</sub>La<sub>0.01</sub>Nd<sub>0.01</sub>)<sub>Σ18.78</sub><sup>Y1</sup>(Fe<sup>2+</sup><sub>0.81</sub>Fe<sup>3+</sup><sub>0.13</sub>Al<sub>0.09</sub>)<sub>Σ1.03</sub><sup>Y2</sup>Al<sub>4</sub><sup>Y3</sup>(Al<sub>5.50</sub>Fe<sup>2+</sup><sub>0.71</sub>Ti<sup>4+</sup><sub>0.67</sub>Mg<sub>0.65</sub>Fe<sup>3+</sup><sub>0.36</sub>Mn<sup>2+</sup><sub>0.10</sub>Li<sup>+</sup><sub>0.06</sub>Zn<sup>2+</sup><sub>0.02</sub> V<sup>3+</sup><sub>0.01</sub>Cr<sup>3+</sup><sub>0.01</sub>)<sub>Σ8.09</sub><sup>T1</sup>(<strong>□</strong><sub>4</sub>) <sup>T2</sup><strong>□</strong> (<sup>Z1–Z2</sup>Si<sub>1.01</sub>O<sub>4</sub>)<sub>10</sub> (<sup>Z3</sup>Si<sub>2</sub>O<sub>7</sub>)<sub>4</sub><sup>O10–O11</sup>(OH<sub>5.97</sub>F<sub>2.34</sub>O<sub>1.55</sub>Cl<sub>0.14</sub>)<sub>Σ10.00</sub>.Mössbauer spectroscopy indicates a dominant proportion of Fe<sup>2+</sup> (76 %) over Fe<sup>3+</sup> (24 %), with the dominancy of Fe<sup>2+</sup> over Fe<sup>3+</sup> at both the Y1 and Y3 sites. The crystal structure was refined to <span style=\"font-style: italic;\">R</span>1 = 0.0215 for 3970 unique reflections. The mineral is tetragonal, space group <span style=\"font-style: italic;\">P</span>4/<span style=\"font-style: italic;\">nnc</span>, single-crystal X-ray diffraction data of a modraite are: <span style=\"font-style: italic;\">a</span> = 15.559(2) Å, <span style=\"font-style: italic;\">c</span> = 11.804(2) Å, <span style=\"font-style: italic;\">V</span> = 2857.4(9) Å<sup>3</sup>, <span style=\"font-style: italic;\">Z</span> = 2. The seven strongest lines of the powder X-ray diffraction pattern are [<span style=\"font-style: italic;\">d</span>(Å)−<span style=\"font-style: italic;\">I</span>(%)−<span style=\"font-style: italic;\">hkl</span>]: 3.235−19−402, 2.949−29−004, 2.749−100−432, 2.593−59−522, 2.458−37−620, 1.625−16−526, 1.621−30−922. Modraite is the <sup>Y1</sup>Fe<sup>2+</sup>-dominant member, ideally with 7 Al<sup>3+</sup> and 1 Fe<sup>2+</sup> cations at the Y3 site, and a strong O10-H10…O10 hydrogen bond. Modraite is named after the type locality, Modra, western Slovakia.</span>",
+    "source": "American Mineralogist Advance Access",
+    "date": "2026-06-17",
+    "sent": true
+  },
+  {
+    "id": "https://pubs.geoscienceworld.org/gsa/gsabulletin/article/doi/10.1130/B39060.1/731863/Pressure-temperature-time-evolution-of-the-Luliang",
+    "title": "Pressure-temperature-time evolution of the Lüliang Group, North China craton: Insights from phase equilibria modeling and geochronology",
+    "link": "https://pubs.geoscienceworld.org/gsa/gsabulletin/article/doi/10.1130/B39060.1/731863/Pressure-temperature-time-evolution-of-the-Luliang",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\">Unraveling the tectono-thermal history of medium- to low-grade belts would place important constraints on the regional tectonic evolution. There exists a Barrovian metamorphic belt in the Lüliang Group, Trans-North China orogen of the North China craton. Representative rock samples from chlorite zone, biotite zone, garnet zone, and staurolite-kyanite zone have been collected to delineate the pressure-temperature-time (<span style=\"font-style: italic;\">P-T-t</span>) evolution. A two-stage prograde <span style=\"font-style: italic;\">P-T</span> path characterized by heating first and then pressurizing is recovered from the garnet zone by phase equilibria modeling. The peak <span style=\"font-style: italic;\">P-T</span> conditions are constrained to be ∼7.0 kbar and 560 °C. Decompression-dominated <span style=\"font-style: italic;\">P-T</span> paths involving peak pressure (6.8−9.2 kbar, 515−565 °C) and peak temperature (4.6−6.5 kbar, 560−615 °C) stages are obtained from the staurolite-kyanite zone. Metamorphic zircon from the staurolite-kyanite zone and garnet from the garnet zone yield U-Pb ages of 1850 ± 31 Ma and 1882 ± 67 Ma, respectively. Biotite from the biotite zone gives an <sup>40</sup>Ar/<sup>39</sup>Ar age of 1762 ± 3 Ma. The geochronological results indicate that metamorphism of the Lüliang Group is younger than the formation age of the Trans-North China orogen (ca. 1.95 Ga) but is coeval with the subduction-collision orogeny (1.90−1.82 Ga) along the northern margin of the North China craton. The distribution of the Barrovian metamorphic belt is also parallel to the latter orogen (E-W trending). Consequently, combining these results with field observations and regional geological evolution, it is inferred that the genesis of Barrovian metamorphism in the Lüliang Group may be related to the stress propagated from the 1.90−1.82 Ga orogeny. The heat sources and formation mechanisms of Barrovian metamorphism globally may vary case by case.</span>",
+    "source": "GSA Bulletin Advance Access",
+    "date": "2026-06-18",
+    "sent": true
+  },
+  {
+    "id": "https://pubs.geoscienceworld.org/gsa/gsabulletin/article/doi/10.1130/B38542.1/731862/Global-scale-continental-thickening-and-emergence",
+    "title": "Global-scale continental thickening and emergence during the Paleoarchean",
+    "link": "https://pubs.geoscienceworld.org/gsa/gsabulletin/article/doi/10.1130/B38542.1/731862/Global-scale-continental-thickening-and-emergence",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\">The emergence of continental crust fundamentally shaped Earth’s surface environment by modulating global climate and supplying nutrients to the oceans. However, the timing and extent of this emergence remain highly debated, between a postulated widespread event at ca. 2.5 Ga and earlier, localized occurrences evidenced by Paleoarchean shallow-marine sediments. We analyzed the Caozhuang supracrustal series, which represents the oldest shallow-marine sedimentary rocks preserved in the Eastern Ancient Domain (EAD) of the North China craton, and examined the timing and mechanism of the first large-scale continental emergence using isostatic calculations. Analyses of heavy minerals, whole-rock geochemistry, zircon morphology, and inclusions indicate that the dominant protolith of the Caozhuang quartzite was quartz sandstone with high maturity. Detrital zircon U-Pb-Hf and trace element data constrain its depositional age to the middle Paleoarchean (ca. 3.46 Ga). The crustal thickness inferred from the Eu/Eu* ratios of detrital zircons, combined with isostatic modeling, indicates that the EAD became subaerial at 3.50−3.43 Ga, consistent with an increase in the depth of partial melting of the Anshan tonalite-trondhjemite-granodiorite source rocks. A comparable sedimentary-magmatic evolution (involving shallow-marine sediments and potassic granites) also accompanied the middle to late Paleoarchean emergence of other cratons (Pilbara, Kaapvaal, and Singhbhum cratons). Therefore, we propose that the emergence of Earth’s earliest continents began during the middle to late Paleoarchean, initiating a profound transformation of Earth’s surface environment that set the stage for later climatic and biogeochemical evolution.</span>",
+    "source": "GSA Bulletin Advance Access",
+    "date": "2026-06-18",
+    "sent": true
+  },
+  {
+    "id": "https://pubs.geoscienceworld.org/gsa/gsabulletin/article/doi/10.1130/B38813.1/731853/Fault-driven-exhumation-in-the-southeastern-margin",
+    "title": "Fault-driven exhumation in the southeastern margin of the Tibetan Plateau: Thermochronological insights into Cenozoic crustal deformation",
+    "link": "https://pubs.geoscienceworld.org/gsa/gsabulletin/article/doi/10.1130/B38813.1/731853/Fault-driven-exhumation-in-the-southeastern-margin",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\">The southeastern margin of the Tibetan Plateau exhibits a complex tectonic evolution and distinctive geomorphic features, yet previous studies have been limited in scope, lacking comprehensive comparisons across key regions. In this study, we present a substantial new dataset of low-temperature thermochronology, providing critical constraints on the region’s exhumation history. By integrating these results with existing geomorphological, structural, and geophysical evidence, we offer a more comprehensive perspective on the differential uplift and fault activity that have shaped the southeastern Tibetan Plateau during the Cenozoic. More specifically, exhumation along the Jinhe-Qinghe thrust belt exhibits significant along-strike differences, with the northern segment experiencing more substantial late Cenozoic thrusting and exhumation compared to the southern segment. It is suggested that present-day thermal history contrasts across the fault may, in part, reflect inherited topographic features rather than mere recent tectonic processes. In addition, low-temperature thermochronological data indicate that the Miocene was a key period of crustal shortening and deformation across the southeastern Tibetan Plateau, with widespread evidence of rapid cooling and exhumation along major fault zones during this time. Our findings further demonstrate that late Cenozoic crustal deformation, uplift, and shortening in this region have been predominantly controlled by large-scale fault systems. In contrast, the regions between these major faults exhibit significantly older cooling ages and a more stable thermo-tectonic history, suggesting limited late-stage exhumation. Finally, contour maps of thermochronological ages of the southeastern Tibetan Plateau illustrate systematic spatial variations in exhumation, reinforcing the critical role of fault-controlled deformation.</span>",
+    "source": "GSA Bulletin Advance Access",
+    "date": "2026-06-17",
+    "sent": true
+  },
+  {
+    "id": "https://pubs.geoscienceworld.org/gsa/gsabulletin/article/doi/10.1130/B39068.1/731852/Long-term-intermittent-connection-between-the",
+    "title": "Long-term intermittent connection between the western Snake River Plain and Columbia basin: A two-phased incision history of Hells Canyon",
+    "link": "https://pubs.geoscienceworld.org/gsa/gsabulletin/article/doi/10.1130/B39068.1/731852/Long-term-intermittent-connection-between-the",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\">For more than a century, researchers have debated the route of the Snake River across the northern Cordillera and U.S. Pacific Northwest, including the associated incision history of Hells Canyon. Here, we use detrital zircon U-Pb provenance analysis of Miocene strata upstream and downstream of Hells Canyon to constrain the evolution in fluvial pathways over time. Downstream of Hells Canyon, we show that the ca. 10−6 Ma Clarkston Heights gravel was dominantly sourced from the nearby Salmon and Clearwater rivers but also with substantial input from drainages that now flow into the western Snake River Plain. These same western Snake River Plain drainages were contributing to time-equivalent Lake Idaho strata, upstream of Hells Canyon, indicating a Hells Canyon fluvial connection between the western Snake River Plain and Columbia basin before 6 Ma. Results from Lake Idaho strata suggest a two-phased lacustrine history in the western Snake River Plain: Before ca. 6.0 Ma, lake strata were derived from local tributaries, suggesting that the western Snake River Plain was isolated from the modern upper Snake River system. Between ca. 4.3 Ma and 2.2 Ma, the source area expanded to include eastern tributaries in conjunction with migration of high-standing topography of the Yellowstone hotspot. Our results challenge the long-held hypothesis of “capture” of the Snake River through Hells Canyon. Instead, we infer that Hells Canyon was a long-established route for outflow of lakes occupying the western Snake River Plain, possibly intermittently, during a ca. 10−2 Ma phase of slow regional incision, followed by rapid incision in Hells Canyon starting ca. 2 Ma in conjunction with erosion of the topographic barrier impounding Lake Idaho.</span>",
+    "source": "GSA Bulletin Advance Access",
+    "date": "2026-06-17",
+    "sent": true
+  },
+  {
+    "id": "http://doi.org/10.1093/nsr/nwag379",
+    "title": "Unraveling the evolution of photogenerated holes from charge separation to interfacial transfer in photocatalysis",
+    "link": "https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwag379/8711408?rss=1",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\"><div class=\"boxTitle\">Abstract</div>A photocatalytic process involves the intricate integration of complex photophysical and photochemical events that occur at nanoscale interfaces and evolve over femtoseconds to second scales. However, directly tracking the nanoscale carrier dynamics of a single photocatalyst crystal under the reaction conditions is essential but remains challenging. Here, we employed <span style=\"font-style: italic;\">in-situ</span> transient reflection microscopy to spatiotemporally resolve the evolution of photogenerated carriers in facet-engineered bismuth vanadate (BiVO<sub>4</sub>) photocatalyst. It is revealed that photogenerated holes undergo three sequential steps: initial ultrafast charge separation (~5 ps), hole trapping (~1.5 ns), and trap states‐mediated interfacial transfer to pre-adsorbed H<sub>2</sub>O on the surface (~19 ps). Crucially, trap states associated with oxygen lattice sites act as nanoscale relay sites that enable rapid hole injection into pre-adsorbed H<sub>2</sub>O, whereas direct valence-band hole injection is negligible. These findings provide a comprehensive mechanistic picture of photogenerated carrier dynamics across the entire photocatalytic process, directly linking nanostructure to interfacial chemistry and revealing trap states as critical mediators of efficient interfacial charge transfer.</span>",
+    "source": "National Science Review Advance Access",
+    "date": "2026-06-18",
+    "sent": true
+  },
+  {
     "id": "https://www.nature.com/articles/s41586-026-10764-5",
     "title": "Towards Conversational AI for Disease Management",
     "link": "https://www.nature.com/articles/s41586-026-10764-5",
