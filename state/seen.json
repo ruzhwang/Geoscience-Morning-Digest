@@ -1,5 +1,487 @@
 [
   {
+    "id": "https://www.nature.com/articles/s41586-026-10812-0",
+    "title": "Author Correction: Autophagic cell death restricts chromosomal instability during replicative crisis",
+    "link": "https://www.nature.com/articles/s41586-026-10812-0",
+    "authors": [
+      "Joe Nassour",
+      "Robert Radford",
+      "Adriana Correia",
+      "Javier Miralles Fusté",
+      "Brigitte Schoell",
+      "Anna Jauch",
+      "Reuben J. Shaw",
+      "Jan Karlseder"
+    ],
+    "summary": "Nature, Published online: 19 June 2026; <a href=\"https://www.nature.com/articles/s41586-026-10812-0\">doi:10.1038/s41586-026-10812-0</a>Author Correction: Autophagic cell death restricts chromosomal instability during replicative crisis",
+    "source": "Nature",
+    "date": "2026-06-19",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-01948-0",
+    "title": "A long-lived butterfly’s secret to graceful ageing",
+    "link": "https://www.nature.com/articles/d41586-026-01948-0",
+    "authors": [],
+    "summary": "Nature, Published online: 19 June 2026; <a href=\"https://www.nature.com/articles/d41586-026-01948-0\">doi:10.1038/d41586-026-01948-0</a>Species in the Heliconius genus are among the longest-lived butterflies, thanks to a diet of pollen.",
+    "source": "Nature",
+    "date": "2026-06-19",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-01963-1",
+    "title": "Briefing Chat: Testosterone and sperm might get a boost from obesity drugs",
+    "link": "https://www.nature.com/articles/d41586-026-01963-1",
+    "authors": [
+      "Shamini Bundell",
+      "Nick Petrić Howe"
+    ],
+    "summary": "Nature, Published online: 19 June 2026; <a href=\"https://www.nature.com/articles/d41586-026-01963-1\">doi:10.1038/d41586-026-01963-1</a>Nature staff discuss preliminary data on the effects of GLP-1 drugs on male fertility, plus a two-year trial of a brain–computer interface.",
+    "source": "Nature",
+    "date": "2026-06-19",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-01967-x",
+    "title": "Daily briefing: The brain builds a sentence neuron by neuron",
+    "link": "https://www.nature.com/articles/d41586-026-01967-x",
+    "authors": [
+      "Jacob Smith"
+    ],
+    "summary": "Nature, Published online: 18 June 2026; <a href=\"https://www.nature.com/articles/d41586-026-01967-x\">doi:10.1038/d41586-026-01967-x</a>Researchers have tracked the electrical activity of individual brain cells during conversation in real time. Plus, the history of GPS and a cross-species transplant that could reveal clues about the origin of animals.",
+    "source": "Nature",
+    "date": "2026-06-18",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-74406-0",
+    "title": "Longitudinal antibody profiling after dengue reveals distinct dynamics by antibody specificity over 18 months",
+    "link": "https://www.nature.com/articles/s41467-026-74406-0",
+    "authors": [
+      "Sandra Bos",
+      "Tulika Singh",
+      "José Victor Zambrana",
+      "Elias Duarte",
+      "Reinaldo Mercado-Hernandez",
+      "Julia Huffaker",
+      "Aaron Graber",
+      "Angel Balmaseda",
+      "Eva Harris"
+    ],
+    "summary": "Nature Communications, Published online: 21 June 2026; <a href=\"https://www.nature.com/articles/s41467-026-74406-0\">doi:10.1038/s41467-026-74406-0</a>Longitudinal antibody profiling in a Nicaraguan pediatric dengue cohort shows that cross-reactive IgG against the envelope protein rises, not wanes, over 18 months post-primary infection, with antibody kinetics differing by viral protein and domain.",
+    "source": "Nature Communications",
+    "date": "2026-06-21",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-74716-3",
+    "title": "smDeepFLUOR: single-molecule deep learning fluorescence classification",
+    "link": "https://www.nature.com/articles/s41467-026-74716-3",
+    "authors": [
+      "Jinseob Lee",
+      "Byungju Kim",
+      "Gayun Bu",
+      "Muhammad Tehseen",
+      "Vlad-Stefan Raducanu",
+      "Samir M. Hamdan",
+      "Jong-Bong Lee"
+    ],
+    "summary": "Nature Communications, Published online: 21 June 2026; <a href=\"https://www.nature.com/articles/s41467-026-74716-3\">doi:10.1038/s41467-026-74716-3</a>Single-molecule fluorescence imaging struggles to distinguish signals from different molecular events when intensity profiles appear similar. Here, the authors introduce smDeepFLUOR, a deep learning framework that classifies spatiotemporal fluorescence signals with high accuracy across diverse molecular events, revealing subtle differences imperceptible to conventional analyses.",
+    "source": "Nature Communications",
+    "date": "2026-06-21",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-74634-4",
+    "title": "Axion electrodynamics in a topologically trivial antiferromagnet",
+    "link": "https://www.nature.com/articles/s41467-026-74634-4",
+    "authors": [
+      "Abhilash Mishra",
+      "Robin Karothiya",
+      "Syed Qamar Abbas Shah",
+      "Arti Kashyap",
+      "Christian Binek"
+    ],
+    "summary": "Nature Communications, Published online: 20 June 2026; <a href=\"https://www.nature.com/articles/s41467-026-74634-4\">doi:10.1038/s41467-026-74634-4</a>It is possible to realize axion electrodynamics in a material with an isotropic and linear magnetoelectric response, however, such a material has thus far evaded experimental realization. Here, Mishra et al succeed in creating such a linear isotropic magnetoelectric response in powdered Chromia.",
+    "source": "Nature Communications",
+    "date": "2026-06-20",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-74654-0",
+    "title": "Direction-resolved nanoscale optical imaging with near-nanometer resolution by emerging infrared torsional force microscopy",
+    "link": "https://www.nature.com/articles/s41467-026-74654-0",
+    "authors": [
+      "Yonatan Gazit",
+      "Son T. Le",
+      "Aubrey T. Hanbicki",
+      "Adam L. Friedman",
+      "Min Ouyang"
+    ],
+    "summary": "Nature Communications, Published online: 20 June 2026; <a href=\"https://www.nature.com/articles/s41467-026-74654-0\">doi:10.1038/s41467-026-74654-0</a>Probing nanoscale light-matter interactions requires simultaneous access to optical anisotropy and ultrahigh spatial resolution. Here, authors develop torsional force microscopy-infrared imaging, enabling near-nanometer optical imaging and direction-resolved mapping of local optical responses.",
+    "source": "Nature Communications",
+    "date": "2026-06-20",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-74668-8",
+    "title": "Dynamic palladium catalysis enables chiral amplification toward acyclic Schiff base atropisomers",
+    "link": "https://www.nature.com/articles/s41467-026-74668-8",
+    "authors": [
+      "Qi Liu",
+      "Jun Gu",
+      "Shu-Yun Cui",
+      "Linghua Tan",
+      "Ying He"
+    ],
+    "summary": "Nature Communications, Published online: 20 June 2026; <a href=\"https://www.nature.com/articles/s41467-026-74668-8\">doi:10.1038/s41467-026-74668-8</a>Acyclic Schiff base atropisomers have remained inaccessible because of longstanding synthetic and stereocontrol challenges. Here, the authors report a palladium-catalysed asymmetric N-allylation enabled by substrate guided catalyst evolution, delivering Z selective atropisomeric Schiff bases with high yields and enantioselectivities.",
+    "source": "Nature Communications",
+    "date": "2026-06-20",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-74537-4",
+    "title": "Solving the vibrational Schrödinger equation with artificial neural networks",
+    "link": "https://www.nature.com/articles/s41467-026-74537-4",
+    "authors": [
+      "Shuaishuai Zhao",
+      "Dong H. Zhang"
+    ],
+    "summary": "Nature Communications, Published online: 20 June 2026; <a href=\"https://www.nature.com/articles/s41467-026-74537-4\">doi:10.1038/s41467-026-74537-4</a>Solving the full-dimensional vibrational Schrödinger equation remains challenging for polyatomic molecules. The authors present an efficient neural-network approach for accurate vibrational energy calculations for molecules with more than ten atoms.",
+    "source": "Nature Communications",
+    "date": "2026-06-20",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-74695-5",
+    "title": "Divergent 3D genome architecture of male germ cells across vertebrates",
+    "link": "https://www.nature.com/articles/s41467-026-74695-5",
+    "authors": [
+      "Laia Marín-Gual",
+      "Lucía Álvarez-González",
+      "Laura González-Rodelas",
+      "Fleur Coppen",
+      "Ashley M. Milton",
+      "Rachel J. O’Neill",
+      "Andrew J. Pask",
+      "Marilyn B. Renfree",
+      "Arthur Georges",
+      "Paul D. Waters",
+      "Aurora Ruiz-Herrera"
+    ],
+    "summary": "Nature Communications, Published online: 20 June 2026; <a href=\"https://www.nature.com/articles/s41467-026-74695-5\">doi:10.1038/s41467-026-74695-5</a>The study reveals how the 3D genome changes during germ cell formation across vertebrates that split over 350 million years ago, uncovering shared and species‑specific patterns and showing that genome size and chromosome shape drive DNA folding.",
+    "source": "Nature Communications",
+    "date": "2026-06-20",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-74648-y",
+    "title": "Biomimetic ferroelectric-semiconductor transistor enables neuronal multisensory integration",
+    "link": "https://www.nature.com/articles/s41467-026-74648-y",
+    "authors": [
+      "Shuo Liu",
+      "Ligong Zhang",
+      "Ruiqing Xie",
+      "Zhiyuan Wu",
+      "Aojie Chen",
+      "Lixia Han",
+      "Linbo Shan",
+      "Zuoyuan Dong",
+      "Junling Liu",
+      "Xinrui Guo",
+      "Yu Zhu",
+      "Zhenghua Zhou",
+      "Fei Liu",
+      "Linxiao Shen",
+      "Peng Huang",
+      "Xinran Wang",
+      "Zongwei Wang",
+      "Yimao Cai",
+      "Ming He"
+    ],
+    "summary": "Nature Communications, Published online: 20 June 2026; <a href=\"https://www.nature.com/articles/s41467-026-74648-y\">doi:10.1038/s41467-026-74648-y</a>Replicating the brain’s multisensory integration is vital for artificial intelligences. Liu et al. have developed biomimetic ferroelectric-semiconductor field-effect transistors to mimick the brain’s audiovisual integration driven by hardware-native multi-physics coupling.",
+    "source": "Nature Communications",
+    "date": "2026-06-20",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43017-026-00807-w",
+    "title": "Infrared imaging of atmospheric boundary layer flows",
+    "link": "https://www.nature.com/articles/s43017-026-00807-w",
+    "authors": [
+      "Patricia Asemann"
+    ],
+    "summary": "Nature Reviews Earth &amp; Environment, Published online: 19 June 2026; <a href=\"https://www.nature.com/articles/s43017-026-00807-w\">doi:10.1038/s43017-026-00807-w</a>Patricia Asemann explains how infrared imaging can be used to capture atmospheric boundary layer dynamics at high resolution close to the Earth’s surface.",
+    "source": "Nature Reviews Earth & Environment",
+    "date": "2026-06-19",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43017-026-00804-z",
+    "title": "Managing metal(loid) contamination for safe rice production",
+    "link": "https://www.nature.com/articles/s43017-026-00804-z",
+    "authors": [
+      "Liping Fang",
+      "Jialin Chi",
+      "Kai Liu",
+      "Andreas Kappler",
+      "Yong-guan Zhu",
+      "Jan E. Leach",
+      "Sean Fettrow",
+      "Qiwang Ran",
+      "Kai Chen",
+      "Thomas Borch",
+      "Fangbai Li"
+    ],
+    "summary": "Nature Reviews Earth &amp; Environment, Published online: 18 June 2026; <a href=\"https://www.nature.com/articles/s43017-026-00804-z\">doi:10.1038/s43017-026-00804-z</a>Toxic metal(loid)s in paddy soils accumulate in rice grains, leading to human health risks from dietary metal exposure. This Perspective describes metal(loid) sources and biogeochemical strategies to reduce metal(loid) bioavailability and uptake, and it proposes a framework for coordinating science, policy and practice in contaminated paddy fields.",
+    "source": "Nature Reviews Earth & Environment",
+    "date": "2026-06-18",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-026-03683-w",
+    "title": "Flood-related surface collapse at Osuga Valles, Mars",
+    "link": "https://www.nature.com/articles/s43247-026-03683-w",
+    "authors": [
+      "Roy Naor",
+      "Virginia C. Gulick",
+      "Reed Spurling",
+      "Amit Mushkin",
+      "Itay Halevy"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 20 June 2026; <a href=\"https://www.nature.com/articles/s43247-026-03683-w\">doi:10.1038/s43247-026-03683-w</a>Terminal depressions at the end of channel systems on Mars may be related to inflowing floodwater and the remobilization of magnesium sulfates within a pre-existing sedimentary basin, according to remote sensing observations and digital terrain mapping.",
+    "source": "Communications Earth & Environment",
+    "date": "2026-06-20",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-026-03730-6",
+    "title": "Early Holocene vigorous Black Sea outflow and the onset of sluggish Aegean deep-water convection",
+    "link": "https://www.nature.com/articles/s43247-026-03730-6",
+    "authors": [
+      "Dimitris Evangelinos",
+      "Sara Campderrós",
+      "Sergio Trias-Navarro",
+      "Cristina Garcia Briña",
+      "Eduardo Paredes Paredes",
+      "Leopoldo D. Pena",
+      "Jaime Frigola",
+      "Thomas Hasiotis",
+      "Grigoris Rousakis",
+      "Dimitris Sakellariou",
+      "Isabel Cacho"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 20 June 2026; <a href=\"https://www.nature.com/articles/s43247-026-03730-6\">doi:10.1038/s43247-026-03730-6</a>Black Sea outflow played a role in the collapse of deep-water convection in the Aegean Sea, according to analysis of a central Aegean sediment core.",
+    "source": "Communications Earth & Environment",
+    "date": "2026-06-20",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-026-03759-7",
+    "title": "Eastern and southern Asian gymnosperms are doomed to extinction under climate change",
+    "link": "https://www.nature.com/articles/s43247-026-03759-7",
+    "authors": [
+      "Cindy Q. Tang",
+      "Tetsuya Matsui",
+      "Takuto Shitara",
+      "Neus Nualart",
+      "Arnau Bosch-Guiu",
+      "Peng-Bin Han",
+      "Shenhua Qian",
+      "Yi-Fei Dong",
+      "Jiangshan Lai",
+      "Paul J. Grote",
+      "Hong Truong Luu",
+      "Dinesh Raj Bhuju",
+      "Shandesh Bhattarai",
+      "Ben LePage",
+      "Kevin Robertson",
+      "Haruka Ohashi",
+      "Min-Rui Du",
+      "Ming-Chun Peng",
+      "Chongyun Wang",
+      "Shuaifeng Li",
+      "You-Cai Shi",
+      "Shu-Li Xiao",
+      "Shi-Gang Li",
+      "Kai Yan",
+      "Jordi López-Pujol"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 20 June 2026; <a href=\"https://www.nature.com/articles/s43247-026-03759-7\">doi:10.1038/s43247-026-03759-7</a>Gymnosperm diversity in eastern and southern Asia is highly threatened by climate change, with most current hotspots projected to lose suitable habitat and face extinctions by 2100, based on ecological niche modeling of over 200 species across past, present, and future climates.",
+    "source": "Communications Earth & Environment",
+    "date": "2026-06-20",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-026-03767-7",
+    "title": "Anthropogenic and climatic controls on sediment transfer across China since the Last Glacial Maximum",
+    "link": "https://www.nature.com/articles/s43247-026-03767-7",
+    "authors": [
+      "Minqiao Li",
+      "Huasheng Huang",
+      "Kenji Izumi",
+      "Wei Tan",
+      "Fan Zhang",
+      "Xia Meng",
+      "Guoping Tang"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 20 June 2026; <a href=\"https://www.nature.com/articles/s43247-026-03767-7\">doi:10.1038/s43247-026-03767-7</a>Sediment accumulation across China has increased since the Last Glacial Maximum, driven by shifting climate and intensifying human land use, as revealed by a high-resolution reconstruction of sediment accumulation rates based on lake and peatland records.",
+    "source": "Communications Earth & Environment",
+    "date": "2026-06-20",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-026-03724-4",
+    "title": "Nutritional resilience underpins fish invasion in subtropical waters",
+    "link": "https://www.nature.com/articles/s43247-026-03724-4",
+    "authors": [
+      "Xiao Wang",
+      "Fen Guo",
+      "Martin J. Kainz",
+      "Jing Lu",
+      "Wei Gao",
+      "Feilong Li",
+      "Yuan Zhang"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 19 June 2026; <a href=\"https://www.nature.com/articles/s43247-026-03724-4\">doi:10.1038/s43247-026-03724-4</a>Unlike native fishes, invasive cichlids demonstrate resilience by shifting to lower quality food resources while maintaining stable long-chain polyunsaturated fatty acid levels, according to field sampling and tissue analysis of fishes from the Dongjiang River, China.",
+    "source": "Communications Earth & Environment",
+    "date": "2026-06-19",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-026-03760-0",
+    "title": "National restoration initiatives promote China’s marine ecosystem recovery",
+    "link": "https://www.nature.com/articles/s43247-026-03760-0",
+    "authors": [
+      "Xiao Chen",
+      "Nan Wang",
+      "Xianwen Bao",
+      "Wen Wu",
+      "Xinping Chen",
+      "Ping Dong",
+      "Simon Williams",
+      "Jing Yu",
+      "Lingling Zhou",
+      "Yang Ding",
+      "Dehai Song"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 19 June 2026; <a href=\"https://www.nature.com/articles/s43247-026-03760-0\">doi:10.1038/s43247-026-03760-0</a>China′s Marine Eco-environmental Restoration Programme has promoted coastal transitions to natural ecosystems, increasing natural coastline retention rate, vegetation coverage, carbon accumulation, and ecosystem service values, according to analyses of Sentinel-2 imagery and random forest classification.",
+    "source": "Communications Earth & Environment",
+    "date": "2026-06-19",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-026-03717-3",
+    "title": "Extreme late-Holocene diatom biomarker enrichment reveals late-season ice-edge productivity in the Barents Sea",
+    "link": "https://www.nature.com/articles/s43247-026-03717-3",
+    "authors": [
+      "Anna J. Pieńkowski",
+      "Simon T. Belt",
+      "Katrine Husum",
+      "Lukas Smik",
+      "Dmitry V. Divine"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 19 June 2026; <a href=\"https://www.nature.com/articles/s43247-026-03717-3\">doi:10.1038/s43247-026-03717-3</a>Intense diatom blooms indicate late-season sea-ice edges in sedimentary records, according to biomarker analysis of a high-resolution core from the northern Barents Sea.",
+    "source": "Communications Earth & Environment",
+    "date": "2026-06-19",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-026-03765-9",
+    "title": "Fire risk mitigation underpins durable Nature-based Climate Solutions in the Amazon",
+    "link": "https://www.nature.com/articles/s43247-026-03765-9",
+    "authors": [
+      "Manoj Hari",
+      "Sassan S. Saatchi",
+      "Ane A. C. Alencar",
+      "Luiz E. O. C. Aragão",
+      "Liana O. Anderson",
+      "Celso H. L. Silva-Junior",
+      "Paulo Artaxo",
+      "Carlos A. Nobre"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 19 June 2026; <a href=\"https://www.nature.com/articles/s43247-026-03765-9\">doi:10.1038/s43247-026-03765-9</a>Fire-conditioned degradation now rivals deforestation as an independent source of carbon loss across Amazonia. This Comment argues that fire and degradation are first-order risks to Nature-based solutions and must be embedded explicitly in monitoring, reporting and verification (MRV), as well as crediting and jurisdictional finance.",
+    "source": "Communications Earth & Environment",
+    "date": "2026-06-19",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012821X26003377",
+    "title": "The effects of fluid pre-conditioning on the shear reactivation of a laboratory fault",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012821X26003377?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: 15 September 2026<b>Source:</b> Earth and Planetary Science Letters, Volume 690Author(s): Patrick Bianchi, Paul Antony Selvadurai, Antonio Felipe Salazar Vásquez, Claudio Madonna, Stefan Wiemer",
+    "source": "ScienceDirect Publication: Earth and Planetary Science Letters",
+    "date": "2026-06-21",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012821X26003687",
+    "title": "On the mechanism of sill emplacement in sedimented rift environments: Petrophysical properties constraints from the Guaymas Basin, Gulf of California",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012821X26003687?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: 15 September 2026<b>Source:</b> Earth and Planetary Science Letters, Volume 690Author(s): Karina Fuentes-Bustillos, Raquel Negrete-Aranda, Juan Contreras, Florian Neumann, Ismael Yarbuh, Manet E. Peña-Salinas",
+    "source": "ScienceDirect Publication: Earth and Planetary Science Letters",
+    "date": "2026-06-21",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012821X26003699",
+    "title": "Intra-Antarctic plate divergence: No signal in the Hawaii–Emperor bend",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012821X26003699?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: 15 September 2026<b>Source:</b> Earth and Planetary Science Letters, Volume 690Author(s): Graeme Eagles",
+    "source": "ScienceDirect Publication: Earth and Planetary Science Letters",
+    "date": "2026-06-21",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL121289",
+    "title": "Machine Learning Eliminates Reanalysis Warm Bias and Reveals Weaker Winter Surface Cooling Over Arctic Sea Ice",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL121289?af=R",
+    "authors": [
+      "Akil Hossain, \nPaul Keil, \nHarsh Grover, \nIan M. Brooks, \nChristopher J. Cox, \nMichael R. Gallagher, \nMats A. Granskog, \nHeather Guy, \nStephen R. Hudson, \nP. Ola G. Persson, \nMatthew D. Shupe, \nMichael Tjernström, \nJutta Vüllers, \nVon P. Walden, \nFelix Pithan"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 12, 28 June 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-06-19",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL121380",
+    "title": "Toward Using Equation Discovery to Generate Parameterizations of Biogeochemical Processes",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL121380?af=R",
+    "authors": [
+      "Chengwang Wang, \nB. B. Cael, \nAlessandro Tagliabue"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 12, 28 June 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-06-19",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0016703726003947",
+    "title": "High precision Al-Mg isotopic sims microanalysis of wark-lovering rims on ca-al-rich inclusions",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0016703726003947?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 19 June 2026<b>Source:</b> Geochimica et Cosmochimica ActaAuthor(s): Glenn J. MacPherson, Kazuhide Nagashima, Alexander N. Krot, Noriko T. Kita, Takayuki Ushikubo, Elena Dobrică",
+    "source": "ScienceDirect Publication: Geochimica et Cosmochimica Acta",
+    "date": "2026-06-21",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026TC009363",
+    "title": "Raising the Gangdese Mountains via Subduction of Indian Continental Crust, Not Slab Breakoff, During Subduction to Collision Transition",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026TC009363?af=R",
+    "authors": [
+      "Xincheng Zhou, \nWenrong Cao, \nJianfeng Yang, \nBoris J. P. Kaus, \nWei‐Qiang Ji, \nStacia M. Gordon, \nAndrew V. Zuza"
+    ],
+    "summary": "Tectonics, Volume 45, Issue 6, June 2026.",
+    "source": "Wiley: Tectonics: Table of Contents",
+    "date": "2026-06-19",
+    "sent": true
+  },
+  {
     "id": "https://www.science.org/doi/abs/10.1126/sciadv.ady3144?af=R",
     "title": "Merging neural stimulation and exoskeletons to enhance sensorimotor hand functions after brain or spinal cord injury",
     "link": "https://www.science.org/doi/abs/10.1126/sciadv.ady3144?af=R",
