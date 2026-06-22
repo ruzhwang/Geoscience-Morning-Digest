@@ -1,5 +1,332 @@
 [
   {
+    "id": "https://www.nature.com/articles/s41467-026-74462-6",
+    "title": "Neural similarity between choice options predicts group-level context effects",
+    "link": "https://www.nature.com/articles/s41467-026-74462-6",
+    "authors": [
+      "Asaf Madar",
+      "Tom Zemer",
+      "Ido Tavor",
+      "Dino J. Levy"
+    ],
+    "summary": "Nature Communications, Published online: 21 June 2026; <a href=\"https://www.nature.com/articles/s41467-026-74462-6\">doi:10.1038/s41467-026-74462-6</a>Madar et al. show that neural representations of choice options predict how context shifts decisions. By leveraging the brain’s feature encoding, previously inaccessible to decision researchers, they improve predictions of well-known choice biases.",
+    "source": "Nature Communications",
+    "date": "2026-06-21",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-74747-w",
+    "title": "Attention modulates value normalization in human reinforcement learning by shaping reward encoding",
+    "link": "https://www.nature.com/articles/s41467-026-74747-w",
+    "authors": [
+      "Romane Cecchi",
+      "Sebastian Gluth",
+      "Stefano Palminteri"
+    ],
+    "summary": "Nature Communications, Published online: 21 June 2026; <a href=\"https://www.nature.com/articles/s41467-026-74747-w\">doi:10.1038/s41467-026-74747-w</a>People’s reward learning is shaped by context, but the cognitive origins of this bias remain poorly understood. Here, the authors provide evidence that attention may underlie these distortions by shaping how rewards are encoded during reinforcement learning.",
+    "source": "Nature Communications",
+    "date": "2026-06-21",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-74504-z",
+    "title": "A structurally unique effector shared between vascular wilt fungi drives cotton and olive defoliation",
+    "link": "https://www.nature.com/articles/s41467-026-74504-z",
+    "authors": [
+      "Andrea Doddi",
+      "Gabriel Lorencini Fiorin",
+      "Jinling Li",
+      "Ilaria Zannini",
+      "Yukiyo Sato",
+      "Giulia Lancia",
+      "Giacomo Giuliari",
+      "Carmen Gómez-Lama Cabanás",
+      "Antonio Valverde-Corredor",
+      "Tingli Liu",
+      "Hui Tian",
+      "Grardy C. M. van den Berg",
+      "Jesús Mercado-Blanco",
+      "Baolong Zhang",
+      "Michael F. Seidl",
+      "Martijn Rep",
+      "Wessel Groot",
+      "Maria Carmela Bonaccorsi Di Patti",
+      "Francesca Troilo",
+      "Adele Di Matteo",
+      "Giorgio Giardina",
+      "Massimo Reverberi",
+      "Longfu Zhu",
+      "Luigi Faino",
+      "Bart P. H. J. Thomma"
+    ],
+    "summary": "Nature Communications, Published online: 21 June 2026; <a href=\"https://www.nature.com/articles/s41467-026-74504-z\">doi:10.1038/s41467-026-74504-z</a>Here the authors report a pair of identical effector genes in different fungal pathogens that cause vascular wilt diseases to cause defoliation in crops. Removing these genes stops disease, and mobile DNA elements appear to spread this virulence trait between fungal pathogens.",
+    "source": "Nature Communications",
+    "date": "2026-06-21",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-74450-w",
+    "title": "Structural superlubricity triboelectric nanogenerator with negligible wear and high triboelectrification efficiency",
+    "link": "https://www.nature.com/articles/s41467-026-74450-w",
+    "authors": [
+      "Chaojie Chen",
+      "Jinhui Nie",
+      "Ying Liu",
+      "Xiaojian Xiang",
+      "Xuanyu Huang",
+      "Quanshui Zheng",
+      "Yunlong Zi"
+    ],
+    "summary": "Nature Communications, Published online: 21 June 2026; <a href=\"https://www.nature.com/articles/s41467-026-74450-w\">doi:10.1038/s41467-026-74450-w</a>The work builds a sliding triboelectric generator using structural superlubricity between graphite and silicon oxide. Atomic-scale contact yields near-zero friction, suppresses air breakdown, eliminates wear, and delivers stable, enhanced charge output over long cycling.",
+    "source": "Nature Communications",
+    "date": "2026-06-21",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-74702-9",
+    "title": "Sensing centrosome amplification: the interface between centriole duplication and autophagy",
+    "link": "https://www.nature.com/articles/s41467-026-74702-9",
+    "authors": [
+      "Paula A. Coelho",
+      "Agnieszka Fatalska",
+      "Marco Geymonat",
+      "Ramona Lattao",
+      "David M. Glover"
+    ],
+    "summary": "Nature Communications, Published online: 21 June 2026; <a href=\"https://www.nature.com/articles/s41467-026-74702-9\">doi:10.1038/s41467-026-74702-9</a>A genome wide screen reveals down-regulating the Wnt, Hippo, Tpr53, PIDDosome, ciliary biogenesis, or autophagy pathways overcomes inhibitory effects of PLK4-mediated centrosome amplification on cell proliferation. Depletion of tumor suppressor, ARHGAP15, activates autophagy to reduce centrosomes. ARHGAP15 is opposed by ARHGEF2, which is activated by centriolar protein CEP170 to generate RAC1-GTP and promote autophagy.",
+    "source": "Nature Communications",
+    "date": "2026-06-21",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-74481-3",
+    "title": "Therapeutic targeting of <i>AREL1</i> in hepatic stellate cells attenuates MASH-related liver fibrosis",
+    "link": "https://www.nature.com/articles/s41467-026-74481-3",
+    "authors": [
+      "Yang-Wen-Qing Zhang",
+      "Xiaoyu Pan",
+      "Minghe Zhang",
+      "Junyu Zhang",
+      "Hui Ren",
+      "Xinyu Zong",
+      "Xiaomian Li",
+      "Kequan Xu",
+      "Peng Xia",
+      "Tiangen Wu",
+      "Weijie Ma",
+      "Xi Chen",
+      "Chengming Qu",
+      "Wenzhi He",
+      "Yufeng Yuan"
+    ],
+    "summary": "Nature Communications, Published online: 21 June 2026; <a href=\"https://www.nature.com/articles/s41467-026-74481-3\">doi:10.1038/s41467-026-74481-3</a>Hepatic stellate cell (HSC) activation drives liver fibrosis. Here, the authors show that apoptosis-resistant E3 ubiquitin protein ligase 1 (AREL1) is upregulated in HSCs of patients with metabolic-associated steatohepatitis (MASH) and promotes fibrosis via the ILK–PI3K–AKT pathway. Targeting AREL1 with vitamin A-modified lipid nanoparticles (LNPs) reduces MASH-associated fibrosis in male mice.",
+    "source": "Nature Communications",
+    "date": "2026-06-21",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-74689-3",
+    "title": "Lipopolysaccharide hydrolysis-targeting nano-chimeras detoxify endotoxin through specific adsorption and efficient degradation",
+    "link": "https://www.nature.com/articles/s41467-026-74689-3",
+    "authors": [
+      "Lulu Jin",
+      "Chenyin Zhang",
+      "Hongli Yi",
+      "Jing Tang",
+      "Kexin Yu",
+      "Yuanyuan Wang",
+      "Feihe Huang",
+      "Ketao Jin",
+      "Zhengwei Mao",
+      "Lidan Hu",
+      "Xiaozhou Mou"
+    ],
+    "summary": "Nature Communications, Published online: 21 June 2026; <a href=\"https://www.nature.com/articles/s41467-026-74689-3\">doi:10.1038/s41467-026-74689-3</a>Detoxifying the immunogenic lipopolysaccharide (LPS) remains challenging. Here, the authors show that the Brassicaceae protein LORE binds LPS with high affinity and develop plant-derived nanovesicles displaying native LORE, combined with cerium-based nanozymes, to enable LPS hydrolysis.",
+    "source": "Nature Communications",
+    "date": "2026-06-21",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012825226001935",
+    "title": "Reply to the Discussion by Rosi et al. on “Revised historical sources on the eruptive activity and chronology of Vulcano Island (Italy)”",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012825226001935?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: October 2026<b>Source:</b> Earth-Science Reviews, Volume 281Author(s): F. Lucchi, C. Ciuccarelli, G. De Astis, C. Tranne",
+    "source": "ScienceDirect Publication: Earth-Science Reviews",
+    "date": "2026-06-22",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012821X26003420",
+    "title": "The petrological evolution of Earth’s solidifying magma ocean from experimental melting phase relations",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012821X26003420?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: 15 September 2026<b>Source:</b> Earth and Planetary Science Letters, Volume 690Author(s): Héloïse Gendre, James Badro, Charles-Édouard Boukaré, Sebastian Cozma, Cécile Hébert, Pau Toruella, Duncan T.L. Alexander, Nicolas Wehr, Stephan Borensztajn",
+    "source": "ScienceDirect Publication: Earth and Planetary Science Letters",
+    "date": "2026-06-22",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012821X26003602",
+    "title": "Numerical simulations of hypervelocity micrometeoroid impacts: Rocky impactors onto icy targets and the role of porosity",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012821X26003602?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: 15 September 2026<b>Source:</b> Earth and Planetary Science Letters, Volume 690Author(s): Ryuki Hyodo, Shigeru Wakita, Brandon C. Johnson",
+    "source": "ScienceDirect Publication: Earth and Planetary Science Letters",
+    "date": "2026-06-22",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL121465",
+    "title": "Emergence of Subsurface Warming in the Southern Ocean Gateway Between New Zealand and Antarctica",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL121465?af=R",
+    "authors": [
+      "A. I. Ferola, \nY. Cotroneo, \nP. Castagno, \nG. Fusco, \nP. Falco, \nG. Budillon, \nE. Zambianchi, \nG. Aulicino"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 12, 28 June 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-06-20",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL121468",
+    "title": "Frequency‐Dependent Acoustic Reflection Coefficients of Flat Ground Assessed Using the Sonic Boom From the OSIRIS‐Rex Sample Return Capsule Recorded on Free Flying Balloons",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL121468?af=R",
+    "authors": [
+      "Daniel C. Bowman, \nJonathan M. Lees, \nSiddharth Krishnamoorthy, \nElizabeth A. Silber, \nJacob S. Izraelevitz, \nAshish Goel, \nEmalee Hough, \nZach Yap, \nMirza Samnani, \nMichael J. Fleigle, \nJustin R. LaPierre, \nJames A. Cutts, \nAttila Komjathy"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 12, 28 June 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-06-20",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL121979",
+    "title": "Substantial Diel Changes of Cloud Adjustments to Aerosols in Ship‐Tracks",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL121979?af=R",
+    "authors": [
+      "Tianle Yuan, \nHua Song, \nRobert Wood, \nLazaros Oreopoulos, \nKerry Meyer, \nWilliam Smith, \nRyan Eastman"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 12, 28 June 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-06-20",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL123222",
+    "title": "Large‐Scale Traveling Ionospheric Disturbances Over the Asian‐Pacific Sector During 10–11 May 2024 Geomagnetic Superstorm: Ionosonde Observation and MAGE Simulation",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL123222?af=R",
+    "authors": [
+      "Tianyang Hu, \nWenbin Wang, \nKevin H. Pham, \nHaonan Wu, \nLiying Qian, \nQuan Gan, \nNicholas M. Pedatella"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 12, 28 June 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-06-20",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL124011",
+    "title": "Commentary: Reframing Massive Carbon Input During the PETM and a Grand 66 Million Year Geoscience Puzzle",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL124011?af=R",
+    "authors": [
+      "Gerald R. Dickens"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 12, 28 June 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-06-20",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL122210",
+    "title": "Asymmetric Ocean‐Atmosphere Coupling Between Southeast Pacific and Southern Ocean Cooling Through Circulation and Sea‐Ice Changes",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL122210?af=R",
+    "authors": [
+      "Xinjia Hu, \nLouise J. Slater, \nSarah M. Kang, \nJennifer L. Castle"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 12, 28 June 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-06-20",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL122266",
+    "title": "Low Abundances of Ultramafic Components in the Chang'e‐6 Landing Site Basalt and Ejecta Material",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL122266?af=R",
+    "authors": [
+      "Zhenbing She, \nZaicong Wang, \nTianyang Li, \nHao Zhang, \nQi He, \nYiheng Li, \nAntong Gao, \nYi Gu, \nZichen Wei, \nYan Zhuang, \nChanghao Ni, \nShuang Shi, \nJiawei Li, \nJiawei Zhao, \nWen Zhang, \nJiaqi Zheng, \nXu Chen, \nKeqing Zong, \nZhaochu Hu, \nXiang Wu, \nLong Xiao"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 12, 28 June 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-06-20",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL121122",
+    "title": "Hyperspectral Fingerprinting of Dune Sediments Across the Arabian Peninsula: Insights Into Sediment Provenance and Transport Pathways From NASA's EMIT Data",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL121122?af=R",
+    "authors": [
+      "Ahmed Alshakr, \nMohamed Sultan, \nMustafa Kemal Emil, \nHassan Alharbi, \nFahad Alshehri, \nAbdullah A. Alotaibi, \nAbdullah T. Mohammad, \nAylin Yildirim, \nNeil C. Sturchio"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 12, 28 June 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-06-20",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL121811",
+    "title": "Observing the Earth's Plasmasphere and Ionosphere From the Lunar Surface",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL121811?af=R",
+    "authors": [
+      "C. Cesaroni, \nL. Spogli, \nM. Guerra, \nR. Ghidoni, \nV. Ventriglia, \nA. Minetto, \nA. Nardin, \nL. Alfonsi, \nF. Dovis"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 12, 28 June 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-06-20",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025JB033540",
+    "title": "Hydrological Impact of Earthquakes on Reverse and Normal Faults: Results From Numerical Models",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JB033540?af=R",
+    "authors": [
+      "Guy Simpson"
+    ],
+    "summary": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 6, June 2026.",
+    "source": "Wiley: Journal of Geophysical Research: Solid Earth: Table of Contents",
+    "date": "2026-06-20",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0016703726004059",
+    "title": "Decoupling between diatom frustule-bound and biomass nitrogen isotope signatures is modulated by batch culture and species effects",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0016703726004059?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 20 June 2026<b>Source:</b> Geochimica et Cosmochimica ActaAuthor(s): Jochem Baan, Moritz F. Lehmann, Anja S. Studer",
+    "source": "ScienceDirect Publication: Geochimica et Cosmochimica Acta",
+    "date": "2026-06-22",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0016703726003996",
+    "title": "Quantifying slab-fluid effects on sulfide stability and metal retention: insights from thermodynamic modeling of the Yarlung-Zangbo Ophiolites",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0016703726003996?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 20 June 2026<b>Source:</b> Geochimica et Cosmochimica ActaAuthor(s): Weilong Huang, Yujian Wang, Yong Xu, Xiaohan Gong, Jingao Liu",
+    "source": "ScienceDirect Publication: Geochimica et Cosmochimica Acta",
+    "date": "2026-06-22",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0016703726003686",
+    "title": "Atomic mechanisms of diopside (CaMgSi<sub>2</sub>O<sub>6</sub>) surface hydroxylation",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0016703726003686?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 20 June 2026<b>Source:</b> Geochimica et Cosmochimica ActaAuthor(s): Shang Ma, Simon A.T. Redfern",
+    "source": "ScienceDirect Publication: Geochimica et Cosmochimica Acta",
+    "date": "2026-06-22",
+    "sent": true
+  },
+  {
     "id": "https://www.nature.com/articles/s41586-026-10812-0",
     "title": "Author Correction: Autophagic cell death restricts chromosomal instability during replicative crisis",
     "link": "https://www.nature.com/articles/s41586-026-10812-0",
