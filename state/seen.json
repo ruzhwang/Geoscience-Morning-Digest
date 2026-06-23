@@ -1,5 +1,74 @@
 [
   {
+    "id": "https://www.nature.com/articles/s41561-026-02020-2",
+    "title": "Opposing hydroclimate extremes in Central and mainland Southeast Asia over past millennium",
+    "link": "https://www.nature.com/articles/s41561-026-02020-2",
+    "authors": [
+      "Na Wang",
+      "Sylvia Dee",
+      "Jun Hu",
+      "Kaustubh Thirumalai"
+    ],
+    "summary": "Nature Geoscience, Published online: 22 June 2026; <a href=\"https://www.nature.com/articles/s41561-026-02020-2\">doi:10.1038/s41561-026-02020-2</a>Opposing wet and dry conditions in Central and mainland Southeast Asia over the past millennium were controlled by climate variability over the Pacific and Indian oceans, a pattern likely to become more severe due to ongoing warming, according to an analysis of palaeoclimate records.",
+    "source": "Nature Geoscience",
+    "date": "2026-06-22",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41561-026-02023-z",
+    "title": "Contrasting drivers of South Asian summer and winter monsoon evolution during the last deglaciation",
+    "link": "https://www.nature.com/articles/s41561-026-02023-z",
+    "authors": [
+      "Igor Obreht",
+      "Andreas Lückge",
+      "Mahyar Mohtadi",
+      "Petra Zahajská",
+      "Enno Schefuß",
+      "Denis Scholz",
+      "Lars Wörmer",
+      "Petter Hällberg",
+      "Alexander Budsky",
+      "Florian Adolphi",
+      "Gerald H. Haug",
+      "Martin Grosjean",
+      "Kai-Uwe Hinrichs"
+    ],
+    "summary": "Nature Geoscience, Published online: 22 June 2026; <a href=\"https://www.nature.com/articles/s41561-026-02023-z\">doi:10.1038/s41561-026-02023-z</a>The intensity and centennial-scale variability of the winter and summer South Asian monsoons were controlled by different drivers during the last deglaciation, according to mass spectrometry and hyperspectral imaging, supported by geochemical analyses of a sediment core from the Arabian Sea.",
+    "source": "Nature Geoscience",
+    "date": "2026-06-22",
+    "sent": true
+  },
+  {
+    "id": "http://doi.org/10.1093/nsr/nwag377",
+    "title": "Molecular-topology-guided multiple-resonance emitters with sub-10-nm bandwidths: ultranarrow high-efficiency solution-processable OLEDs",
+    "link": "https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwag377/8713296?rss=1",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\"><div class=\"boxTitle\">Abstract</div>Ultranarrow-band emitters are essential for high-colour-purity organic light-emitting diodes, but their discovery remains largely empirical because spectral narrowing is difficult to predict. Progress has been limited by inefficient synthesis-and-testing cycles and the lack of simple design rules linking molecular structure to excited-state relaxation. Here we establish a predictive design framework for ultranarrow multiple-resonance emitters by treating molecular topology as an explicit handle on structural relaxation. High-throughput screening of B, N-doped triangulene fusion modes identifies an alternating fusion pattern that minimizes reorganization energy and yields a ground-state descriptor for spectral narrowing without explicit excited-state calculations. Guided by this framework, we synthesize sky-blue emitters with photoluminescence bandwidths down to 9.1 nm and solution-processed devices with 10.9-nm electroluminescence bandwidths and 38.1% external quantum efficiency.</span>",
+    "source": "National Science Review Advance Access",
+    "date": "2026-06-22",
+    "sent": true
+  },
+  {
+    "id": "http://doi.org/10.1093/nsr/nwag347",
+    "title": "Increasingly severe thermal stresses on global photosynthesis using insights from observations of canopy temperature",
+    "link": "https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwag347/8713289?rss=1",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\"><div class=\"boxTitle\">Abstract</div>Temperatures could routinely exceed the optimal levels for photosynthesis as global warming intensifies, imposing thermal stress on the productivity of vegetation. We utilised satellite-derived canopy temperature and gross primary productivity (GPP) data from 2003 to 2024 to identify the ecosystem-level optimal canopy temperature (<span style=\"font-style: italic;\">T</span>can opt) for global photosynthesis and the extent of any thermal acclimation, which may offset warming impacts. Our findings indicated that across the globe, heat-induced restrictions on global photosynthesis are worsening, and areas subjected to thermal limitations have expanded by 1.7 billion hectares (57% increase) over the last 22 years. The number of days per year with high thermal suppression of photosynthesis during that period has increased sharply, averaging 28 days globally, and is especially high in tropical forests (117 days) and key agricultural regions (39 days). We demonstrate that vegetation acclimation to higher canopy temperature is partially mitigating emerging heat stress, but it is insufficient to keep up with the rate of global warming, with more than 90% of vegetated areas, and from locations across the globe, exhibiting partial acclimation. A key feature of our analysis is the use of canopy-level temperatures, which more accurately represent the actual temperatures that vegetation physiologically responds to, rather than previous research using air temperature. This difference accounts for our identified more rapidly intensifying vegetation response to warming than that estimated by other analyses. Overall, our canopy-level analysis reveals an escalating threat to global vegetation productivity and highlights the need for climate models to have refined land components, which often rely on air-temperature forcing and simplified acclimation schemes. Required are targeted ecosystem management strategies for adaptation to further global warming.</span>",
+    "source": "National Science Review Advance Access",
+    "date": "2026-06-22",
+    "sent": true
+  },
+  {
+    "id": "http://doi.org/10.1093/nsr/nwag384",
+    "title": "Nanoconfinement drives water ordering",
+    "link": "https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwag384/8713288?rss=1",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\">Direct probing of nanoconfined water reveals that confinement induces water ordering and enables a liquid–solid transition at room temperature, offering a new paradigm for water-dominated reactions.</span>",
+    "source": "National Science Review Advance Access",
+    "date": "2026-06-22",
+    "sent": true
+  },
+  {
     "id": "https://www.nature.com/articles/s41467-026-74462-6",
     "title": "Neural similarity between choice options predicts group-level context effects",
     "link": "https://www.nature.com/articles/s41467-026-74462-6",
