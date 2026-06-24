@@ -1,5 +1,775 @@
 [
   {
+    "id": "https://www.nature.com/articles/s41586-026-10799-8",
+    "title": "Retraction Note: Sub-second periodicity in a fast radio burst",
+    "link": "https://www.nature.com/articles/s41586-026-10799-8",
+    "authors": [
+      "Bridget C. Andersen",
+      "Kevin Bandura",
+      "Mohit Bhardwaj",
+      "P. J. Boyle",
+      "Charanjot Brar",
+      "Daniela Breitman",
+      "Tomas Cassanelli",
+      "Shami Chatterjee",
+      "Pragya Chawla",
+      "Jean-François Cliche",
+      "Davor Cubranic",
+      "Alice P. Curtin",
+      "Meiling Deng",
+      "Matt Dobbs",
+      "Fengqiu Adam Dong",
+      "Emmanuel Fonseca",
+      "B. M. Gaensler",
+      "Utkarsh Giri",
+      "Deborah C. Good",
+      "Alex S. Hill",
+      "Alexander Josephy",
+      "J. F. Kaczmarek",
+      "Zarif Kader",
+      "Joseph Kania",
+      "Victoria M. Kaspi",
+      "Calvin Leung",
+      "D. Z. Li",
+      "Hsiu-Hsien Lin",
+      "Kiyoshi W. Masui",
+      "Ryan Mckinven",
+      "Juan Mena-Parra",
+      "Marcus Merryfield",
+      "B. W. Meyers",
+      "D. Michilli",
+      "Arun Naidu",
+      "Laura Newburgh",
+      "C. Ng",
+      "Anna Ordog",
+      "Chitrang Patel",
+      "Aaron B. Pearlman",
+      "Ue-Li Pen",
+      "Emily Petroff",
+      "Ziggy Pleunis",
+      "Masoud Rafiei-Ravandi",
+      "Mubdi Rahman",
+      "Scott Ransom",
+      "Andre Renard",
+      "Pranav Sanghavi",
+      "Paul Scholz",
+      "J. Richard Shaw",
+      "Kaitlyn Shin",
+      "Seth R. Siegel",
+      "Saurabh Singh",
+      "Kendrick Smith",
+      "Ingrid Stairs",
+      "Chia Min Tan",
+      "Shriharsh P. Tendulkar",
+      "Keith Vanderlinde",
+      "D. V. Wiebe",
+      "Dallas Wulf",
+      "Andrew Zwaniga"
+    ],
+    "summary": "Nature, Published online: 23 June 2026; <a href=\"https://www.nature.com/articles/s41586-026-10799-8\">doi:10.1038/s41586-026-10799-8</a>Retraction Note: Sub-second periodicity in a fast radio burst",
+    "source": "Nature",
+    "date": "2026-06-23",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-01970-2",
+    "title": "Nepal’s new science ministry must strengthen scientific capacity",
+    "link": "https://www.nature.com/articles/d41586-026-01970-2",
+    "authors": [
+      "Achyut Aryal"
+    ],
+    "summary": "Nature, Published online: 23 June 2026; <a href=\"https://www.nature.com/articles/d41586-026-01970-2\">doi:10.1038/d41586-026-01970-2</a>Nepal’s new science ministry must strengthen scientific capacity",
+    "source": "Nature",
+    "date": "2026-06-23",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-01971-1",
+    "title": "Academic success still assumes uninterrupted careers",
+    "link": "https://www.nature.com/articles/d41586-026-01971-1",
+    "authors": [
+      "Dharani Yerrakalva"
+    ],
+    "summary": "Nature, Published online: 23 June 2026; <a href=\"https://www.nature.com/articles/d41586-026-01971-1\">doi:10.1038/d41586-026-01971-1</a>Academic success still assumes uninterrupted careers",
+    "source": "Nature",
+    "date": "2026-06-23",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-01969-9",
+    "title": "The halo effect: how academic hierarchy undermines peer review and enables fraud",
+    "link": "https://www.nature.com/articles/d41586-026-01969-9",
+    "authors": [
+      "Wenfeng Wang"
+    ],
+    "summary": "Nature, Published online: 23 June 2026; <a href=\"https://www.nature.com/articles/d41586-026-01969-9\">doi:10.1038/d41586-026-01969-9</a>The halo effect: how academic hierarchy undermines peer review and enables fraud",
+    "source": "Nature",
+    "date": "2026-06-23",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-01972-0",
+    "title": "Do not leave fungi out of impact assessments",
+    "link": "https://www.nature.com/articles/d41586-026-01972-0",
+    "authors": [
+      "Ricardo da Silva Ribeiro",
+      "Flávia G. Chaves",
+      "Carlos Augusto Vidigal Fraga Jr",
+      "Douglas de Moraes Couceiro"
+    ],
+    "summary": "Nature, Published online: 23 June 2026; <a href=\"https://www.nature.com/articles/d41586-026-01972-0\">doi:10.1038/d41586-026-01972-0</a>Do not leave fungi out of impact assessments",
+    "source": "Nature",
+    "date": "2026-06-23",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-01812-1",
+    "title": "A 1970s patent that changed the course of commercial biotechnology",
+    "link": "https://www.nature.com/articles/d41586-026-01812-1",
+    "authors": [],
+    "summary": "Nature, Published online: 23 June 2026; <a href=\"https://www.nature.com/articles/d41586-026-01812-1\">doi:10.1038/d41586-026-01812-1</a>The scientific community awaits a patent for recombinant DNA technology, and experimentation with an anaesthetic from puffballs, in our weekly dip into Nature’s archive.",
+    "source": "Nature",
+    "date": "2026-06-23",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-01951-5",
+    "title": "Silicon Valley’s vision for global AI is flawed: each country needs its own blueprint",
+    "link": "https://www.nature.com/articles/d41586-026-01951-5",
+    "authors": [
+      "Pelonomi Moiloa"
+    ],
+    "summary": "Nature, Published online: 23 June 2026; <a href=\"https://www.nature.com/articles/d41586-026-01951-5\">doi:10.1038/d41586-026-01951-5</a>From energy grids to language performance, emerging economies are exposing the limits of today’s artificial-intelligence strategy as it expands globally.",
+    "source": "Nature",
+    "date": "2026-06-23",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-01955-1",
+    "title": "Europe as science superpower: what it will take to rival the US and China",
+    "link": "https://www.nature.com/articles/d41586-026-01955-1",
+    "authors": [
+      "Elizabeth Gibney"
+    ],
+    "summary": "Nature, Published online: 23 June 2026; <a href=\"https://www.nature.com/articles/d41586-026-01955-1\">doi:10.1038/d41586-026-01955-1</a>Amid chaos in US science and geopolitical turmoil, Europe wants to position itself as a research haven — but questions about funding and innovation remain.",
+    "source": "Nature",
+    "date": "2026-06-23",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-01130-6",
+    "title": "How should I respond to race-based exclusion in my lab?",
+    "link": "https://www.nature.com/articles/d41586-026-01130-6",
+    "authors": [
+      "Christine Ro"
+    ],
+    "summary": "Nature, Published online: 23 June 2026; <a href=\"https://www.nature.com/articles/d41586-026-01130-6\">doi:10.1038/d41586-026-01130-6</a>A researcher in Europe feels left out of their team and held to different standards from their colleagues. How can they challenge exclusion without risking their position?",
+    "source": "Nature",
+    "date": "2026-06-23",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-01953-3",
+    "title": "Europe must seize the moment to lead on free and open science",
+    "link": "https://www.nature.com/articles/d41586-026-01953-3",
+    "authors": [],
+    "summary": "Nature, Published online: 23 June 2026; <a href=\"https://www.nature.com/articles/d41586-026-01953-3\">doi:10.1038/d41586-026-01953-3</a>An under-appreciated research powerhouse, Europe has a responsibility to champion democratic science that is accessible to all the world’s research talent.",
+    "source": "Nature",
+    "date": "2026-06-23",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-01842-9",
+    "title": "Making samples one billion times bigger lets simple microscopes pinpoint amino acids",
+    "link": "https://www.nature.com/articles/d41586-026-01842-9",
+    "authors": [
+      "Ewen Callaway"
+    ],
+    "summary": "Nature, Published online: 23 June 2026; <a href=\"https://www.nature.com/articles/d41586-026-01842-9\">doi:10.1038/d41586-026-01842-9</a>Stretching protein samples in all directions pulls molecules farther apart, allowing them to be visualized using only light microscopy.",
+    "source": "Nature",
+    "date": "2026-06-23",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41586-026-10807-x",
+    "title": "C-glycoside synthesis via radical cross-coupling of glycohydrazides",
+    "link": "https://www.nature.com/articles/s41586-026-10807-x",
+    "authors": [
+      "Yinliang Guo",
+      "Yiheng Li",
+      "Benedikt Buchberger",
+      "Yixin Liu",
+      "Carla Capone",
+      "Tapas Adak",
+      "Shubham Ojha",
+      "Jasper L. Tyler",
+      "Philipp Neigenfind",
+      "Molhm Nassir",
+      "Yu Kawamata",
+      "Varinder K. Aggarwal",
+      "Phil S. Baran"
+    ],
+    "summary": "Nature, Published online: 22 June 2026; <a href=\"https://www.nature.com/articles/s41586-026-10807-x\">doi:10.1038/s41586-026-10807-x</a>C-glycoside synthesis via radical cross-coupling of glycohydrazides",
+    "source": "Nature",
+    "date": "2026-06-22",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41586-026-10800-4",
+    "title": "Stereoretentive decarbonylative C(sp<sup>3</sup>)-C(sp<sup>3</sup>) cross-coupling",
+    "link": "https://www.nature.com/articles/s41586-026-10800-4",
+    "authors": [
+      "Zhidao Huang",
+      "Tianrui Wu",
+      "Zehao Yuan",
+      "Chuxiong Meng",
+      "Leah C. Garman",
+      "Ilia A. Guzei",
+      "Bin Wu",
+      "Daniel J. Weix"
+    ],
+    "summary": "Nature, Published online: 22 June 2026; <a href=\"https://www.nature.com/articles/s41586-026-10800-4\">doi:10.1038/s41586-026-10800-4</a>Stereoretentive decarbonylative C(sp<sup>3</sup>)-C(sp<sup>3</sup>) cross-coupling",
+    "source": "Nature",
+    "date": "2026-06-22",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41586-026-10771-6",
+    "title": "Isotopic evidence for a cold and distant origin of 3I/ATLAS",
+    "link": "https://www.nature.com/articles/s41586-026-10771-6",
+    "authors": [
+      "Martin Cordiner",
+      "Nathan X. Roth",
+      "Marco Micheli",
+      "Geronimo Villanueva",
+      "Davide Farnocchia",
+      "Steven Charnley",
+      "Nicolas Biver",
+      "Dominique Bockelée-Morvan",
+      "Dennis Bodewits",
+      "Colin Orion Chandler",
+      "Jacques Crovisier",
+      "Maria N. Drozdovskaya",
+      "Kenji Furuya",
+      "Michael S. P. Kelley",
+      "Stefanie Milam",
+      "John W. Noonan",
+      "Cyrielle Opitom",
+      "Megan E. Schwamb",
+      "Cristina A. Thomas"
+    ],
+    "summary": "Nature, Published online: 22 June 2026; <a href=\"https://www.nature.com/articles/s41586-026-10771-6\">doi:10.1038/s41586-026-10771-6</a>Isotopic evidence for a cold and distant origin of 3I/ATLAS",
+    "source": "Nature",
+    "date": "2026-06-22",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-01949-z",
+    "title": "A spacecraft is falling to its doom — can NASA save it?",
+    "link": "https://www.nature.com/articles/d41586-026-01949-z",
+    "authors": [
+      "Alexandra Witze"
+    ],
+    "summary": "Nature, Published online: 22 June 2026; <a href=\"https://www.nature.com/articles/d41586-026-01949-z\">doi:10.1038/d41586-026-01949-z</a>A successful rescue of the Swift space observatory could be a good omen for the Hubble Space Telescope.",
+    "source": "Nature",
+    "date": "2026-06-22",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-01909-7",
+    "title": "The first ticking ‘nuclear clocks’ are here — what can they do?",
+    "link": "https://www.nature.com/articles/d41586-026-01909-7",
+    "authors": [
+      "Elizabeth Gibney"
+    ],
+    "summary": "Nature, Published online: 22 June 2026; <a href=\"https://www.nature.com/articles/d41586-026-01909-7\">doi:10.1038/d41586-026-01909-7</a>Two research teams have created a new, long-awaited type of timekeeper.",
+    "source": "Nature",
+    "date": "2026-06-22",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-01954-2",
+    "title": "Will AI spark a scientific renaissance — or a diffuse monoculture?",
+    "link": "https://www.nature.com/articles/d41586-026-01954-2",
+    "authors": [
+      "Xizhe Zhang"
+    ],
+    "summary": "Nature, Published online: 22 June 2026; <a href=\"https://www.nature.com/articles/d41586-026-01954-2\">doi:10.1038/d41586-026-01954-2</a>Artificial intelligence’s ability to enrich science will depend not only on model capability, but also on whether researchers, reviewers and funders reward originality over speed.",
+    "source": "Nature",
+    "date": "2026-06-22",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-01801-4",
+    "title": "Forty years of high-temperature superconductivity",
+    "link": "https://www.nature.com/articles/d41586-026-01801-4",
+    "authors": [
+      "Inna Vishik",
+      "Warren Pickett"
+    ],
+    "summary": "Nature, Published online: 22 June 2026; <a href=\"https://www.nature.com/articles/d41586-026-01801-4\">doi:10.1038/d41586-026-01801-4</a>The first demonstration of superconductivity at 35 kelvin drove decades of materials research and introduced a puzzle about this strange state of matter.",
+    "source": "Nature",
+    "date": "2026-06-22",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-01997-5",
+    "title": "Daily briefing: First-ever ‘nuclear’ clocks put atomic clocks in the shade",
+    "link": "https://www.nature.com/articles/d41586-026-01997-5",
+    "authors": [
+      "Flora Graham"
+    ],
+    "summary": "Nature, Published online: 22 June 2026; <a href=\"https://www.nature.com/articles/d41586-026-01997-5\">doi:10.1038/d41586-026-01997-5</a>Two research teams have created a new, long-awaited type of timekeeper. Plus, how backlash has saved an ocean-monitoring network targeted by Trump and how our cultural heritage is put at risk by climate change.",
+    "source": "Nature",
+    "date": "2026-06-22",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-01957-z",
+    "title": "Make science more reliable: study people as they go about their lives",
+    "link": "https://www.nature.com/articles/d41586-026-01957-z",
+    "authors": [
+      "John A. List"
+    ],
+    "summary": "Nature, Published online: 22 June 2026; <a href=\"https://www.nature.com/articles/d41586-026-01957-z\">doi:10.1038/d41586-026-01957-z</a>Researchers have long discussed the replication crisis. Now it’s time to tackle another problem in the behavioural sciences: generalizability.",
+    "source": "Nature",
+    "date": "2026-06-22",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-01802-3",
+    "title": "Cancer cells adopt unprecedented strategies to produce a molecule that protects them from iron-dependent death",
+    "link": "https://www.nature.com/articles/d41586-026-01802-3",
+    "authors": [
+      "Amaia Zabala-Letona",
+      "Arkaitz Carracedo"
+    ],
+    "summary": "Nature, Published online: 22 June 2026; <a href=\"https://www.nature.com/articles/d41586-026-01802-3\">doi:10.1038/d41586-026-01802-3</a>The finding that spermine molecules in cells bind to iron to prevent it unleashing ferroptosis, a type of cell death, opens up strategies for treating tissue damage and cancer.",
+    "source": "Nature",
+    "date": "2026-06-22",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-01956-0",
+    "title": "Why heritage sites are at risk in a warming world — and how to save them",
+    "link": "https://www.nature.com/articles/d41586-026-01956-0",
+    "authors": [
+      "William Megarry"
+    ],
+    "summary": "Nature, Published online: 22 June 2026; <a href=\"https://www.nature.com/articles/d41586-026-01956-0\">doi:10.1038/d41586-026-01956-0</a>As rising seas and intensifying disasters threaten historic sites worldwide, new ways to understand, preserve and adapt these places are needed urgently.",
+    "source": "Nature",
+    "date": "2026-06-22",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-01991-x",
+    "title": "Daily briefing: Human detritus remakes geology",
+    "link": "https://www.nature.com/articles/d41586-026-01991-x",
+    "authors": [
+      "Flora Graham"
+    ],
+    "summary": "Nature, Published online: 19 June 2026; <a href=\"https://www.nature.com/articles/d41586-026-01991-x\">doi:10.1038/d41586-026-01991-x</a>What, exactly, is a rock? Plus, a stem-cell success for a severe autoimmune disease and evidence that ‘AI deskilling’ is real.",
+    "source": "Nature",
+    "date": "2026-06-19",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-74413-1",
+    "title": "MIND: multimodal integration with neighbourhood-aware distributions",
+    "link": "https://www.nature.com/articles/s41467-026-74413-1",
+    "authors": [
+      "Hanwen Xing",
+      "Christopher Yau"
+    ],
+    "summary": "Nature Communications, Published online: 24 June 2026; <a href=\"https://www.nature.com/articles/s41467-026-74413-1\">doi:10.1038/s41467-026-74413-1</a>Multi-omics data integration is challenging due to missingness and inherent heterogeneity, current methods rely on assumptions that can cause information distortion. Here, the authors propose MIND, a platform that learns patient-specific embeddings from incomplete datasets.",
+    "source": "Nature Communications",
+    "date": "2026-06-24",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-74836-w",
+    "title": "National pathways of land-use CO₂ emissions in the 21<sup>st</sup> century",
+    "link": "https://www.nature.com/articles/s41467-026-74836-w",
+    "authors": [
+      "Danni Zhang",
+      "Bo Zheng",
+      "Yue He",
+      "Tianyi Wang",
+      "Gaurav P. Shrivastav",
+      "Philippe Ciais",
+      "Thomas Gasser"
+    ],
+    "summary": "Nature Communications, Published online: 24 June 2026; <a href=\"https://www.nature.com/articles/s41467-026-74836-w\">doi:10.1038/s41467-026-74836-w</a>The authors use a compact Earth system model OSCAR across SSP and idealized scenarios to show that policy timing and ambition are the primary determinants of whether the land sector becomes a durable carbon sink or remains a persistent source.",
+    "source": "Nature Communications",
+    "date": "2026-06-24",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-74309-0",
+    "title": "Author Correction: Acoustic metamaterials-driven transdermal drug delivery for rapid and on-demand management of acute disease",
+    "link": "https://www.nature.com/articles/s41467-026-74309-0",
+    "authors": [
+      "Junhua Xu",
+      "Hongwei Cai",
+      "Zhuhao Wu",
+      "Xiang Li",
+      "Chunhui Tian",
+      "Zheng Ao",
+      "Vivian C. Niu",
+      "Xiao Xiao",
+      "Lei Jiang",
+      "Marat Khodoun",
+      "Marc Rothenberg",
+      "Ken Mackie",
+      "Jun Chen",
+      "Luke P. Lee",
+      "Feng Guo"
+    ],
+    "summary": "Nature Communications, Published online: 23 June 2026; <a href=\"https://www.nature.com/articles/s41467-026-74309-0\">doi:10.1038/s41467-026-74309-0</a>Author Correction: Acoustic metamaterials-driven transdermal drug delivery for rapid and on-demand management of acute disease",
+    "source": "Nature Communications",
+    "date": "2026-06-23",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-74469-z",
+    "title": "Sex representation in trials relative to indication-specific disease burden in FDA-approved drugs (2015–2023)",
+    "link": "https://www.nature.com/articles/s41467-026-74469-z",
+    "authors": [
+      "Sophie Zaaijer",
+      "Simon C. Groen"
+    ],
+    "summary": "Nature Communications, Published online: 23 June 2026; <a href=\"https://www.nature.com/articles/s41467-026-74469-z\">doi:10.1038/s41467-026-74469-z</a>Analysis of clinical trial cohorts for 218 FDA-approved drugs finds that, although women are now often adequately represented in trials, progress has plateaued and gaps persist in specific disease areas; the study outlines actionable next steps.",
+    "source": "Nature Communications",
+    "date": "2026-06-23",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-74467-1",
+    "title": "Optimal dismantling of directed networks",
+    "link": "https://www.nature.com/articles/s41467-026-74467-1",
+    "authors": [
+      "Xueming Liu",
+      "Jiawen Hu",
+      "Yumei Wang",
+      "Yang-Yu Liu",
+      "Hai-Tao Zhang"
+    ],
+    "summary": "Nature Communications, Published online: 23 June 2026; <a href=\"https://www.nature.com/articles/s41467-026-74467-1\">doi:10.1038/s41467-026-74467-1</a>Dismantling directed networks is critical for controlling complex systems. Here, authors introduce TAD, a trophic analysis-based method that efficiently fragments networks by targeting nodes with high network incoherence centrality.",
+    "source": "Nature Communications",
+    "date": "2026-06-23",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-74776-5",
+    "title": "Framework-templated gas lattices in metal-organic frameworks",
+    "link": "https://www.nature.com/articles/s41467-026-74776-5",
+    "authors": [
+      "Younghun Kim",
+      "Dohoon Kim",
+      "Seungwoo Kim",
+      "Yunsung Lim",
+      "Jihan Kim"
+    ],
+    "summary": "Nature Communications, Published online: 23 June 2026; <a href=\"https://www.nature.com/articles/s41467-026-74776-5\">doi:10.1038/s41467-026-74776-5</a>Researchers show that metal-organic frameworks can organize confined gases into ordered lattice-like states, opening new ways to control adsorption and gas transport in porous materials.",
+    "source": "Nature Communications",
+    "date": "2026-06-23",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-74661-1",
+    "title": "Facile Synthesis of Primary Amines via Nitrogen Fixation in Charged Microdroplets",
+    "link": "https://www.nature.com/articles/s41467-026-74661-1",
+    "authors": [
+      "Rebekah Erin Strong",
+      "Owen L. Looker",
+      "Abraham K. Badu-Tawiah"
+    ],
+    "summary": "Nature Communications, Published online: 23 June 2026; <a href=\"https://www.nature.com/articles/s41467-026-74661-1\">doi:10.1038/s41467-026-74661-1</a>Primary amines are one of the most versatile intermediates in synthetic chemistry but current methods for their production rely on the use of protecting groups in multistep reactions or the use of corrosive reducing agents. Herein, the authors report a synthetic method for primary amines that is based on accelerated microdroplet chemistry.",
+    "source": "Nature Communications",
+    "date": "2026-06-23",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-74129-2",
+    "title": "FRAME: Fine-Resolution Asymmetric Migration Estimation",
+    "link": "https://www.nature.com/articles/s41467-026-74129-2",
+    "authors": [
+      "Hao Shen",
+      "John Novembre"
+    ],
+    "summary": "Nature Communications, Published online: 23 June 2026; <a href=\"https://www.nature.com/articles/s41467-026-74129-2\">doi:10.1038/s41467-026-74129-2</a>Understanding spatially varying patterns of asymmetric gene flow is essential for deciphering complex population structures. This study introduces FRAME, a penalized likelihood framework for estimating fine-resolution migration from genomic data.",
+    "source": "Nature Communications",
+    "date": "2026-06-23",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-026-03753-z",
+    "title": "Advancing nature-based insurance to protect people and nature",
+    "link": "https://www.nature.com/articles/s43247-026-03753-z",
+    "authors": [
+      "Megan A. Kelso",
+      "Rae Taylor-Burns",
+      "Guillermo Franco",
+      "Jane Carter Ingram",
+      "Borja G. Reguero",
+      "Michael W. Beck"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 23 June 2026; <a href=\"https://www.nature.com/articles/s43247-026-03753-z\">doi:10.1038/s43247-026-03753-z</a>Nature-based insurance combines the risk-transfer benefits of insurance with the risk-reduction benefits of nature-based solutions, unlocking critical funding for climate adaptation and conservation, and there are five frontiers in this space, along with key actions to accelerate innovation and uptake.",
+    "source": "Communications Earth & Environment",
+    "date": "2026-06-23",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-026-03769-5",
+    "title": "Publisher Correction: Coordinated volatile isoprenoid production and leaf turnover strategy protect central Amazon Forest trees against stress",
+    "link": "https://www.nature.com/articles/s43247-026-03769-5",
+    "authors": [
+      "Michelle Robin",
+      "Vinícius F. de Souza",
+      "Joseph Byron",
+      "Ülo Niinemets",
+      "Jonathan Williams",
+      "Christine Römermann",
+      "Flávio A. F. D’Oliveira",
+      "Cléo Quaresma Dias-Junior",
+      "José Francisco de Carvalho Gonçalves",
+      "Maquelle N. Garcia",
+      "Davieliton Pinho",
+      "Bruce W. Nelson",
+      "Eliane Gomes Alves"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 22 June 2026; <a href=\"https://www.nature.com/articles/s43247-026-03769-5\">doi:10.1038/s43247-026-03769-5</a>Publisher Correction: Coordinated volatile isoprenoid production and leaf turnover strategy protect central Amazon Forest trees against stress",
+    "source": "Communications Earth & Environment",
+    "date": "2026-06-22",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-026-03729-z",
+    "title": "A positive phase of the winter North Atlantic oscillation is associated with drought in Central Europe the following summer",
+    "link": "https://www.nature.com/articles/s43247-026-03729-z",
+    "authors": [
+      "Cong Jiang",
+      "Chris Soulsby",
+      "Hjalmar Laudon",
+      "Songjun Wu",
+      "Doerthe Tetzlaff"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 22 June 2026; <a href=\"https://www.nature.com/articles/s43247-026-03729-z\">doi:10.1038/s43247-026-03729-z</a>Positive winter NAO phases are associated with drier summers in a Central European catchment, leading to coupled deficits in soil moisture, streamflow and groundwater, suggests a study using an isotope-enabled ecohydrological model combined with field observations and reanalysis data.",
+    "source": "Communications Earth & Environment",
+    "date": "2026-06-22",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-026-03743-1",
+    "title": "Governmental efficacy is a key psychological pathway to climate action",
+    "link": "https://www.nature.com/articles/s43247-026-03743-1",
+    "authors": [
+      "Danielle Goldwert",
+      "Anandita C. Sabherwal",
+      "Madalina Vlasceanu"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 21 June 2026; <a href=\"https://www.nature.com/articles/s43247-026-03743-1\">doi:10.1038/s43247-026-03743-1</a>Governmental response efficacy is the strongest driver of public climate engagement, and messages highlighting the collective impact and emotional benefits of climate action reliably boost efficacy beliefs across groups, according to survey modeling.",
+    "source": "Communications Earth & Environment",
+    "date": "2026-06-21",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-026-03619-4",
+    "title": "Vector-borne disease co-occurrence is shaped by agrarian economy and socioenvironmental contexts in the Brazilian Amazon",
+    "link": "https://www.nature.com/articles/s43247-026-03619-4",
+    "authors": [
+      "Milton Barbosa",
+      "Raquel M. Lana",
+      "Ana P. Dal’Asta",
+      "Ana C. Rorato",
+      "Maria I. S. Escada",
+      "Cecilia S. Andreazzi",
+      "Izabel C. dos Reis",
+      "Tatiana C. Neves",
+      "Anielli R. de Souza",
+      "Danilo A. Fernandes",
+      "Mônica da Silva-Nunes",
+      "Ricardo B. N. dos Santos",
+      "Camila M. Vogt",
+      "Alexandre B. Gontijo",
+      "Flavio C. Coelho",
+      "Antonio M. V. Monteiro",
+      "Claudia T. Codeço"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 21 June 2026; <a href=\"https://www.nature.com/articles/s43247-026-03619-4\">doi:10.1038/s43247-026-03619-4</a>In the Brazilian Amazon, vector-borne diseases such as malaria, dengue, and leishmaniasis cluster across distinct agrarian, environmental, and socioeconomic settings, according to an analysis using joint species distribution models and municipality-level data from 2015 to 2019.",
+    "source": "Communications Earth & Environment",
+    "date": "2026-06-21",
+    "sent": true
+  },
+  {
+    "id": "https://www.pnas.org/doi/abs/10.1073/pnas.2519276123?af=R",
+    "title": "Deuterated water and the formation of the satellites of Uranus",
+    "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2519276123?af=R",
+    "authors": [
+      "Michael E. BrownMatthew BelyakovSwaroop ChandraM. Ryleigh DavisMerritt McDowellAshma PandyaKevin T. TrinhSamantha K. Trumboahttps://ror.org/05dxps055Division of Geological and Planetary Sciences, California Institute of Technology, Pasadena, CA 91125bhttps://ror.org/0168r3w48Department of Astronomy & Astrophysics, University of California, San Diego, La Jolla, CA 92093"
+    ],
+    "summary": "Proceedings of the National Academy of Sciences, Volume 123, Issue 27, July 2026. <br />SignificanceWhile the nearly perpendicular tilt of Uranus’s spin axis could have been caused by a giant impact, the origin of the satellites’ similarly tilted orbits remains unclear. Current hypotheses include formation from debris produced by the tilting ...",
+    "source": "Proceedings of the National Academy of Sciences: Earth, Atmospheric, and Planetary Sciences",
+    "date": "2026-06-22",
+    "sent": true
+  },
+  {
+    "id": "https://www.pnas.org/doi/abs/10.1073/pnas.2526409123?af=R",
+    "title": "Shelf-invading low-oxygen waters control Cenozoic organic carbon burial rates",
+    "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2526409123?af=R",
+    "authors": [
+      "Rosalind E. M. RickabyThomas J. WoodZunli LuChristian J. Bjerrumahttps://ror.org/052gg0110Department of Earth Sciences, University of Oxford, Oxford OX1 3AN, United Kingdombhttps://ror.org/025r5qe02Department of Earth and Environmental Sciences, Syracuse University, Syracuse, NY 13244chttps://ror.org/035b05819Department of Geosciences and Natural Resource Management, University of Copenhagen, Copenhagen K DK-1350, Denmark"
+    ],
+    "summary": "Proceedings of the National Academy of Sciences, Volume 123, Issue 26, June 2026. <br />SignificanceUnresolved mechanisms stabilize our planet’s atmosphere. Cenozoic reconstructions of burial rates of organic carbon and phosphorus, and water column oxygenation reveal the first-order feedback between the degree of continental shelf flooding ...",
+    "source": "Proceedings of the National Academy of Sciences: Earth, Atmospheric, and Planetary Sciences",
+    "date": "2026-06-22",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012821X26003651",
+    "title": "The KTB monazite fission-track profile: initial insights into ultra-low temperature thermochronology from a natural laboratory",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012821X26003651?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: 15 September 2026<b>Source:</b> Earth and Planetary Science Letters, Volume 690Author(s): Toru Nakajima, Shigeru Sueoka, Shoma Fukuda, Georgina E. King, Takahiro Tagami",
+    "source": "ScienceDirect Publication: Earth and Planetary Science Letters",
+    "date": "2026-06-24",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL123658",
+    "title": "Diagnosing Optimal Forcing of the Western North Pacific Anomalous Anticyclone in a Deep‐Learning Model",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL123658?af=R",
+    "authors": [
+      "Yibin Huang, \nZhen‐Qiang Zhou, \nRenhe Zhang, \nXiaohui Zhong, \nHao Li"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 12, 28 June 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-06-22",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL122222",
+    "title": "Radiocarbon Evidence for the Springtime Injection of South Himalayas Biomass Burning Into the Urban Tibetan Plateau",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL122222?af=R",
+    "authors": [
+      "Jie Zhang, \nJunwen Liu, \nFan Jiang, \nXueqin Zheng, \nPengfei Yu, \nNan Ma, \nNima Chuduo, \nCheng Qiu, \nBuqing Xu, \nPing Ding, \nSanyuan Zhu, \nYifeng Peng, \nZhiyuan Cong, \nJun Li, \nGan Zhang"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 12, 28 June 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-06-22",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL122385",
+    "title": "Influence of Secondary Brown Carbon Aerosol Lifetime on Radiative Properties",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL122385?af=R",
+    "authors": [
+      "Kang Hu, \nHong Liao, \nDantong Liu, \nSiyuan Li, \nYangzhou Wu, \nPing Tian, \nFei Wang, \nYuying Wang, \nQuan Liu, \nZirui Liu, \nBo Hu, \nXiaotong Jiang, \nShitong Zhao, \nKai Bi, \nDelong Zhao"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 12, 28 June 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-06-22",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL122176",
+    "title": "Pan‐Regional Prolonged Droughts Linked to Consecutive La Niña Events",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL122176?af=R",
+    "authors": [
+      "Teng Zhang, \nWenjun Zhang, \nFeng Jiang, \nSuqiong Hu, \nShanlei Sun, \nFei‐Fei Jin, \nHaishan Chen"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 12, 28 June 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-06-22",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL122255",
+    "title": "Atmospheric Tides Imprint a Wavenumber‐4 Structure in Topside Ionospheric ELF Wave Intensity",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL122255?af=R",
+    "authors": [
+      "Li Liao, \nShufan Zhao, \nMaosheng He, \nYatong Cui, \nJinlei Li"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 12, 28 June 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-06-22",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025JB031561",
+    "title": "Mapping Lowermost Mantle Seismic Structures With Core‐Diffracted Waves",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JB031561?af=R",
+    "authors": [
+      "W. Yu, \nF. Deschamps, \nS.‐H. Hung, \nH.‐H. Huang, \nJ. Y.‐T. Ko"
+    ],
+    "summary": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 6, June 2026.",
+    "source": "Wiley: Journal of Geophysical Research: Solid Earth: Table of Contents",
+    "date": "2026-06-22",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026JB033805",
+    "title": "Precise Temperature Measurements and Long‐Term Observations Revealed an Almost‐Constant Temperature Zone in a Vertical 700‐m‐Deep Borehole in the Aso Volcanic Region",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026JB033805?af=R",
+    "authors": [
+      "Weiren Lin, \nSusumu Shibutani, \nShuai Feng, \nNana Kamiya, \nKazuya Ishitsuka, \nXiaoqiu Yang, \nYutaro Shigemitsu, \nYupeng Cao, \nKoichiro Sado"
+    ],
+    "summary": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 6, June 2026.",
+    "source": "Wiley: Journal of Geophysical Research: Solid Earth: Table of Contents",
+    "date": "2026-06-22",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0016703726004035",
+    "title": "Lithologic controls on silicate weathering in a tropical arc-continent collision zone: multi-isotopic evidence",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0016703726004035?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 22 June 2026<b>Source:</b> Geochimica et Cosmochimica ActaAuthor(s): Fan Liu, Francis A. Macdonald, Le Li, Valier Galy, Morgan R. Raven, Jun Chen, Gaojun Li, Gen K. Li",
+    "source": "ScienceDirect Publication: Geochimica et Cosmochimica Acta",
+    "date": "2026-06-24",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S001670372600400X",
+    "title": "Environmental and vital effects on lithium isotopes and trace element ratios in biogenic carbonates: Insights from an estuarine salinity gradient",
+    "link": "https://www.sciencedirect.com/science/article/pii/S001670372600400X?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 22 June 2026<b>Source:</b> Geochimica et Cosmochimica ActaAuthor(s): Alexandra M. Schaffer, Gordon D.Z. Williams, Gary S. Dwyer, Ethan G. Hyland, Juliet M. Wong, Joshua S. Osterberg, Thomas F. Schultz, Michael A. Kipp",
+    "source": "ScienceDirect Publication: Geochimica et Cosmochimica Acta",
+    "date": "2026-06-24",
+    "sent": true
+  },
+  {
+    "id": "https://pubs.geoscienceworld.org/gsa/gsabulletin/article/doi/10.1130/B38966.1/731989/Neoarchean-polymetamorphism-in-the-West-Shandong",
+    "title": "Neoarchean polymetamorphism in the West Shandong massif, North China Craton: Implications for a multiphase sagduction model",
+    "link": "https://pubs.geoscienceworld.org/gsa/gsabulletin/article/doi/10.1130/B38966.1/731989/Neoarchean-polymetamorphism-in-the-West-Shandong",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\">Archean cratons commonly experienced a protracted evolutionary history with multiphase tonalite-trondhjemite-granodiorite (TTG) and mafic-ultramafic magmatism and corresponding polymetamorphism. Reliably reconstructing the pressure-temperature-time (<span style=\"font-style: italic;\">P</span>-<span style=\"font-style: italic;\">T</span>-<span style=\"font-style: italic;\">t</span>) history of Archean polymetamorphic cratons is crucial for understanding the tectonic regimes that operated on early Earth. In this paper, we conduct a comprehensive study of petrography, mineral chemistry, phase equilibrium modeling, and zircon and titanite dating for three representative samples from the Mengjiatun area in the West Shandong massif, North China Craton. Three phases of metamorphism are identified. The first phase is upper amphibolite to granulite facies with an anticlockwise <span style=\"font-style: italic;\">P</span>-<span style=\"font-style: italic;\">T</span> path, and the peak condition is 790−830 °C and ∼8 kbar, registering a geothermal gradient of 27−28 °C/km of the low-<span style=\"font-style: italic;\">P</span>/<span style=\"font-style: italic;\">T</span> type. The second phase is lower amphibolite facies marked by clockwise <span style=\"font-style: italic;\">P</span>-<span style=\"font-style: italic;\">T</span> paths and peak conditions of 610−650 °C and 7−9 kbar, corresponding to a geothermal gradient of 20−21 °C/km of the medium-<span style=\"font-style: italic;\">P</span>/<span style=\"font-style: italic;\">T</span> type. The third phase is lower amphibolite facies with a possible clockwise <span style=\"font-style: italic;\">P</span>-<span style=\"font-style: italic;\">T</span> path and a peak <span style=\"font-style: italic;\">P</span>-<span style=\"font-style: italic;\">T</span> condition at ∼500 °C and ∼4 kbar, revealing a geothermal gradient of ∼34 °C/km of the low-<span style=\"font-style: italic;\">P</span>/<span style=\"font-style: italic;\">T</span> type. Zircon and titanite dating results and age compilation indicate the metamorphic ages of the three-phase metamorphism are 2.70−2.66 Ga, 2.64−2.58 Ga, and 2.54−2.48 Ga, which are coeval with the TTG and mafic-ultramafic magmatic activity at 2.74−2.66 Ga, 2.64−2.58 Ga, and 2.56−2.50 Ga, respectively. The polyphase metamorphism, coupled with coeval magmatism, could be attributed to the multiphase sagduction of supracrustal rocks into underlying granitoid intrusions, which was in turn dynamically driven by the episodic upwelling of asthenospheric mantle with accretion of mantle-derived magmas. This multiphase sagduction model is of significance for other Archean polymetamorphic cratons.</span>",
+    "source": "GSA Bulletin Advance Access",
+    "date": "2026-06-22",
+    "sent": true
+  },
+  {
+    "id": "https://pubs.geoscienceworld.org/gsa/gsabulletin/article/doi/10.1130/B38497.1/731988/Paleozoic-magmatic-rocks-and-metamorphism-in-the",
+    "title": "Paleozoic magmatic rocks and metamorphism in the Dabie orogen, central China",
+    "link": "https://pubs.geoscienceworld.org/gsa/gsabulletin/article/doi/10.1130/B38497.1/731988/Paleozoic-magmatic-rocks-and-metamorphism-in-the",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\">The Qinling-Tongbai-Hong’an-Dabie orogenic belt records complex tectonic evolution history from the Paleozoic to the Mesozoic. However, the Paleozoic magmatism and metamorphism of the Dabie orogen remain poorly constrained. This study presents an integrated geochemical, geochronological, and isotopic investigation of mylonitized monzonite and granite in the Beihuaiyang zone. Zircon U-Pb dating and Hf isotopic analysis reveal that the granite from the Tiechong pluton formed at ca. 451 Ma with positive ε<sub>Hf</sub>(t) values (10.3−14.4), whereas the monzonite from the Gongdian outcrop crystallized at 481 ± 4 Ma with negative ε<sub>Hf</sub>(t) values (−7.2 to −0.7). Geochemical signature and zircon Hf isotopic composition of monzonite provided clear evidence for its genesis in a continental arc setting with significant crustal materials. Metamorphic zircon and titanite U-Pb ages documented multiple Carboniferous−Permian tectonic-thermal metamorphism at ca. 340 Ma, 313 Ma, and 283 Ma. The high-temperature metamorphism in the eastern Dabie orogen shows a clear contrast to the high-pressure/low-temperature metamorphism in the Hong’an orogen, indicating tectonic variations within the oceanic subduction system. These new data provide critical petrological and geochemical evidence for the eastward extension of the Paleozoic Qinling orogen and the Shangdan Ocean into the Dabie orogen, offering new constraints on the lateral tectonic correlation and evolution history of the Qinling−Tongbai-Hong’an-Dabie orogenic belt.</span>",
+    "source": "GSA Bulletin Advance Access",
+    "date": "2026-06-22",
+    "sent": true
+  },
+  {
+    "id": "http://doi.org/10.1093/nsr/nwag385",
+    "title": "In-situ construction and repair of SEI via a Li2ZrF6 additive for durable lithium metal batteries",
+    "link": "https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwag385/8714992?rss=1",
+    "authors": [],
+    "summary": "",
+    "source": "National Science Review Advance Access",
+    "date": "2026-06-23",
+    "sent": true
+  },
+  {
     "id": "https://www.nature.com/articles/s41561-026-02020-2",
     "title": "Opposing hydroclimate extremes in Central and mainland Southeast Asia over past millennium",
     "link": "https://www.nature.com/articles/s41561-026-02020-2",
