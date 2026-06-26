@@ -1,5 +1,746 @@
 [
   {
+    "id": "https://www.science.org/doi/abs/10.1126/science.aei9819?af=R",
+    "title": "Dorothy Hodgkin: A Life",
+    "link": "https://www.science.org/doi/abs/10.1126/science.aei9819?af=R",
+    "authors": [],
+    "summary": "Science, Volume 392, Issue 6805, Page 1341-1341, June 2026. <br />",
+    "source": "AAAS: Science: Table of Contents",
+    "date": "2026-06-25",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/science.aei0476?af=R",
+    "title": "Dartmouth’s AI summer and what came next",
+    "link": "https://www.science.org/doi/abs/10.1126/science.aei0476?af=R",
+    "authors": [
+      "Kate Crawford"
+    ],
+    "summary": "Science, Volume 392, Issue 6805, Page 1340-1342, June 2026. <br />",
+    "source": "AAAS: Science: Table of Contents",
+    "date": "2026-06-25",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/science.adp4440?af=R",
+    "title": "Superconducting phase diagram of multilayer square-planar nickelates",
+    "link": "https://www.science.org/doi/abs/10.1126/science.adp4440?af=R",
+    "authors": [
+      "Grace A. Pan, Dan Ferenc Segedin, Sophia F. R. TenHuisen, Lopa Bhatt, Harrison LaBollita, Abigail Y. Jiang, Qi Song, Ari B. Turkiewicz, Denitsa R. Baykusheva, Abhishek Nag, Stefano Agrestini, Ke-Jin Zhou, Jonathan Pelliciari, Valentina Bisogni, Hua Zhou, Mark P. M. Dean, Hanjong Paik, David A. Muller, Lena F. Kourkoutis, Charles M. Brooks, Matteo Mitrano, Antia S. Botana, Berit H. Goodge, Julia A. Mundy"
+    ],
+    "summary": "Science, Volume 392, Issue 6805, Page 1390-1395, June 2026. <br />",
+    "source": "AAAS: Science: Table of Contents",
+    "date": "2026-06-25",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/science.adw3949?af=R",
+    "title": "Single-cell multiomics of neuron activation reveals context-specific genetics of brain disorders",
+    "link": "https://www.science.org/doi/abs/10.1126/science.adw3949?af=R",
+    "authors": [
+      "Lifan Liang, Siwei Zhang, Zicheng Wang, Hanwen Zhang, Chuxuan Li, Christina Thapa,, Emily K. Oh, David Sirkin, Xiaotong Sun, Alexandra Barishman, Ada McCarroll, Alexandra C. Duhe, Sheng Qian, Xiaoyuan Zhong, Brendan Jamison, Whitney Wood, Alena Kozlova, Zhiping P. Pang, Alan R. Sanders, Xin He, Jubao Duan"
+    ],
+    "summary": "Science, Volume 392, Issue 6805, June 2026. <br />",
+    "source": "AAAS: Science: Table of Contents",
+    "date": "2026-06-25",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/science.adw8329?af=R",
+    "title": "Nodeless superconducting gap and electron-boson coupling in (La,Pr,Sm)3Ni2O7 films",
+    "link": "https://www.science.org/doi/abs/10.1126/science.adw8329?af=R",
+    "authors": [
+      "Jianchang Shen, Guangdi Zhou, Yu Miao, Peng Li, Zhipeng Ou, Yaqi Chen, Zechao Wang, Runqing Luan, Hongxu Sun, Zikun Feng, Xinru Yong, Yueying Li, Lizhi Xu, Wei Lv, Zihao Nie, Heng Wang, Haoliang Huang, Yu-Jie Sun, Qi-Kun Xue, Junfeng He, Zhuoyu Chen"
+    ],
+    "summary": "Science, Volume 392, Issue 6805, Page 1396-1400, June 2026. <br />",
+    "source": "AAAS: Science: Table of Contents",
+    "date": "2026-05-21",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/science.adx3972?af=R",
+    "title": "Antibiotics stimulate protein transfer to persister cells",
+    "link": "https://www.science.org/doi/abs/10.1126/science.adx3972?af=R",
+    "authors": [
+      "Alice X. Wen, Julia Bos, Debojyoti Panda, Katelin M. Hagstrom, Shubham Singh, Shrawan Kumar Mageswaran, Xiaoli Wang, Bo Hu, Kobie T. Welch, Matthew B. Cooke, Jennifer A. Halliday, Laura Deus Ramirez, Antoinette E. Martinez, Yi-Wei Chang, David A. Weitz, Christophe Herman"
+    ],
+    "summary": "Science, Volume 392, Issue 6805, June 2026. <br />",
+    "source": "AAAS: Science: Table of Contents",
+    "date": "2026-06-25",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/science.ady3911?af=R",
+    "title": "Reversible suppression of autophagy in a mouse model reveals neuronal resilience",
+    "link": "https://www.science.org/doi/abs/10.1126/science.ady3911?af=R",
+    "authors": [
+      "Tomoya Eguchi, Manabu Abe, Takuya Tomita, Hideaki Morishita, Yasushi Saeki, Kenji Sakimura, Kenji F. Tanaka, Noboru Mizushima"
+    ],
+    "summary": "Science, Volume 392, Issue 6805, Page 1363-1368, June 2026. <br />",
+    "source": "AAAS: Science: Table of Contents",
+    "date": "2026-06-25",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/science.adz3624?af=R",
+    "title": "Illuminating the molecular basis of human daylight vision",
+    "link": "https://www.science.org/doi/abs/10.1126/science.adz3624?af=R",
+    "authors": [
+      "Sarah L. Schmidt, Jakub Dostal, Saumik Sen, Andrej Hovan, Deborah Walter, Martin V. Appleby, Asato Kojima, Hideaki E. Kato, John H. Beale, Miroslav Kloz, Gebhard F. X. Schertler, Polina Isaikina"
+    ],
+    "summary": "Science, Volume 392, Issue 6805, June 2026. <br />",
+    "source": "AAAS: Science: Table of Contents",
+    "date": "2026-06-25",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/science.adz3996?af=R",
+    "title": "Structural insights into spectral tuning and retinal exchange in cone visual pigments",
+    "link": "https://www.science.org/doi/abs/10.1126/science.adz3996?af=R",
+    "authors": [
+      "Sayaka Ohashi, Kota Katayama, Asato Kojima, Xuchun Yang, Masahiro Fukuda, Filippo Sacchetta, Ryoji Suno, Yukihiko Sugita, Nipawan Nuemket, Suhyang Kim, Kazuhiro Kobayashi, Hiroo Imai, So Iwata, Eriko Nango, Takuya Kobayashi, Takeshi Noda, Massimo Olivucci, Hideaki E. Kato, Hideki Kandori"
+    ],
+    "summary": "Science, Volume 392, Issue 6805, June 2026. <br />",
+    "source": "AAAS: Science: Table of Contents",
+    "date": "2026-06-25",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/science.adz8141?af=R",
+    "title": "Cryo–electron microscopy structures of human cone visual pigments",
+    "link": "https://www.science.org/doi/abs/10.1126/science.adz8141?af=R",
+    "authors": [
+      "Qi Peng, Jian Li , Haihai Jiang , Xinyu Cheng , Probal Nag, Gunnar Kleinau, Trevor D. Lamb, Leon Busche, Qiuyuan Lu, Sili Zhou, Yidi Liu, Yuting Zhang, Sijia Lv, Shuangyan Wan, Tingting Yang, Yixiang Chen, Wei Zhang, Weiwei Nan, Ying Fu, Tong Che, Yanyan Li, Hongfei Liao , Jingjing Duan , Igor Schapiro, Patrick Scheerer, Jin Zhang"
+    ],
+    "summary": "Science, Volume 392, Issue 6805, June 2026. <br />",
+    "source": "AAAS: Science: Table of Contents",
+    "date": "2026-06-25",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/science.aeb4938?af=R",
+    "title": "Lariat RNA debranching prevents harmful siRNA burst in plants",
+    "link": "https://www.science.org/doi/abs/10.1126/science.aeb4938?af=R",
+    "authors": [
+      "Qi Tang, Chenxi Ding, Xiaotuo Zhang, Taiyun Wang, Mengjie Zhu, Ruixue Cui, Wenya Yang, Jinbiao Ma, Guodong Ren, Xiaoming Zhang, Binglian Zheng"
+    ],
+    "summary": "Science, Volume 392, Issue 6805, Page 1401-1407, June 2026. <br />",
+    "source": "AAAS: Science: Table of Contents",
+    "date": "2026-06-25",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/science.aeg5014?af=R",
+    "title": "Nano–electron volt Fourier-limited transition of a single surface-adsorbed molecule",
+    "link": "https://www.science.org/doi/abs/10.1126/science.aeg5014?af=R",
+    "authors": [
+      "Masoud Mirzaei, Alexey Shkarin, Burak Gurlek, Johannes Zirkelbach, Ashley J. Shin, Irena Deperasińska, Boleslaw Kozankiewicz, Tobias Utikal, Stephan Götzinger, Vahid Sandoghdar"
+    ],
+    "summary": "Science, Volume 392, Issue 6805, Page 1384-1389, June 2026. <br />",
+    "source": "AAAS: Science: Table of Contents",
+    "date": "2026-06-25",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/science.aeb3900?af=R",
+    "title": "Ubiquitin-like proteins NEDD8 and SUMO2 control epithelial homeostasis, regeneration, and inflammation",
+    "link": "https://www.science.org/doi/abs/10.1126/science.aeb3900?af=R",
+    "authors": [
+      "Mårten C. G. Winge, Leandra V. Jackrazi, Douglas F. Porter, Suhas Srinivasan, Vanessa Lopez-Pajares, Dayan J. Li, Benjamin Pham, Aubrey Houser, Spencer H. Cha, Robin M. Meyers, Lisa A. Ko, Luca Ducoli, Weili Miao, Lindsey M. Meservey, Brian J. Zarnegar, Mark Smith, Andrew L. Ji, Michael T. Longaker, Paul A. Khavari"
+    ],
+    "summary": "Science, Volume 392, Issue 6805, June 2026. <br />",
+    "source": "AAAS: Science: Table of Contents",
+    "date": "2026-06-25",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/science.aed3823?af=R",
+    "title": "Iron-catalyzed active lipid peroxides drive ultrafast collective cell death in blooming algae",
+    "link": "https://www.science.org/doi/abs/10.1126/science.aed3823?af=R",
+    "authors": [
+      "Yinjie Zhu, Xiaoxiong Wang, Yifan Tong, Chengzhen Jia, Huansheng Cao, Hongying Hu, Yi Tao"
+    ],
+    "summary": "Science, Volume 392, Issue 6805, June 2026. <br />",
+    "source": "AAAS: Science: Table of Contents",
+    "date": "2026-06-25",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/science.ads0532?af=R",
+    "title": "Innate factors and ontogeny determine nonbreeding areas of migrant songbirds",
+    "link": "https://www.science.org/doi/abs/10.1126/science.ads0532?af=R",
+    "authors": [
+      "K.P. Lamers, J. Ouwehand, R. Ubels, M. Nicolaus, C. Camacho, J. Potti, F. Bell, M. Burgess, H.M. Lampe, J.Å. Nilsson, A. Kerimov, T. Ilyina, E. Belskii, V.G. Grinkov, H. Sternberg, C. Both"
+    ],
+    "summary": "Science, Volume 392, Issue 6805, Page 1375-1379, June 2026. <br />",
+    "source": "AAAS: Science: Table of Contents",
+    "date": "2026-06-25",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/science.aeb5402?af=R",
+    "title": "Impact heating and the hidden Hadean",
+    "link": "https://www.science.org/doi/abs/10.1126/science.aeb5402?af=R",
+    "authors": [
+      "Tim E. Johnson, Craig O’Neill, Simon Turner, Christopher L. Kirkland"
+    ],
+    "summary": "Science, Volume 392, Issue 6805, Page 1408-1412, June 2026. <br />",
+    "source": "AAAS: Science: Table of Contents",
+    "date": "2026-06-25",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/science.adw9457?af=R",
+    "title": "Diversification of angiosperm reproductive strategies predated the end-Cretaceous extinction",
+    "link": "https://www.science.org/doi/abs/10.1126/science.adw9457?af=R",
+    "authors": [
+      "Jaemin Lee, Dori L. Contreras, James G. Saulsbury, Garland R. Upchurch, Cindy V. Looy"
+    ],
+    "summary": "Science, Volume 392, Issue 6805, Page 1380-1383, June 2026. <br />",
+    "source": "AAAS: Science: Table of Contents",
+    "date": "2026-06-25",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/science.adp5208?af=R",
+    "title": "Industrial-scale nanocrystalline Ni–Mo–MgO catalysts for hybrid reforming of waste to fuels",
+    "link": "https://www.science.org/doi/abs/10.1126/science.adp5208?af=R",
+    "authors": [
+      "Seok-Jin Kim, Raghu V. Maligal-Ganesh, Javeed Mahmood, Phil Woong Kang, Aadesh Harale, Abdulrahman S. AlSuhaibani, Qingyuan Hu, Ammar H. Alahmed, Aqil Jamal, Rukaiyat Suleiman, Husain Baaqel, Mert Atilhan, S. Mani Sarathy, Cafer T. Yavuz"
+    ],
+    "summary": "Science, Volume 392, Issue 6805, Page 1369-1374, June 2026. <br />",
+    "source": "AAAS: Science: Table of Contents",
+    "date": "2026-06-25",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/science.aef4958?af=R",
+    "title": "Structural N- and O-glycans revealed by high-resolution cryo-EM analysis of tubular mastigonemes",
+    "link": "https://www.science.org/doi/abs/10.1126/science.aef4958?af=R",
+    "authors": [
+      "Junhao Huang (黄隽豪)†*, Hui Tao (陶慧)†, Sheng Chen (陈晟)†, Yahua Cui (崔亚华), Yiran Xu (徐艺然), Chuangye Yan (闫创业)*, Nieng Yan (颜宁),,*"
+    ],
+    "summary": "Science, Volume 392, Issue 6805, June 2026. <br />",
+    "source": "AAAS: Science: Table of Contents",
+    "date": "2026-06-25",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/science.aej9373?af=R",
+    "title": "In Other Journals",
+    "link": "https://www.science.org/doi/abs/10.1126/science.aej9373?af=R",
+    "authors": [
+      "Corinne Simonti, and Jesse Smith, Mattia Maroso, Unnati Sonawala, Sarah H. Ross, Marc S. Lavine, Sacha Vignieri, Keith T. Smith, and Phil Szuromi"
+    ],
+    "summary": "Science, Volume 392, Issue 6805, Page 1353-1354, June 2026. <br />",
+    "source": "AAAS: Science: Table of Contents",
+    "date": "2026-06-25",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/science.aej9374?af=R",
+    "title": "Recognizing my worth",
+    "link": "https://www.science.org/doi/abs/10.1126/science.aej9374?af=R",
+    "authors": [
+      "Job Fransen"
+    ],
+    "summary": "Science, Volume 392, Issue 6805, Page 1418-1418, June 2026. <br />",
+    "source": "AAAS: Science: Table of Contents",
+    "date": "2026-06-25",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/science.aei4132?af=R",
+    "title": "Bacteria share proteins to survive antibiotics",
+    "link": "https://www.science.org/doi/abs/10.1126/science.aei4132?af=R",
+    "authors": [
+      "Thierry Oms and Laurence Van Melderen"
+    ],
+    "summary": "Science, Volume 392, Issue 6805, Page 1345-1346, June 2026. <br />",
+    "source": "AAAS: Science: Table of Contents",
+    "date": "2026-06-25",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/science.aei6085?af=R",
+    "title": "Genetic effects put into context",
+    "link": "https://www.science.org/doi/abs/10.1126/science.aei6085?af=R",
+    "authors": [
+      "Biao Zeng and Panos Roussos"
+    ],
+    "summary": "Science, Volume 392, Issue 6805, Page 1344-1345, June 2026. <br />",
+    "source": "AAAS: Science: Table of Contents",
+    "date": "2026-06-25",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/science.aei7111?af=R",
+    "title": "Coordinated demise of harmful algal blooms",
+    "link": "https://www.science.org/doi/abs/10.1126/science.aei7111?af=R",
+    "authors": [
+      "Rainer Kurmayer"
+    ],
+    "summary": "Science, Volume 392, Issue 6805, Page 1343-1344, June 2026. <br />",
+    "source": "AAAS: Science: Table of Contents",
+    "date": "2026-06-25",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/science.aei7140?af=R",
+    "title": "Impacts shaped Earth’s first continents",
+    "link": "https://www.science.org/doi/abs/10.1126/science.aei7140?af=R",
+    "authors": [
+      "Qian Yuan"
+    ],
+    "summary": "Science, Volume 392, Issue 6805, Page 1347-1347, June 2026. <br />",
+    "source": "AAAS: Science: Table of Contents",
+    "date": "2026-06-25",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/science.aej5835?af=R",
+    "title": "Erratum for the Report “Covalently bonded single-molecule junctions with stable and reversible photoswitched conductivity” by C. Jia et al.",
+    "link": "https://www.science.org/doi/abs/10.1126/science.aej5835?af=R",
+    "authors": [],
+    "summary": "Science, Volume 392, Issue 6805, June 2026. <br />",
+    "source": "AAAS: Science: Table of Contents",
+    "date": "2026-06-25",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/science.aej9809?af=R",
+    "title": "An ancient mystery: missing males",
+    "link": "https://www.science.org/doi/abs/10.1126/science.aej9809?af=R",
+    "authors": [
+      "Ann Gibbons"
+    ],
+    "summary": "Science, Volume 392, Issue 6805, Page 1328-1329, June 2026. <br />",
+    "source": "AAAS: Science: Table of Contents",
+    "date": "2026-06-25",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/science.aej9810?af=R",
+    "title": "Rise in papers using powerful medical research tool raises concern",
+    "link": "https://www.science.org/doi/abs/10.1126/science.aej9810?af=R",
+    "authors": [
+      "Frederik Joelving"
+    ],
+    "summary": "Science, Volume 392, Issue 6805, Page 1330-1331, June 2026. <br />",
+    "source": "AAAS: Science: Table of Contents",
+    "date": "2026-06-25",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/science.aej9811?af=R",
+    "title": "Has NSF slashed research to support tech initiative?",
+    "link": "https://www.science.org/doi/abs/10.1126/science.aej9811?af=R",
+    "authors": [
+      "Jeffrey Mervis"
+    ],
+    "summary": "Science, Volume 392, Issue 6805, Page 1331-1332, June 2026. <br />",
+    "source": "AAAS: Science: Table of Contents",
+    "date": "2026-06-25",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/science.aej9813?af=R",
+    "title": "Researchers caught in the crossfire as firms and U.S. government grapple over AI safety",
+    "link": "https://www.science.org/doi/abs/10.1126/science.aej9813?af=R",
+    "authors": [
+      "Celina Zhao"
+    ],
+    "summary": "Science, Volume 392, Issue 6805, Page 1334-1335, June 2026. <br />",
+    "source": "AAAS: Science: Table of Contents",
+    "date": "2026-06-25",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/science.aej9814?af=R",
+    "title": "Words vs. worlds",
+    "link": "https://www.science.org/doi/abs/10.1126/science.aej9814?af=R",
+    "authors": [
+      "Matthew Hutson"
+    ],
+    "summary": "Science, Volume 392, Issue 6805, Page 1336-1339, June 2026. <br />",
+    "source": "AAAS: Science: Table of Contents",
+    "date": "2026-06-25",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/science.aej9812?af=R",
+    "title": "Scientists to spend 8 months drifting in Arctic ice",
+    "link": "https://www.science.org/doi/abs/10.1126/science.aej9812?af=R",
+    "authors": [
+      "Richard Stone"
+    ],
+    "summary": "Science, Volume 392, Issue 6805, Page 1333-1334, June 2026. <br />",
+    "source": "AAAS: Science: Table of Contents",
+    "date": "2026-06-25",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/science.aei7838?af=R",
+    "title": "Undead models and shrouded black holes",
+    "link": "https://www.science.org/doi/abs/10.1126/science.aei7838?af=R",
+    "authors": [
+      "Andy Lawrence"
+    ],
+    "summary": "Science, Volume 392, Issue 6805, June 2026. <br />",
+    "source": "AAAS: Science: Table of Contents",
+    "date": "2026-06-25",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/science.aej8205?af=R",
+    "title": "The enduring pursuit of science in America",
+    "link": "https://www.science.org/doi/abs/10.1126/science.aej8205?af=R",
+    "authors": [
+      "Neil H. Shubin"
+    ],
+    "summary": "Science, Volume 392, Issue 6805, Page 1323-1323, June 2026. <br />",
+    "source": "AAAS: Science: Table of Contents",
+    "date": "2026-06-25",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/science.aej9392?af=R",
+    "title": "A bright, sun-splashed future for renewable energy",
+    "link": "https://www.science.org/doi/abs/10.1126/science.aej9392?af=R",
+    "authors": [
+      "Matthew E. Wright"
+    ],
+    "summary": "Science, Volume 392, Issue 6805, Page 1413-1415, June 2026. <br />",
+    "source": "AAAS: Science: Table of Contents",
+    "date": "2026-06-25",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/science.aeg8744?af=R",
+    "title": "EU Omnibus proposal increases pesticide risks",
+    "link": "https://www.science.org/doi/abs/10.1126/science.aeg8744?af=R",
+    "authors": [
+      "Dimitry Wintermantel, Denicia Kassie, Lindsey Hendricks-Franco, Jessica Knapp, Annika Jahnke, Tom D. Breeze, Mark J. F. Brown, Carsten A. Brühl, Justine Dewaele, Manon Fievet, Andreas Focks, Antoine Gekière, Dave Goulson, Gregor Hagedorn, Timo Huelsduenker, Claudia Ituarte-Lima, Alexandra-Maria Klein, Alicia Kling, Joachim R. de Miranda, Denis Michez, Paul N. Ozoh, Robert J. Paxton, Guy Pe’er, Simon G. Potts, Antonia Riedel, Josselin Rouillard, Maj Rundlöf, Ralf B. Schäfer, Andreas Schäffer, Fabio Sgolastra, Daniel Slunge, Christopher J. Topping, Simone Tosi, Adam J. Vanbergen, and Julia Osterman"
+    ],
+    "summary": "Science, Volume 392, Issue 6805, Page 1348-1351, June 2026. <br />",
+    "source": "AAAS: Science: Table of Contents",
+    "date": "2026-06-18",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/science.aej9372?af=R",
+    "title": "In Science Journals",
+    "link": "https://www.science.org/doi/abs/10.1126/science.aej9372?af=R",
+    "authors": [
+      "Michael Funk, and Bianca Lopez, Stella M. Hurtley, Phil Szuromi, Sacha Vignieri, Yury Suleymanov, Unnati Sonawala, Madeleine Seale, Christiana N. Fogg, Rocío Titiunik, Di Jiang, Michael A. Funk, Yevgeniya Nusinovich, Jelena Stajic, Angela Hessler, Catherine Charneski, and Leslie Ferrarelli"
+    ],
+    "summary": "Science, Volume 392, Issue 6805, Page 1352-1354, June 2026. <br />",
+    "source": "AAAS: Science: Table of Contents",
+    "date": "2026-06-25",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41561-026-02029-7",
+    "title": "Reply to: AMOC response to historical freshwater increase",
+    "link": "https://www.nature.com/articles/s41561-026-02029-7",
+    "authors": [
+      "Gabriel M. Pontes",
+      "Laurie Menviel"
+    ],
+    "summary": "Nature Geoscience, Published online: 25 June 2026; <a href=\"https://www.nature.com/articles/s41561-026-02029-7\">doi:10.1038/s41561-026-02029-7</a>Reply to: AMOC response to historical freshwater increase",
+    "source": "Nature Geoscience",
+    "date": "2026-06-25",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41561-026-02028-8",
+    "title": "AMOC response to historical freshwater increase",
+    "link": "https://www.nature.com/articles/s41561-026-02028-8",
+    "authors": [
+      "Marion Devilliers",
+      "Didier Swingedouw",
+      "Torge Martin",
+      "Kenneth D. Mankoff",
+      "Ilana Schiller-Weiss",
+      "Juliette Mignot",
+      "Steffen M. Olsen",
+      "Julie Deshayes"
+    ],
+    "summary": "Nature Geoscience, Published online: 25 June 2026; <a href=\"https://www.nature.com/articles/s41561-026-02028-8\">doi:10.1038/s41561-026-02028-8</a>AMOC response to historical freshwater increase",
+    "source": "Nature Geoscience",
+    "date": "2026-06-25",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-73998-x",
+    "title": "Geometric phase sensing using seismic waves for comprehensive volcano monitoring at Kı̄lauea Hawaii",
+    "link": "https://www.nature.com/articles/s41467-026-73998-x",
+    "authors": [
+      "Bingxu Luo",
+      "Susan Beck",
+      "Pierre Deymier",
+      "Keith Runge",
+      "Eric Kiser",
+      "Pranabendu Moitra",
+      "Falk Huettmann",
+      "Samy Missoum",
+      "Marat Latypov",
+      "Elizabeth Whitney",
+      "Jiayang Wang",
+      "Sinan S. Schabib"
+    ],
+    "summary": "Nature Communications, Published online: 26 June 2026; <a href=\"https://www.nature.com/articles/s41467-026-73998-x\">doi:10.1038/s41467-026-73998-x</a>This study introduces geometric phase sensing, a topological acoustics framework using seismic noise to track volcanic activity at Kīlauea. The method reveals subsurface changes over the full eruptive stages and enables monitoring across diverse dynamic Earth systems.",
+    "source": "Nature Communications",
+    "date": "2026-06-26",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-74659-9",
+    "title": "Ultrafast photoreduction driven by interfacial spin exchange in manganese-doped quantum dots",
+    "link": "https://www.nature.com/articles/s41467-026-74659-9",
+    "authors": [
+      "Ho Jin",
+      "Valerio Pinchetti",
+      "Connor Orrison",
+      "Jungchul Noh",
+      "Dong Hee Son",
+      "Victor I. Klimov"
+    ],
+    "summary": "Nature Communications, Published online: 26 June 2026; <a href=\"https://www.nature.com/articles/s41467-026-74659-9\">doi:10.1038/s41467-026-74659-9</a>The authors show that manganese-doped quantum dots enable ultrafast electron transfer and reduce methyl viologen even when conventional band-edge charge transfer is unfavorable, identifying spin exchange as the key driver of hot-carrier photochemistry.",
+    "source": "Nature Communications",
+    "date": "2026-06-26",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-74662-0",
+    "title": "Ultranarrow bright single-photon emitters in diamond with strong broadband phonon decoupling",
+    "link": "https://www.nature.com/articles/s41467-026-74662-0",
+    "authors": [
+      "Swetapadma Sahoo",
+      "Péter Udvarhelyi",
+      "Jaden Li",
+      "Darwon Kim",
+      "Viatcheslav Agafonov",
+      "Valery A. Davydov",
+      "Benjamin Lawrie",
+      "Prineha Narang",
+      "Simeon I. Bogdanov"
+    ],
+    "summary": "Nature Communications, Published online: 26 June 2026; <a href=\"https://www.nature.com/articles/s41467-026-74662-0\">doi:10.1038/s41467-026-74662-0</a>Unwanted coupling to bulk phonons limits the coherence and brightness of solid-state single photon emitters. Here, the authors report a new nanodiamond color center with a record-narrow room-temperature emission linewidth and strongly suppressed phonon sidebands and propose a general phonon-decoupling mechanism based on coupling to a localized vibrational mode.",
+    "source": "Nature Communications",
+    "date": "2026-06-26",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-74464-4",
+    "title": "SMURF: soft-segmentation for single-cell reconstruction and topological analysis of spatial transcriptomic data",
+    "link": "https://www.nature.com/articles/s41467-026-74464-4",
+    "authors": [
+      "Juanru Guo",
+      "Simona Sarafinovska",
+      "Ryan A. Hagenson",
+      "Mark C. Valentine",
+      "David Y. Chen",
+      "William H. McCoy IV",
+      "Joseph D. Dougherty",
+      "Robi D. Mitra",
+      "Brian D. Muegge"
+    ],
+    "summary": "Nature Communications, Published online: 26 June 2026; <a href=\"https://www.nature.com/articles/s41467-026-74464-4\">doi:10.1038/s41467-026-74464-4</a>SMURF uses deep learning and topological analysis to assign mRNAs to single cells in spatial transcriptomics data, recovering rare cell types and uncovering environmentally regulated gene expression programs in the mouse intestine.",
+    "source": "Nature Communications",
+    "date": "2026-06-26",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-74798-z",
+    "title": "Topological suppression of quantum tunnelling in a lanthanide single-ion molecular magnet",
+    "link": "https://www.nature.com/articles/s41467-026-74798-z",
+    "authors": [
+      "Sagar Paul",
+      "Eufemio Moreno-Pineda",
+      "Concepción Molina-Jirón",
+      "Appu Sunil",
+      "Mario Ruben",
+      "Anupam Garg",
+      "Wolfgang Wernsdorfer"
+    ],
+    "summary": "Nature Communications, Published online: 26 June 2026; <a href=\"https://www.nature.com/articles/s41467-026-74798-z\">doi:10.1038/s41467-026-74798-z</a>Quantum phase interference in molecular magnets could provide a route to topological control of spin dynamics but has remained inaccessible in lanthanide systems. Here, the authors report its observation in a 4f single-ion molecular magnet using magneto-spectroscopy, resolving tunnelling splittings and revealing topological quenching.",
+    "source": "Nature Communications",
+    "date": "2026-06-26",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-74655-z",
+    "title": "Severe droughts in Senegal are linked to increased family reunification at migration destinations in Europe",
+    "link": "https://www.nature.com/articles/s41467-026-74655-z",
+    "authors": [
+      "Yasemin Savas"
+    ],
+    "summary": "Nature Communications, Published online: 25 June 2026; <a href=\"https://www.nature.com/articles/s41467-026-74655-z\">doi:10.1038/s41467-026-74655-z</a>The study combines Senegal migration and weather data and find severe droughts in origin are linked to increased family reunification at destinations in Europe, suggesting extreme weather may shift migration towards a more permanent settlement strategy.",
+    "source": "Nature Communications",
+    "date": "2026-06-25",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-74456-4",
+    "title": "Dynamic roughening of cities driven by multiplicative noise",
+    "link": "https://www.nature.com/articles/s41467-026-74456-4",
+    "authors": [
+      "Martin Hendrick",
+      "Gabriele Manoli"
+    ],
+    "summary": "Nature Communications, Published online: 25 June 2026; <a href=\"https://www.nature.com/articles/s41467-026-74456-4\">doi:10.1038/s41467-026-74456-4</a>This study shows that cities grow upward through random, self-amplifying processes moderated by local interactions, linking urban form and economic growth to universal patterns from statistical physics.",
+    "source": "Nature Communications",
+    "date": "2026-06-25",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-026-03745-z",
+    "title": "Untapped mineral potential in Nevada heap-leach facilities supports pathways to strengthen United States resource security",
+    "link": "https://www.nature.com/articles/s43247-026-03745-z",
+    "authors": [
+      "Jesse L. Scholpp",
+      "Simon M. Jowitt",
+      "Ryan Clark",
+      "Rachel Micander",
+      "Homayoun Fathollahzadeh"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 25 June 2026; <a href=\"https://www.nature.com/articles/s43247-026-03745-z\">doi:10.1038/s43247-026-03745-z</a>Nevada leached tailings contain about 88 billion United States dollars in precious metals and over 15 billion in critical metals, estimated through a statewide inventory and resource analysis of active and inactive heap-leach sites.",
+    "source": "Communications Earth & Environment",
+    "date": "2026-06-25",
+    "sent": true
+  },
+  {
+    "id": "https://www.pnas.org/doi/abs/10.1073/pnas.2602421123?af=R",
+    "title": "Enhanced rock weathering has greater promise as a sustainable farming practice than a CO2 removal technology",
+    "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2602421123?af=R",
+    "authors": [
+      "Ian M. PowerJonathan SpenceMinger GuoSasha WilsonShaun Watmoughahttps://ror.org/03ygmq230Trent School of the Environment, Trent University, Peterborough, ON K9L 0G2, Canadabhttps://ror.org/0160cpw27Department of Earth and Atmospheric Sciences, University of Alberta, Edmonton, AB T6G 2E3, Canada"
+    ],
+    "summary": "Proceedings of the National Academy of Sciences, Volume 123, Issue 26, June 2026. <br />",
+    "source": "Proceedings of the National Academy of Sciences: Earth, Atmospheric, and Planetary Sciences",
+    "date": "2026-06-24",
+    "sent": true
+  },
+  {
+    "id": "https://www.pnas.org/doi/abs/10.1073/pnas.2618226123?af=R",
+    "title": "Correction for McWilliams, There is no horizontal gravity force in geopotential coordinates",
+    "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2618226123?af=R",
+    "authors": [],
+    "summary": "Proceedings of the National Academy of Sciences, Volume 123, Issue 26, June 2026. <br />",
+    "source": "Proceedings of the National Academy of Sciences: Earth, Atmospheric, and Planetary Sciences",
+    "date": "2026-06-24",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL120107",
+    "title": "A Mountain Glacier Perspective on the Bipolar Seesaw",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL120107?af=R",
+    "authors": [
+      "Joseph P. Tulenko, \nGreg Balco"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 12, 28 June 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-06-24",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL122536",
+    "title": "Zinc Isotopes Reveal Cross‐Border Transport of Coal Combustion Pollutants Across the Himalayas During the Summer Monsoon",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL122536?af=R",
+    "authors": [
+      "Xiaoyu Jiao, \nZhiwen Dong, \nYaping Shao, \nGiovanni Baccolo, \nFangzhou Li, \nRui Wu"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 12, 28 June 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-06-24",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL124120",
+    "title": "Distinct Distribution Patterns of Dissolved and Particulate Trace Metals in Surface Waters of the Amundsen Sea: From Polynya to Open Waters",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL124120?af=R",
+    "authors": [
+      "Yuncong Ge, \nRuifeng Zhang"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 12, 28 June 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-06-24",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026JB034353",
+    "title": "High‐Resolution Tomographic Imaging of the Northern Appalachian Anomaly, New England, US",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026JB034353?af=R",
+    "authors": [
+      "Kimberly Espinal, \nMaximiliano J. Bezada, \nMaureen D. Long, \nJames Bourke, \nFrederik Link"
+    ],
+    "summary": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 6, June 2026.",
+    "source": "Wiley: Journal of Geophysical Research: Solid Earth: Table of Contents",
+    "date": "2026-06-24",
+    "sent": true
+  },
+  {
+    "id": "https://pubs.geoscienceworld.org/gsa/gsabulletin/article/doi/10.1130/B38923.1/732117/Mid-Cretaceous-porphyritic-magmatism-in-the",
+    "title": "Mid-Cretaceous porphyritic magmatism in the Beartooth Mountains of the northern Laramide foreland and its connection to Frontier Formation sediment dispersal in Bighorn basin, Montana-Wyoming (USA), and Cordilleran tectonism",
+    "link": "https://pubs.geoscienceworld.org/gsa/gsabulletin/article/doi/10.1130/B38923.1/732117/Mid-Cretaceous-porphyritic-magmatism-in-the",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\">Porphyritic intrusions in the southeast Beartooth Mountains and porphyritic cobbles from the Torchlight conglomerate of the Cenomanian Frontier Formation in Bighorn basin (Montana-Wyoming, USA) bear striking resemblance. We utilize geologic mapping, petrography, geochemistry, and geochronology to characterize rocks from both locations and test whether the Beartooth Mountains area was the provenance for Bighorn basin cobbles. Mapping on Line Creek Plateau in the Beartooth Mountains shows three units with porphyritic phenocrysts consisting dominantly of plagioclase, plagioclase + potassium feldspar, and plagioclase + quartz. Petrography shows embayed quartz, opacitic rims, and zoned plagioclase. Geochemistry characterizes the intrusions as trachydacite to trachyte and trace elements exhibit enrichment in light rare earth elements and slight depletion in heavy rare earth elements relative to primitive mantle. Zircon U-Pb dating shows substantial Archean inheritance and ca. 104−92 Ma dates; some samples display multiple mid-Cretaceous date populations. Bighorn basin porphyritic cobbles exhibit similar modal mineralogy, near-identical geochemistry, and Archean inheritance and mid-Cretaceous geochronology. We suggest the porphyritic cobbles were sourced from basement-hosted porphyritic intrusions now exposed in the Beartooth Mountains, given that geochemistry does not agree with coeval volcanic sources along the Frontier Formation depositional fairway (Idaho batholith) or sedimentary-hosted Beartooth Mountains porphyritic sills intruded into Cambrian shale. Stratigraphic evidence does not support kilometer-scale mid-Cretaceous Beartooth Mountains exhumation to expose basement-hosted porphyritic intrusions, and we therefore present a volcanic hypothesis to bring rocks to the surface. This mid-Cretaceous multimillion-year magmatism is unexplained by tectonic models for the north-central Laramide foreland, and thus we further explore the emplacement processes, spatiotemporal significance, and tectonic implications of these rocks.</span>",
+    "source": "GSA Bulletin Advance Access",
+    "date": "2026-06-24",
+    "sent": true
+  },
+  {
+    "id": "https://pubs.geoscienceworld.org/gsa/gsabulletin/article/doi/10.1130/B38599.1/732116/Iron-microbialites-from-an-acidic-Martian-analog",
+    "title": "Iron microbialites from an acidic Martian analog (Río Tinto, Spain)—Implications for finding life on Mars",
+    "link": "https://pubs.geoscienceworld.org/gsa/gsabulletin/article/doi/10.1130/B38599.1/732116/Iron-microbialites-from-an-acidic-Martian-analog",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\">The search for life on Mars requires identifying suitable biosignatures detectable by rover missions or in returned samples. To support the progressing astrobiological exploration of Mars, we investigated modern iron microbialites from Río Tinto, Spain, an acidic terrestrial analog to the Meridiani Planum. We used an integrative approach combining a suite of tools (Raman and Mössbauer spectroscopy, micro X-ray diffraction [µXRD], micro X-ray fluorescence [µXRF]) analogous to the instruments onboard various Mars rovers. Our analyses revealed that the ∼10-cm-thick microbialites exhibit alternating porous and dense layers of jarosite and Fe(III) (oxyhydr)oxides, locally common minerals on Mars. The estimated growth rate of the layered structures (1 mm per year) is very high considering the slow precipitation kinetics of the constituent minerals, inconsistent with solely abiotic precipitation. δ<sup>56</sup>Fe data for the different layers (−0.91‰ to −0.83‰) and calculated isotopic differences (Δ<sup>56</sup>Fe<sub>(III)solid-aq</sub> = −0.62‰ to −0.54‰) were consistent with both biotic and abiotic mineral precipitation. Scanning electron microscope−energy-dispersive X-ray spectroscopy (SEM-EDS) and DNA analyses confirmed the presence of microorganisms known for promoting iron mineral formation, including archaea (e.g., Thermoplasmata) and bacteria (e.g., <span style=\"font-style: italic;\">Acidithiobacillus</span>). Our study highlights three lines of biogenicity: (1) non-isopachous layered structures, (2) high growth rate, and (3) the presence of microorganisms that likely promote iron mineral precipitation. Problematically, growth rates and the presence of relevant microorganisms cannot be reliably inferred or detected, either in the geological record or by the rovers, while layered structures can also form abiotically. While highlighting such challenges in interpreting iron microbialites in modern systems, our study provides a robust framework for exploring these structures on ancient Earth. It also underscores the critical role of integrating high-confidence morphological and geochemical biosignatures—ideally from sample return missions—in the search for life on Mars.</span>",
+    "source": "GSA Bulletin Advance Access",
+    "date": "2026-06-24",
+    "sent": true
+  },
+  {
+    "id": "http://doi.org/10.1093/nsr/nwag380",
+    "title": "Heterogeneous viral-host response at single-cell resolution and viral adaptive mutational atlas in birds and mammals upon H5 influenza virus infection",
+    "link": "https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwag380/8716371?rss=1",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\"><div class=\"boxTitle\">Abstract</div>H5 highly pathogenic avian influenza viruses (HPAIVs) are prevalent in birds, causing infection in over 60 mammalian species worldwide. However, species-specific viral-host response at the single-cell level and within-host evolution upon H5-HPAIV infection are poorly understood. Here, by integrating spatial transcriptomics and single-cell genomics technologies, we present a comprehensive single-cell transcriptomic landscape of 1499 669 cells in the lungs from birds (chickens, ducks, and pigeons) and mammals (mice and pigs) upon H5-HPAIV infection. H5-HPAIV primarily infected avian endothelial cells and mammalian epithelial cells, respectively. Among the single-cell transcriptomic lung landscape, H5-HPAIV infection induced significant inflammation in fibroblasts and the shedding of alveolar epithelial cells of chickens upon infection, while the expression levels of cytokine- and inflammation-related genes slightly decreased in fibroblasts and endothelial cells of infected ducks and pigeons, respectively. However, mice only exhibited significantly antiviral response in macrophages and neutrophils, while antiviral response was elevated in most subtype cells of pigs upon infection. Notably, we identified 19 viral non-synonymous intrahost single nucleotide variants (iSNVs) in infected birds and mammals and assessed their molecular characterizations <span style=\"font-style: italic;\">in vitro</span>. Three of them were identified to increase polymerase activity and viral replication <span style=\"font-style: italic;\">in situ</span>, among which the PB2-E627K mutation was enriched in the alveolar structure of lungs, accompanied by elevated expression of interferon-stimulated genes. Collectively, we elucidated distinct viral replication, host response, and viral adaptation in the lungs across diverse birds and mammals upon H5-HPAIV infection.</span>",
+    "source": "National Science Review Advance Access",
+    "date": "2026-06-25",
+    "sent": true
+  },
+  {
+    "id": "http://doi.org/10.1093/nsr/nwag391",
+    "title": "Ultralow-dose X-ray imaging enabled by vertically homogeneous perovskite films",
+    "link": "https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwag391/8716367?rss=1",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\"><div class=\"boxTitle\">Abstract</div>Artificial intelligence (AI) is rapidly pushing imaging and sensing toward automated, quantitative decision-making, heightening the demand for reliable low-photon-flux detection and imaging across infrared through X-ray regimes, yet developing detectors that truly operate effectively at ultralow photon fluxes has been a challenge. As a canonical instance, low-dose X-ray imaging operates under intrinsically sparse photon statistics, where Poisson fluctuations along the absorption depth couple to vertical transport non-uniformity and are statistically amplified at ultralow dose. Here we elucidate this materials-to-electronics bottleneck and develop a new liquid-phase growth and annealing (LPGA) strategy that eliminates thermal and mass-transport instabilities in conventional methods during crystallization, yielding perovskite films with exceptional vertical uniformity. This enables depth-independent charge collection, significantly reducing stochastic fluctuations in the readout and achieving a ten-fold reduction in image noise. In imaging applications, our detectors deliver high-quality X-ray imaging at an ultralow effective per-pixel integration dose of 40.6 nGy<sub>air</sub>, setting a new benchmark for safe, high-quality clinical imaging.</span>",
+    "source": "National Science Review Advance Access",
+    "date": "2026-06-25",
+    "sent": true
+  },
+  {
+    "id": "http://doi.org/10.1093/nsr/nwag393",
+    "title": "Bulk-to-interphase polybromide confinement and electric-field-responsive recovery enable Ah-level aqueous zinc-bromine batteries at room/low temperatures",
+    "link": "https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwag393/8716362?rss=1",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\"><div class=\"boxTitle\">Abstract</div>Aqueous Zn-Br<sub>2</sub> batteries are promising candidates for grid-scale energy storage owing to their low cost and inherent safety. However, their areal capacity and cycling stability are severely limited by detrimental polybromide shuttling, which arises from concentration-gradient-driven diffusion and often overlooked internal-electric-field-accelerated electromigration. Herein, a bulk-to-interphase synergistic regulation strategy is proposed integrating electrostatic micropore confinement in the cathode bulk with additional interfacial anchoring and electric-field-responsive recovery at the cathode/electrolyte interphase. Poly(quaternary ammonium)-functionalized activated carbon (N<sup>+</sup>-AC) hosts are rationally designed to trap polybromide anions within positively charged micropores of cathode bulk, thereby suppressing concentration-gradient-driven leakage while maintaining fast conversion kinetics. Simultaneously, 1-butyl-3-methylimidazolium chloride (1, 3-MI) electrolyte additive absorbed on cathode surface provide additional polybromide anchoring at the interphase. Importantly, theoretical calculations and <span style=\"font-style: italic;\">in-situ</span> characterizations demonstrate that an electric-field-responsive 1, 3-MI accumulation layer forms spontaneously during discharge, dynamically attracting polybromides and inhibiting their electromigration toward the anode, thus promoting their recovery to the cathode for reversible redox conversion. Consequently, the N<sup>+</sup>-AC||Zn full cell with 1, 3-MI achieves stable cycling over 1000 cycles at an ultrahigh areal capacity of 10 mAh cm<sup>−2</sup>. Furthermore, Ah-level Zn-Br<sub>2</sub> pouch cells operate stably at both room and subzero temperatures, validating the practical potential of this electric-field-aware bulk-to-interphase regulation strategy under complex climatic conditions.</span>",
+    "source": "National Science Review Advance Access",
+    "date": "2026-06-25",
+    "sent": true
+  },
+  {
+    "id": "http://doi.org/10.1093/nsr/nwag390",
+    "title": "A polarized high-field infrared instrument reveals giant infrared chirality in Weyl semimetals",
+    "link": "https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwag390/8716361?rss=1",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\">This highlight introduces the work of Yuan et al., who observed the giant broadband infrared circular dichroism in the type-II Weyl semimetal Mn(Bi1-xSbx)2Te4 for the first time through the development of a high-field magneto-infrared spectroscopy system with polarization resolution.</span>",
+    "source": "National Science Review Advance Access",
+    "date": "2026-06-25",
+    "sent": true
+  },
+  {
     "id": "https://www.nature.com/articles/s41586-026-10813-z",
     "title": "Author Correction: cBAF complex components and MYC cooperate early in CD8<sup>+</sup> T cell fate",
     "link": "https://www.nature.com/articles/s41586-026-10813-z",
