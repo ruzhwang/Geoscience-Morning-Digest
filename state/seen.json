@@ -1,5 +1,300 @@
 [
   {
+    "id": "https://www.nature.com/articles/s41561-026-02015-z",
+    "title": "Iron as a driver of organic carbon fate in permafrost regions",
+    "link": "https://www.nature.com/articles/s41561-026-02015-z",
+    "authors": [
+      "S. Opfergelt",
+      "E. M. Herndon",
+      "C. Bryce",
+      "A. J. Barker",
+      "C. Hirst"
+    ],
+    "summary": "Nature Geoscience, Published online: 06 July 2026; <a href=\"https://www.nature.com/articles/s41561-026-02015-z\">doi:10.1038/s41561-026-02015-z</a>This Perspective explores how changes in microbial and hydrological processes, in response to permafrost thaw across Arctic landscapes, alter iron–organic carbon interactions and therefore carbon cycling and greenhouse gas emissions.",
+    "source": "Nature Geoscience",
+    "date": "2026-07-06",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41561-026-02035-9",
+    "title": "Limited energy for microorganisms constrains carbon accrual in soil",
+    "link": "https://www.nature.com/articles/s41561-026-02035-9",
+    "authors": [
+      "Chaoqun Wang",
+      "Lin Xue",
+      "Peter B. Reich",
+      "Josep Peñuelas",
+      "Feng Tao",
+      "Yakov Kuzyakov"
+    ],
+    "summary": "Nature Geoscience, Published online: 06 July 2026; <a href=\"https://www.nature.com/articles/s41561-026-02035-9\">doi:10.1038/s41561-026-02035-9</a>The amount of energy that soil microbes can obtain from oxidizing available organic carbon is limited, which keeps many of them dormant and restricts their growth, necromass production and ultimately the accrual of soil carbon, according to analyses of soil carbon and energy fluxes.",
+    "source": "Nature Geoscience",
+    "date": "2026-07-06",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-75196-1",
+    "title": "Large-area two-dimensional MoO<sub>3</sub> as a high-<i>κ</i> dielectric for van der Waals integration",
+    "link": "https://www.nature.com/articles/s41467-026-75196-1",
+    "authors": [
+      "Zhenliang Hu",
+      "Bei Zhao",
+      "Qiang Fu",
+      "Huiyan Guan",
+      "Xiaozhi Liu",
+      "Tong Yang",
+      "Zijie Feng",
+      "Xiaoya Liu",
+      "Weiqiao Xia",
+      "Xudong Sun",
+      "Zucheng Zhang",
+      "Yang Wang",
+      "Yinzhu Chen",
+      "Yutian Yang",
+      "Shaopeng Feng",
+      "Xiao Tang",
+      "Yong Zhang",
+      "Jiahao Chen",
+      "Xinlei Zhang",
+      "Taotao Li",
+      "Zejun Li",
+      "Yanpeng Liu",
+      "Ming Yang",
+      "Yue Luo",
+      "Jing Wu",
+      "Hongwei Liu",
+      "Zhenhua Ni",
+      "Yuan Liu",
+      "Junpeng Lu"
+    ],
+    "summary": "Nature Communications, Published online: 07 July 2026; <a href=\"https://www.nature.com/articles/s41467-026-75196-1\">doi:10.1038/s41467-026-75196-1</a>The large-scale integration of high-κ dielectric materials with 2D semiconductors is important for the miniaturization of 2D electronics. Here, the authors report the growth of millimeter-scale high-κ MoO3 crystalline films and their application as gate dielectric for 2D transistors and complementary logic devices.",
+    "source": "Nature Communications",
+    "date": "2026-07-07",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-74824-0",
+    "title": "Learning regularities in noise engages both neural predictive activity and representational changes",
+    "link": "https://www.nature.com/articles/s41467-026-74824-0",
+    "authors": [
+      "Coumarane Tirou",
+      "Oussama Abdoun",
+      "Teodóra Vékony",
+      "Laure Tosatto",
+      "Andrea Brovelli",
+      "Marine Vernet",
+      "Dezső Németh",
+      "Romain Quentin"
+    ],
+    "summary": "Nature Communications, Published online: 07 July 2026; <a href=\"https://www.nature.com/articles/s41467-026-74824-0\">doi:10.1038/s41467-026-74824-0</a>Extracting regularities from a noisy environment is fundamental to cognition, yet the underlying neural mechanisms remain unclear. Here, the authors use MEG and MVPA to reveal two temporally dissociable mechanisms: rapid predictive activity, followed by slower representational change.",
+    "source": "Nature Communications",
+    "date": "2026-07-07",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-71916-9",
+    "title": "Magnonic spontaneous oscillation induced by parametric pumping",
+    "link": "https://www.nature.com/articles/s41467-026-71916-9",
+    "authors": [
+      "Yi Li",
+      "Carissa Kiehl",
+      "Jinho Lim",
+      "Cliff Abbott",
+      "Pratap K. Pal",
+      "Alex J. Szymczak",
+      "Juliang Li",
+      "Ralu Divan",
+      "Clarence L. Chang",
+      "Charudatta Phatak",
+      "Dmytro A. Bozhko",
+      "Axel Hoffmann",
+      "Valentine Novosad"
+    ],
+    "summary": "Nature Communications, Published online: 07 July 2026; <a href=\"https://www.nature.com/articles/s41467-026-71916-9\">doi:10.1038/s41467-026-71916-9</a>Parametric pumping in a YIG thin film generates ultrasharp spontaneous spin-wave modes that behave as auto-oscillators with quality factors exceeding 200,000 and can phase-lock to an external stimulus.",
+    "source": "Nature Communications",
+    "date": "2026-07-07",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-75311-2",
+    "title": "Engineering in vitro models to replicate the complexity of chronic wounds",
+    "link": "https://www.nature.com/articles/s41467-026-75311-2",
+    "authors": [
+      "Lucas Argandoña",
+      "Kristina Ivanova",
+      "Tzanko Tzanov"
+    ],
+    "summary": "Nature Communications, Published online: 06 July 2026; <a href=\"https://www.nature.com/articles/s41467-026-75311-2\">doi:10.1038/s41467-026-75311-2</a>Here, the authors review 2D and 3D in vitro chronic wound models and propose a feature-driven, aetiology-stratified framework that provides modular design considerations for in vitro models and chronic wound simulating media.",
+    "source": "Nature Communications",
+    "date": "2026-07-06",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-75091-9",
+    "title": "Embodied cognition-driven interpretable trajectory prediction of autonomous systems",
+    "link": "https://www.nature.com/articles/s41467-026-75091-9",
+    "authors": [
+      "Xiao Wang",
+      "Quancheng Du",
+      "Qiong Wu",
+      "Xiaofeng Jia",
+      "Liang Lin",
+      "Ljubo Vlacic",
+      "Changyin Sun",
+      "Fei-Yue Wang"
+    ],
+    "summary": "Nature Communications, Published online: 06 July 2026; <a href=\"https://www.nature.com/articles/s41467-026-75091-9\">doi:10.1038/s41467-026-75091-9</a>The study presents an interpretable method for predicting future paths of vehicles and pedestrians by combining scene-level attention, graph-based social interaction reasoning, and physics-based motion constraints, improving accuracy, safety, and speed while enabling transparent decisions.",
+    "source": "Nature Communications",
+    "date": "2026-07-06",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-75054-0",
+    "title": "Embryo quality control via lineage-specific aneuploid cell elimination in embryos and stem cell-derived embryo models",
+    "link": "https://www.nature.com/articles/s41467-026-75054-0",
+    "authors": [
+      "Lisa K. Iwamoto-Stohl",
+      "Laura Amaya",
+      "Pallavi Panda",
+      "Yuqi Wang",
+      "Ninadini Sharma",
+      "Catherine King",
+      "Magdalena Zernicka-Goetz"
+    ],
+    "summary": "Nature Communications, Published online: 06 July 2026; <a href=\"https://www.nature.com/articles/s41467-026-75054-0\">doi:10.1038/s41467-026-75054-0</a>Stem cell–derived embryo models reveal that aneuploid cells are removed from the embryonic and yolk sac lineages via p53- mediated cell death and extrusion, but persist in the placental lineage, ensuring developmental quality control.",
+    "source": "Nature Communications",
+    "date": "2026-07-06",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-74940-x",
+    "title": "An HMA-like integrated domain in the wheat tandem kinase WTK4 recognises an RNase-like pathogen effector",
+    "link": "https://www.nature.com/articles/s41467-026-74940-x",
+    "authors": [
+      "Zoe Bernasconi",
+      "Ursin Stirnemann",
+      "Yang Xu",
+      "Aline G. Herger",
+      "Renjie Chen",
+      "Victoria Widrig",
+      "Matthias Heuberger",
+      "Mariantonietta Lettieri",
+      "Marion C. Müller",
+      "Brande B. H. Wulff",
+      "Thomas Wicker",
+      "Beat Keller",
+      "Javier Sánchez-Martín"
+    ],
+    "summary": "Nature Communications, Published online: 06 July 2026; <a href=\"https://www.nature.com/articles/s41467-026-74940-x\">doi:10.1038/s41467-026-74940-x</a>The wheat powdery mildew avirulence effector AvrWTK4 is recognised by the integrated HMA-like domain of the tandem kinase resistance protein WTK4. Wheat powdery mildew evades from WTK4-mediated recognition through AvrWTK4 mutation or downregulation.",
+    "source": "Nature Communications",
+    "date": "2026-07-06",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-75038-0",
+    "title": "Large-scale discovery and annotation of substructure patterns in mass spectrometry profiles",
+    "link": "https://www.nature.com/articles/s41467-026-75038-0",
+    "authors": [
+      "Laura Rosina Torres Ortega",
+      "Jonas Dietrich",
+      "Joe Wandy",
+      "Hans Mol",
+      "Justin J. J. van der Hooft"
+    ],
+    "summary": "Nature Communications, Published online: 06 July 2026; <a href=\"https://www.nature.com/articles/s41467-026-75038-0\">doi:10.1038/s41467-026-75038-0</a>MS2LDA 2.0 enables fast, scalable analysis of mass spectrometry data and improves automated interpretation of molecular patterns, helping researchers more easily identify chemical substructures and discover new molecules.",
+    "source": "Nature Communications",
+    "date": "2026-07-06",
+    "sent": true
+  },
+  {
+    "id": "https://www.pnas.org/doi/abs/10.1073/pnas.2533086123?af=R",
+    "title": "Differences in physiological tolerance to global warming caused the Permian–Triassic transition between the Paleozoic and Modern faunas",
+    "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2533086123?af=R",
+    "authors": [
+      "J. Andres MarquezJustin L. PennRichard G. StockeyThomas H. BoagMurray I. DuncanKyra N. McClureKendall MatsumotoKemi F. Ashing-GiwaChristopher P. NollCurtis DeutschJonathan L. PayneErik A. Sperlingahttps://ror.org/00f54p054Department of Earth & Planetary Sciences, Doerr School of Sustainability, Stanford University, Stanford, CA 94305bhttps://ror.org/00hx57361Department of Geosciences, Princeton University, Princeton, NJ 08544chttps://ror.org/01dq60k83Advanced Institute for Marine Ecosystem Change, Tohoku University, Sendai 980-8578, Japandhttps://ror.org/01ryk1543School of Ocean and Earth Science, University of Southampton, Southampton SO17 1BJ, United Kingdom, SO17 1BJehttps://ror.org/00hj8s172Division of Natural Sciences, Columbia University, New York, NY 10027fhttps://ror.org/0461r7q95Department of Environment, University of Seychelles, Anse Royale 0000, Seychellesghttps://ror.org/016sewp10Department of Ichthyology and Fisheries Science, Rhodes University, Makhanda 6139, South Africahhttps://ror.org/00f54p054Earth Systems, Doerr School of Sustainability, Stanford University, Stanford, CA 94305ihttps://ror.org/00hx57361High Meadows Environmental Institute, Princeton University, Princeton, NJ 08544"
+    ],
+    "summary": "Proceedings of the National Academy of Sciences, Volume 123, Issue 28, July 2026. <br />SignificanceThe well-established faunal turnover event between the Paleozoic fauna (e.g., brachiopods, crinoids) and the Modern fauna (e.g., clams, snails, urchins) coincided with intense global climate change of the latest Permian. We hypothesize that ...",
+    "source": "Proceedings of the National Academy of Sciences: Earth, Atmospheric, and Planetary Sciences",
+    "date": "2026-07-06",
+    "sent": true
+  },
+  {
+    "id": "https://www.pnas.org/doi/abs/10.1073/pnas.2601529123?af=R",
+    "title": "Fracture-driven weakening amplifies projected ice loss from West Antarctica",
+    "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2601529123?af=R",
+    "authors": [
+      "Javier BlascoViolaine CoulonMaaike IzeboudThomas GregovYanjun LiFrank Pattynahttps://ror.org/01r9htc13Laboratoire de Glaciologie, Department of Geosciences, Environment, Society, Université libre de Bruxelles, Brussels 1050, BelgiumbEarth System Complexity Group, Department of Polar Terrestrial Environmental Systems, Alfred-Wegener-Institute, Helmholtz Centre for Polar and Marine Research, Potsdam 14473, Germanychttps://ror.org/006e5kg04Department of Water and Climate, Vrije Universiteit Brussel, Brussels 1050, Belgiumdhttps://ror.org/019whta54Institute of Earth Surface Dynamics, Faculty of Geosciences and the Environment, Université de Lausanne, Lausanne CH-1015, Switzerlandehttps://ror.org/0064kty71School of Atmospheric Sciences, Southern Marine Science and Engineering Guangdong Laboratory, Sun Yat-sen University, Zhuhai 519082, China"
+    ],
+    "summary": "Proceedings of the National Academy of Sciences, Volume 123, Issue 28, July 2026. <br />SignificanceMost projections of Antarctic ice loss omit fracture mechanics. Using an ice-sheet model that explicitly represents ice damage, we show that fractures accelerate ice flow and amplify sea-level contributions from West Antarctica by up to 4.5-...",
+    "source": "Proceedings of the National Academy of Sciences: Earth, Atmospheric, and Planetary Sciences",
+    "date": "2026-07-06",
+    "sent": true
+  },
+  {
+    "id": "https://www.pnas.org/doi/abs/10.1073/pnas.2602650123?af=R",
+    "title": "Asymmetric and Intermittent Supershear Rupture Mediated by Local Fault Complexity during the 2025 MW 7.7 Myanmar Earthquake",
+    "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2602650123?af=R",
+    "authors": [
+      "Tao XiaLingling YeJinlai HaoHaijun GaoThorne LayXiaotian DingZhenxing Yaoahttps://ror.org/049tv2d57Department of Earth and Space Sciences, Southern University of Science and Technology, Shenzhen 518055, Chinabhttps://ror.org/034t30j35State Key Laboratory of Earth and Planetary Physics, Institute of Geology and Geophysics, Chinese Academy of Sciences, Beijing 100029, Chinachttps://ror.org/03s65by71Department of Earth and Planetary Sciences, University of California Santa Cruz, Santa Cruz, CA 95064"
+    ],
+    "summary": "Proceedings of the National Academy of Sciences, Volume 123, Issue 28, July 2026. <br />SignificanceIntermittent supershear rupture (rupture propagating faster than the local shear-wave speed, enhancing ground shaking) has infrequently been documented for natural earthquakes, mainly due to the scarcity of dense near-fault observations. Using ...",
+    "source": "Proceedings of the National Academy of Sciences: Earth, Atmospheric, and Planetary Sciences",
+    "date": "2026-07-06",
+    "sent": true
+  },
+  {
+    "id": "https://www.pnas.org/doi/abs/10.1073/pnas.2614198123?af=R",
+    "title": "Small but mighty: The outsized role of small water bodies in the global carbon cycle",
+    "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2614198123?af=R",
+    "authors": [
+      "Marcia N. Macedoahttps://ror.org/00hj8s172Department of Ecology, Evolution, and Environmental Biology, Columbia University, New York, NY 10027bhttps://ror.org/00hj8s172Columbia Climate School, Columbia University, New York, NY 10027chttps://ror.org/04cvvej54Woodwell Climate Research Center, Falmouth, MA 02540dhttps://ror.org/020f9s554Instituto de Pesquisa Ambiental da Amazônia, Brasília, DF 70863-520, Brazil"
+    ],
+    "summary": "Proceedings of the National Academy of Sciences, Volume 123, Issue 28, July 2026. <br />",
+    "source": "Proceedings of the National Academy of Sciences: Earth, Atmospheric, and Planetary Sciences",
+    "date": "2026-07-06",
+    "sent": true
+  },
+  {
+    "id": "http://doi.org/10.1093/nsr/nwag407",
+    "title": "NIR-II photothermal-driven pulsatile PTH release for osteoporotic bone repair",
+    "link": "https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwag407/8725485?rss=1",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\"><div class=\"boxTitle\">Abstract</div>Integrating light-controlled intelligent materials into 3D printing technology holds great promise for bone tissue engineering, enabling spatiotemporal control over <span style=\"font-style: italic;\">in situ</span> drug dosing. However, this integration faces a critical molecular design challenge, as incorporated photoresponsive molecules must simultaneously fulfill the dual demands of high UV-stability during UV-mediated photopolymerization, and strong long-wavelength absorption for deep-tissue activation. Here, we report a wavelength-selective quinolinium dye (QC7CN) as photoresponsive ‘dye ink’ for addressing this dilemma. This dye features high UV-transparency that ensures stability during printing process, while possessing robust second near infrared (NIR-II) absorbance for deep-seated photothermal responsiveness. Leveraging these properties, we engineer a NIR-II light-controlled 3D-printed scaffold, composed of methacryloylated gelatin and calcium phosphate oligomers as printing matrix, thermosensitive phase-transformable microspheres as parathyroid hormone (PTH) drug carrier, and QC7CN as photothermal trigger. Upon NIR-II laser irradiation, QC7CN induces localized mild hyperthermia to drive gel-sol phase transition of microspheres, thereby manipulating pulsatile PTH release for deep-tissue osteoporotic bone repair. As such, our study provides a full demonstration in molecular design and additive manufacturing to push the limits of intelligent materials in precision medicine.</span>",
+    "source": "National Science Review Advance Access",
+    "date": "2026-07-06",
+    "sent": true
+  },
+  {
+    "id": "http://doi.org/10.1093/nsr/nwag412",
+    "title": "Catecholamine modulation of frontal cortical ignition during wakefulness, sleep, and anesthesia",
+    "link": "https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwag412/8725483?rss=1",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\"><div class=\"boxTitle\">Abstract</div>Conscious awareness—diminished during non-rapid-eye-movement (NREM) sleep and general anesthesia—is prevalent during wakefulness, but the underlying mechanism remains poorly understood. Here we show that activity of catecholamine neurons, known to be higher during wakefulness than NREM sleep, enhances cortical ignition, a process closely associated with conscious awareness. Chemogenetic activation and inactivation of catecholamine neurons, particularly dopaminergic neurons in the ventral tegmental area (VTA), respectively increased and decreased the amplitude of anterior cingulate area (ACA) excitation evoked by visual cortex (V1) stimulation. Ketamine and isoflurane, two commonly used general anesthetics, greatly reduced V1-to-ACA activity propagation. In addition to suppressing ongoing cortical activity, these general anesthetics significantly reduced the activity of VTA dopaminergic and basal forebrain (BF) cholinergic neurons, with dopaminergic activity dropping well below its level during NREM sleep. The strong inhibition of frontal cortical activity evoked by V1 stimulation, prominent during NREM sleep, was also absent under ketamine and isoflurane anesthesia. These results indicate that general anesthesia and NREM sleep suppress global ignition through overlapping but non-identical mechanisms.</span>",
+    "source": "National Science Review Advance Access",
+    "date": "2026-07-06",
+    "sent": true
+  },
+  {
+    "id": "http://doi.org/10.1093/nsr/nwag388",
+    "title": "Breaking steric hindrance restriction: compressed metal bonds realizing deep-level orbital delocalization",
+    "link": "https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwag388/8725481?rss=1",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\"><div class=\"boxTitle\">Abstract</div>The introduction of large functional groups is a well-established strategy to enhance the stability and value of chemicals. However, the accompanying steric hindrance effects can significantly impede reaction progress, presenting a critical dilemma in synthetic design. Herein, a vacancy-constrained strategy was proposed to breaking steric hindrance restriction by realizing the deep-level delocalization of catalyst with compressed metal bonds. In detail, the delocalized deep-level orbit exhibits strong penetrating capability to overcome the steric hindrance effect of large functional groups by enhancing the charge-transfer process between the active sites and substrates. By taking bismuth atoms supported on defective CeO<sub>2</sub> as an example, an ‘O<sub>4</sub>-Bi-Bi-O<sub>4</sub>’ ensemble was constructed by confining two adjacent Bi atoms in the vacancy of CeO<sub>2</sub> nanosheets, where the Bi–Bi bond was strongly constrained from 3.10 Å to 3.05 Å. Such a functional Bi<sub>2</sub>/CeO<sub>2</sub> catalyst exhibits enhanced photocatalytic efficiency in overcoming the steric hindrance from large functional groups, which is three times and two times higher than that of Bi single-atom catalyst and Bi clusters catalyst. This work proposed an applicable way in overcoming steric hindrance effects during high value-added chemical synthesis.</span>",
+    "source": "National Science Review Advance Access",
+    "date": "2026-07-06",
+    "sent": true
+  },
+  {
+    "id": "http://doi.org/10.1093/nsr/nwag410",
+    "title": "Overcoming the Dexter distance constraint: a relay strategy for asymmetric photocatalysis",
+    "link": "https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwag410/8725478?rss=1",
+    "authors": [],
+    "summary": "",
+    "source": "National Science Review Advance Access",
+    "date": "2026-07-06",
+    "sent": true
+  },
+  {
     "id": "https://www.nature.com/articles/s41467-026-75400-2",
     "title": "Proton shuttling at electrochemical interfaces under alkaline hydrogen evolution",
     "link": "https://www.nature.com/articles/s41467-026-75400-2",
