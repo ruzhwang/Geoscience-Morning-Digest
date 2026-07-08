@@ -1,5 +1,35 @@
 [
   {
+    "id": "https://pubs.geoscienceworld.org/gsa/geology/article/doi/10.1130/G54265.1/732545/Presubduction-heavy-Mg-isotope-enrichment-in-the",
+    "title": "Presubduction heavy Mg isotope enrichment in the sub-arc mantle",
+    "link": "https://pubs.geoscienceworld.org/gsa/geology/article/doi/10.1130/G54265.1/732545/Presubduction-heavy-Mg-isotope-enrichment-in-the",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\">Arc lavas with heavier magnesium (Mg) isotope ratios (denoted as δ<sup>26</sup>Mg) compared to mid-ocean-ridge basalt (MORB) are commonly attributed to the involvement of subducted serpentinite. However, this hypothesis is challenged by the widespread absence of high-δ<sup>26</sup>Mg serpentinite in the subducting plates beneath Pacific arcs and fails to consider potential δ<sup>26</sup>Mg heterogeneity in ambient arc mantle. Here, we show that backarc lavas from the Mariana and Ryukyu subduction zones have MORB-like boron (B) isotope compositions and B/Nb ratios, indicative of little subducted serpentinite in their source. Such lavas have similarly high δ<sup>26</sup>Mg as their arc counterparts, suggesting the ambient arc mantle in this area is intrinsically rich in isotopically heavy Mg. Further analysis of metaserpentinites demonstrates that deserpentinization residues inherit protolith δ<sup>26</sup>Mg without significant isotope fractionation during dehydration, highlighting the important contribution of deserpentinized peridotite to the high-δ<sup>26</sup>Mg mantle. We propose that the high-δ<sup>26</sup>Mg arc lavas are not necessarily related to ongoing serpentinite subduction, especially in fast-spreading ridge systems. On the other hand, long-term recycling of ancient high-δ<sup>26</sup>Mg serpentinite provides one plausible mechanism for the heavy Mg mantle domain identified beneath the arc systems. This potentially widespread domain in the mantle greatly affects long-term Mg recycling and crust-mantle evolution.</span>",
+    "source": "Geology Advance Access",
+    "date": "2026-07-06",
+    "sent": true
+  },
+  {
+    "id": "https://pubs.geoscienceworld.org/msa/ammin/article/doi/10.2138/am-2025-9989/732529/Numerical-modeling-of-rare-earth-elements-in",
+    "title": "Numerical modeling of rare earth elements in fluorite: A monitor for REE mineralization in magmatic-hydrothermal systems",
+    "link": "https://pubs.geoscienceworld.org/msa/ammin/article/doi/10.2138/am-2025-9989/732529/Numerical-modeling-of-rare-earth-elements-in",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\"><div class=\"boxTitle\">Abstract</div>Fluorite, a common gangue mineral in magmatic-hydrothermal ore systems and often a major component of rare earth element (REE) deposits, provides valuable insights into melt and fluid evolution as well as mineralization processes. This study investigates REE distributions within fluorite in the Bayan Obo deposit, Inner Mongolia, China, the world’s largest known REE resource. Combining field observations, petrographic analysis, high-resolution geochemistry (TESCAN integrated mineral analysis, cathodoluminescence imaging, and laser ablation inductively coupled-plasma mass spectrometry) with numerical modeling (lattice strain and REE fractionation models), we classify fluorite into five mineralization stages and seven ore types. Stage I fluorite is observed in dolomite-, magnetite-, and aegirine-type ores, and is followed by Stage II fluorite in richterite-biotite type ore. Stage III fluorite is found in fluorite-REE vein-type ore, Stage IV is a late dark fluorite in veins, and Stage V consists of fluorite from quartz-fluorite vein assemblages. Modeling results indicate that REE patterns in fluorite are influenced by fractional crystallization caused by the precipitation of REE minerals simultaneously with fluorite, as well as decreasing temperature and salinity during later fluid evolution. Early-stage fluorite (Stage I) has the highest total REE concentrations, indicating primary REE mineralization associated with magmatic fluid source. The middle stages (II–III) have a decrease in REE in Stage II, and particularly in light REE in Stage III, in response to fractional crystallization and fluid evolution. Late-stage fluorites (IV and V) have low total REE concentrations associated with cooling due to dilution from Si-rich fluid convection, resulting in fluorite±quartz veins without REE mineralization. The results demonstrate the utility of fluorite as a dynamic tracer of magmatic-hydrothermal processes in the Bayan Obo deposit, providing new insights into REE mineralization in other fluorine-rich systems.</span>",
+    "source": "American Mineralogist Advance Access",
+    "date": "2026-07-06",
+    "sent": true
+  },
+  {
+    "id": "https://pubs.geoscienceworld.org/gsa/gsabulletin/article/doi/10.1130/B38774.1/732534/Slab-geometry-controls-Paleo-Tethyan-post",
+    "title": "Slab geometry controls Paleo-Tethyan post-collisional tectonomagmatism: Insights from Late Triassic ultrapotassic rocks in Peninsular Malaysia",
+    "link": "https://pubs.geoscienceworld.org/gsa/gsabulletin/article/doi/10.1130/B38774.1/732534/Slab-geometry-controls-Paleo-Tethyan-post",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\">Post-collisional ultrapotassic magmas are generally formed by partial melting of a subduction-metasomatized mantle source in response to continental collision and subduction. This paper presents new geochronological, geochemical, and Sr−Nd−Hf−Pb isotopic data for a suite of potassic and ultrapotassic rocks from the Raub Complex in Peninsular Malaysia. Zircon U−Pb dating shows the ultrapotassic rocks were emplaced at 225−222 Ma and the potassic rocks at 216 Ma. The elemental and isotopic data suggest the ultrapotassic rocks were derived from melt-metasomatized, subcontinental lithospheric mantle, and the potassic rocks were derived from subducted continental sediments. The occurrence of the ultrapotassic rocks, along with spatiotemporal variations in the geochemistry of igneous rocks in Peninsular Malaysia, indicate that continental collision began at ca. 235 Ma, followed by progressive shallow continental subduction and slab breakoff at ca. 225 Ma. Two distinct post-collisional tectonomagmatic events occurred along the eastern Paleo-Tethyan suture, characterized by rapid exhumation associated with the formation of low-K mafic rocks and limited exhumation associated with ultrapotassic rocks. We propose that high- and low-angle continental subduction can account for these different post-collisional events. The results provide insights into the Late Triassic geological evolution of the eastern Paleo-Tethyan suture and enhance our understanding of the effect of slab geometry on post-collisional tectonomagmatism.</span>",
+    "source": "GSA Bulletin Advance Access",
+    "date": "2026-07-06",
+    "sent": true
+  },
+  {
     "id": "https://www.nature.com/articles/s41561-026-02015-z",
     "title": "Iron as a driver of organic carbon fate in permafrost regions",
     "link": "https://www.nature.com/articles/s41561-026-02015-z",
