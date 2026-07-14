@@ -1,5 +1,265 @@
 [
   {
+    "id": "https://www.nature.com/articles/s41561-026-02064-4",
+    "title": "Publisher Correction: Limited energy for microorganisms constrains carbon accrual in soil",
+    "link": "https://www.nature.com/articles/s41561-026-02064-4",
+    "authors": [
+      "Chaoqun Wang",
+      "Lin Xue",
+      "Peter B. Reich",
+      "Josep Peñuelas",
+      "Feng Tao",
+      "Yakov Kuzyakov"
+    ],
+    "summary": "Nature Geoscience, Published online: 13 July 2026; <a href=\"https://www.nature.com/articles/s41561-026-02064-4\">doi:10.1038/s41561-026-02064-4</a>Publisher Correction: Limited energy for microorganisms constrains carbon accrual in soil",
+    "source": "Nature Geoscience",
+    "date": "2026-07-13",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-75591-8",
+    "title": "A quantitative approach for defining the degradability landscape of protein degraders",
+    "link": "https://www.nature.com/articles/s41467-026-75591-8",
+    "authors": [
+      "Wei Du",
+      "Lamberto De Boni",
+      "Benjamin David Hopkins",
+      "Olivier Elemento"
+    ],
+    "summary": "Nature Communications, Published online: 13 July 2026; <a href=\"https://www.nature.com/articles/s41467-026-75591-8\">doi:10.1038/s41467-026-75591-8</a>Targeted protein degradation is an emerging therapeutic modality, but degradation efficacy remains unpredictable. Here, the authors present a quantitative framework that predicts cellular degradation efficacy, and shows how it can guide target selection and degrader optimization.",
+    "source": "Nature Communications",
+    "date": "2026-07-13",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-75468-w",
+    "title": "Reconfigurable single-shot spectroscopy reaching 86 femtometers resolution",
+    "link": "https://www.nature.com/articles/s41467-026-75468-w",
+    "authors": [
+      "Tianwei Jiang",
+      "Jie Li",
+      "Lu Chen",
+      "Hongcui Zhang",
+      "Shangsu Ding",
+      "Georg Herink",
+      "Shan Yin",
+      "Song Yu",
+      "Bin Luo"
+    ],
+    "summary": "Nature Communications, Published online: 13 July 2026; <a href=\"https://www.nature.com/articles/s41467-026-75468-w\">doi:10.1038/s41467-026-75468-w</a>A reconfigurable single-shot spectroscopy platform achieves femtometer-scale spectral resolution and reveals damped spectral oscillations and other fast transient spectral dynamics in real time.",
+    "source": "Nature Communications",
+    "date": "2026-07-13",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-75164-9",
+    "title": "From data chaos to physically interpretable deterministic mapping",
+    "link": "https://www.nature.com/articles/s41467-026-75164-9",
+    "authors": [
+      "Dongni Jia",
+      "Shuai Li",
+      "Xinyi Zuo",
+      "Haibo Shi",
+      "Junyi Wang",
+      "Xiaofeng Zhou"
+    ],
+    "summary": "Nature Communications, Published online: 13 July 2026; <a href=\"https://www.nature.com/articles/s41467-026-75164-9\">doi:10.1038/s41467-026-75164-9</a>Here, the authors propose structured operator learning with spectral decomposition, sparse regression, and cross-view regularization to recover stable, interpretable governing equations under noisy, high-dimensional, and distribution-shifted data.",
+    "source": "Nature Communications",
+    "date": "2026-07-13",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-75445-3",
+    "title": "Divergent mechanisms of active antibiotic resistance gene enrichment in soil driven by pesticide diversity",
+    "link": "https://www.nature.com/articles/s41467-026-75445-3",
+    "authors": [
+      "Yi-Fei Wang",
+      "Jia-Yang Xu",
+      "Yanjie Liu",
+      "Bang Ni",
+      "Tian-Lun Zhang",
+      "Hui-Ling Cui",
+      "Feng-Yuan Qi",
+      "Min Qiao",
+      "Hong-Zhe Li",
+      "Michael R. Gillings",
+      "Yong-Guan Zhu",
+      "Dong Zhu"
+    ],
+    "summary": "Nature Communications, Published online: 13 July 2026; <a href=\"https://www.nature.com/articles/s41467-026-75445-3\">doi:10.1038/s41467-026-75445-3</a>Here, the authors conduct a long-term field experiment to show that applying diverse pesticide mixtures increases active antibiotic resistance genes in soils. Low pesticide diversity co-selects for specific resistance genes, whereas high diversity accelerates spread between bacteria via horizontal gene transfer.",
+    "source": "Nature Communications",
+    "date": "2026-07-13",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-74599-4",
+    "title": "Transcriptomic analysis of tissue-resident memory T cells of the fallopian tube reveals a precursor immune surveillance network for ovarian cancer prevention",
+    "link": "https://www.nature.com/articles/s41467-026-74599-4",
+    "authors": [
+      "Luyao Wang",
+      "Breeshey Roskams-Hieter",
+      "Nosheen Hussain",
+      "Joel Nulsen",
+      "Aneesh Aggarwal",
+      "May Sallam",
+      "Lili Wang",
+      "Lena Rai",
+      "Hui Shi",
+      "Amro Ahmed-Ebbiary",
+      "Aws Al-deka",
+      "Takashi Takeda",
+      "Mara Artibani",
+      "Hooman Soleymani Majd",
+      "Jason Yap",
+      "Christopher Yau",
+      "Nancy Zaarour",
+      "Ahmed Ashour Ahmed"
+    ],
+    "summary": "Nature Communications, Published online: 13 July 2026; <a href=\"https://www.nature.com/articles/s41467-026-74599-4\">doi:10.1038/s41467-026-74599-4</a>High-grade serous ovarian cancers (HGSC) are refractory to immunotherapy, and a comprehensive characterization of the immune landscape at these lesions is lacking. Here, the authors employ single-cell RNA and TCR sequencing of patient-derived tissues to characterize T cell clonality and differentiation during tumor evolution. Tissue-resident memory-like T cells in early lesions display tumor reactivity, exhibit reduced exhaustion, and are implicated in early immune surveillance, and could be leveraged for the design of immunomodulatory therapeutic approaches.",
+    "source": "Nature Communications",
+    "date": "2026-07-13",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-75224-0",
+    "title": "Dietary intervention and BMI reduction in individuals at the extremes of genetic predisposition to higher BMI: a randomized controlled trial",
+    "link": "https://www.nature.com/articles/s41467-026-75224-0",
+    "authors": [
+      "Rodosthenis S. Rodosthenous",
+      "Leena E. Viiri",
+      "Anne M. Carson",
+      "Tatiana Cajuso",
+      "Andrea Corbetta",
+      "Samuel Jones",
+      "Ettore Brenna",
+      "FinnGen",
+      "Enni Makkonen",
+      "Minttu Virolainen",
+      "Niina Korkeala",
+      "Elisabeth Widén",
+      "Samuli Ripatti",
+      "Andrea Ganna"
+    ],
+    "summary": "Nature Communications, Published online: 13 July 2026; <a href=\"https://www.nature.com/articles/s41467-026-75224-0\">doi:10.1038/s41467-026-75224-0</a>In the GENEROOS randomized controlled trial, adults at the extremes of BMI polygenic score responded equally to a six-month dietary intervention. Genetic predisposition to obesity did not modify weight loss.",
+    "source": "Nature Communications",
+    "date": "2026-07-13",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-75436-4",
+    "title": "Temporal self-similarity reveals percolation universality classes in complex networks",
+    "link": "https://www.nature.com/articles/s41467-026-75436-4",
+    "authors": [
+      "Sheng Fang",
+      "Jun Meng",
+      "Qing Lin",
+      "Bingsheng Chen",
+      "Gaogao Dong",
+      "Chenglin Bai",
+      "Jan Nagler",
+      "Youjin Deng",
+      "Renaud Lambiotte",
+      "Jingfang Fan"
+    ],
+    "summary": "Nature Communications, Published online: 13 July 2026; <a href=\"https://www.nature.com/articles/s41467-026-75436-4\">doi:10.1038/s41467-026-75436-4</a>Without prior knowledge of the critical point, classifying network collapse is a challenge. Here, authors uncover temporal self-similarity by tracking the ordered sequence of bond addition events, and demonstrate that this framework identifies percolation universality for both model and empirical networks, using only a single system size and requiring no exact threshold.",
+    "source": "Nature Communications",
+    "date": "2026-07-13",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-75563-y",
+    "title": "Hierarchical nano-orderings enable extraordinary cryogenic strength-ductility synergy in a medium-entropy alloy",
+    "link": "https://www.nature.com/articles/s41467-026-75563-y",
+    "authors": [
+      "Dongdong Zhang",
+      "Hengchao Shi",
+      "Jinyu Zhang",
+      "Jianjun Bian",
+      "Yating Ran",
+      "Qi Liu",
+      "Xuanlai Chen",
+      "Junhua Luan",
+      "Zengbao Jiao",
+      "Tao Yang",
+      "Jun Sun",
+      "Zibin Chen"
+    ],
+    "summary": "Nature Communications, Published online: 13 July 2026; <a href=\"https://www.nature.com/articles/s41467-026-75563-y\">doi:10.1038/s41467-026-75563-y</a>This work reconciles the challenge of strength-ductility trade-offs in cryogenic alloys by designing a hierarchical nano-ordering architecture within a NiCoCr alloy, achieved via tailored additive-manufacturing and post-processing.",
+    "source": "Nature Communications",
+    "date": "2026-07-13",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S001282522600231X",
+    "title": "Hydrogenotrophic metabolisms in the subsurface and their implications for underground hydrogen storage and natural hydrogen prospecting",
+    "link": "https://www.sciencedirect.com/science/article/pii/S001282522600231X?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 13 July 2026<b>Source:</b> Earth-Science ReviewsAuthor(s): Martina Cascone, Guillermo Climent Gargallo, Flavia Migliaccio, Davide Corso, Luca Tonietti, Angelina Cordone, Ilaria Pietrini, Elisabetta Franchi, Giovanna Carpani, Almerinda di Benedetto, Giuseppina Luciani, Giuseppina Anzelmo, Andrea Giovannelli, David Iacopini, Mariano Parente, Katriona Edlmann, Marco Moracci, Donato Giovannelli",
+    "source": "ScienceDirect Publication: Earth-Science Reviews",
+    "date": "2026-07-14",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012825226002357",
+    "title": "Crustal growth and reworking of the Southern West African craton: Implications for regional tectonics",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012825226002357?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 12 July 2026<b>Source:</b> Earth-Science ReviewsAuthor(s): Nicolas Thébaud, Quentin Masurel, Luis Para-Avila, Aurélien Eglinger, Julien Perret, Augustin Yao Koffi, Ousmane Wane, Helen McFarlane, Graham Begg, Guillaume Duclaux, Mark Jessell, Olivier Vanderhaeghe, Lenka Baratoux, Mahamadou Diallo, Alain Kouamelan, Tony Kemp, Noreen J. Evans, Armin Zeh",
+    "source": "ScienceDirect Publication: Earth-Science Reviews",
+    "date": "2026-07-14",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0016703726004527",
+    "title": "Early diagenetic dolomitization in methane seep carbonates constrained by coupled Mo and Mg isotopes",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0016703726004527?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 12 July 2026<b>Source:</b> Geochimica et Cosmochimica ActaAuthor(s): Meng Jin, Zice Jia, Jie Li, Xun Sun, Shaomin Lin, Jörn Peckmann, Qinxian Wang, Duofu Chen, Dong Feng",
+    "source": "ScienceDirect Publication: Geochimica et Cosmochimica Acta",
+    "date": "2026-07-14",
+    "sent": true
+  },
+  {
+    "id": "http://doi.org/10.1093/nsr/nwag424",
+    "title": "Lunar farside-nearside asymmetry formation during magma ocean solidification",
+    "link": "https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwag424/8733286?rss=1",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\"><div class=\"boxTitle\">Abstract</div>Unraveling the origin of lunar farside-nearside asymmetry [1–3] requires comparison of various lithologies from both hemispheres, a task long hindered by the absence of farside samples. Here, we present geochemical data for Chang’e 6 (CE6) lithologies from the farside, revealing systematic differences from their nearside counterparts. CE6 anorthosites are more magnesian, while CE6 Mg-suite samples contain lower potassium, rare earth element, and phosphorus (KREEP) contents. However, CE6 Mg-suite samples have Mg# values comparable to Apollo Mg-suite rocks. The mantle source of CE6 2.8-billion-year-old basalts is similar to that of Apollo low-Ti basalts. This systematic geochemical comparison of farside and nearside lithologies, which sample distinct lunar magma ocean (LMO) product layers, indicates that the mantle displays no clear compositional dichotomy. In contrast, the farside anorthositic crust is more magnesium-rich and thicker, while late-stage LMO products may be thinner on the farside. Therefore, we propose that the observed farside-nearside asymmetry originated from lateral thermal convection within a long-lived LMO on the tidally locked Moon.</span>",
+    "source": "National Science Review Advance Access",
+    "date": "2026-07-13",
+    "sent": true
+  },
+  {
+    "id": "http://doi.org/10.1093/nsr/nwag434",
+    "title": "Activating oxygen on nickel (oxy)hydroxide to promote electrochemical oxidative dehydrogenation of organic molecules",
+    "link": "https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwag434/8733283?rss=1",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\"><div class=\"boxTitle\">Abstract</div>Electrochemical oxidative dehydrogenation (ODH) of organic molecules is emerging as a sustainable alternative to conventional approaches for chemical manufacturing, but the slow production rate of these reactions remains a key challenge. Here we report the selective leaching of vanadium ion (V) in NiV-layered double hydroxide to generate metal vacancy enriched Ni(OH)<sub>2</sub> (V<sub>M</sub>-Ni(OH)<sub>2</sub>), which exhibits significant improvement in electrochemical ODH of alcohols/aldehydes and primary amines. Experiments and calculations demonstrated that metal vacancies in the catalyst increase the redox activity of oxygen in Ni−O motifs to accept electrons and hydrogen atoms, thus accelerating nucleophilic ODH of organic molecules. Furthermore, we showcased the ODH of biomass-derived 5-hydroxymethylfurfural at current density of 1.5 A cm<sup>−2</sup> in a continuous-flow electrolyzer with electrode area of 200 cm<sup>2</sup>, producing 2,5-furandicarboxylic acid at rate of 1420 mmol h<sup>−1</sup> over V<sub>M</sub>-Ni(OH)<sub>2</sub>. In contrast to the previously proposed role of V-doping, our findings highlight the critical role of metal vacancies in promoting organic electrooxidation, thereby providing fundamental understanding for the design of more active electrocatalysts.</span>",
+    "source": "National Science Review Advance Access",
+    "date": "2026-07-13",
+    "sent": true
+  },
+  {
+    "id": "http://doi.org/10.1093/nsr/nwag432",
+    "title": "Efficient synthesis of a snowflake-shaped folded assembly, an 818 knot, and a closed three-link chain via coordination angle modulation",
+    "link": "https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwag432/8733282?rss=1",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\"><div class=\"boxTitle\">Abstract</div>Despite the appeal of mechanically interlocked supramolecular systems, precise control over their assembly into complicated topologies is still a central challenge. To address this, we employed a method centered on regulating the coordination angle. By designing two ligands (<strong>L1</strong> and <strong>L2</strong>) with differing carbazole-pyridine connection angles and combining them with tailored building units <strong>E1</strong>(OTf)<sub>2</sub> and <strong>E2</strong>(OTf)<sub>2</sub>, we successfully directed the synthesis of four unique architectures: a molecular-tweezer-like compound, a snowflake-shaped folded assembly, an 8<sub>18</sub> knot, and a closed three-link chain. Single-crystal X-ray diffraction (SC-XRD) analysis provided unambiguous structural elucidation, not only confirming the three-dimensional geometries but also revealing that the ligand angle dictates the outcome of assembly, steering it toward interlocked or folded structures. The formation and purity of these constructs in solution were verified by nuclear magnetic resonance (NMR) spectroscopy and electrospray ionization time-of-flight mass spectrometry (ESI-TOF-MS). Furthermore, photothermal conversion experiments demonstrated that compound <strong>4</strong>(OTf)<sub>12</sub> exhibits favorable photothermal performance, with a relatively higher photothermal conversion efficiency as well as excellent cycling stability. This observation is also supported by electron paramagnetic resonance (EPR) measurement data.</span>",
+    "source": "National Science Review Advance Access",
+    "date": "2026-07-13",
+    "sent": true
+  },
+  {
+    "id": "http://doi.org/10.1093/nsr/nwag433",
+    "title": "Tuning primary shell nitrogen in Fe–N–C for enhanced sulfur redox electrocatalysis",
+    "link": "https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwag433/8733281?rss=1",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\"><div class=\"boxTitle\">Abstract</div>Lithium-sulfur (Li–S) batteries promise high energy density but are limited by sluggish sulfur redox kinetics and polysulfide shuttling effect, which lead to poor rate performance and rapid capacity fading. Electrocatalysis has emerged as an effective strategy to accelerate the conversion of polysulfides and improve battery performance. Among various electrocatalysts, metal–nitrogen–carbon catalysts are considered particularly appealing. It is well-recognized that coordination environment and the type of nitrogen species (e.g., pyridinic or pyrrolic nitrogen) in metal–nitrogen–carbon materials can profoundly influence their catalytic activity. However, the underlying relationship between these different ligand structures and the sulfur redox mechanism remains elusive. Herein, we report a systematic study establishing the relationship between sulfur redox activity and the Fe–N–C sites with precisely regulated primary-shell coordination environments, specifically pyridinic-N (N<sub>pd</sub>) and pyrrolic-N (N<sub>pl</sub>). Comprehensive theoretical simulations and experimental analyses reveal that pyridinic-N coordination exhibits a lower free energy for Li adsorption and positions the d-band center of the Fe-N<sub>pd</sub>-SAC catalyst closer to the Fermi level compared to pyrrolic-N. This electronic structure modulation enhances the sulfur redox kinetics. As a result, the optimized pyridinic Fe-N<sub>pd</sub>-SAC electrode delivers favorable electrochemical performance, achieving a specific capacity of 1265 mAh g<sup>–1</sup> with a capacity fading of &lt;0.05% per cycle. Furthermore, such an electrode enables Li–S full cells with an areal-capacity of 7.1 mAh cm<sup>–2</sup> at a sulfur loading of 7.2 mg cm<sup>–2</sup>. These findings elucidate the underlying role of first-shell nitrogen coordination in accelerating sulfur redox kinetics, offering insights into the rational construction of practical Li–S batteries.</span>",
+    "source": "National Science Review Advance Access",
+    "date": "2026-07-13",
+    "sent": true
+  },
+  {
     "id": "https://www.nature.com/articles/s41467-026-72027-1",
     "title": "Bioinspired microcapsule reactor with engineered probiotics for IBD therapy",
     "link": "https://www.nature.com/articles/s41467-026-72027-1",
