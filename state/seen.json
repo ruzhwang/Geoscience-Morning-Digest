@@ -1,5 +1,441 @@
 [
   {
+    "id": "https://www.nature.com/articles/s41467-026-75865-1",
+    "title": "Scale-bridging interface design enables high-performance sustainable thermoelectrics",
+    "link": "https://www.nature.com/articles/s41467-026-75865-1",
+    "authors": [
+      "Gang Wu",
+      "Airan Li",
+      "Xinzhi Wu",
+      "Takao Mori"
+    ],
+    "summary": "Nature Communications, Published online: 18 July 2026; <a href=\"https://www.nature.com/articles/s41467-026-75865-1\">doi:10.1038/s41467-026-75865-1</a>By linking device contacts with internal material interfaces, this study introduces a scale-bridging design that improves charge transport and heat management, enabling thermoelectric modules to convert waste heat into electricity more efficiently.",
+    "source": "Nature Communications",
+    "date": "2026-07-18",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-75808-w",
+    "title": "Wavelength-encoded neuromorphic inference enabled by microcavity MoS<sub>2</sub> photodetector arrays",
+    "link": "https://www.nature.com/articles/s41467-026-75808-w",
+    "authors": [
+      "Xiang Chen",
+      "Kangjian Di",
+      "Fuhao Yu",
+      "Jiashu Li",
+      "Lixiang Sun",
+      "Shengdi Chen",
+      "Silin Chen",
+      "Andy Liu",
+      "Xiang Peng",
+      "Shitong Zhu",
+      "Taotao Li",
+      "Wei Jiang",
+      "Xuping Zhang",
+      "Yi Shi",
+      "Xinran Wang",
+      "Li Gao",
+      "Zehua Hu",
+      "Ningmu Zou"
+    ],
+    "summary": "Nature Communications, Published online: 18 July 2026; <a href=\"https://www.nature.com/articles/s41467-026-75808-w\">doi:10.1038/s41467-026-75808-w</a>Conventional vision hardware separates photodetection from computation, incurring substantial latency and energy costs. Chen and Di et al. report an optoelectronic architecture based on a microcavity-integrated MoS2 photodetector array that unifies sensing, weighting and temporal accumulation within each pixel.",
+    "source": "Nature Communications",
+    "date": "2026-07-18",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-75551-2",
+    "title": "Convergent genomic trajectories shape adaptation to life on land across animal lineages",
+    "link": "https://www.nature.com/articles/s41467-026-75551-2",
+    "authors": [
+      "Gemma I. Martínez-Redondo",
+      "Klara Eleftheriadi",
+      "Judit Salces-Ortiz",
+      "Nuria Escudero",
+      "Fernando Ángel Fernández-Álvarez",
+      "Belén Carbonetto",
+      "Carlos Vargas-Chávez",
+      "Raquel García-Vernet",
+      "Javier Palma-Guerrero",
+      "Libe Rentería",
+      "Iñaki Rojo",
+      "Cristina Chiva",
+      "Eduard Sabidó",
+      "Aureliano Bombarely",
+      "Rosa Fernández"
+    ],
+    "summary": "Nature Communications, Published online: 18 July 2026; <a href=\"https://www.nature.com/articles/s41467-026-75551-2\">doi:10.1038/s41467-026-75551-2</a>Animals have moved from water to land many times, but whether they used the same genetic routes has remained unclear. This study shows that independent land transitions relied mostly on ancient, conserved genes, with lineage-specific changes converging on similar stress-related functions.",
+    "source": "Nature Communications",
+    "date": "2026-07-18",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-75664-8",
+    "title": "Process-integrated engineered resting cells for biocatalytic production of rare natural sugars from sole methanol molecules",
+    "link": "https://www.nature.com/articles/s41467-026-75664-8",
+    "authors": [
+      "Yujie Wang",
+      "Guangyu Liu",
+      "Feng Gao",
+      "Hongwei Zhang",
+      "Aobo Chen",
+      "Jiangyuan Pan",
+      "Wei Xiong",
+      "Meng Jiang",
+      "Nana Wang",
+      "Xiaofeng Cui",
+      "Tingting Kong",
+      "Chao Gao",
+      "Yujie Xiong"
+    ],
+    "summary": "Nature Communications, Published online: 18 July 2026; <a href=\"https://www.nature.com/articles/s41467-026-75664-8\">doi:10.1038/s41467-026-75664-8</a>Methanol use in engineered methylotrophs is constrained by toxicity and low efficiency. Here, the authors report the engineering E. coli resting cells coupled with a screened alcohol oxidase to enable biocatalytic production of rare sugars from methanol as the sole substrate.",
+    "source": "Nature Communications",
+    "date": "2026-07-18",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-75615-3",
+    "title": "Learning ordinality-aware multimodal representations for composite materials design",
+    "link": "https://www.nature.com/articles/s41467-026-75615-3",
+    "authors": [
+      "Xinyao Li",
+      "Hangwei Qian",
+      "Jingjing Li",
+      "Lei Zhu",
+      "Ivor Tsang"
+    ],
+    "summary": "Nature Communications, Published online: 18 July 2026; <a href=\"https://www.nature.com/articles/s41467-026-75615-3\">doi:10.1038/s41467-026-75615-3</a>Composite materials design is difficult due to complex, continuous design space. This work builds ORDER, a multimodal framework linking microstructures and descriptors with preserved property trends, aiding prediction, retrieval, and microstructure generation.",
+    "source": "Nature Communications",
+    "date": "2026-07-18",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-75719-w",
+    "title": "Raphia hookeri seed-inspired weakly anisotropic nanocomposites",
+    "link": "https://www.nature.com/articles/s41467-026-75719-w",
+    "authors": [
+      "Jiajun Mao",
+      "Jia Yan",
+      "Ziyu Wang",
+      "Qunfeng Cheng"
+    ],
+    "summary": "Nature Communications, Published online: 18 July 2026; <a href=\"https://www.nature.com/articles/s41467-026-75719-w\">doi:10.1038/s41467-026-75719-w</a>Inspired by densely packed sclereids with interconnected pit structures in Raphia hookeri seed, authors fabricate bioinspired structural materials with weak anisotropy and high toughness.",
+    "source": "Nature Communications",
+    "date": "2026-07-18",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-73868-6",
+    "title": "Refractory inclusions in Bennu samples indicative of outer Solar System accretion",
+    "link": "https://www.nature.com/articles/s41467-026-73868-6",
+    "authors": [
+      "Noriyuki Kawasaki",
+      "Toru Matsumoto",
+      "Sota Arakawa",
+      "Naoya Sakamoto",
+      "Ken-ichi Bajo",
+      "Sara S. Russell",
+      "Jessica J. Barnes",
+      "Ann N. Nguyen",
+      "Timothy J. McCoy",
+      "Pierre Haenecour",
+      "Hisayoshi Yurimoto",
+      "Harold C. Connolly Jr.",
+      "Dante S. Lauretta"
+    ],
+    "summary": "Nature Communications, Published online: 18 July 2026; <a href=\"https://www.nature.com/articles/s41467-026-73868-6\">doi:10.1038/s41467-026-73868-6</a>Refractory inclusions in samples from asteroid Bennu formed in the earliest Solar System and resemble those in Ryugu and chondritic meteorites. Their size distribution suggests that Bennu’s parent planetesimal formed beyond proto-Jupiter’s dust trap.",
+    "source": "Nature Communications",
+    "date": "2026-07-18",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-75860-6",
+    "title": "Coordination electrochemistry taming reversible hypervalent bromine redox for energetic six-electron-transfer lithium-bromine battery",
+    "link": "https://www.nature.com/articles/s41467-026-75860-6",
+    "authors": [
+      "Rumeng Feng",
+      "Wenyu Xu",
+      "Hongwei Wang",
+      "Binfen Wang",
+      "Jialin Li",
+      "Zelin Chang",
+      "Zhaodong Huang",
+      "Ze Chen",
+      "Xinliang Li"
+    ],
+    "summary": "Nature Communications, Published online: 18 July 2026; <a href=\"https://www.nature.com/articles/s41467-026-75860-6\">doi:10.1038/s41467-026-75860-6</a>Conversion-type bromine batteries offer energy-storage potential but face limited electron transfer. Here, authors design an ethyl viologen dibromide positive electrode to unlock a six-electron redox process, boosting capacity and voltage via synergistic bromine conversion and lithium-ion storage.",
+    "source": "Nature Communications",
+    "date": "2026-07-18",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-026-03831-2",
+    "title": "Crystal dislocations and incorporation of Sc in hydrothermally modified beryl from LCT type pegmatites",
+    "link": "https://www.nature.com/articles/s43247-026-03831-2",
+    "authors": [
+      "Tao Hong",
+      "Zhang Zhang",
+      "Hai-Yang Xian",
+      "Mei-Fu Zhou",
+      "Ming-Guo Zhai",
+      "Gao-Bin Chu",
+      "Shang-Xian Su",
+      "Qiang-Tai Huang",
+      "Hong-Tao Shen"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 18 July 2026; <a href=\"https://www.nature.com/articles/s43247-026-03831-2\">doi:10.1038/s43247-026-03831-2</a>Hydrothermal alteration generated dislocations in beryl rims that facilitated Sc diffusion and enrichment, leading to significant scandium accumulation and highlighting the Bailongshan deposit in Northwest China as a promising Sc resource, according to geochemical and crystallographic analysis.",
+    "source": "Communications Earth & Environment",
+    "date": "2026-07-18",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-026-03827-y",
+    "title": "Crustose coralline algae buffer shallow reef environments from dissolution",
+    "link": "https://www.nature.com/articles/s43247-026-03827-y",
+    "authors": [
+      "Yaojia Sun",
+      "Oscar Branson",
+      "Christopher Cornwall",
+      "Stephen M. Eggins",
+      "William Maher",
+      "Kate Holland",
+      "Patrick Goodarzi",
+      "Michael J. Ellwood"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 18 July 2026; <a href=\"https://www.nature.com/articles/s43247-026-03827-y\">doi:10.1038/s43247-026-03827-y</a>Crustose coralline algae overlying reef structures can reduce coral dissolution, especially at night-time, according to in-situ carbonate chemistry data from the Great Barrier Reef.",
+    "source": "Communications Earth & Environment",
+    "date": "2026-07-18",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-026-03795-3",
+    "title": "Promises and pitfalls of climate adaptation tools across the Mediterranean",
+    "link": "https://www.nature.com/articles/s43247-026-03795-3",
+    "authors": [
+      "Aristeidis Koutroulis",
+      "Elisa Savelli",
+      "Milica Tosic",
+      "Irida Lazic",
+      "Alexander Fekete",
+      "Thora Tenbrink",
+      "Robert Stojanov",
+      "Maciej Tankiewicz",
+      "Filomena Pietrapertosa",
+      "Monica Salvia",
+      "Sandra Ricart",
+      "Saioa Zorita",
+      "Simon N. Gosling",
+      "Elanur Adar Yazar",
+      "Sorin Anghel",
+      "Joan Ballester",
+      "Michael Barton",
+      "Jovana Bezdan",
+      "Atila Bezdan",
+      "Riccardo Biella",
+      "Carolina Cantone",
+      "Patricia Coll-Hidalgo",
+      "Kenan Dalkilic",
+      "Zahide Erdoğan",
+      "Muharrem Hilmi Erkoç",
+      "Marianela Fader",
+      "Nicolas Pardo Garcia",
+      "Elias Giannakis",
+      "Fatma Handan Giray",
+      "Manolis Grillakis",
+      "Asli Pelin Gurgun",
+      "Assaf Hochman",
+      "Ziya İnce",
+      "Katie Johnson",
+      "József Kádár",
+      "Zahra Kalantari",
+      "Rovshan Karimov",
+      "Emine Keleş Özgenç",
+      "Bijan Khazai",
+      "Silvia Kohnovà",
+      "Peter Kumer",
+      "Emel Zeray Öztürk",
+      "Christian Pagé",
+      "Niki Paisi",
+      "Yunus Pamukoglu",
+      "Kalliopi-Mikaela Papa",
+      "Ilias Pechlivanidis",
+      "Angela Pilogallo",
+      "Zorica Popović",
+      "Amir Rezvani",
+      "Dritan Rustja",
+      "Meryem Tanarhte",
+      "Athanasios Tsilimigkras",
+      "Liliana Velea",
+      "Petar Vranić",
+      "George Zittis",
+      "Samira Khodayar"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 18 July 2026; <a href=\"https://www.nature.com/articles/s43247-026-03795-3\">doi:10.1038/s43247-026-03795-3</a>Climate change adaptation tools in Mediterranean regions often fail the people and places that need them most, because they remain expert-oriented, administratively bounded, and poorly matched to regional realities, according to systematic evaluations.",
+    "source": "Communications Earth & Environment",
+    "date": "2026-07-18",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012825226002369",
+    "title": "Crustal differentiation driven by long-lived UHT metamorphism in Central Gondwana: A review and synthesis of new data",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012825226002369?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 17 July 2026<b>Source:</b> Earth-Science ReviewsAuthor(s): Sanjeewa P.K. Malaviarachchi, Lei Zhao, Prasanna Lakshitha Dharmapriya, Yan-Bin Zhang, Guo Jinhui, Xian-Hua Li",
+    "source": "ScienceDirect Publication: Earth-Science Reviews",
+    "date": "2026-07-19",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012821X26004139",
+    "title": "Intrinsic land-surface response times delayed Late Devonian oceanic anoxia",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012821X26004139?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: 1 October 2026<b>Source:</b> Earth and Planetary Science Letters, Volume 691Author(s): Nina Wichern, David De Vleeschouwer",
+    "source": "ScienceDirect Publication: Earth and Planetary Science Letters",
+    "date": "2026-07-19",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL124127",
+    "title": "Spatially Heterogeneous Impacts of Urbanization in Reshaping the Dry and Hot Extremes Across Chinese Cities",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL124127?af=R",
+    "authors": [
+      "Hui Zhang, \nMengmeng Li, \nXinyang Li, \nYuting Lu, \nXin Huang, \nTijian Wang"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 14, 28 July 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-07-17",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL123310",
+    "title": "Fracture–Matrix Flow Partitioning Governs Retention Regime Transitions in Unsaturated Fractured Rock",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL123310?af=R",
+    "authors": [
+      "M. A. Pratama, \nC. Jiang, \nM. Ziegler, \nQ. Lei"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 14, 28 July 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-07-17",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL123043",
+    "title": "Temporal Heterogeneity of In Situ Ocean Observing Capacity Could Cause an Artificial Intensification of Extreme Warm Water Events Globally",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL123043?af=R",
+    "authors": [
+      "Zhiqiao Wang, \nHao‐xuan Sun, \nZhao Jing"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 14, 28 July 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-07-17",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL122790",
+    "title": "From Shadow to Fertilizer: Slanted Sunlight in 3D Radiation Enhances Cloud Condensate, Size, and Lifetime of Shallow Cumulus",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL122790?af=R",
+    "authors": [
+      "Xiaocong Wang, \nYanjie Liu"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 14, 28 July 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-07-17",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL123203",
+    "title": "Capturing the Global Variability of Marine Particulate Organic Carbon Flux: A Hierarchical Bayesian Approach",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL123203?af=R",
+    "authors": [
+      "P. Edwards, \nG. L. Britten, \nL. Biermann, \nL. Guidi, \nS. A. Henson, \nC. M. Moore, \nS. Ramondenc, \nB. B. Cael"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 14, 28 July 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-07-17",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL122135",
+    "title": "Increasing Warming May Inhibit Land Carbon Uptake in Northern High Latitudes",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL122135?af=R",
+    "authors": [
+      "Nima Madani, \nNicholas C. Parazoo, \nLogan T. Berner, \nCharles E. Miller, \nAbhishek Chatterjee"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 14, 28 July 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-07-17",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025JB032264",
+    "title": "Present Estimations of Subsidence Induced by Sediment Isostasy and Glacial Isostatic Adjustment in the Ayeyarwady Delta (Myanmar)",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JB032264?af=R",
+    "authors": [
+      "A. Henry, \nC. J. Grall, \nM. Becker, \nM. Karpytchev, \nE. Chaumillon"
+    ],
+    "summary": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 7, July 2026.",
+    "source": "Wiley: Journal of Geophysical Research: Solid Earth: Table of Contents",
+    "date": "2026-07-17",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026JB033781",
+    "title": "Beyond Equilibrium: Kinetic Thresholds and Rheological Feedbacks Create a Potentially Complex 410 in Slab Regions",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026JB033781?af=R",
+    "authors": [
+      "Buchanan Kerswell, \nJohn Wheeler, \nRene Gassmöller, \nJ. Huw Davies, \nIsabel Papanagnou, \nSanne Cottaar"
+    ],
+    "summary": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 7, July 2026.",
+    "source": "Wiley: Journal of Geophysical Research: Solid Earth: Table of Contents",
+    "date": "2026-07-17",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026JB034415",
+    "title": "Sound Velocity and Melting of CaSiO3 Under Shock Compression",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026JB034415?af=R",
+    "authors": [
+      "Ye Wu, \nQing Zhang, \nTian Qin, \nYishi Wang, \nYu Hu, \nZehui Li, \nZining Li, \nChang Gao, \nXun Liu, \nHaijun Huang, \nYingwei Fei"
+    ],
+    "summary": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 7, July 2026.",
+    "source": "Wiley: Journal of Geophysical Research: Solid Earth: Table of Contents",
+    "date": "2026-07-17",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0016703726004667",
+    "title": "The water isotope fractionation coefficient of hydrogen and oxygen in equilibrium with ice and supercooled water at −20°C and the role of supersaturation during ice formation",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0016703726004667?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 18 July 2026<b>Source:</b> Geochimica et Cosmochimica ActaAuthor(s): P.P. Ebner, H.C. Steen-Larsen",
+    "source": "ScienceDirect Publication: Geochimica et Cosmochimica Acta",
+    "date": "2026-07-19",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0016703726004655",
+    "title": "The evolution, migration, and transformation of dissolved organic matter in black shale regions: environmental destination and implications",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0016703726004655?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 17 July 2026<b>Source:</b> Geochimica et Cosmochimica ActaAuthor(s): Yinbo Xu, Guangxu Zhu, Pei Xu, Changqiu Zhao, Rongfei Wei, Usman Kaku Dawuda, Qingjun Guo",
+    "source": "ScienceDirect Publication: Geochimica et Cosmochimica Acta",
+    "date": "2026-07-19",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025TC009342",
+    "title": "Timing of the Albano‐Hellenic Paleomagnetic Rotation",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025TC009342?af=R",
+    "authors": [
+      "F. Feriozzi, \nF. Speranza, \nG. Siravo, \nP. Cipollari, \nL. Spagnuolo"
+    ],
+    "summary": "Tectonics, Volume 45, Issue 7, July 2026.",
+    "source": "Wiley: Tectonics: Table of Contents",
+    "date": "2026-07-17",
+    "sent": true
+  },
+  {
     "id": "https://www.science.org/doi/abs/10.1126/sciadv.adt3721?af=R",
     "title": "Extensive parasite transmission and variation in a functional receptor associated with drug resistance in endemic Schistosoma mansoni",
     "link": "https://www.science.org/doi/abs/10.1126/sciadv.adt3721?af=R",
