@@ -1,5 +1,558 @@
 [
   {
+    "id": "https://www.nature.com/articles/s41467-026-75673-7",
+    "title": "Universal Planckian dissipation in the strange metal state of the cuprates",
+    "link": "https://www.nature.com/articles/s41467-026-75673-7",
+    "authors": [
+      "A. Shekhter",
+      "B. J. Ramshaw",
+      "M. K. Chan",
+      "N. Harrison"
+    ],
+    "summary": "Nature Communications, Published online: 26 July 2026; <a href=\"https://www.nature.com/articles/s41467-026-75673-7\">doi:10.1038/s41467-026-75673-7</a>Through an analysis of existing data, the authors show that the “Planckian” relaxation rate in cuprate superconductors is doping independent. This follows from the finding that the square optical plasma frequency scales linearly with doping, which they further argue is a natural consequence of Mott physics.",
+    "source": "Nature Communications",
+    "date": "2026-07-26",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-76107-0",
+    "title": "Finding the perfect promoter for Cas9 in homing gene drives using single cell transcriptome data",
+    "link": "https://www.nature.com/articles/s41467-026-76107-0",
+    "authors": [
+      "Yingke Wu",
+      "Yunchen Xia",
+      "Ziyin Yao",
+      "Weizhe Chen",
+      "Xihua Jia",
+      "Nan Liang",
+      "Jackson Champer"
+    ],
+    "summary": "Nature Communications, Published online: 25 July 2026; <a href=\"https://www.nature.com/articles/s41467-026-76107-0\">doi:10.1038/s41467-026-76107-0</a>CRISPR homing gene drives can help control disease vectors but require precise Cas9 expression. Here, the drive performance of 35 Cas9 constructs with different promoters in Drosophila were compared to single cell RNA expression patterns of promoter-associated genes.",
+    "source": "Nature Communications",
+    "date": "2026-07-25",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-75391-0",
+    "title": "Scalable high resolution ancestry deconvolution for genomic data",
+    "link": "https://www.nature.com/articles/s41467-026-75391-0",
+    "authors": [
+      "Helgi Hilmarsson",
+      "Arvind S. Kumar",
+      "Míriam Barrabés",
+      "Richa Rastogi",
+      "Carlos D. Bustamante",
+      "Daniel Mas Montserrat",
+      "Alexander G. Ioannidis"
+    ],
+    "summary": "Nature Communications, Published online: 25 July 2026; <a href=\"https://www.nature.com/articles/s41467-026-75391-0\">doi:10.1038/s41467-026-75391-0</a>The authors present Gnomix, a local ancestry framework that delivers leading accuracy across diverse admixed datasets on both whole-genome and array data with high efficiency, together with Gnofix, its fast phasing-error correction counterpart.",
+    "source": "Nature Communications",
+    "date": "2026-07-25",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-75886-w",
+    "title": "Electrically driven inverse metamagnetic transition in Sm<sub><i>1-x</i></sub>Sr<sub><i>x</i></sub>MnO₃",
+    "link": "https://www.nature.com/articles/s41467-026-75886-w",
+    "authors": [
+      "Suryakanta Mondal",
+      "Vinod Kumar",
+      "Sourav Chowdhury",
+      "Akshat Godha",
+      "Arup Kumar Mandal",
+      "Wan-Sheng Tang",
+      "Alan Kalitsov",
+      "Ashish Omar",
+      "Subhajit Nandy",
+      "Jayjit Kumar Dey",
+      "Gyanendra Panchal",
+      "Surendra Kumar Makineni",
+      "Julia Mundy",
+      "Yu-Hui Tang",
+      "Sasikanth Manipatruni",
+      "Manuel Bibes",
+      "Mark Blamire",
+      "Bhagwati Prasad"
+    ],
+    "summary": "Nature Communications, Published online: 25 July 2026; <a href=\"https://www.nature.com/articles/s41467-026-75886-w\">doi:10.1038/s41467-026-75886-w</a>Correlated oxides are known to exhibit metamagnetic switching from a non-ferromagnetic to ferromagnetic phase. Here, the authors demonstrate an electrically driven inverse-metamagnetic transition from a ferromagnetic state to an antiferromagnetic-like phase in an epitaxial Sm1-xSrxMnO3 thin film.",
+    "source": "Nature Communications",
+    "date": "2026-07-25",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-76056-8",
+    "title": "Retarding moisture-induced chemical degradation of Yttrium Tellurides by tailoring grain boundary chemistry",
+    "link": "https://www.nature.com/articles/s41467-026-76056-8",
+    "authors": [
+      "Kyuseon Jang",
+      "Jamil Ur Rahman",
+      "Su-Hyun Yoo",
+      "Chanwon Jung",
+      "Eric Woods",
+      "Ruben Bueno-Villoro",
+      "Kornelius Nielsch",
+      "Christina Scheu",
+      "Yonghyuk Lee",
+      "Pyuck-Pa Choi",
+      "Ran He",
+      "Siyuan Zhang"
+    ],
+    "summary": "Nature Communications, Published online: 25 July 2026; <a href=\"https://www.nature.com/articles/s41467-026-76056-8\">doi:10.1038/s41467-026-76056-8</a>Y2Te3 thermoelectrics degrade in moist air as water molecules enter along grain boundaries. The authors show that 1 at.% Bi segregates to these boundaries, suppressing moisture ingress and preventing chemical degradation while preserving performance.",
+    "source": "Nature Communications",
+    "date": "2026-07-25",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-76094-2",
+    "title": "<i>DICER1</i>-related tumour predisposition mutations increase 3p-miRNA function and HERVH activity",
+    "link": "https://www.nature.com/articles/s41467-026-76094-2",
+    "authors": [
+      "Katrina Gordon",
+      "Nicolas Bellora",
+      "Jeroen Witteveldt",
+      "Joanna K. Wojtus",
+      "Felix Mueller",
+      "Katharina J. Kases",
+      "Pilar G. Marchante",
+      "Guillermo Peris",
+      "Shelagh Boyle",
+      "Sara R. Heras",
+      "Atlanta G. Cook",
+      "Cei Abreu-Goodger",
+      "Sara Macias"
+    ],
+    "summary": "Nature Communications, Published online: 25 July 2026; <a href=\"https://www.nature.com/articles/s41467-026-76094-2\">doi:10.1038/s41467-026-76094-2</a>DICER1 is often mutated in cancer, including in DICER1-related tumour predisposition. Here, the authors show that cancer-associated DICER1 mutations shift microRNA processing and reactivate HERVH endogenous retroviruses.",
+    "source": "Nature Communications",
+    "date": "2026-07-25",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-75945-2",
+    "title": "Neural dynamics for working memory and evidence integration during olfactory navigation in <i>Drosophila</i>",
+    "link": "https://www.nature.com/articles/s41467-026-75945-2",
+    "authors": [
+      "Nicholas D. Kathman",
+      "Aaron J. Lanz",
+      "Jacob D. Freed",
+      "Katherine I. Nagel"
+    ],
+    "summary": "Nature Communications, Published online: 25 July 2026; <a href=\"https://www.nature.com/articles/s41467-026-75945-2\">doi:10.1038/s41467-026-75945-2</a>The authors describe a population of neurons in the navigation center of Drosophila that exhibits a persistent goal signal during olfactory navigation.",
+    "source": "Nature Communications",
+    "date": "2026-07-25",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43017-026-00808-9",
+    "title": "The use, fate and environmental impacts of plastic films in agriculture",
+    "link": "https://www.nature.com/articles/s43017-026-00808-9",
+    "authors": [
+      "Jiamin Zeng",
+      "Xiaoping Wang",
+      "Jie Wang",
+      "Huike Dong",
+      "Yunqiao Zhou",
+      "Matthew MacLeod",
+      "Ian T. Cousins",
+      "Yanming Li",
+      "Xinghui Xia",
+      "Martine Graf",
+      "Davey L. Jones",
+      "Xuejun Liu"
+    ],
+    "summary": "Nature Reviews Earth &amp; Environment, Published online: 23 July 2026; <a href=\"https://www.nature.com/articles/s43017-026-00808-9\">doi:10.1038/s43017-026-00808-9</a>Plastic agricultural films enhance crop productivity and support food security, but their use also contaminates soils with plastics and chemical additives. This Review examines the global production and use of agricultural films, their environmental impacts, and strategies to support their sustainable production and use.",
+    "source": "Nature Reviews Earth & Environment",
+    "date": "2026-07-23",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-026-03854-9",
+    "title": "The link between seawater and foraminiferal calcite chemistry",
+    "link": "https://www.nature.com/articles/s43247-026-03854-9",
+    "authors": [
+      "Daniel François",
+      "Gert-Jan Reichart",
+      "Rona Roverts",
+      "Ben Joosten",
+      "Lennart de Nooijer"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 25 July 2026; <a href=\"https://www.nature.com/articles/s43247-026-03854-9\">doi:10.1038/s43247-026-03854-9</a>Foraminiferal calcification occurs within a semi-open system, explaining the link between shell trace-element ratios and seawater composition, according to cryo–focused ion beam milling with scanning electron microscopy.",
+    "source": "Communications Earth & Environment",
+    "date": "2026-07-25",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-026-03836-x",
+    "title": "Rapid accretion of enstatite chondrite (EH)-like embryos as impactors for the proto-Earth",
+    "link": "https://www.nature.com/articles/s43247-026-03836-x",
+    "authors": [
+      "Qiong Li",
+      "Wei Du",
+      "Jing Yang",
+      "Chuan Zhang",
+      "Di Yao",
+      "Keqing Zong",
+      "Feiyang Chen",
+      "Yonggang Wang",
+      "Yun Liu"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 25 July 2026; <a href=\"https://www.nature.com/articles/s43247-026-03836-x\">doi:10.1038/s43247-026-03836-x</a>Enstatite chondrite-like embryos and enstatite chondrite parent bodies accreted very early and followed two distinct evolutionary trajectories, according to high-pressure melting experiments and thermodynamic simulations",
+    "source": "Communications Earth & Environment",
+    "date": "2026-07-25",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-026-03846-9",
+    "title": "Enhanced upwelling and subsequent photic zone euxinia linked to the two-phase late Cambrian Marjuman extinction",
+    "link": "https://www.nature.com/articles/s43247-026-03846-9",
+    "authors": [
+      "Xiangdong Wang",
+      "He Zhao",
+      "Stephen E. Grasby",
+      "Peter A. Cawood",
+      "Zhengyi Lyu",
+      "Lei Zhang",
+      "Xinyang Yao",
+      "Zhenfeng Luo"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 25 July 2026; <a href=\"https://www.nature.com/articles/s43247-026-03846-9\">doi:10.1038/s43247-026-03846-9</a>The late Cambrian Marjuman extinction event in South China was triggered by enhanced upwelling and hydrogen sulfide toxicity in shallow oceans, according to analyses of Mercury isotope data from China.",
+    "source": "Communications Earth & Environment",
+    "date": "2026-07-25",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-026-03851-y",
+    "title": "In situ monazite isotopes reveal mantle fluids for giant Jiaodong gold mineralization",
+    "link": "https://www.nature.com/articles/s43247-026-03851-y",
+    "authors": [
+      "Jinyu Li",
+      "Shao-Yong Jiang",
+      "Feng Yuan",
+      "Jin-Lei Sun",
+      "Wen Zhang",
+      "Xiao-Wei Yu",
+      "Jin-Hui Wang",
+      "Zhi-Qiang Chen"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 25 July 2026; <a href=\"https://www.nature.com/articles/s43247-026-03851-y\">doi:10.1038/s43247-026-03851-y</a>Mantle-derived fluids from an enriched lithospheric mantle likely contributed to Jiaodong’s large gold deposits, with notable fluid–rock interaction during formation, according to geochemical analysis of hydrothermal monazite and numerical mixing models of Jiaodong gold deposits.",
+    "source": "Communications Earth & Environment",
+    "date": "2026-07-25",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-026-03843-y",
+    "title": "Structural factors rather than reconstruction investment drive depopulation after Japan’s 2011 disasters",
+    "link": "https://www.nature.com/articles/s43247-026-03843-y",
+    "authors": [
+      "Toshiaki Yoshida",
+      "Daniel P. Aldrich"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 24 July 2026; <a href=\"https://www.nature.com/articles/s43247-026-03843-y\">doi:10.1038/s43247-026-03843-y</a>Following the 2011 Great East Japan Earthquake, migration occurred mainly from heavily damaged towns near larger cities, as damage and population size interacted to drive temporary urbanization, based on a nested mixed-method study.",
+    "source": "Communications Earth & Environment",
+    "date": "2026-07-24",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-026-03855-8",
+    "title": "Revisiting the oxidant budget of the DOUNCE event",
+    "link": "https://www.nature.com/articles/s43247-026-03855-8",
+    "authors": [
+      "Yinggang Zhang",
+      "Maoyan Zhu",
+      "Fred T. Bowyer",
+      "Benjamin J. W. Mills"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 24 July 2026; <a href=\"https://www.nature.com/articles/s43247-026-03855-8\">doi:10.1038/s43247-026-03855-8</a>The continental sulfate supply is sufficient to support the dissolved organic carbon oxidation hypothesis for the Shuram event, according to an inverse Earth evolution model based on a refined carbon isotope curve.",
+    "source": "Communications Earth & Environment",
+    "date": "2026-07-24",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-026-03868-3",
+    "title": "Environmental injustice and transition pathways of heavy-duty truck transport in China",
+    "link": "https://www.nature.com/articles/s43247-026-03868-3",
+    "authors": [
+      "Pengjun Zhao",
+      "Zhaoxiang Li",
+      "Changcheng Kan",
+      "Yu Zheng",
+      "Yiqing Wang",
+      "Yongqi Hou",
+      "Shixiong Jiang",
+      "Qiyang Liu"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 24 July 2026; <a href=\"https://www.nature.com/articles/s43247-026-03868-3\">doi:10.1038/s43247-026-03868-3</a>In China, disadvantaged communities face a high level of air pollution, and proposed solutions include corridor electrification, nitrogen oxide emissions levies, and truck-free zones near rural schools, according to billion signals from over 1 million trucks that map freight emissions.",
+    "source": "Communications Earth & Environment",
+    "date": "2026-07-24",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-026-03849-6",
+    "title": "Planetary trapped waves drive intercontinental and trans-basin oceanic teleconnections between South America and Africa",
+    "link": "https://www.nature.com/articles/s43247-026-03849-6",
+    "authors": [
+      "Léa Poli",
+      "Camila Artana",
+      "Alex Costa Da Silva",
+      "Clément Bricaud",
+      "Jean-Michel Lellouche",
+      "Boris Dewitte",
+      "Ariane Koch-Larrouy",
+      "Fabrice Hernandez"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 24 July 2026; <a href=\"https://www.nature.com/articles/s43247-026-03849-6\">doi:10.1038/s43247-026-03849-6</a>A continuous pathway for oceanic trapped waves bridges the Atlantic basin, linking the South American and African coast, according to analyses of sea surface height data.",
+    "source": "Communications Earth & Environment",
+    "date": "2026-07-24",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012825226002503",
+    "title": "Can arthropods produce <em>Paleodictyon?</em>",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012825226002503?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 24 July 2026<b>Source:</b> Earth-Science ReviewsAuthor(s): Andrea Baucon, Carlos Neto de Carvalho, Alfred Uchman, Girolamo Lo Russo, Filippo Guerrini, Noel Moreira, Mattia Alessio Meloni, Andrea Barucci, Michele Piazza",
+    "source": "ScienceDirect Publication: Earth-Science Reviews",
+    "date": "2026-07-26",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012821X26004279",
+    "title": "Experimental evidence for metallic melt trapping in the deep Martian mantle – Implications for inefficient melt segregation and highly siderophile element retention",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012821X26004279?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: 15 October 2026<b>Source:</b> Earth and Planetary Science Letters, Volume 692Author(s): Kyusei Tsuno, Hideharu Kuwahara, Varun Manilal, Axel Wittmann, Kurt Leinenweber, Tetsuo Irifune, Damanveer S Grewal",
+    "source": "ScienceDirect Publication: Earth and Planetary Science Letters",
+    "date": "2026-07-26",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012821X26004267",
+    "title": "Oxidation state and volatile element evolution during equilibrium planetary accretion: The case study for mars and vesta",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012821X26004267?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: 15 October 2026<b>Source:</b> Earth and Planetary Science Letters, Volume 692Author(s): Fabrice Gaillard, Yves Marrocchi, Gregory Rogerie, Mohamed A. Bouhifd, Camille Bernard, Mathieu Roskosz",
+    "source": "ScienceDirect Publication: Earth and Planetary Science Letters",
+    "date": "2026-07-26",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL123536",
+    "title": "Substantial Accumulation of Chemically Oxidizable Organic Carbon in Continental Margin Sediments",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL123536?af=R",
+    "authors": [
+      "Yufan Zhang, \nXueshi Sun, \nDejiang Fan, \nMing Liu, \nJingbo Chen, \nHoujie Wang"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 14, 28 July 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-07-24",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL120296",
+    "title": "Internal Tide Displacements Enhance Surface‐Interior Heat Exchange in the Indonesian Seas",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL120296?af=R",
+    "authors": [
+      "Chengyuan Pang, \nMaxim Nikurashin, \nBeatriz Peña‐Molino, \nBernadette M. Sloyan"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 14, 28 July 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-07-24",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL121002",
+    "title": "Attribution of the Record‐Breaking June 2024 Eastern Mediterranean Heatwave: Contrasting Roles of Soil Moisture in Anthropogenic Forcing and Natural Variability",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL121002?af=R",
+    "authors": [
+      "Kangjie Ma, \nHaipeng Yu, \nRuixia Guo, \nDongping Bai, \nMengjing Fu"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 14, 28 July 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-07-24",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL122808",
+    "title": "Influence of the Polar‐Eurasia Pattern on Interannual Variations in Extratropical Transition of Western North Pacific Tropical Cyclones",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL122808?af=R",
+    "authors": [
+      "Nannan Qin, \nRongqiang Qu, \nJinjie Song, \nPhilip J. Klotzbach, \nYihong Duan"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 14, 28 July 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-07-24",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL122054",
+    "title": "Dynamics and Extremes of Open Ocean Non‐Thermal pCO2 Time Series",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL122054?af=R",
+    "authors": [
+      "Kévin Robache, \nFrançois G. Schmitt"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 14, 28 July 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-07-24",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL123991",
+    "title": "Co‐Occurring Flash and Standard Droughts Amplify Global Fire Behavior",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL123991?af=R",
+    "authors": [
+      "Abhirup Dikshit, \nJason P. Evans"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 14, 28 July 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-07-24",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL122334",
+    "title": "Atomic Simulations of Volatile Coverage on Silicate Surfaces",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL122334?af=R",
+    "authors": [
+      "Amanda Ricketts, \nBenjamin A. Clouter‐Gergen, \nDenton S. Ebel, \nAnastasis Georgiou, \nFrancois Leblanc, \nMenelaos Sarantos, \nSebastien Verkercke, \nLiam S. Morrissey"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 14, 28 July 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-07-24",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL120377",
+    "title": "Exploring Marine Biogeochemical Prediction With Linear Dynamical Frameworks",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL120377?af=R",
+    "authors": [
+      "Y.‐Y. Kim, \nJ. Lien, \nK. B. Rodgers, \nJ.‐Y. Lee, \nF.‐F. Jin"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 14, 28 July 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-07-24",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL123553",
+    "title": "Atmospheric Noise Forcing Increases Multiyear El Niño Events",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL123553?af=R",
+    "authors": [
+      "Keqing Bai, \nYishuai Jin, \nWei Zhang, \nXiaopei Lin, \nBen Kirtman"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 14, 28 July 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-07-24",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL124104",
+    "title": "Observed Multi‐Decadal Acceleration of Globally Averaged Abyssal Ocean Warming",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL124104?af=R",
+    "authors": [
+      "Gregory C. Johnson"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 14, 28 July 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-07-24",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL122957",
+    "title": "Dansgaard‐Oeschger Events Recorded in Low‐Latitude Marine Sediments and Teleconnection With High‐Latitude Climate Variations",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL122957?af=R",
+    "authors": [
+      "Zhanjie Liu, \nZhaoxia Jiang, \nLong Chen, \nAndrew P. Roberts, \nSanzhong Li, \nLiang Chen, \nZhengxin Yin, \nWanxin Liu, \nYulong Guan, \nYuzhen Zhang"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 14, 28 July 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-07-24",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GC012860",
+    "title": "The Effects of a Microplate on Plume‐Ridge Interactions: Constraints From Comparing Easter and Juan Fernandez Microplates in the Eastern Pacific Ocean",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GC012860?af=R",
+    "authors": [
+      "Katherine Ames, \nJennifer Georgen"
+    ],
+    "summary": "Geochemistry, Geophysics, Geosystems, Volume 27, Issue 7, July 2026.",
+    "source": "Wiley: Geochemistry, Geophysics, Geosystems: Table of Contents",
+    "date": "2026-07-24",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0016703726004631",
+    "title": "Hematite and siderite nanocrystals in ∼3.48 Ga dresser formation jaspilite: implications for early atmospheric O<sub>2</sub> and CO<sub>2</sub>",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0016703726004631?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 24 July 2026<b>Source:</b> Geochimica et Cosmochimica ActaAuthor(s): Tianyu Zhou, Huifang Xu, Seungyeol Lee, Eric E. Roden",
+    "source": "ScienceDirect Publication: Geochimica et Cosmochimica Acta",
+    "date": "2026-07-26",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0016703726004722",
+    "title": "The underlying mechanism of crop mercury hyperaccumulation in HgS-rich soils: microbially driven enlargement of the bioavailable mercury pool",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0016703726004722?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 24 July 2026<b>Source:</b> Geochimica et Cosmochimica ActaAuthor(s): Qingyi Cao, Haiyan Hu, Jen-How Huang, Shirong Liu, Jinquan Chen, Xinbin Feng",
+    "source": "ScienceDirect Publication: Geochimica et Cosmochimica Acta",
+    "date": "2026-07-26",
+    "sent": true
+  },
+  {
+    "id": "https://pubs.geoscienceworld.org/gsa/geology/article/doi/10.1130/G54469.1/734117/Amphibole-enrichment-weakens-the-mid-to-lower",
+    "title": "Amphibole enrichment weakens the mid- to lower crust of southern Tibet",
+    "link": "https://pubs.geoscienceworld.org/gsa/geology/article/doi/10.1130/G54469.1/734117/Amphibole-enrichment-weakens-the-mid-to-lower",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\">A weak mid- to lower crust is commonly invoked to explain uplift, lateral flow, and lithospheric removal beneath southern Tibet, yet its origin remains unresolved. Because present-day geotherms are generally too cool for widespread melt weakening, we tested whether precollisional arc magmatism produced a hydrous mineralogical inheritance that weakened the mid- to lower crust. Coupled phase-equilibrium modeling and experimentally calibrated flow laws show that geologically plausible bulk H<sub>2</sub>O contents of 1.0−1.5 wt% stabilize amphibole-rich assemblages containing 50−65 vol% amphibole at depths of 30−60 km. This hydration-driven transformation from dry granulitic assemblages to amphibole-rich amphibolite lowers viscosity by up to two orders of magnitude and produces slightly buoyant crust, with predicted viscosities overlapping geodetically inferred values for ductile flow beneath southern Tibet. Below ∼60 km, amphibole breakdown produces garnet- and clinopyroxene-rich assemblages, increasing density and promoting eclogitization and possible delamination. We propose that inherited amphibole enrichment created a weak mid- to lower crust, whereas subsequent amphibole breakdown localized the transition to dense, gravitationally unstable lowermost crust.</span>",
+    "source": "Geology Advance Access",
+    "date": "2026-07-24",
+    "sent": true
+  },
+  {
+    "id": "https://pubs.geoscienceworld.org/gsa/geology/article/doi/10.1130/G54555.1/734116/Magnesium-isotopes-reveal-hydroclimatically",
+    "title": "Magnesium isotopes reveal hydroclimatically amplified low-latitude weathering during the early Toarcian",
+    "link": "https://pubs.geoscienceworld.org/gsa/geology/article/doi/10.1130/G54555.1/734116/Magnesium-isotopes-reveal-hydroclimatically",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\">The Toarcian Stage of the Early Jurassic experienced extreme global warming, marine anoxia, hydrological intensification, and enhanced continental weathering driven by carbon emissions. Low-latitude silicate weathering, a key climate regulator, is highly sensitive to climatic shifts, yet its response to Toarcian warming remains poorly understood. We present magnesium isotopes (δ<sup>26</sup>Mg) from carbonate-hosted silicates (acid-insoluble residues) in two geographically distinct, low-latitude carbonate platforms. Positive δ<sup>26</sup>Mg excursions, indicative of intensified continental weathering, are observed immediately following the Pliensbachian−Toarcian (Pl−To) boundary, temporally coincident with Karoo large igneous province (LIP) emplacement. δ<sup>26</sup>Mg values reached maxima during the onset interval of the Toarcian Oceanic Anoxic Event (T-OAE) negative carbon-isotope excursion (NCIE), temporally coincident with Ferrar LIP activity. The δ<sup>26</sup>Mg pattern suggests that carbon emissions around the Pl−To boundary time did not immediately induce maximum weathering. Rather, cumulative carbon emissions were required to surpass a critical tipping point just above the Pl−To NCIE, triggering a weathering intensification that culminated during the T-OAE NCIE onset interval. Our data, coupled with climate simulations using the Community Earth System Model, indicate that in tectonically inactive regions, elevated temperatures and extreme runoff caused severe soil stripping, exposing the underlying bedrock to intense chemical weathering.</span>",
+    "source": "Geology Advance Access",
+    "date": "2026-07-24",
+    "sent": true
+  },
+  {
+    "id": "https://pubs.geoscienceworld.org/gsa/gsabulletin/article/doi/10.1130/B38937.1/734118/Genesis-of-the-Lijiahe-banded-carbonatite",
+    "title": "Genesis of the Lijiahe banded carbonatite intrusion and associated iron mineralization, northwestern Yangtze Block, South China",
+    "link": "https://pubs.geoscienceworld.org/gsa/gsabulletin/article/doi/10.1130/B38937.1/734118/Genesis-of-the-Lijiahe-banded-carbonatite",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\">Banded carbonatites commonly show a rhythmic alternation between calcite and magnetite layers, the latter often containing significant iron oxide (magnetite) mineralization. However, the petrogenesis of banded carbonatites and the mechanism responsible for iron mineralization remain poorly understood. In this study, we present detailed petrographic observations as well as mineralogical and geochemical data for the Lijiahe banded carbonatites in the northwestern Yangtze Block, central China. The banded carbonatites outcrop as small-scale stocks and dikes in the field, and they can be subdivided into three distinct types of layers: a calcite-rich layer, a mixed layer, and a magnetite-rich layer. Each layer consists of varying proportions of magnetite, calcite, and apatite, with minor amounts of olivine, phlogopite, and Nb-rich minerals. Apatite U-Pb dating results reveal that the Lijiahe banded carbonatites were formed at 778 ± 24 Ma. Three layers in the Lijiahe carbonatites all have identical Sr and Nd isotopic compositions [(<sup>87</sup>Sr/<sup>86</sup>Sr)<sub>i</sub> = 0.7039−0.7048; εNd(t) = +1.5 to +3.4], similar to the regional arc-related mafic rocks, suggesting derivation from a lithospheric mantle enriched by slab-derived materials. Both calcite and whole-rock compositions for the Lijiahe carbonatites are characterized by flat rare earth element (REE) patterns and low (La/Yb)<sub>N</sub> ratios (4.74−6.79 and 5.54−14.1, respectively), which is in stark contrast to global primary carbonatites and calcite. These distinctive flat light REE patterns may require magma generation from a garnet-poor, heavy REE−rich carbonated mantle source. Exhibiting distinct mineral assemblages and characteristic magmatic textures, the magnetite-rich layer has higher TFe<sub>2</sub>O<sub>3</sub>, Co, high field strength element (HFSE), Sn, and Zn contents but lower CaO, Sr, Ba, and REE contents than the mixed layer and the calcite-rich layer. Elevated δ<sup>13</sup>C (−0.6‰ to 0‰) and δ<sup>18</sup>O (17.6‰ to 18.4‰) values, combined with alkali depletion and replacement textures, record a late-stage carbo(hydro)thermal overprint. We propose that primary Fe oxide accumulation was predominantly governed by early magmatic processes, probably involving liquid immiscibility or density-driven mineral sorting. Subsequently, fluid-assisted metasomatism further enhanced enrichment in Fe and HFSEs (notably Nb) within the layered sequence.</span>",
+    "source": "GSA Bulletin Advance Access",
+    "date": "2026-07-24",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025TC009243",
+    "title": "Late Campanian (74–71 Ma) Arabia–Eastern Anatolia Collision and Its Geodynamic Implications",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025TC009243?af=R",
+    "authors": [
+      "Remziye Akdoğan, \nXiumian Hu, \nGültekin Topuz, \nAynur Hakyemez, \nRita Catanzariti, \nAnlin Ma, \nYalçın E. Ersoy, \nİbrahim Uysal"
+    ],
+    "summary": "Tectonics, Volume 45, Issue 7, July 2026.",
+    "source": "Wiley: Tectonics: Table of Contents",
+    "date": "2026-07-24",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025TC009237",
+    "title": "Origin, Tectonic Processes, and Metasomatism of Serpentinite in the Shimanto Accretionary Complex, SW Japan: Possible Diapiric Intrusion of Serpentinized Oceanic Lithosphere",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025TC009237?af=R",
+    "authors": [
+      "Yusuke Shimura, \nShunsuke Endo, \nYoshihiro Asahara, \nToshiki Haji, \nKentaro Ushimaru, \nKoshi Yamamoto"
+    ],
+    "summary": "Tectonics, Volume 45, Issue 7, July 2026.",
+    "source": "Wiley: Tectonics: Table of Contents",
+    "date": "2026-07-24",
+    "sent": true
+  },
+  {
     "id": "https://www.nature.com/articles/s41586-026-10911-y",
     "title": "Author Correction: Feature-specific threat coding in lateral septum guides defensive action",
     "link": "https://www.nature.com/articles/s41586-026-10911-y",
