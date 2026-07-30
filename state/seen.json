@@ -1,5 +1,988 @@
 [
   {
+    "id": "https://www.science.org/doi/abs/10.1126/sciadv.aee1129?af=R",
+    "title": "Pathogenic variants in the human TONSL protein associated with SPONASTRIME dysplasia impair protein dimerization and DNA repair",
+    "link": "https://www.science.org/doi/abs/10.1126/sciadv.aee1129?af=R",
+    "authors": [
+      "Avradeep Karmakar and Siddhartha Roy"
+    ],
+    "summary": "Science Advances, Volume 12, Issue 31, July 2026. <br />",
+    "source": "AAAS: Science Advances: Table of Contents",
+    "date": "2026-07-29",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/sciadv.adx9866?af=R",
+    "title": "Unveiling cascading lag effects of wetland methane emissions: Evidence from Lake Chad in Africa",
+    "link": "https://www.science.org/doi/abs/10.1126/sciadv.adx9866?af=R",
+    "authors": [
+      "Ruoqi Liu, Geli Zhang, Mengyao Liu, Shushi Peng, Ronald van der A, Michiel van Weele, Oliver Schneising, Jilin Yang, You Wu, Vincent Huijnen, Michael Buchwitz, Chang Fan, Zizhang Zhao, Xiaoxing Zuo, Jinwei Dong, Xiangming Xiao"
+    ],
+    "summary": "Science Advances, Volume 12, Issue 31, July 2026. <br />",
+    "source": "AAAS: Science Advances: Table of Contents",
+    "date": "2026-07-29",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/sciadv.adz6502?af=R",
+    "title": "Untrustworthy sources on Facebook and Instagram in 2020: Concentrated exposure but no attitudinal effects",
+    "link": "https://www.science.org/doi/abs/10.1126/sciadv.adz6502?af=R",
+    "authors": [
+      "Olivier Bergeron-Boutin, Brendan Nyhan, Jaime Settle, Emily Thorson, Magdalena Wojcieszak, Taylor Brown, Adriana Crespo-Tenorio, Carlos Velasco Rivera, Hunt Allcott, Pablo Barberá, Drew Dimmery, Deen Freelon, Matthew Gentzkow, Sandra González-Bailón, Andrew M. Guess, Edward Kennedy, Young Mie Kim, David Lazer, Neil Malhotra, Devra Moehler, Jennifer Pan, Daniel Robert Thomas, Rebekah Tromble, Arjun Wilkins, Beixian Xiong, Chad Kiewiet de Jonge, Annie Franco, Winter Mason, Natalie Jomini Stroud, Joshua A. Tucker"
+    ],
+    "summary": "Science Advances, Volume 12, Issue 31, July 2026. <br />",
+    "source": "AAAS: Science Advances: Table of Contents",
+    "date": "2026-07-29",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/sciadv.aeb1437?af=R",
+    "title": "Neptune’s inner moons and rings are exposed icy body interiors",
+    "link": "https://www.science.org/doi/abs/10.1126/sciadv.aeb1437?af=R",
+    "authors": [
+      "M. Ryleigh Davis, Matthew Belyakov, Ian Wong, Zachariah Milby, Michael E. Brown"
+    ],
+    "summary": "Science Advances, Volume 12, Issue 31, July 2026. <br />",
+    "source": "AAAS: Science Advances: Table of Contents",
+    "date": "2026-07-29",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/sciadv.aeb2089?af=R",
+    "title": "Selective autophagy receptor VISP1 enhances cytokinin signaling by modulating the Type-A/B ARR feedback loop during root development",
+    "link": "https://www.science.org/doi/abs/10.1126/sciadv.aeb2089?af=R",
+    "authors": [
+      "Xin Tong, Ya-Lan Feng, Zhi-Hong Guo, Xian-Bing Wang, Ying Wang"
+    ],
+    "summary": "Science Advances, Volume 12, Issue 31, July 2026. <br />",
+    "source": "AAAS: Science Advances: Table of Contents",
+    "date": "2026-07-29",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/sciadv.aeb2204?af=R",
+    "title": "Turing-type high-entropy oxide nanosheets for efficient seawater electrolysis",
+    "link": "https://www.science.org/doi/abs/10.1126/sciadv.aeb2204?af=R",
+    "authors": [
+      "Yifan Liu, Libin Hao, Yingqiang Li, Jing Jin, Long Chen, Liang Xue, Zhen Hou, Wenyao Zhang, Xin Wang, Pan Xiong, Junwu Zhu"
+    ],
+    "summary": "Science Advances, Volume 12, Issue 31, July 2026. <br />",
+    "source": "AAAS: Science Advances: Table of Contents",
+    "date": "2026-07-29",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/sciadv.aeb3326?af=R",
+    "title": "Insular routing to orbitofrontal cortex enables breathing awareness",
+    "link": "https://www.science.org/doi/abs/10.1126/sciadv.aeb3326?af=R",
+    "authors": [
+      "Joshua Y. Assi, Stephan Bickel, Harly E. Greenberg, Ashesh D. Mehta, Thomas Similowski, José L. Herrero"
+    ],
+    "summary": "Science Advances, Volume 12, Issue 31, July 2026. <br />",
+    "source": "AAAS: Science Advances: Table of Contents",
+    "date": "2026-07-29",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/sciadv.aeb7528?af=R",
+    "title": "Highly aquatic marine stem archosaur with soft tissue preservation",
+    "link": "https://www.science.org/doi/abs/10.1126/sciadv.aeb7528?af=R",
+    "authors": [
+      "Wei Wang, Nicholas C. Fraser, Stephan N. F. Spiekman, Zhiheng Li, Olivier Rieppel, Hong Lei, Torsten M. Scheyer, Chun Li"
+    ],
+    "summary": "Science Advances, Volume 12, Issue 31, July 2026. <br />",
+    "source": "AAAS: Science Advances: Table of Contents",
+    "date": "2026-07-29",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/sciadv.aeb9805?af=R",
+    "title": "Altered Gi signaling in enteroendocrine K cells in vivo causes pronounced changes in glucose homeostasis",
+    "link": "https://www.science.org/doi/abs/10.1126/sciadv.aeb9805?af=R",
+    "authors": [
+      "Osvaldo Rivera-Gonzalez, Liu Liu, Fiona M. Gribble, Frank Reimann, Jürgen Wess"
+    ],
+    "summary": "Science Advances, Volume 12, Issue 31, July 2026. <br />",
+    "source": "AAAS: Science Advances: Table of Contents",
+    "date": "2026-07-29",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/sciadv.aec4247?af=R",
+    "title": "Remote sensing of aerosols over drylands: Challenges, uncertainties, and paths forward",
+    "link": "https://www.science.org/doi/abs/10.1126/sciadv.aec4247?af=R",
+    "authors": [
+      "Cheng Chen, Pavel Litvinov, Oleg Dubovik, Thomas F. Eck, Elena S. Lind, Gerrit de Leeuw, Zhengqiang Li"
+    ],
+    "summary": "Science Advances, Volume 12, Issue 31, July 2026. <br />",
+    "source": "AAAS: Science Advances: Table of Contents",
+    "date": "2026-07-29",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/sciadv.aec5358?af=R",
+    "title": "Operando state monitoring of diversified lithium-ion batteries via laser-excited ultrasonic sensing with transformer networks",
+    "link": "https://www.science.org/doi/abs/10.1126/sciadv.aec5358?af=R",
+    "authors": [
+      "Gaolong Lv, Chongbo Sun, Peihan Zhao, Kaihui Huang, Qimin Zhu, Yehai Li, Huanqing Cao, Xinyu Wu, Xuan Zhang, Guangmin Zhou, Wei Feng, Shifeng Guo"
+    ],
+    "summary": "Science Advances, Volume 12, Issue 31, July 2026. <br />",
+    "source": "AAAS: Science Advances: Table of Contents",
+    "date": "2026-07-29",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/sciadv.aec7733?af=R",
+    "title": "Structural and mechanistic basis for the heterotetrameric benzaldehyde synthase from petunia",
+    "link": "https://www.science.org/doi/abs/10.1126/sciadv.aec7733?af=R",
+    "authors": [
+      "Jason O. Matos, Jihee Lee, Ramasamy P. Kumar, Xing-Qi Huang, Matthew E. Bergman, Jennifer Sherk, Vehaan Keswani, Natalia Dudareva, Jing-Ke Weng"
+    ],
+    "summary": "Science Advances, Volume 12, Issue 31, July 2026. <br />",
+    "source": "AAAS: Science Advances: Table of Contents",
+    "date": "2026-07-29",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/sciadv.aed0245?af=R",
+    "title": "Multispectral infrared-to-full-color upconversion expanding human vision",
+    "link": "https://www.science.org/doi/abs/10.1126/sciadv.aed0245?af=R",
+    "authors": [
+      "Chengchang Fu, Jintao Zou, Xiaoxue Yang, Qun Hao, Xin Tang, Ge Mu"
+    ],
+    "summary": "Science Advances, Volume 12, Issue 31, July 2026. <br />",
+    "source": "AAAS: Science Advances: Table of Contents",
+    "date": "2026-07-29",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/sciadv.aed1300?af=R",
+    "title": "CD36 is a receptor for human sapovirus",
+    "link": "https://www.science.org/doi/abs/10.1126/sciadv.aed1300?af=R",
+    "authors": [
+      "Kei Haga, Miyabi Arai, Reiko Takai-Todaka, Yuya Fukuda, Ryoka Ishiyama, Kazuhiko Katayama"
+    ],
+    "summary": "Science Advances, Volume 12, Issue 31, July 2026. <br />",
+    "source": "AAAS: Science Advances: Table of Contents",
+    "date": "2026-07-29",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/sciadv.aed4451?af=R",
+    "title": "Architecting mechanosensitive nanofluidic transport in graphite nanoslits",
+    "link": "https://www.science.org/doi/abs/10.1126/sciadv.aed4451?af=R",
+    "authors": [
+      "Mathieu Lizée, Zhijia Zhang, Baptiste Coquinot, Qian Yang, Lydéric Bocquet"
+    ],
+    "summary": "Science Advances, Volume 12, Issue 31, July 2026. <br />",
+    "source": "AAAS: Science Advances: Table of Contents",
+    "date": "2026-07-29",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/sciadv.aed8038?af=R",
+    "title": "PBRM1-dependent PBAF targeting is required for EMT and metastasis in breast cancer",
+    "link": "https://www.science.org/doi/abs/10.1126/sciadv.aed8038?af=R",
+    "authors": [
+      "Alisha Dhiman, Mitchell G. Ayers, Guanming Jiao, Jamie L. McCuiston, Aparna B. Shinde, Saeed Salehin Akhand, Juan Jauregui-Lozano, Marco Hadisurya, Elizabeth G. Porter, W. Andy Tao, Vikki M. Weake, Yucheng Zhang, Sagar M. Utturkar, Matthew R. Marunde, Michael K. Wendt, Emily C. Dykhuizen"
+    ],
+    "summary": "Science Advances, Volume 12, Issue 31, July 2026. <br />",
+    "source": "AAAS: Science Advances: Table of Contents",
+    "date": "2026-07-29",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/sciadv.aed9096?af=R",
+    "title": "Ion-electron coupling–enabled mechanical ion transistor with ultralow subthreshold swing",
+    "link": "https://www.science.org/doi/abs/10.1126/sciadv.aed9096?af=R",
+    "authors": [
+      "Guoyuan Zhang, Linxin Zhai, Xin Peng, Song Luo, Lingfeng Yu, Qiang Chen, Bin Tu, Zhiping Xu, Xiang Zhang, Yahui Xue"
+    ],
+    "summary": "Science Advances, Volume 12, Issue 31, July 2026. <br />",
+    "source": "AAAS: Science Advances: Table of Contents",
+    "date": "2026-07-29",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/sciadv.aed9386?af=R",
+    "title": "Shared striatal neurons exhibit context-specific dynamics for internally and externally driven actions",
+    "link": "https://www.science.org/doi/abs/10.1126/sciadv.aed9386?af=R",
+    "authors": [
+      "Jan L. Klee, Sulekh Fernando-Peiris, Sahil Suresh, Ines Rodrigues-Vaz, Darcy S. Peterka, Rui M. Costa, Vivek R. Athalye, Tanya Sippy"
+    ],
+    "summary": "Science Advances, Volume 12, Issue 31, July 2026. <br />",
+    "source": "AAAS: Science Advances: Table of Contents",
+    "date": "2026-07-29",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/sciadv.aee3217?af=R",
+    "title": "Contrasting slab decarbonation patterns control deep carbon cycling efficiency in hot vs. cold subduction zones",
+    "link": "https://www.science.org/doi/abs/10.1126/sciadv.aee3217?af=R",
+    "authors": [
+      "Hengrui Zhang, Yang Wang, Zhong-Hai Li, Taras V. Gerya, Hong-Yan Li, Shui-Jiong Wang, Xin Zhou, Yangfan Deng, Yu Wang, Jason P. Morgan"
+    ],
+    "summary": "Science Advances, Volume 12, Issue 31, July 2026. <br />",
+    "source": "AAAS: Science Advances: Table of Contents",
+    "date": "2026-07-29",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/sciadv.aee8648?af=R",
+    "title": "IoT-enabled wireless neural implant for chronic, programmable neuropharmacology and optogenetics",
+    "link": "https://www.science.org/doi/abs/10.1126/sciadv.aee8648?af=R",
+    "authors": [
+      "Eun Young Jeong, Jong Woo Park, Sungwoo Cho, Donggi Han, Choong Yeon Kim, Sung Woo Kim, Wonhee Lee, Wha Young Kim, Jeong-Hoon Kim, Jae-Woong Jeong"
+    ],
+    "summary": "Science Advances, Volume 12, Issue 31, July 2026. <br />",
+    "source": "AAAS: Science Advances: Table of Contents",
+    "date": "2026-07-29",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/sciadv.aef3518?af=R",
+    "title": "A comprehensive map of missense trafficking variants in rhodopsin and their response to pharmacologic correction",
+    "link": "https://www.science.org/doi/abs/10.1126/sciadv.aef3518?af=R",
+    "authors": [
+      "Kannan V. Manian, Connor H. Ludwig, Yan Zhao, Nathan S. Abell, Robert Warneford-Thomson, Henry Chan, Zachary O. Casey, Xiaoping Yang, David E. Root, Matthew L. Albert, Jason Comander"
+    ],
+    "summary": "Science Advances, Volume 12, Issue 31, July 2026. <br />",
+    "source": "AAAS: Science Advances: Table of Contents",
+    "date": "2026-07-29",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/sciadv.aef5199?af=R",
+    "title": "Twist-encoded magnetic plasmon interferometry for label-free, orientation-resolved single-molecule imaging",
+    "link": "https://www.science.org/doi/abs/10.1126/sciadv.aef5199?af=R",
+    "authors": [
+      "Yi Sun, Wen-Li Lv, Qi-Bing Xiao, Gang Wu, Xian-Wei Liu"
+    ],
+    "summary": "Science Advances, Volume 12, Issue 31, July 2026. <br />",
+    "source": "AAAS: Science Advances: Table of Contents",
+    "date": "2026-07-29",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/sciadv.aef6600?af=R",
+    "title": "Radiation-resilient monolithic wide-bandgap perovskite/p-type heterojunction silicon tandem solar cells for space photovoltaics",
+    "link": "https://www.science.org/doi/abs/10.1126/sciadv.aef6600?af=R",
+    "authors": [
+      "Yuan Xiong, Cheng Zhu, Junfeng Wei, Zipeng Xu, Hua Zhong, Fanying Meng, Hongqiang Guo, Xunan Shen, Hao Tian, Zhongyu Li, Jie Sheng, Chuanxiao Xiao, Zhengxin Liu, Long Ye, Chao Zhang, Fei Zhang"
+    ],
+    "summary": "Science Advances, Volume 12, Issue 31, July 2026. <br />",
+    "source": "AAAS: Science Advances: Table of Contents",
+    "date": "2026-07-29",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/sciadv.aef6777?af=R",
+    "title": "Astrocyte redox imbalance underlies prelimbic neuronal hypoactivity and maladaptive affective behaviors in epilepsy",
+    "link": "https://www.science.org/doi/abs/10.1126/sciadv.aef6777?af=R",
+    "authors": [
+      "Travis E. Faust, Atsushi Saito, Shoichi Ishikawa, Kun Yang, Wendy Xin, Ho Namkung, Amit Agarwal, Adriana Ramos, Brian J. Lee, Lindsay Hayes, Rupali Srivastava, Sunday Adelakun, Sneha Saha, Trexy Palen, Tyler Cash-Padgett, Daniel J. Wood, Elisa Carloni, Ryosuke Yusa, Hanna Jaaro-Peled, Jed W. Fahey, Dwight E. Bergles, Koko Ishizuka, Akira Sawa"
+    ],
+    "summary": "Science Advances, Volume 12, Issue 31, July 2026. <br />",
+    "source": "AAAS: Science Advances: Table of Contents",
+    "date": "2026-07-29",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/sciadv.aef9530?af=R",
+    "title": "Integrating structurally defined DNA-carbon nanotube sensors with machine learning for cancer detection",
+    "link": "https://www.science.org/doi/abs/10.1126/sciadv.aef9530?af=R",
+    "authors": [
+      "Piaoyi Chen, Xin Zheng, Yinong Li, Jian Li, Xuan Zhou, Yawei Wen, Jialong Liu, Pengbo Wang, Xiaohui Li, Runzhe Chen, Zhiwei Lin"
+    ],
+    "summary": "Science Advances, Volume 12, Issue 31, July 2026. <br />",
+    "source": "AAAS: Science Advances: Table of Contents",
+    "date": "2026-07-29",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/sciadv.aeg1124?af=R",
+    "title": "COQ8 chaperones coenzyme Q lipid intermediates through ATP-driven structural gating",
+    "link": "https://www.science.org/doi/abs/10.1126/sciadv.aeg1124?af=R",
+    "authors": [
+      "Andrea Gottinger, Marco Malatesta, Callum R. Nicoll, Georg Ansari, Mathieu Quinodoz, Karolina Kaminska, Rachael W.C. Tang, Tien-En Tan, Beau J. Fenner, Pilar Barberán-Martínez, Gema García-García, José M. Millán, Maximilian Pfau, Natalie E. Burbach, Domiziana Cecchini, Carlo Rivolta, Andrea Mattevi"
+    ],
+    "summary": "Science Advances, Volume 12, Issue 31, July 2026. <br />",
+    "source": "AAAS: Science Advances: Table of Contents",
+    "date": "2026-07-29",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/sciadv.aeg3548?af=R",
+    "title": "Determining the molecular and physiological actions of subtype-selective nanobodies of GABAA receptors",
+    "link": "https://www.science.org/doi/abs/10.1126/sciadv.aeg3548?af=R",
+    "authors": [
+      "Jose Enrique Gonzalez-Prada, Sulin Liu, Chuhan Shang, Chloe S. Chernoff, Damian P. Bright, Martin Mortensen, Charlotte F. Jones, Stephanie Nestorow, Vikram Babu Kasaragod, Wan-Na Chen, Saad Hannan, Jianchong Zhou, Alexander W. E. Dunn, Asma Soltani, Richard J. Turner, Natasha M. Duggan, Yin Yuan, Ayla A. Wahid, Steven W. Hardwick, Suzanne Scott, Dimitri Y. Chirgadze, Els Pardon, Jan Steyaert, A. Radu Aricescu, Ole Paulsen, David Belin, Trevor G. Smart, Paul S. Miller"
+    ],
+    "summary": "Science Advances, Volume 12, Issue 31, July 2026. <br />",
+    "source": "AAAS: Science Advances: Table of Contents",
+    "date": "2026-07-29",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/sciadv.aeg4524?af=R",
+    "title": "Musculoskeletal actuators with programmable morphology and tunable dynamics",
+    "link": "https://www.science.org/doi/abs/10.1126/sciadv.aeg4524?af=R",
+    "authors": [
+      "Shiwei Xu, Chuanqi Zang, Zhenjia Tang, Ruoxi Yang, Liya Liu, Jinzhe Peng, Wenbo Pang, Zehao Gao, Xiaonan Hu, Wei Shen, Zhi Liu, Mingjing Qi, Renheng Bo, Yihui Zhang"
+    ],
+    "summary": "Science Advances, Volume 12, Issue 31, July 2026. <br />",
+    "source": "AAAS: Science Advances: Table of Contents",
+    "date": "2026-07-29",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/sciadv.aeg8299?af=R",
+    "title": "Discovery of a multicomponent alloy forged by the Hiroshima atomic blast",
+    "link": "https://www.science.org/doi/abs/10.1126/sciadv.aeg8299?af=R",
+    "authors": [
+      "Luca Bindi, Hans-Rudolf Wenk, Mario Wannier, Teresa Salvatici"
+    ],
+    "summary": "Science Advances, Volume 12, Issue 31, July 2026. <br />",
+    "source": "AAAS: Science Advances: Table of Contents",
+    "date": "2026-07-29",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/sciadv.aeh2948?af=R",
+    "title": "Diffraction-quality, ultraflexible protein single crystals engineered with DNA",
+    "link": "https://www.science.org/doi/abs/10.1126/sciadv.aeh2948?af=R",
+    "authors": [
+      "Zhenyu Han and Chad A. Mirkin"
+    ],
+    "summary": "Science Advances, Volume 12, Issue 31, July 2026. <br />",
+    "source": "AAAS: Science Advances: Table of Contents",
+    "date": "2026-07-29",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/sciadv.aeh8480?af=R",
+    "title": "Mechanism visualization of nanocluster catalysis via in situ mass spectrometry",
+    "link": "https://www.science.org/doi/abs/10.1126/sciadv.aeh8480?af=R",
+    "authors": [
+      "Lili Zhang, Guojie Zhou, Detong Kong, Shanshan Lin, Dingding Lv, Fan Tian, Shunmin Ding, Xiaoyan Sun"
+    ],
+    "summary": "Science Advances, Volume 12, Issue 31, July 2026. <br />",
+    "source": "AAAS: Science Advances: Table of Contents",
+    "date": "2026-07-29",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/sciadv.aeh9771?af=R",
+    "title": "Lipidomic profiling reveals age-dependent changes in plasma membrane lipids that affect neural stem cell aging",
+    "link": "https://www.science.org/doi/abs/10.1126/sciadv.aeh9771?af=R",
+    "authors": [
+      "Xiaoai Zhao, Ryan M. Feitzinger, Jeeyoon Na, Xin Yan, Andrew Erickson, Kévin Contrepois, Olivia Y. Zhou, Francesco Vallania, Mathew Ellenberger, Chloe M. Kashiwagi, Stephanie D. Gagnon, Cynthia J. Siebrand, Matias Cabruja, Gavin M. Traber, Andrew McKay, Daniel Hornburg, Purvesh Khatri, Michael P. Snyder, Richard N. Zare, Anne Brunet"
+    ],
+    "summary": "Science Advances, Volume 12, Issue 31, July 2026. <br />",
+    "source": "AAAS: Science Advances: Table of Contents",
+    "date": "2026-07-29",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/sciadv.aei2945?af=R",
+    "title": "Noncoplanar multidentate contacts reinforce buried interface for perovskite/silicon tandem solar cells",
+    "link": "https://www.science.org/doi/abs/10.1126/sciadv.aei2945?af=R",
+    "authors": [
+      "Xinran Xu, Luokang Sun, Chuanlu Chen, Kun Chen, Ye Yuan, Zhe Li, Li Wang, Zijuan He, Yushuai Xu, Xingpei Ye, Zhou Liu, Yang Sun, Haipeng Yin, Zi Ouyang, Kuan Sun, Pengchen Zhu, Jia Zhu"
+    ],
+    "summary": "Science Advances, Volume 12, Issue 31, July 2026. <br />",
+    "source": "AAAS: Science Advances: Table of Contents",
+    "date": "2026-07-29",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/sciadv.adw5268?af=R",
+    "title": "Declining coccolithophore blooms in the North Atlantic and Western Barents Sea",
+    "link": "https://www.science.org/doi/abs/10.1126/sciadv.adw5268?af=R",
+    "authors": [
+      "Guobin Yu, Lian Feng, Yanhui Dai, Donald M. Anderson, Chuanmin Hu, Yun Li, Griet Neukermans, Xin Liu, Yan Zheng, Chunmiao Zheng"
+    ],
+    "summary": "Science Advances, Volume 12, Issue 31, July 2026. <br />",
+    "source": "AAAS: Science Advances: Table of Contents",
+    "date": "2026-07-29",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/sciadv.adw8744?af=R",
+    "title": "Dynamic stiffness enables stage-specific properties mediating functional endothelialization on vascular implants",
+    "link": "https://www.science.org/doi/abs/10.1126/sciadv.adw8744?af=R",
+    "authors": [
+      "Li Yang, Haoshuang Wu, Min He, Kaiyang Huang, Tiantian Zheng, Xia Yang, Rifang Luo, Yunbing Wang, Xingdong Zhang"
+    ],
+    "summary": "Science Advances, Volume 12, Issue 31, July 2026. <br />",
+    "source": "AAAS: Science Advances: Table of Contents",
+    "date": "2026-07-29",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/sciadv.aec2917?af=R",
+    "title": "Observation of mirror-odd and mirror-even spin texture in ultrathin epitaxially strained RuO2 films",
+    "link": "https://www.science.org/doi/abs/10.1126/sciadv.aec2917?af=R",
+    "authors": [
+      "Yichen Zhang, Seung Gyo Jeong, Luca Buiarelli, Seungjun Lee, Yucheng Guo, Jiaqin Wen, Hang Li, Sreejith Nair, In Hyeok Choi, Zheng Ren, Ziqin Yue, Jounghoon Hyun, Tieqiong Zhang, Alexei Fedorov, Sung-Kwan Mo, Hojoon Lim, Adrian Hunt, Iradwikanari Waluyo, Junichiro Kono, Ján Minár, Jong Seok Lee, Tony Low, Turan Birol, Rafael M. Fernandes, Milan Radovic, Bharat Jalan, Ming Yi"
+    ],
+    "summary": "Science Advances, Volume 12, Issue 31, July 2026. <br />",
+    "source": "AAAS: Science Advances: Table of Contents",
+    "date": "2026-07-29",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/sciadv.aed8818?af=R",
+    "title": "Reconstitution of actomyosin networks in cell-sized liposomes dissects distinct mechanisms of membrane blebbing and symmetry breaking",
+    "link": "https://www.science.org/doi/abs/10.1126/sciadv.aed8818?af=R",
+    "authors": [
+      "Makito Miyazaki, Fahmida Sultana Laboni, Taeyoon Kim"
+    ],
+    "summary": "Science Advances, Volume 12, Issue 31, July 2026. <br />",
+    "source": "AAAS: Science Advances: Table of Contents",
+    "date": "2026-07-29",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/sciadv.aed9226?af=R",
+    "title": "Vulnerability to high temperature shapes global warming impacts on rice yield",
+    "link": "https://www.science.org/doi/abs/10.1126/sciadv.aed9226?af=R",
+    "authors": [
+      "Yiwei Jian, Xuhui Wang, Jonas Jägermeyr, Philippe Ciais, Christoph Müller, Jakob Zscheischler, Tao Li, Kun Cheng, Pengfu Hou, Jianliang Huang, Shan Huang, Yu Jiang, Bin Wang, Zhenwei Song, Zuolin Zhang, Peng Zhu, Feng Zhou"
+    ],
+    "summary": "Science Advances, Volume 12, Issue 31, July 2026. <br />",
+    "source": "AAAS: Science Advances: Table of Contents",
+    "date": "2026-07-29",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/sciadv.aee8014?af=R",
+    "title": "Optical maneuvering of dandelion-inspired fliers with vortex-enabled stability",
+    "link": "https://www.science.org/doi/abs/10.1126/sciadv.aee8014?af=R",
+    "authors": [
+      "Jianfeng Yang, Soumarup Bhattacharyya, Aditya Potnis, Ahmet Gungor, Hao Zeng, Ignazio Maria Viola"
+    ],
+    "summary": "Science Advances, Volume 12, Issue 31, July 2026. <br />",
+    "source": "AAAS: Science Advances: Table of Contents",
+    "date": "2026-07-29",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/sciadv.aeb6714?af=R",
+    "title": "Immunoglobulin heavy chain locus duplication in bats",
+    "link": "https://www.science.org/doi/abs/10.1126/sciadv.aeb6714?af=R",
+    "authors": [
+      "Taylor Pursell, Ashley Reers, Artem Mikelov, Prasanti Kotagiri, Brandon Lam, James A. Ellison, Scott D. Boyd, Hannah K. Frank"
+    ],
+    "summary": "Science Advances, Volume 12, Issue 31, July 2026. <br />",
+    "source": "AAAS: Science Advances: Table of Contents",
+    "date": "2026-07-29",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/sciadv.aee9782?af=R",
+    "title": "Regulating the microporous structure by cavity-shaped molecular sieving channels",
+    "link": "https://www.science.org/doi/abs/10.1126/sciadv.aee9782?af=R",
+    "authors": [
+      "Wen He, Xuan Ding, Ali A. AL-Thuraya, Daijun Meng, Bizi Yu, Wuyueming Zhou, Yumo Fan, Yuting Zhang, Hongjun Zhang, Jiangtao Liu"
+    ],
+    "summary": "Science Advances, Volume 12, Issue 31, July 2026. <br />",
+    "source": "AAAS: Science Advances: Table of Contents",
+    "date": "2026-07-29",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/sciadv.aeg5464?af=R",
+    "title": "Direct single-molecule visualization of Hsp90-mediated relief of an Hsp70-folding block",
+    "link": "https://www.science.org/doi/abs/10.1126/sciadv.aeg5464?af=R",
+    "authors": [
+      "Nicholas R. Marzano, Bailey Skewes, Shannon McMahon, Lauren Rice, Dezerae Cox, Antoine M. van Oijen, Heath Ecroyd"
+    ],
+    "summary": "Science Advances, Volume 12, Issue 31, July 2026. <br />",
+    "source": "AAAS: Science Advances: Table of Contents",
+    "date": "2026-07-29",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/sciadv.aec8123?af=R",
+    "title": "Glial heterogeneity shapes region-specific angiogenesis and neurovascular integrity in the CNS",
+    "link": "https://www.science.org/doi/abs/10.1126/sciadv.aec8123?af=R",
+    "authors": [
+      "Minghe Shen, Zhidan Li, Guojiao Huang, Yue Zhang, Siyue Wen, Fengru Guo, Yingkun Guo, Liguo Zhang, Xuelian He"
+    ],
+    "summary": "Science Advances, Volume 12, Issue 31, July 2026. <br />",
+    "source": "AAAS: Science Advances: Table of Contents",
+    "date": "2026-07-29",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/sciadv.aed2732?af=R",
+    "title": "Faster-and-tighter nitrogen cycle supports mature forest productivity under elevated CO2",
+    "link": "https://www.science.org/doi/abs/10.1126/sciadv.aed2732?af=R",
+    "authors": [
+      "Manon Rumeau, Carolina Mayoral, Fotis Sgouridis, Michaela K. Reay, Yolima Carrillo, Richard J. Norby, Liz Hamilton, Iain P. Hartley, Gianni Micucci, Emma Sayer, A. Rob Mackenzie, Sami Ullah"
+    ],
+    "summary": "Science Advances, Volume 12, Issue 31, July 2026. <br />",
+    "source": "AAAS: Science Advances: Table of Contents",
+    "date": "2026-07-29",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/sciadv.aea1114?af=R",
+    "title": "Parallel nonlinear neuromorphic computing with temporal encoding",
+    "link": "https://www.science.org/doi/abs/10.1126/sciadv.aea1114?af=R",
+    "authors": [
+      "Guangfeng You, Chao Qian, Ouling Wu, Hongsheng Chen"
+    ],
+    "summary": "Science Advances, Volume 12, Issue 31, July 2026. <br />",
+    "source": "AAAS: Science Advances: Table of Contents",
+    "date": "2026-07-29",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/sciadv.ady2311?af=R",
+    "title": "Stardust as nucleation seeds for the earliest solids in the Solar System",
+    "link": "https://www.science.org/doi/abs/10.1126/sciadv.ady2311?af=R",
+    "authors": [
+      "Ren T. C. Marquez, Bruce L. A. Charlier, François L. H. Tissot"
+    ],
+    "summary": "Science Advances, Volume 12, Issue 31, July 2026. <br />",
+    "source": "AAAS: Science Advances: Table of Contents",
+    "date": "2026-07-29",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/sciadv.aee9024?af=R",
+    "title": "Genome-wide analyses of an avian herpesvirus identify 10 loci associated with tumorigenicity and vaccine escape",
+    "link": "https://www.science.org/doi/abs/10.1126/sciadv.aee9024?af=R",
+    "authors": [
+      "Alejandro Ortigas-Vasquez, Utsav Pandey, Andrew S. Bell, Daniel W. Renner, Matthew J. Jones, Hans H. Cheng, John R. Dunn, Andrew F. Read, Maciej F. Boni, David A. Kennedy, Moriah L. Szpara"
+    ],
+    "summary": "Science Advances, Volume 12, Issue 31, July 2026. <br />",
+    "source": "AAAS: Science Advances: Table of Contents",
+    "date": "2026-07-29",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-76066-6",
+    "title": "Metal-mediated weak adsorption enables the selective electrosynthesis of <i>N</i>-phenylhydroxylamine from nitrobenzene hydrogenation in water",
+    "link": "https://www.nature.com/articles/s41467-026-76066-6",
+    "authors": [
+      "Zhaole Lu",
+      "Rong Yang",
+      "Renxiang Cheng",
+      "Lingjun Kong",
+      "Bin Zhang"
+    ],
+    "summary": "Nature Communications, Published online: 30 July 2026; <a href=\"https://www.nature.com/articles/s41467-026-76066-6\">doi:10.1038/s41467-026-76066-6</a>The sustainable synthesis of N-phenylhydroxylamine (Ph-NHOH), a high-value intermediate, without over-hydrogenation side reactions is highly desirable. Here, the authors report the electrosynthesis of Ph-NHOH from nitrobenzene on metallic silver catalysts in aqueous media under ambient conditions.",
+    "source": "Nature Communications",
+    "date": "2026-07-30",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-76049-7",
+    "title": "Greenhouse warming exacerbates El Niño-induced Indian monsoon droughts",
+    "link": "https://www.nature.com/articles/s41467-026-76049-7",
+    "authors": [
+      "Yutong Zhao",
+      "Tao Wang",
+      "Chaoyi Xu",
+      "Xichen Li",
+      "Shilong Piao",
+      "Tandong Yao"
+    ],
+    "summary": "Nature Communications, Published online: 30 July 2026; <a href=\"https://www.nature.com/articles/s41467-026-76049-7\">doi:10.1038/s41467-026-76049-7</a>This study shows that greenhouse warming has strengthened the influence of El Niño on the Indian summer monsoon in the historical record and is projected to further intensify it, increasing risks of rainfall deficits and food insecurity in India.",
+    "source": "Nature Communications",
+    "date": "2026-07-30",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-75674-6",
+    "title": "Effect of a complementary feeding intervention based on iron- and zinc-biofortified pearl millet on the gut microbiota in 12–18-month-old children: a randomized trial",
+    "link": "https://www.nature.com/articles/s41467-026-75674-6",
+    "authors": [
+      "Samantha L. Huey",
+      "Nathaniel L. Cole",
+      "Ioanna Pagani",
+      "Antonio González",
+      "Julia L. Finkelstein",
+      "Jere D. Haas",
+      "Shobha A. Udipi",
+      "Padmini Ghugre",
+      "Ramesh D. Potdar",
+      "Rob Knight",
+      "Saurabh Mehta"
+    ],
+    "summary": "Nature Communications, Published online: 30 July 2026; <a href=\"https://www.nature.com/articles/s41467-026-75674-6\">doi:10.1038/s41467-026-75674-6</a>In this randomized trial, the authors report that biofortified pearl millet is a potentially sustainable, climate-smart, and microbiome-friendly solution to improve micronutrient status in 12−18 month old children.",
+    "source": "Nature Communications",
+    "date": "2026-07-30",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-76012-6",
+    "title": "Ultrafast bimolecular reaction catalysis via engineered nuclear quantum effects in helium nanodroplets",
+    "link": "https://www.nature.com/articles/s41467-026-76012-6",
+    "authors": [
+      "Jiaxuan Chen",
+      "Leshi Zhao",
+      "Hao Huang",
+      "Zhengjun Ye",
+      "Yue Hu",
+      "Menghang Shi",
+      "Xinglei Long",
+      "Cristina Sanz-Sanz",
+      "Octavio Roncero",
+      "Ling Liu",
+      "Xinzheng Li",
+      "Hongcheng Ni",
+      "Zheng Li",
+      "Wenbin Zhang",
+      "Jian Wu"
+    ],
+    "summary": "Nature Communications, Published online: 30 July 2026; <a href=\"https://www.nature.com/articles/s41467-026-76012-6\">doi:10.1038/s41467-026-76012-6</a>Despite recent developments in ultrafast imaging, resolving how nuclear quantum effects (NQEs) influence chemical bond formation is still a major challenge. Here, the authors use femtosecond pump-probe spectroscopy to resolve NQEs in a light-induced bimolecular reaction within He nanodroplets, demonstrating environmental control over catalytic effects.",
+    "source": "Nature Communications",
+    "date": "2026-07-30",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-75700-7",
+    "title": "Gene regulatory innovations from transposable elements in primate cerebellum development",
+    "link": "https://www.nature.com/articles/s41467-026-75700-7",
+    "authors": [
+      "Tetsuya Yamada",
+      "Mari Sepp",
+      "Ioannis Sarropoulos",
+      "Henrik Kaessmann"
+    ],
+    "summary": "Nature Communications, Published online: 30 July 2026; <a href=\"https://www.nature.com/articles/s41467-026-75700-7\">doi:10.1038/s41467-026-75700-7</a>The roles of transposable elements in primate brain development remain underexplored. Here, the authors identify transposable elements with ancestral regulatory potential that have been co-opted as cis-regulatory elements in primates.",
+    "source": "Nature Communications",
+    "date": "2026-07-30",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-76042-0",
+    "title": "Wave morphing towards the flat-top envelope in photonics systems driven by artificial gauge fields",
+    "link": "https://www.nature.com/articles/s41467-026-76042-0",
+    "authors": [
+      "Peishen Li",
+      "Xiaoyu Zhang",
+      "Feifan Wang",
+      "Ye Chen",
+      "Xuefan Yin",
+      "Chao Peng"
+    ],
+    "summary": "Nature Communications, Published online: 29 July 2026; <a href=\"https://www.nature.com/articles/s41467-026-76042-0\">doi:10.1038/s41467-026-76042-0</a>Whether a confined wave system can support a uniform, nonzero eigenstate has long been a counterintuitive question. Here, authors answer it by using artificial gauge fields from boundary phases to morph conventional modes into a flat-top state, and demonstrate the morphing via single-mode lasing in photonic crystals.",
+    "source": "Nature Communications",
+    "date": "2026-07-29",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-76030-4",
+    "title": "Reservation policies and equity in national park access",
+    "link": "https://www.nature.com/articles/s41467-026-76030-4",
+    "authors": [
+      "Jonathan E. Hughes"
+    ],
+    "summary": "Nature Communications, Published online: 29 July 2026; <a href=\"https://www.nature.com/articles/s41467-026-76030-4\">doi:10.1038/s41467-026-76030-4</a>Reservation systems help manage crowding in national parks but can affect who gains access. Evidence from seven parks shows that longer booking windows and intense permit competition favor visitors from higher-income areas, raising equity concerns.",
+    "source": "Nature Communications",
+    "date": "2026-07-29",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-75648-8",
+    "title": "The dynamic response of Pine Island Glacier to two decades of intermittent ice shelf regrounding",
+    "link": "https://www.nature.com/articles/s41467-026-75648-8",
+    "authors": [
+      "Trystan Surawy-Stepney",
+      "Benjamin J. Wallis",
+      "Anna E. Hogg",
+      "Ian Joughin",
+      "Stephen L. Cornford",
+      "Pierre Dutrieux"
+    ],
+    "summary": "Nature Communications, Published online: 29 July 2026; <a href=\"https://www.nature.com/articles/s41467-026-75648-8\">doi:10.1038/s41467-026-75648-8</a>Through satellite observations and numerical modelling, this study reveals intermittent regrounding beneath Pine Island Ice Shelf and shows it added little resistance to flow, but may have helped trigger rifting responsible for causing acceleration.",
+    "source": "Nature Communications",
+    "date": "2026-07-29",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-026-03877-2",
+    "title": "Shrub-mediated vertical coupling regulates Holocene ecosystem variability and transition dynamics",
+    "link": "https://www.nature.com/articles/s43247-026-03877-2",
+    "authors": [
+      "Haoyan Wang",
+      "Yan Liu",
+      "Li Xiao",
+      "Yili Jin",
+      "Kai Li",
+      "Mengna Liao",
+      "Ning Zhao",
+      "Shihao Liu",
+      "Qianli Sun",
+      "Jing Chen",
+      "Maotian Li"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 29 July 2026; <a href=\"https://www.nature.com/articles/s43247-026-03877-2\">doi:10.1038/s43247-026-03877-2</a>Shrubs stabilize long‑term ecosystem dynamics by buffering variability across vegetation layers but shift to drivers of reorganization under increasing fire, climate, and human pressures, based on Holocene pollen, charcoal, and paleoenvironmental analyses from the Eastern China Monsoon Region.",
+    "source": "Communications Earth & Environment",
+    "date": "2026-07-29",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-026-03871-8",
+    "title": "A dual life cycle framework for proactive emerging pollutant management",
+    "link": "https://www.nature.com/articles/s43247-026-03871-8",
+    "authors": [
+      "Xue Zhao",
+      "Fujie Zhu",
+      "Lu Jiang",
+      "Zhigang Li",
+      "Fengjie Chen",
+      "Hong Gao",
+      "Jitao Lv",
+      "Yawei Wang",
+      "Guibin Jiang"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 29 July 2026; <a href=\"https://www.nature.com/articles/s43247-026-03871-8\">doi:10.1038/s43247-026-03871-8</a>Risk declined from widespread concern to control with peak around 2010 driven by regulation and treatment expansion, according to a dual life cycle framework integrating material flows and market evolution applied to triclosan in China from 1970 to 2060",
+    "source": "Communications Earth & Environment",
+    "date": "2026-07-29",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-026-03834-z",
+    "title": "Flash droughts amplify maize yield losses through intensified atmospheric aridity",
+    "link": "https://www.nature.com/articles/s43247-026-03834-z",
+    "authors": [
+      "Cancan Qiao",
+      "Shuo Wang",
+      "Peng Zhu",
+      "Jason A. Otkin",
+      "Zong-Liang Yang",
+      "Amir AghaKouchak"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 29 July 2026; <a href=\"https://www.nature.com/articles/s43247-026-03834-z\">doi:10.1038/s43247-026-03834-z</a>Flash droughts cause greater maize yield losses than slow-onset droughts across the United States, mainly through intensified atmospheric aridity during critical growth stages, based on long-term yield records, phenological observations, and reanalysis data.",
+    "source": "Communications Earth & Environment",
+    "date": "2026-07-29",
+    "sent": true
+  },
+  {
+    "id": "https://www.pnas.org/doi/abs/10.1073/pnas.2615368123?af=R",
+    "title": "Sediment accumulation rate predicts the temporal resolution of marine fossil assemblages",
+    "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2615368123?af=R",
+    "authors": [
+      "Michał KowalewskiAdam TomašovýchRafał NawrotDaniele ScarponiMartin ZuschinPaolo G. AlbanoQuan HuaDarrell S. KaufmanSusan M. KidwellMatias RitterMarcello G. SimõesLuis TorresBettina BachmannMichaela BerensmeierTroy A. DexterAlexandra HaselmairIvo GallmetzerClaudio PellegriniLukas SchweiglJan StegerMatthew A. Kosnikahttps://ror.org/02y3ad647Florida Museum of Natural History, University of Florida, Gainesville, FL 32611bhttps://ror.org/03h7qq074Earth Science Institute, Slovak Academy of Sciences, Bratislava 84005, Slovakiachttps://ror.org/03prydq77Department of Palaeontology, University of Vienna, Vienna 1090, Austriadhttps://ror.org/01111rn36Department of Biological, Geological and Environmental Sciences, University of Bologna, Bologna 40126, Italyehttps://ror.org/03v5jj203Department of Marine Animal Conservation and Public Engagement, Stazione Zoologica Anton Dohrn, Naples 80121, Italyfhttps://ror.org/05j7fep28Australian Nuclear Science and Technology Organisation, Lucas Heights, NSW 2234, Australiaghttps://ror.org/00rqy9422School of Social Science, University of Queensland, St. Lucia, QLD 4072, Australiahhttps://ror.org/0272j5188School of Earth and Sustainability, Northern Arizona University, Flagstaff, AZ 86011ihttps://ror.org/024mw5h28Department of the Geophysical Sciences, University of Chicago, Chicago, IL 60637jhttps://ror.org/041yk2d64Centro de Estudos Costeiros, Limnológicos e Marinhos, Campus Litoral Norte, Universidade Federal do Rio Grande do Sul, Imbé 95625, Brazilkhttps://ror.org/00987cb86Instituto de Biociências, Universidade Estadual Paulista, Botucatu 01049, Brazillhttps://ror.org/02y3ad647Department of Geological Sciences, University of Florida, Gainesville, FL 32611mThe Gerace Research Centre, University of Bahamas, San Salvador 4G9P, The Bahamasnhttps://ror.org/01tv5y993Third Zoological Department, Natural History Museum Vienna, Vienna 1010, AustriaoInstitute of Marine Science, National Research Council, Bologna 40129, Italyphttps://ror.org/00xmqmx64Senckenberg Research Institute and Natural History Museum Frankfurt, Senckenberg–Leibniz Institution for Biodiversity and Earth System Research, Frankfurt am Main 60325, Germanyqhttps://ror.org/01sf06y89School of Natural Sciences, Macquarie University, Sydney, NSW 2109, Australia"
+    ],
+    "summary": "Proceedings of the National Academy of Sciences, Volume 123, Issue 31, August 2026. <br />SignificanceEven within a single sediment layer, fossil assemblages contain the remains of organisms that lived at different times, like cemeteries where humans who lived centuries apart are buried together. This temporal mixing, or time averaging (TA), ...",
+    "source": "Proceedings of the National Academy of Sciences: Earth, Atmospheric, and Planetary Sciences",
+    "date": "2026-07-29",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012821X26004498",
+    "title": "Sunspot cycles drove decadal fluctuations in shallow water oxygenation in the Mesoproterozoic",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012821X26004498?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: 15 October 2026<b>Source:</b> Earth and Planetary Science Letters, Volume 692Author(s): Xiyue Liang, Dongjie Tang, Longfei Sun, Xiaoying Shi, Mingsong Li, Kunfeng Qiu, Baozeng Xie, Xinqiang Wang, Simon W. Poulton",
+    "source": "ScienceDirect Publication: Earth and Planetary Science Letters",
+    "date": "2026-07-30",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012821X26004036",
+    "title": "Dissociation of methane and formation of carbon clusters in a reducing pyrolitic magma ocean",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012821X26004036?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: 15 October 2026<b>Source:</b> Earth and Planetary Science Letters, Volume 692Author(s): Anne H. Davis, Natalia V. Solomatova, Razvan Caracas",
+    "source": "ScienceDirect Publication: Earth and Planetary Science Letters",
+    "date": "2026-07-30",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012821X26004309",
+    "title": "Quantitative estimation of leucosome volume in migmatized eclogite and implications for exhumation dynamics of mafic crust",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012821X26004309?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: 15 October 2026<b>Source:</b> Earth and Planetary Science Letters, Volume 692Author(s): Chao Yan, Lu Wang, Zhe Chen, Michael Brown, Xiandeng Yang, Mengwei Zhang",
+    "source": "ScienceDirect Publication: Earth and Planetary Science Letters",
+    "date": "2026-07-30",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL122472",
+    "title": "Electrical Conductivity of Hydrous Ultramafic Melts With Implications for Origin of Low Velocity Layer Atop of the 410 km Seismic Discontinuity",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL122472?af=R",
+    "authors": [
+      "Takashi Yoshino, \nLongjian Xie"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 14, 28 July 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-07-28",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL119452",
+    "title": "Unifying the QBO, MJO Shallow‐to‐Deep Convection Transitions, and Mesoscale Convective Systems",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL119452?af=R",
+    "authors": [
+      "Kai Huang, \nChih‐Chieh‐Jack Chen, \nMitchell Moncrieff, \nJadwiga H. Richter"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 14, 28 July 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-07-28",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL122748",
+    "title": "The Complete Life Cycle of Dark Spot NDS‐2018 on Neptune",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL122748?af=R",
+    "authors": [
+      "Michael H. Wong, \nRaúl Morales‐Juberías, \nLawrence Sromovsky, \nPatrick Fry, \nAmy A. Simon, \nPatrick G. J. Irwin, \nAgustín Sánchez‐Lavega, \nRicardo Hueso, \nImke de Pater"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 14, 28 July 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-07-28",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL124613",
+    "title": "Tracking Spatiotemporal Mineral Dissolution Through Quantitative Nuclear Magnetic Resonance Signatures",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL124613?af=R",
+    "authors": [
+      "Bin Wang, \nJunwen Zhou, \nFlore Rembert, \nLuisa Heck, \nBate Bate, \nChi Zhang"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 14, 28 July 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-07-28",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026JB034478",
+    "title": "A Theory for Stress‐History Dependent Permeability Tensor of Crystalline Rocks With Isotropic Microfabric Under Pseudo‐Elastic State",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026JB034478?af=R",
+    "authors": [
+      "Masanobu Oda, \nTakato Takemura, \nKenichiro Suzuki"
+    ],
+    "summary": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 8, August 2026.",
+    "source": "Wiley: Journal of Geophysical Research: Solid Earth: Table of Contents",
+    "date": "2026-07-28",
+    "sent": true
+  },
+  {
+    "id": "10.1029/jgrb.70469",
+    "title": "Issue Information",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/jgrb.70469?af=R",
+    "authors": [
+      null
+    ],
+    "summary": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 8, August 2026.",
+    "source": "Wiley: Journal of Geophysical Research: Solid Earth: Table of Contents",
+    "date": "2026-07-28",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026JB033938",
+    "title": "Seafloor Displacements Across the Mid‐Ocean Ridge Eruption Cycle Modulated by Mush Zone Viscosity",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026JB033938?af=R",
+    "authors": [
+      "H. Boulze, \nJ.‐A. Olive"
+    ],
+    "summary": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 8, August 2026.",
+    "source": "Wiley: Journal of Geophysical Research: Solid Earth: Table of Contents",
+    "date": "2026-07-28",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026JB034134",
+    "title": "Seismic Constraints on Igneous Intrusions and Fluid/Gas Distribution in a Continental Back‐Arc System: Evidence From the Yaeyama Rift in the Southern Okinawa Trough",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026JB034134?af=R",
+    "authors": [
+      "Ryuta Arai, \nAyanori Misawa, \nMakoto Otsubo, \nMasataka Kinoshita, \nSaki Ishino, \nAkane Yamamoto"
+    ],
+    "summary": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 8, August 2026.",
+    "source": "Wiley: Journal of Geophysical Research: Solid Earth: Table of Contents",
+    "date": "2026-07-28",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0016703726004813",
+    "title": "<em>In situ</em> Raman spectroscopic observation of thiol transformation in hydrothermal fluids: implications for hydrocarbon decomposition and reservoir desulfurization",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0016703726004813?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 28 July 2026<b>Source:</b> Geochimica et Cosmochimica ActaAuthor(s): Qian Wan, Xiaolin Wang, Wenxuan Hu, Binbin Xi, Xuesong Lu, Ye Wan, Junjia Fan, Zhen Li, I-Ming Chou",
+    "source": "ScienceDirect Publication: Geochimica et Cosmochimica Acta",
+    "date": "2026-07-30",
+    "sent": true
+  },
+  {
+    "id": "https://pubs.geoscienceworld.org/gsa/geology/article/doi/10.1130/G54785.1/734196/Topographic-regime-controls-the-response-of",
+    "title": "Topographic regime controls the response of erosion to large earthquakes",
+    "link": "https://pubs.geoscienceworld.org/gsa/geology/article/doi/10.1130/G54785.1/734196/Topographic-regime-controls-the-response-of",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\">Physical erosion can impact the carbon cycle over a range of time scales. In mountains, widespread landslide-triggering events can remove significant quantities of soil from landscapes, yet isolating the spatial pattern and processes of erosion is difficult. Here we reconstruct the impacts of a great earthquake (M<sub>w</sub> &gt;8.0) on two lake sedimentary systems in New Zealand and use a combination of geochemical proxies to explore organic matter provenance and soil erosion. The two catchments differ notably in their geomorphic properties, with the median slope of the Lake Mapourika catchment of 47° (+11°/−18°) versus 39° (+9°/−13°) in the Lake Paringa catchment. Carbon and nitrogen isotopes, <span style=\"font-style: italic;\">n</span>-alkane abundance, and <span style=\"font-style: italic;\">n</span>-alkane hydrogen isotopes show that in the steeper Lake Mapourika catchment, landslides from the earthquake mobilized aged soil organic matter and rock-derived organic carbon by deep erosion. Rock organic carbon erosion increased from 15% (+14%/−10%) to 24% (+13%/−13%) in the Lake Mapourika catchment following the earthquake. By comparing the slopes, sediment connectivity, and stream power indices, we show that in the steeper Lake Mapourika catchment, erosion mobilized deeper soil and more bedrock than in Lake Paringa throughout the record, implying that bedrock landslides remained a key process both during and after the earthquake. Thus, we find that even along the same fault zone and under similar climatic, geological, and ecological conditions, topography strongly controls physical erosion as well as its response to widespread landsliding events.</span>",
+    "source": "Geology Advance Access",
+    "date": "2026-07-28",
+    "sent": true
+  },
+  {
+    "id": "https://pubs.geoscienceworld.org/gsa/gsabulletin/article/doi/10.1130/B38710.1/734200/Completeness-and-compensational-sedimentation-of",
+    "title": "Completeness and compensational sedimentation of ANDRILL AND-2A through the Miocene Climate Optimum",
+    "link": "https://pubs.geoscienceworld.org/gsa/gsabulletin/article/doi/10.1130/B38710.1/734200/Completeness-and-compensational-sedimentation-of",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\">The response of ice sheets to warming is a critical unknown in projections of ongoing climate change. The Miocene Climate Optimum is one of the best analogs for modern warming. The response of the Antarctic ice sheet to Miocene warming, and subsequent cooling in the Mid-Miocene Climatic Transition, is recorded in the ANDRILL AND-2A sediment core. To accurately interpret these records of ice growth and loss, we must understand the distribution of time within the core. We develop a theory for statistical quantities that dictate time’s distribution in stratigraphy— completeness and the compensation time scale and length scales—for glaciomarine sedimentation. We hypothesize that the compensation length scale, which quantifies the relief on the sedimentary surface, is set by the vertical amplitude of grounding line motion. This value should be tens of meters for astronomically forced Miocene ice sheets. We develop a novel Bayesian age modeling methodology that probabilistically constrains hiatus duration throughout the stratigraphy. This method yields a new age model for AND-2A and constrains the compensation time scale—the longest hiatus resulting from sedimentary dynamics—to 197−478 k.y. This time scale exceeds the time scales of most astronomical forcings and most reported values for fluvio-deltaic systems. The corresponding compensation length scale is 29−71 m, which aligns with our hypothesis that astronomically forced grounding line motion sets the compensation length scale for glaciomarine sedimentation. Our new age model suggests complete Miocene sedimentation from ca. 16 Ma to ca. 14.5 Ma, followed by a decline in accumulation rates during the expansion of the Antarctic ice sheet during the Mid-Miocene Climatic Transition.</span>",
+    "source": "GSA Bulletin Advance Access",
+    "date": "2026-07-28",
+    "sent": true
+  },
+  {
+    "id": "https://pubs.geoscienceworld.org/gsa/gsabulletin/article/doi/10.1130/B38775.1/734199/Shallow-magmatic-processes-with-hydrothermal",
+    "title": "Shallow magmatic processes with hydrothermal circulation at slow-spreading mid-ocean ridges: Revisiting clinopyroxene microcrysts from the Tianxiu segment, Carlsberg Ridge",
+    "link": "https://pubs.geoscienceworld.org/gsa/gsabulletin/article/doi/10.1130/B38775.1/734199/Shallow-magmatic-processes-with-hydrothermal",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\">There is increasing recognition that groundmass clinopyroxene microcrysts in alkaline basaltic magma reveal the final magmatic pathways within active continental volcanic systems. However, little attention is focused on microcrysts from the mid-ocean-ridge volcanic system. Here, we revisit groundmass clinopyroxene microcryst chemistry and textures in mid-ocean-ridge basalt from the Tianxiu segment, Carlsberg Ridge. The Tianxiu clinopyroxene microcrysts predominantly display skeletal, dendritic, and blocky textures with crystallographic branching because of undercooling (Δ<span style=\"font-style: italic;\">T</span> = 12−119 °C). The decompression and undercooling thermobarometry used in this study yield pressure-temperature (<span style=\"font-style: italic;\">P-T</span>) results for the Tianxiu clinopyroxene microcrysts of 1082 °C to ∼1136 °C and 0.78 kbar to ∼3.41 kbar. These values are lower than those obtained from both isothermal−isobaric thermobarometry and enhanced machine learning thermobarometry, but are plausibly closer to the true <span style=\"font-style: italic;\">P</span>-<span style=\"font-style: italic;\">T</span> conditions, showing shallow magmatic processes (dominantly 5.0 km to ∼8.1 km below the seafloor) near the Moho and within the overlying oceanic crust. The Tianxiu clinopyroxene microcrysts have higher calculated pressures than those of continental basaltic eruptions, while Δ<span style=\"font-style: italic;\">T</span> decreases following magma ascent, which is different from the latter ones. It might result from extra heat loss in the deep crust and extra heating in the shallow crust due to deep hydrothermal circulation. We emphasize that groundmass clinopyroxene microcryst is an excellent material for understanding the thermal conditions of the shallow magmatic conduit with hydrothermal circulation at slow-spreading mid-ocean ridges.</span>",
+    "source": "GSA Bulletin Advance Access",
+    "date": "2026-07-28",
+    "sent": true
+  },
+  {
+    "id": "https://pubs.geoscienceworld.org/gsa/gsabulletin/article/doi/10.1130/B38549.1/734198/Antarctic-ice-expansion-forced-climatic-divergence",
+    "title": "Antarctic ice expansion forced climatic divergence in East and Central Asia at 2.0 Ma",
+    "link": "https://pubs.geoscienceworld.org/gsa/gsabulletin/article/doi/10.1130/B38549.1/734198/Antarctic-ice-expansion-forced-climatic-divergence",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\">Moisture and energy transport across mid-latitude Asia, controlled jointly by the Westerlies and the East Asian Monsoon, constitutes a critical element of the global climate system. However, a significant climatic-environmental divergence exists between Central and East Asia, which has become increasingly prominent in recent years, highlighting the need to investigate its past evolution. Here, we trace the orbital-scale spatiotemporal evolution of the climate-environment in Central and East Asia since the Late Pliocene, based on high-resolution spectral parameters and geochemical data from a deep core in the Tibetan Plateau, and a compilation of multiple paleoclimate records from both regions. The results indicate a marked climatic divergence between the two regions since ca. 2 Ma, characterized by synchronously increased precipitation in East Asia and enhanced aridification in Central Asia. We attribute this divergence to concurrent expansion of the Antarctic Ice Sheet. The resulting Southern Hemisphere cooling created an atmospheric energy deficit, dynamically forcing monsoon precipitation northward into East Asia. Simultaneously, this expansion weakened the Atlantic Meridional Overturning Circulation, steepening the North Atlantic meridional temperature gradient and shifting the Northern Hemisphere Westerlies southward to divert moisture away from Central Asia, thereby exacerbating aridity there ca. 1.2 Ma. A consistent shift in dominant periodicity occurred in records of both regions, transitioning from the previous ∼400 k.y. forcing to a co-dominance of ∼400 k.y., ∼100 k.y., ∼41 k.y., and ∼21 k.y. cycles. This shift suggests enhanced sensitivity of Asian climate to orbital forcing since 1.2 Ma, potentially due to reduced climate stability caused by high-latitude ice expansion.</span>",
+    "source": "GSA Bulletin Advance Access",
+    "date": "2026-07-28",
+    "sent": true
+  },
+  {
+    "id": "https://pubs.geoscienceworld.org/gsa/gsabulletin/article/doi/10.1130/B38666.1/734197/An-integrated-U-Pb-Zn-mineralization-system-in-the",
+    "title": "An integrated U-Pb-Zn mineralization system in the Xiangshan ore field, South China: Insights from petrography, geochemistry, and geochemical modeling",
+    "link": "https://pubs.geoscienceworld.org/gsa/gsabulletin/article/doi/10.1130/B38666.1/734197/An-integrated-U-Pb-Zn-mineralization-system-in-the",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\">Hydrothermal U mineralization is commonly associated with other elements, such as Co, Ni, As, and Cu, which form U-polymetallic deposits. Enrichment of Pb and Zn has also been reported in some deposits, but these metals are generally subordinate compared to other metals. Recently, significant Pb-Zn mineralization has been reported in association with U mineralization in the Xiangshan volcanic basin in South China. This basin represents the third largest volcanic-type U mineralization center in the world. Several deposits in this basin are characterized by shallow U-dominated orebodies (SUO) and deep Pb-Zn-dominated orebodies (DPZO). The nature of the U-Pb-Zn association, especially the timing and spatial relationships between U and Pb-Zn, is examined in this study through petrographic and geochemical analyses as well as geochemical modeling. Petrographic observation and TESCAN Integrated Mineral Analyzer (TIMA) mapping demonstrate that galena and sphalerite are locally present in the SUO, while minor amounts of pitchblende and brannerite also occur in the DPZO, and all developed during the same paragenetic stage. Moreover, both SUO and DPZO share similar alteration, including illitization, chloritization, and carbonatization. Geochemical analyses indicate that galena, sphalerite, and gangue minerals in the SUO and DPZO share similar S-Pb-C-H-O isotopic compositions, which suggests that the U and Pb-Zn ores were formed by the same fluid. Geochemical modeling results indicate that the ore-forming fluids are acidic, oxidized, and S-poor, capable of carrying high concentrations of U, Pb, and Zn. U is precipitated under more oxidized conditions than Pb-Zn sulfides, with a decrease in oxygen fugacity (<span style=\"font-style: italic;\">f</span>O<sub>2</sub>), and Pb-Zn deposition requires additional mixing with deep H<sub>2</sub>S-bearing reduced fluids. This distinct precipitation mechanism leads to spatial separation of the U and Pb-Zn orebodies. The temporal and spatial coupling of SUO and DPZO suggests that the U-Pb-Zn mineralization is related to a basin-scale thermal convection system and associated fluid mixing. Based on these findings, we propose a hydrodynamic-geochemical mineralization model for the Xiangshan U-polymetallic ore field. In this model, convecting fluids mix with oxidized meteoric water, leaching U and other metals from host rocks, with subsequent ore precipitation driven by fluid-rock interactions and/or fluid mixing. This mineralization model has implications for further exploration of U-polymetallic deposits in the Xiangshan basin and in other volcanic basins with similar geological backgrounds.</span>",
+    "source": "GSA Bulletin Advance Access",
+    "date": "2026-07-28",
+    "sent": true
+  },
+  {
+    "id": "http://doi.org/10.1093/nsr/nwag456",
+    "title": "Forecasting Extreme Temperature Events by Hankel-Augmented Contrastive Learning",
+    "link": "https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwag456/8746772?rss=1",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\"><div class=\"boxTitle\">Abstract</div>Accurate forecasting of extreme temperature events is critically important for climate adaptation and disaster preparedness, yet remains a fundamental challenge due to the abrupt and non-stationary nature of such phenomena. Current time series models often fail to capture rapid transitions and anomalous patterns that deviate significantly from historical behaviors. Here, we propose Hankelformer, a novel deep learning architecture that integrates structured Hankel-based augmentation with contrastive learning to significantly improve the forecasting of extreme weather events. The model employs a structured augmentation module that constructs Hankel matrices to capture local spatiotemporal dynamics without disrupting temporal coherence, generating delay-embedding-inspired views of the original input data in terms of states. These views are processed together with the original input in a dual-stream Transformer encoder, followed by a contrastive learning between them that forms spatiotemporal representations, thus significantly enhancing feature invariance and robustness against distribution shifts. We evaluated Hankelformer on the curated extreme weather datasets: the TexasFreeze, the Pacific Northwest Heatwave and the Antarctic Heat, in addition to six standard benchmarks in energy and transportation. Hankelformer consistently achieves state-of-the-art performance, demonstrating remarkable accuracy in predicting extreme temperature collapses and spikes, with up to 34% improvement in MSE over leading baselines. The framework offers a promising tool for reliable extreme temperature forecasting and underscores the value of constructing topologically equivalent sequences to the original sequence for spatiotemporal representation learning in handling real-world non-stationary time series.</span>",
+    "source": "National Science Review Advance Access",
+    "date": "2026-07-29",
+    "sent": true
+  },
+  {
+    "id": "http://doi.org/10.1093/nsr/nwag459",
+    "title": "Breaking the shuttle limitation in aqueous halogen batteries toward durable energy storage systems",
+    "link": "https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwag459/8746764?rss=1",
+    "authors": [],
+    "summary": "",
+    "source": "National Science Review Advance Access",
+    "date": "2026-07-29",
+    "sent": true
+  },
+  {
     "id": "https://www.nature.com/articles/s41586-026-10923-8",
     "title": "Editorial Expression of Concern: Carcinoma-produced factors activate myeloid cells through TLR2 to stimulate metastasis",
     "link": "https://www.nature.com/articles/s41586-026-10923-8",
