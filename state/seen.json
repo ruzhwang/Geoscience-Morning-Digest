@@ -1,5 +1,137 @@
 [
   {
+    "id": "10.1029/2026GL121840",
+    "title": "Recent Decrease in Precipitation Asymmetry of Landfalling Tropical Cyclones Across South China",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL121840?af=R",
+    "authors": [
+      "Shunqi Zeng, \nYuan Tang, \nQuanjia Zhong, \nXin Huang, \nMei Liang, \nJianjun Xu, \nShifei Tu"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 15, 16 August 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-08-01",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL124207",
+    "title": "Subsurface Vertical Connectivity Shapes Solute Transport to Montane Streams: Insights From Watershed‐Scale Geophysics‐Informed Modeling",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL124207?af=R",
+    "authors": [
+      "Xueyuan Kang, \nPamela L. Sullivan, \nBurke J. Minsley, \nLi Li, \nMarc Dumont, \nKamini Singha"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 15, 16 August 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-08-01",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL122857",
+    "title": "Magnetic Field Disturbance Induced by the Enhanced Suprathermal Ring Current in the Magnetosphere of Saturn",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL122857?af=R",
+    "authors": [
+      "Yimeng Li, \nChao Yue, \nYongfu Wang, \nKonstantinos Dialynas, \nYixin Sun, \nQiugang Zong, \nYixin Hao, \nXuzhi Zhou"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 15, 16 August 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-08-01",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL122261",
+    "title": "Oxygen Ion Percentage Inferred From the Cutoff Frequencies of Ionospheric ELF Hiss Emissions",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL122261?af=R",
+    "authors": [
+      "Bin He, \nWenlong Liu, \nJiangzhao Ai, \nDianjun Zhang, \nZeren Zhima, \nTheodore E. Sarris, \nLi Zeng, \nZhao Zhang, \nDapeng Liu"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 15, 16 August 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-08-01",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL123954",
+    "title": "Lunar Dayside Surface Potentials in the Terrestrial Magnetotail Inferred From Comparing Observed and Modeled Photoelectrons",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL123954?af=R",
+    "authors": [
+      "Shaosui Xu, \nAndrew R. Poppe, \nYuki Harada, \nPhillip C. Chamberlin"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 15, 16 August 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-08-01",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL122315",
+    "title": "Structured Energy Conversion in Kelvin‐Helmholtz Instability",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL122315?af=R",
+    "authors": [
+      "Kyunghwan Dokgo, \nKyoung‐Joo Hwang, \nEunjin Choi, \nJames L. Burch, \nRungployphan Kieokaew"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 15, 16 August 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-08-01",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GC013032",
+    "title": "Oxygen Fugacity Buffers and an Interactive Calculator",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GC013032?af=R",
+    "authors": [
+      "Michael Anenburg"
+    ],
+    "summary": "Geochemistry, Geophysics, Geosystems, Volume 27, Issue 8, August 2026.",
+    "source": "Wiley: Geochemistry, Geophysics, Geosystems: Table of Contents",
+    "date": "2026-08-01",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025JB032839",
+    "title": "New 2010 Maule Aftershock Catalog Reveals Structure of the Deep Subduction Interface",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JB032839?af=R",
+    "authors": [
+      "C. Chalumeau, \nA. Rietbrock"
+    ],
+    "summary": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 8, August 2026.",
+    "source": "Wiley: Journal of Geophysical Research: Solid Earth: Table of Contents",
+    "date": "2026-08-01",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026JB033827",
+    "title": "Extraction of Stable Empirical Green's Functions From Short‐Duration Ambient Noise Using a Physics‐Constrained Self‐Supervised Network",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026JB033827?af=R",
+    "authors": [
+      "Guiqi Fan, \nYifan Yu, \nTao Wang, \nAnrui Wei"
+    ],
+    "summary": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 8, August 2026.",
+    "source": "Wiley: Journal of Geophysical Research: Solid Earth: Table of Contents",
+    "date": "2026-08-01",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025JB033542",
+    "title": "Thermochemical Controls on the X, 410, and 660 Discontinuities in the Central Mediterranean",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JB033542?af=R",
+    "authors": [
+      "Luciana Bonatto, \nStephen Monna, \nCaterina Montuori, \nClaudia Piromallo, \nVernon Cormier"
+    ],
+    "summary": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 8, August 2026.",
+    "source": "Wiley: Journal of Geophysical Research: Solid Earth: Table of Contents",
+    "date": "2026-08-01",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025JB033737",
+    "title": "Dislocation Bands and Subboundaries in Experimentally Deformed Olivine",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JB033737?af=R",
+    "authors": [
+      "Ulrich Faul"
+    ],
+    "summary": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 8, August 2026.",
+    "source": "Wiley: Journal of Geophysical Research: Solid Earth: Table of Contents",
+    "date": "2026-08-01",
+    "sent": true
+  },
+  {
     "id": "https://www.nature.com/articles/s41586-026-10921-w",
     "title": "Author Correction: Cucurbituril-based anion-conducting membranes with supramolecular nanopores",
     "link": "https://www.nature.com/articles/s41586-026-10921-w",
