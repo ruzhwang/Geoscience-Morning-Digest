@@ -1,5 +1,836 @@
 [
   {
+    "id": "https://www.nature.com/articles/s41586-026-10953-2",
+    "title": "Operational Tropical Cyclone Forecasting with AI",
+    "link": "https://www.nature.com/articles/s41586-026-10953-2",
+    "authors": [
+      "Ferran Alet",
+      "Tom R. Andersson",
+      "Ilan Price",
+      "Stratis Markou",
+      "Andrew El-Kadi",
+      "Dominic Masters",
+      "Amy Li",
+      "Samier Merchant",
+      "Natalie Williams",
+      "Gregory Thornton",
+      "Ken MacKay",
+      "Olivia Graham",
+      "Akib Uddin",
+      "Ben Gaiarin",
+      "Devaja Shah",
+      "Elinor Kruse",
+      "Wallace Hogsett",
+      "David Zelinsky",
+      "John Cangialosi",
+      "Jonathan Martinez",
+      "James Franklin",
+      "Mark DeMaria",
+      "Kate Musgrave",
+      "Caroline L. Bain",
+      "Helen Titley",
+      "Jacklynn Stott",
+      "Remi Lam",
+      "Aaron Bell",
+      "Paul Komarek",
+      "Matthew Willson",
+      "Alvaro Sanchez-Gonzalez",
+      "Peter Battaglia"
+    ],
+    "summary": "Nature, Published online: 06 August 2026; <a href=\"https://www.nature.com/articles/s41586-026-10953-2\">doi:10.1038/s41586-026-10953-2</a>Operational Tropical Cyclone Forecasting with AI",
+    "source": "Nature",
+    "date": "2026-08-06",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-02360-4",
+    "title": "How a steady drip-drip can erode the hardest stone",
+    "link": "https://www.nature.com/articles/d41586-026-02360-4",
+    "authors": [],
+    "summary": "Nature, Published online: 06 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02360-4\">doi:10.1038/d41586-026-02360-4</a>Measuring the deformation of a surface hit by a falling droplet offers insights into water’s erosive power.",
+    "source": "Nature",
+    "date": "2026-08-06",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-02458-9",
+    "title": "Levitating sensor for magnetic fields could detect ultrafaint brain activity",
+    "link": "https://www.nature.com/articles/d41586-026-02458-9",
+    "authors": [
+      "Dhruv Shenai"
+    ],
+    "summary": "Nature, Published online: 06 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02458-9\">doi:10.1038/d41586-026-02458-9</a>The device’s simple design could rival much more complex alternatives in biophysics research — and could even be used to search for dark matter.",
+    "source": "Nature",
+    "date": "2026-08-06",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-02430-7",
+    "title": "Heat waves have killed millions. Here’s how scientists tally lives lost",
+    "link": "https://www.nature.com/articles/d41586-026-02430-7",
+    "authors": [],
+    "summary": "Nature, Published online: 06 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02430-7\">doi:10.1038/d41586-026-02430-7</a>Two very different methods are used to estimate the human toll of heatwaves such as those now hitting parts of Asia and Europe.",
+    "source": "Nature",
+    "date": "2026-08-06",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-02235-8",
+    "title": "AI agents are checking the scientific literature — and spotting decades-old errors",
+    "link": "https://www.nature.com/articles/d41586-026-02235-8",
+    "authors": [
+      "Chris Stokel-Walker"
+    ],
+    "summary": "Nature, Published online: 06 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02235-8\">doi:10.1038/d41586-026-02235-8</a>The technology is proving adept at finding faults in decades-old papers and reference databases.",
+    "source": "Nature",
+    "date": "2026-08-06",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-02460-1",
+    "title": "Scientists up in arms about cuts to UK physics and astronomy",
+    "link": "https://www.nature.com/articles/d41586-026-02460-1",
+    "authors": [
+      "Elizabeth Gibney"
+    ],
+    "summary": "Nature, Published online: 06 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02460-1\">doi:10.1038/d41586-026-02460-1</a>Funding is being terminated for projects including a future CERN experiment and the iconic Lovell Telescope.",
+    "source": "Nature",
+    "date": "2026-08-06",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/science.aei8513?af=R",
+    "title": "A harrowing tour of Earth’s sacrificial lands",
+    "link": "https://www.science.org/doi/abs/10.1126/science.aei8513?af=R",
+    "authors": [
+      "Rasoul Sorkhabi"
+    ],
+    "summary": "Science, Volume 393, Issue 6811, Page 569-569, August 2026. <br />",
+    "source": "AAAS: Science: Table of Contents",
+    "date": "2026-08-06",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/science.aej0108?af=R",
+    "title": "Change comes for science publishing paradigms",
+    "link": "https://www.science.org/doi/abs/10.1126/science.aej0108?af=R",
+    "authors": [
+      "Beth Montague-Hellen"
+    ],
+    "summary": "Science, Volume 393, Issue 6811, Page 570-570, August 2026. <br />",
+    "source": "AAAS: Science: Table of Contents",
+    "date": "2026-08-06",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/science.adu6688?af=R",
+    "title": "The fungal pathogen Candida auris exposes chitin to trigger IFNγ and persist in hair follicles",
+    "link": "https://www.science.org/doi/abs/10.1126/science.adu6688?af=R",
+    "authors": [
+      "Eric Dean Merrill, Victoria Prudent, Pauline Basso, Emilie Rapp, Parna Moghadam, Abram Rodriguez, Ethan Hung, Charlotte Hurabielle, Jeffrey Cheng, Raymond Jaihyun Cho, Brook Abegaze, Amanda Buck, Kennedi Pyper, Alessandra Veinbachs, Elina K. C. Wells, Tiffany C. Scharschmidt, Michael D. Rosenblum, Ari B. Molofsky, Suzanne M. Noble"
+    ],
+    "summary": "Science, Volume 393, Issue 6811, August 2026. <br />",
+    "source": "AAAS: Science: Table of Contents",
+    "date": "2026-08-06",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/science.adv5441?af=R",
+    "title": "The climate benefits of retiring a fully operational internal combustion engine vehicle",
+    "link": "https://www.science.org/doi/abs/10.1126/science.adv5441?af=R",
+    "authors": [
+      "J. Elliott Campbell and Roland Geyer"
+    ],
+    "summary": "Science, Volume 393, Issue 6811, Page 591-595, August 2026. <br />",
+    "source": "AAAS: Science: Table of Contents",
+    "date": "2026-08-06",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/science.adv8291?af=R",
+    "title": "Chemically induced skin tumors arise from long-lived stem cells of the upper hair follicle",
+    "link": "https://www.science.org/doi/abs/10.1126/science.adv8291?af=R",
+    "authors": [
+      "Eve Kandyba, Arnaud Jabouille, Ferriol Calvet, Yun Rose Li, Andrea Curtabbi, Diana Cristea, Joyce Shin, Reyno Delrosario, Jonathan Anzules, Di Wu, David Quigley, Mark Taylor, Camila Zanette, Fang Yin Lo, Jacob Higgins, Jesse Salk, Nuria Lopez-Bigas, Allan Balmain"
+    ],
+    "summary": "Science, Volume 393, Issue 6811, August 2026. <br />",
+    "source": "AAAS: Science: Table of Contents",
+    "date": "2026-08-06",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/science.adx1707?af=R",
+    "title": "Levitated sensor for magnetometry in ambient environment",
+    "link": "https://www.science.org/doi/abs/10.1126/science.adx1707?af=R",
+    "authors": [
+      "Wei Ji, Changhao Xu, Guofeng Qu, Dmitry Budker"
+    ],
+    "summary": "Science, Volume 393, Issue 6811, Page 607-610, August 2026. <br />",
+    "source": "AAAS: Science: Table of Contents",
+    "date": "2026-08-06",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/science.adx7367?af=R",
+    "title": "Calcium tunes snail mucus–based materials to multiple functions",
+    "link": "https://www.science.org/doi/abs/10.1126/science.adx7367?af=R",
+    "authors": [
+      "Mariella Gabler, Emeline Raguin, Ernesto Scoppola, Barbara Steigenberger, Assa Yeroslaviz, Peter Werner, Peter Fratzl, Franziska Jehle"
+    ],
+    "summary": "Science, Volume 393, Issue 6811, Page 596-600, August 2026. <br />",
+    "source": "AAAS: Science: Table of Contents",
+    "date": "2026-08-06",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/science.aea5828?af=R",
+    "title": "Decadal doubling of Siberian methane emissions due to warming-induced fires and methanogenesis",
+    "link": "https://www.science.org/doi/abs/10.1126/science.aea5828?af=R",
+    "authors": [
+      "Sihong Zhu, Yi Liu, Paul I. Palmer, Liang Feng, Dongxu Yang, Shangfeng Chen, Motoki Sasakawa, Robert J. Parker, Hartmut Boesch, Junji Cao, Ove Hermansen, Stephen M. Platt"
+    ],
+    "summary": "Science, Volume 393, Issue 6811, Page 615-621, August 2026. <br />",
+    "source": "AAAS: Science: Table of Contents",
+    "date": "2026-08-06",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/science.aec2657?af=R",
+    "title": "Generative design of bacteriophages with genome language models",
+    "link": "https://www.science.org/doi/abs/10.1126/science.aec2657?af=R",
+    "authors": [
+      "Samuel H. King, Claudia L. Driscoll, David B. Li, Daniel Guo, Aditi T. Merchant, Garyk Brixi, Max E. Wilkinson, Brian L. Hie"
+    ],
+    "summary": "Science, Volume 393, Issue 6811, August 2026. <br />",
+    "source": "AAAS: Science: Table of Contents",
+    "date": "2026-08-06",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/science.aee3541?af=R",
+    "title": "Fossil evidence favors a role for vision in the modular evolution of the primate neocortex",
+    "link": "https://www.science.org/doi/abs/10.1126/science.aee3541?af=R",
+    "authors": [
+      "Richard F. Kay, Chris L. Organ, Paul E. Morse, Kari L. Allen, E. Christopher Kirk"
+    ],
+    "summary": "Science, Volume 393, Issue 6811, Page 622-627, August 2026. <br />",
+    "source": "AAAS: Science: Table of Contents",
+    "date": "2026-08-06",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/science.aee4205?af=R",
+    "title": "Paleogenomic insight into the collapse, recovery, and management of American bison",
+    "link": "https://www.science.org/doi/abs/10.1126/science.aee4205?af=R",
+    "authors": [
+      "Jonas Oppenheimer, Joshua D. Kapp, Molly Cassatt-Johnstone, Samuel Sacco, William E. Seligmann, Holland C. Conwell, Sarah Ford, Cassandra Gunn, Lael D. Barlow, Amy Phillips, Kenneth P. Cannon, Lawrence C. Todd, Spencer R. Pelton, Glen MacKay, Kyle Forsythe, Mark A. Edwards, Mark C. Ball, David R. W. Bruinsma, Jessica Z. Metcalfe, John W. Ives, Robert J. Losey, Tatiana Nomokonova, Tomasin Playford, Chris Widga, Craig M. Lee, Karsten Heuer, Wes Olson, Paul Stothard, John Southon, Donalee M. Deck, Christopher N. Jass, Richard E. Green, Lee C. Jones, Gregg P. Adams, Todd K. Shury, Gregory A. Wilson, Beth Shapiro"
+    ],
+    "summary": "Science, Volume 393, Issue 6811, August 2026. <br />",
+    "source": "AAAS: Science: Table of Contents",
+    "date": "2026-08-06",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/science.aef0766?af=R",
+    "title": "Vicinal disubstitution of alkyl C–X synthons via alkene radical cation generation",
+    "link": "https://www.science.org/doi/abs/10.1126/science.aef0766?af=R",
+    "authors": [
+      "Yufei Zhang, Tamal Das, Zi Xuan, Mrinmoy Das, Hammed O. Bisiriyu, Alon Nudler, Ben D. Parasch, Matthew D. Resmini, Aubrey E. Graham, David F. Watson, Jennifer S. Hirschi, Patricia Z. Musacchio"
+    ],
+    "summary": "Science, Volume 393, Issue 6811, August 2026. <br />",
+    "source": "AAAS: Science: Table of Contents",
+    "date": "2026-08-06",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/science.aef4184?af=R",
+    "title": "Adaptive modulation of theta sweeps in the brain’s navigation circuit",
+    "link": "https://www.science.org/doi/abs/10.1126/science.aef4184?af=R",
+    "authors": [
+      "Abraham Z. Vollan, Michael F. Schellenberger, Richard J. Gardner, May-Britt Moser, Edvard I. Moser"
+    ],
+    "summary": "Science, Volume 393, Issue 6811, August 2026. <br />",
+    "source": "AAAS: Science: Table of Contents",
+    "date": "2026-08-06",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/science.aef9458?af=R",
+    "title": "Heavily doped, highly compensated epitaxial ScN thin films exceed Boltzmann thermopower limits",
+    "link": "https://www.science.org/doi/abs/10.1126/science.aef9458?af=R",
+    "authors": [
+      "Renuka Karanje, Dheemahi Rao, Diksha Dadhich, Sourav Rudra, Ashalatha Indiradevi Kamalasanan Pillai, Magnus Garbrecht, Subroto Mukerjee, Bivas Saha"
+    ],
+    "summary": "Science, Volume 393, Issue 6811, Page 611-614, August 2026. <br />",
+    "source": "AAAS: Science: Table of Contents",
+    "date": "2026-08-06",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/science.aeh1475?af=R",
+    "title": "A molecular switch for coordinating kinesin and dynein transport of mitochondrial cargo",
+    "link": "https://www.science.org/doi/abs/10.1126/science.aeh1475?af=R",
+    "authors": [
+      "Christina Gladkova, Maria G. Paez-Segala, William P. Grant, Mark Kittisopikul, Samuel A. Myers, Yuxiao Wang, Ronald D. Vale"
+    ],
+    "summary": "Science, Volume 393, Issue 6811, Page 601-606, August 2026. <br />",
+    "source": "AAAS: Science: Table of Contents",
+    "date": "2026-08-06",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/science.adt7323?af=R",
+    "title": "Turbulent seismoacoustic imprints during a hurricane landfall",
+    "link": "https://www.science.org/doi/abs/10.1126/science.adt7323?af=R",
+    "authors": [
+      "Qing Ji†, Ipshita Dey,\n\n Eric M. Dunham,"
+    ],
+    "summary": "Science, Volume 393, Issue 6811, Page 628-632, August 2026. <br />",
+    "source": "AAAS: Science: Table of Contents",
+    "date": "2026-08-06",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/science.aed8437?af=R",
+    "title": "A central role for dietary sugars in human evolution",
+    "link": "https://www.science.org/doi/abs/10.1126/science.aed8437?af=R",
+    "authors": [
+      "Jennie Brand-Miller, Karen Hardy, David Raubenheimer, Les Copeland"
+    ],
+    "summary": "Science, Volume 393, Issue 6811, Page 574-581, August 2026. <br />",
+    "source": "AAAS: Science: Table of Contents",
+    "date": "2026-08-06",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/science.ael1781?af=R",
+    "title": "In Other Journals",
+    "link": "https://www.science.org/doi/abs/10.1126/science.ael1781?af=R",
+    "authors": [
+      "Corinne Simonti, and Jesse Smith, Unnati Sonawala, Mattia Maroso, L. Bryan Ray, Ian S. Osborne, Corinne Simonti, Jelena Stajic, and Jack Huang"
+    ],
+    "summary": "Science, Volume 393, Issue 6811, Page 583-584, August 2026. <br />",
+    "source": "AAAS: Science: Table of Contents",
+    "date": "2026-08-06",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/science.ael1782?af=R",
+    "title": "The price of my future",
+    "link": "https://www.science.org/doi/abs/10.1126/science.ael1782?af=R",
+    "authors": [
+      "Zaid Jangda"
+    ],
+    "summary": "Science, Volume 393, Issue 6811, Page 634-634, August 2026. <br />",
+    "source": "AAAS: Science: Table of Contents",
+    "date": "2026-08-06",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/science.aek0194?af=R",
+    "title": "A fungus makes itself at home on skin",
+    "link": "https://www.science.org/doi/abs/10.1126/science.aek0194?af=R",
+    "authors": [
+      "Julia A. Segre"
+    ],
+    "summary": "Science, Volume 393, Issue 6811, Page 564-565, August 2026. <br />",
+    "source": "AAAS: Science: Table of Contents",
+    "date": "2026-08-06",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/science.aek0212?af=R",
+    "title": "The visual brain hypothesis",
+    "link": "https://www.science.org/doi/abs/10.1126/science.aek0212?af=R",
+    "authors": [
+      "Robert A. Barton"
+    ],
+    "summary": "Science, Volume 393, Issue 6811, Page 560-561, August 2026. <br />",
+    "source": "AAAS: Science: Table of Contents",
+    "date": "2026-08-06",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/science.aek0553?af=R",
+    "title": "Listening to storms as they shake Earth",
+    "link": "https://www.science.org/doi/abs/10.1126/science.aek0553?af=R",
+    "authors": [
+      "Ethan F. Williams"
+    ],
+    "summary": "Science, Volume 393, Issue 6811, Page 562-563, August 2026. <br />",
+    "source": "AAAS: Science: Table of Contents",
+    "date": "2026-08-06",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/science.aej8512?af=R",
+    "title": "AI-designed viral genomes",
+    "link": "https://www.science.org/doi/abs/10.1126/science.aej8512?af=R",
+    "authors": [
+      "Thomas V. Inglesby and Moritz S. Hanke"
+    ],
+    "summary": "Science, Volume 393, Issue 6811, Page 563-564, August 2026. <br />",
+    "source": "AAAS: Science: Table of Contents",
+    "date": "2026-08-06",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/science.aej6212?af=R",
+    "title": "Curb plastic pollution at its source",
+    "link": "https://www.science.org/doi/abs/10.1126/science.aej6212?af=R",
+    "authors": [
+      "Nelson Rangel-Buitrago"
+    ],
+    "summary": "Science, Volume 393, Issue 6811, Page 572-572, August 2026. <br />",
+    "source": "AAAS: Science: Table of Contents",
+    "date": "2026-08-06",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/science.aej9456?af=R",
+    "title": "Dengue vaccines need long-term surveillance",
+    "link": "https://www.science.org/doi/abs/10.1126/science.aej9456?af=R",
+    "authors": [
+      "Maíra Aguiar"
+    ],
+    "summary": "Science, Volume 393, Issue 6811, Page 572-572, August 2026. <br />",
+    "source": "AAAS: Science: Table of Contents",
+    "date": "2026-08-06",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/science.aek2112?af=R",
+    "title": "Climate extremes expose groundwater risks",
+    "link": "https://www.science.org/doi/abs/10.1126/science.aek2112?af=R",
+    "authors": [
+      "Yaqiang Wei and Xinde Cao"
+    ],
+    "summary": "Science, Volume 393, Issue 6811, Page 571-571, August 2026. <br />",
+    "source": "AAAS: Science: Table of Contents",
+    "date": "2026-08-06",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/science.ael2153?af=R",
+    "title": "Ebola raged below the radar for months, report says",
+    "link": "https://www.science.org/doi/abs/10.1126/science.ael2153?af=R",
+    "authors": [
+      "Kai Kupferschmidt"
+    ],
+    "summary": "Science, Volume 393, Issue 6811, Page 546-547, August 2026. <br />",
+    "source": "AAAS: Science: Table of Contents",
+    "date": "2026-08-06",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/science.ael2154?af=R",
+    "title": "NASA’s PUNCH punches up space weather forecasts",
+    "link": "https://www.science.org/doi/abs/10.1126/science.ael2154?af=R",
+    "authors": [
+      "Rachel Berkowitz"
+    ],
+    "summary": "Science, Volume 393, Issue 6811, Page 548-549, August 2026. <br />",
+    "source": "AAAS: Science: Table of Contents",
+    "date": "2026-08-06",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/science.ael2155?af=R",
+    "title": "Weekly HIV pill moves closer but vaccine studies face new questions",
+    "link": "https://www.science.org/doi/abs/10.1126/science.ael2155?af=R",
+    "authors": [
+      "Jon Cohen"
+    ],
+    "summary": "Science, Volume 393, Issue 6811, Page 549-550, August 2026. <br />",
+    "source": "AAAS: Science: Table of Contents",
+    "date": "2026-08-06",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/science.ael2156?af=R",
+    "title": "What triggered the atmosphere’s great oxygen surge?",
+    "link": "https://www.science.org/doi/abs/10.1126/science.ael2156?af=R",
+    "authors": [
+      "Paul Voosen"
+    ],
+    "summary": "Science, Volume 393, Issue 6811, Page 551-552, August 2026. <br />",
+    "source": "AAAS: Science: Table of Contents",
+    "date": "2026-08-06",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/science.ael2157?af=R",
+    "title": "New rules on risky biology studies get mixed reviews",
+    "link": "https://www.science.org/doi/abs/10.1126/science.ael2157?af=R",
+    "authors": [
+      "Sara Reardon"
+    ],
+    "summary": "Science, Volume 393, Issue 6811, Page 552-553, August 2026. <br />",
+    "source": "AAAS: Science: Table of Contents",
+    "date": "2026-08-06",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/science.ael2158?af=R",
+    "title": "Genes of an icon",
+    "link": "https://www.science.org/doi/abs/10.1126/science.ael2158?af=R",
+    "authors": [
+      "Michael Price"
+    ],
+    "summary": "Science, Volume 393, Issue 6811, Page 554-559, August 2026. <br />",
+    "source": "AAAS: Science: Table of Contents",
+    "date": "2026-08-06",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/science.aek0207?af=R",
+    "title": "The bridge between science and policy: How IPBES redefined global conservation policy and its path to societal impact",
+    "link": "https://www.science.org/doi/abs/10.1126/science.aek0207?af=R",
+    "authors": [
+      "Patricia Miloslavich"
+    ],
+    "summary": "Science, Volume 393, Issue 6811, August 2026. <br />",
+    "source": "AAAS: Science: Table of Contents",
+    "date": "2026-08-06",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/science.ael0463?af=R",
+    "title": "How should India approach AI?",
+    "link": "https://www.science.org/doi/abs/10.1126/science.ael0463?af=R",
+    "authors": [
+      "Akash Kapur and Arvind Narayanan"
+    ],
+    "summary": "Science, Volume 393, Issue 6811, Page 545-545, August 2026. <br />",
+    "source": "AAAS: Science: Table of Contents",
+    "date": "2026-08-06",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/science.aee3176?af=R",
+    "title": "The next Turing tests: Reimagining conceptions and measures of AI",
+    "link": "https://www.science.org/doi/abs/10.1126/science.aee3176?af=R",
+    "authors": [
+      "Jose Hernandez-Orallo, Katherine M. Collins, Lucy Cheke, Laura Weidinger, Umang Bhatt, Thomas L. Griffiths, and Stephen Cave"
+    ],
+    "summary": "Science, Volume 393, Issue 6811, Page 566-568, August 2026. <br />",
+    "source": "AAAS: Science: Table of Contents",
+    "date": "2026-08-06",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/science.ael1780?af=R",
+    "title": "In Science Journals",
+    "link": "https://www.science.org/doi/abs/10.1126/science.ael1780?af=R",
+    "authors": [
+      "Michael Funk, and Marc S Lavine, Sacha Vignieri, Jesse Smith, Stella M. Hurtley, Jelena Stajic, Wei Wong, Zhonghe Zhou, Yevgeniya Nusinovich, Mattia Maroso, Jake S. Yeston, Phil Szuromi, Di Jiang, Sarah H. Ross, Angela Hessler, Daniela Neuhofer, Claire Olingy, and David Cortez"
+    ],
+    "summary": "Science, Volume 393, Issue 6811, Page 582-584, August 2026. <br />",
+    "source": "AAAS: Science: Table of Contents",
+    "date": "2026-08-06",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-76301-0",
+    "title": "Molecular-level insight into water adsorption and projected atmospheric water harvesting performance in a hydrolytically stable MOF",
+    "link": "https://www.nature.com/articles/s41467-026-76301-0",
+    "authors": [
+      "Mei-Yan Gao",
+      "Andrey A. Bezrukov",
+      "Alan C. Eaby",
+      "Chenghua Deng",
+      "Lunjie Liu",
+      "Bai-Qiao Song",
+      "Sousa Javan Nikkhah",
+      "Matthias Vandichel",
+      "Michael J. Zaworotko"
+    ],
+    "summary": "Nature Communications, Published online: 07 August 2026; <a href=\"https://www.nature.com/articles/s41467-026-76301-0\">doi:10.1038/s41467-026-76301-0</a>A hydrolytically stable metal-organic framework enables direct visualisation of stepwise water adsorption at the molecular level, providing design insight for efficient, low-energy atmospheric water harvesting materials.",
+    "source": "Nature Communications",
+    "date": "2026-08-07",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-76485-5",
+    "title": "Ultrafast electron acceleration by space chorus",
+    "link": "https://www.nature.com/articles/s41467-026-76485-5",
+    "authors": [
+      "C. M. Liu",
+      "B. N. Zhao",
+      "J. B. Cao",
+      "Y. Y. Liu",
+      "C. J. Pollock",
+      "C. T. Russell",
+      "P. A. Lindqvist",
+      "J. L. Burch"
+    ],
+    "summary": "Nature Communications, Published online: 07 August 2026; <a href=\"https://www.nature.com/articles/s41467-026-76485-5\">doi:10.1038/s41467-026-76485-5</a>Chorus waves are thought to cause strong electron acceleration altering space weather, yet its fundamental physics remain unclear. Here, the authors present observational evidence for highly nonlinear, ultrafast chorus-induced electron acceleration.",
+    "source": "Nature Communications",
+    "date": "2026-08-07",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-76046-w",
+    "title": "Nuclear localization of the glutaminyl-tRNA synthetase QARS reveals its role in DNA damage response in ovarian cancer",
+    "link": "https://www.nature.com/articles/s41467-026-76046-w",
+    "authors": [
+      "Martina Serafini",
+      "Francesca Di Fazio",
+      "Yann Kieffer",
+      "Lounes Djerroudi",
+      "Léonie Dec",
+      "Michael Richard",
+      "Yann Aubert",
+      "Franco Marchesoni-Acland",
+      "Manuel D. Diaz-Munoz",
+      "Anne Vincent-Salomon",
+      "Stéphan Vagner",
+      "Damarys Loew",
+      "Raphael Ceccaldi",
+      "Fatima Mechta-Grigoriou",
+      "Virginie Mieulet"
+    ],
+    "summary": "Nature Communications, Published online: 07 August 2026; <a href=\"https://www.nature.com/articles/s41467-026-76046-w\">doi:10.1038/s41467-026-76046-w</a>Here, the authors find that the glutaminyl-tRNA synthetase QARS, a cytosolic protein involved in mRNA translation, relocates to the nucleus to promote homologous recombination (HR). QARS promotes HR by interacting with SP100 to maintain PML-NB integrity and MRN complex localization, thus reducing tumor sensitivity to treatment.",
+    "source": "Nature Communications",
+    "date": "2026-08-07",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-75977-8",
+    "title": "Iron Oxide Photoanode for Glycerol-Assisted Hydrogen Production at 8.87 mA cm<sup>–2</sup>",
+    "link": "https://www.nature.com/articles/s41467-026-75977-8",
+    "authors": [
+      "Sarang Kim",
+      "Juhyung Park",
+      "Jinwoo Hwang",
+      "Yeju Yoon",
+      "Jeong Woo Han",
+      "Ji-Hyun Jang",
+      "Ji-Wook Jang"
+    ],
+    "summary": "Nature Communications, Published online: 07 August 2026; <a href=\"https://www.nature.com/articles/s41467-026-75977-8\">doi:10.1038/s41467-026-75977-8</a>Iron oxide photoanodes are promising for solar hydrogen production but suffer from poor charge transport and slow water oxidation kinetics. Here, the authors report that Ge and Ti co-doped hematite enables glycerol-assisted photoelectrochemical hydrogen production with a photocurrent of 8.87 mA cm⁻².",
+    "source": "Nature Communications",
+    "date": "2026-08-07",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-76419-1",
+    "title": "In situ electron microscopy of LaNiO<sub>3</sub> transformation during reduction and methane dry reforming",
+    "link": "https://www.nature.com/articles/s41467-026-76419-1",
+    "authors": [
+      "Pengfei Cao",
+      "Christoph Malleier",
+      "Dylan Jennings",
+      "Leander Haug",
+      "Maged F. Bekheet",
+      "Joachim Mayer",
+      "Rafal E. Dunin-Borkowski",
+      "Simon Penner",
+      "Marc Heggen"
+    ],
+    "summary": "Nature Communications, Published online: 07 August 2026; <a href=\"https://www.nature.com/articles/s41467-026-76419-1\">doi:10.1038/s41467-026-76419-1</a>This study presents the decomposition of LaNiO3, a model methane dry reforming catalyst using in situ electron microscopy. Intermediate phase formation is monitored on the atomic scale under different gas atmospheres and oxygen partial pressure regimes.",
+    "source": "Nature Communications",
+    "date": "2026-08-07",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-76422-6",
+    "title": "Retraction Note: Proteomic characterization identifies clinically relevant subgroups of soft tissue sarcoma",
+    "link": "https://www.nature.com/articles/s41467-026-76422-6",
+    "authors": [
+      "Shaoshuai Tang",
+      "Yunzhi Wang",
+      "Rongkui Luo",
+      "Rundong Fang",
+      "Yufeng Liu",
+      "Hang Xiang",
+      "Peng Ran",
+      "Yexin Tong",
+      "Mingjun Sun",
+      "Subei Tan",
+      "Wen Huang",
+      "Jie Huang",
+      "Jiacheng Lv",
+      "Ning Xu",
+      "Zhenmei Yao",
+      "Qiao Zhang",
+      "Ziyan Xu",
+      "Xuetong Yue",
+      "Zixiang Yu",
+      "Sujie Akesu",
+      "Yuqin Ding",
+      "Chen Xu",
+      "Weiqi Lu",
+      "Yuhong Zhou",
+      "Yingyong Hou",
+      "Chen Ding"
+    ],
+    "summary": "Nature Communications, Published online: 06 August 2026; <a href=\"https://www.nature.com/articles/s41467-026-76422-6\">doi:10.1038/s41467-026-76422-6</a>Retraction Note: Proteomic characterization identifies clinically relevant subgroups of soft tissue sarcoma",
+    "source": "Nature Communications",
+    "date": "2026-08-06",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-76458-8",
+    "title": "Decomposition and separation of vibration waves from blasting demolition of tall buildings and their component characteristics",
+    "link": "https://www.nature.com/articles/s41467-026-76458-8",
+    "authors": [
+      "Yingkang Yao",
+      "Yize Kang",
+      "Yongsheng Jia",
+      "Jinshan Sun",
+      "Xianqi Xie"
+    ],
+    "summary": "Nature Communications, Published online: 06 August 2026; <a href=\"https://www.nature.com/articles/s41467-026-76458-8\">doi:10.1038/s41467-026-76458-8</a>This study introduces a three-dimensional polarisation analysis method to deconstruct vibration waves from building blasting demolition, enabling separation of P, S, and R waves. Results reveal stage- and direction-dependent wave dominance, improving assessment and control of vibration hazards.",
+    "source": "Nature Communications",
+    "date": "2026-08-06",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-76428-0",
+    "title": "Retraction Note: Proteogenomics of diffuse gliomas reveal molecular subtypes associated with specific therapeutic targets and immune-evasion mechanisms",
+    "link": "https://www.nature.com/articles/s41467-026-76428-0",
+    "authors": [
+      "Yunzhi Wang",
+      "Rongkui Luo",
+      "Xuan Zhang",
+      "Hang Xiang",
+      "Bing Yang",
+      "Jinwen Feng",
+      "Mengjie Deng",
+      "Peng Ran",
+      "Akesu Sujie",
+      "Fan Zhang",
+      "Jiajun Zhu",
+      "Subei Tan",
+      "Tao Xie",
+      "Pin Chen",
+      "Zixiang Yu",
+      "Yan Li",
+      "Dongxian Jiang",
+      "Xiaobiao Zhang",
+      "Jian-Yuan Zhao",
+      "Yingyong Hou",
+      "Chen Ding"
+    ],
+    "summary": "Nature Communications, Published online: 06 August 2026; <a href=\"https://www.nature.com/articles/s41467-026-76428-0\">doi:10.1038/s41467-026-76428-0</a>Retraction Note: Proteogenomics of diffuse gliomas reveal molecular subtypes associated with specific therapeutic targets and immune-evasion mechanisms",
+    "source": "Nature Communications",
+    "date": "2026-08-06",
+    "sent": true
+  },
+  {
+    "id": "https://www.pnas.org/doi/abs/10.1073/pnas.2608784123?af=R",
+    "title": "The evolution of the Earth’s surface iron cycle",
+    "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2608784123?af=R",
+    "authors": [
+      "Florian ScholzSebastian DoetterlDalton S. Hardistyahttps://ror.org/00g30e956Department of Earth System Sciences, University of Hamburg, Hamburg 20146, Germanybhttps://ror.org/05a28rw58Department of Environmental Systems Science, ETH Zürich, Zürich 8092, Switzerlandchttps://ror.org/05hs6h993Department of Earth and Environmental Sciences, Michigan State University, East Lansing, MI 48824"
+    ],
+    "summary": "Proceedings of the National Academy of Sciences, Volume 123, Issue 32, August 2026. <br />SignificanceIron oxide minerals produced on land by chemical weathering are transported to the ocean and buried in marine sediments, where they can form pyrite or bind to organic matter, processes that release oxygen and influence atmospheric oxygenation ...",
+    "source": "Proceedings of the National Academy of Sciences: Earth, Atmospheric, and Planetary Sciences",
+    "date": "2026-08-05",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012821X26004504",
+    "title": "The presence of helium impedes fission track annealing in apatite",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012821X26004504?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: 15 October 2026<b>Source:</b> Earth and Planetary Science Letters, Volume 692Author(s): Alessandra Flaherty, Ling Chung, Barry Kohn, Kenneth Farley",
+    "source": "ScienceDirect Publication: Earth and Planetary Science Letters",
+    "date": "2026-08-07",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012821X26004310",
+    "title": "Hierarchically structured data can undermine machine learning results in geoscience",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012821X26004310?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: 15 October 2026<b>Source:</b> Earth and Planetary Science Letters, Volume 692Author(s): Taryn Scharf, Matthew L. Daggitt, Christopher L. Kirkland",
+    "source": "ScienceDirect Publication: Earth and Planetary Science Letters",
+    "date": "2026-08-07",
+    "sent": true
+  },
+  {
+    "id": "https://pubs.geoscienceworld.org/gsa/geology/article/doi/10.1130/G54808.1/734679/Abiogenic-iron-oxidation-at-the-olivine-surface-is",
+    "title": "Abiogenic iron oxidation at the olivine surface is required for fungal weathering",
+    "link": "https://pubs.geoscienceworld.org/gsa/geology/article/doi/10.1130/G54808.1/734679/Abiogenic-iron-oxidation-at-the-olivine-surface-is",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\">While abiogenic Fe oxidation at the silicate surface controls abiotic dissolution kinetics, its influence on biotic dissolution remains unclear. To explore this relationship, we ran dissolution experiments with the rock-inhabiting fungus <span style=\"font-style: italic;\">Knufia petricola</span> and natural olivine (Fo91) or its Fe-free analogue, synthetic forsterite (Fo100), buffered at pH 4 or pH 6. Abiotically, olivine dissolved over hundred times slower than forsterite at pH 6. <span style=\"font-style: italic;\">K. petricola</span> enhanced the dissolution of olivine at pH 6, had no effect on forsterite dissolution, and even inhibited olivine dissolution at pH 4. Our results suggest that in buffered environments, fungi can only drive mineral dissolution by counteracting the inhibition caused by processes like abiogenic Fe-oxidation.</span>",
+    "source": "Geology Advance Access",
+    "date": "2026-08-05",
+    "sent": true
+  },
+  {
+    "id": "https://pubs.geoscienceworld.org/msa/ammin/article/doi/10.2138/am-2025-10045/734675/Methods-for-Estimating-Fe-Redox-in-Mesoamerican",
+    "title": "Methods for Estimating Fe Redox in Mesoamerican Jadeite Jade",
+    "link": "https://pubs.geoscienceworld.org/msa/ammin/article/doi/10.2138/am-2025-10045/734675/Methods-for-Estimating-Fe-Redox-in-Mesoamerican",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\"><div class=\"boxTitle\">Abstract</div>Green jadeite has been selectively mined and used by Mesoamerican Indigenous cultures for centuries, with the green hues resulting from interactions among various chromophores, including Cr<sup>3+</sup>, Fe<sup>3+</sup>, and Fe<sup>2+</sup>. This study employed Fe K-edge X-ray absorption near-edge structure (XANES) measurements using a mm-scale X-ray beam to estimate the iron-redox ratio in jadeitite, with scanning electron imaging and X-ray microanalysis employed to determine mineral compositions and proportions within the synchrotron analysis zones. Results for the XANES measurements were processed using two distinct approaches based on different underlying assumptions: peak fitting and machine learning. Despite their differences, both peak fitting and machine learning approaches yielded statistically consistent results, suggesting that the analysis assumptions were valid for this system and that XANES data can provide reliable Fe redox estimates for jadeites. The Fe<sup>3+</sup>/Fe<sub>Total</sub> range for the jadeites measured by XANES was estimated to be between 75% and 91% after accounting for phase mixing (omphacite with jadeite) within samples. Low Fe concentrations in jadeites precluded the use of quantitative compositional analysis to estimate Fe redox using the charge balance method.</span>",
+    "source": "American Mineralogist Advance Access",
+    "date": "2026-08-05",
+    "sent": true
+  },
+  {
+    "id": "https://pubs.geoscienceworld.org/msa/ammin/article/doi/10.2138/am-2026-10340/734674/An-experimental-study-on-the-possible-stability-of",
+    "title": "An experimental study on the possible stability of whewellite CaC 2 O 4 ·H 2 O under subduction zone conditions",
+    "link": "https://pubs.geoscienceworld.org/msa/ammin/article/doi/10.2138/am-2026-10340/734674/An-experimental-study-on-the-possible-stability-of",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\"><div class=\"boxTitle\">Abstract</div>Whewellite was reported as mineral in fluid inclusions in high-pressure metamorphic rocks, lending support to theoretical predictions that organic species may be stable and abundant in high-pressure subduction zone fluids. In this study, we have experimentally studied the stability of whewellite at typical subduction zone pressure and temperature conditions, both by in-situ observations using an externally-heated diamond cell and by piston-cylinder experiments with long run durations. Heating whewellite in a diamond cell to 250 °C and 1.5 GPa for a few hours and subsequent cooling essentially just caused re-crystallization. However, upon heating to higher temperatures already within a few hours, decomposition to graphite, aragonite, and CO<sub>2</sub> is obvious. Moreover, piston cylinder experiments with run durations of 7 to 26 days and conditions ranging from 300°C at 2 GPa to 700 °C at 4.5 GPa all show complete decomposition of whewellite to graphite and aragonite according to 2 CaC<sub>2</sub>O<sub>4</sub>·H<sub>2</sub>O = 2 CaCO<sub>3</sub> + C + CO<sub>2</sub> + 2 H<sub>2</sub>O. Overall, our results suggest that whewellite in fluid inclusions from high-pressure metamorphic rocks is likely a secondary phase formed upon exhumation at rather low temperatures. The observation of whewellite as such does not provide any evidence for the stability of organic species in high-pressure subduction zone fluids. However, combined with the data from natural fluid inclusions, our data suggest that the abiotic synthesis of carboxylic acids and their salts is feasible at rather low temperature and pressures in near-surface environments of Earth’s crust and possibly, also on other planets.</span>",
+    "source": "American Mineralogist Advance Access",
+    "date": "2026-08-05",
+    "sent": true
+  },
+  {
+    "id": "https://pubs.geoscienceworld.org/msa/ammin/article/doi/10.2138/am-2026-10327/734673/Liddicoatite-Ca-Li2Al-Al6-Si6O18-BO3-3-OH-3OH-a",
+    "title": "Liddicoatite, Ca(Li 2 Al)Al 6 (Si 6 O 18 )(BO 3 ) 3 (OH) 3 OH, a rare, long-anticipated OH-dominant species of the tourmaline supergroup",
+    "link": "https://pubs.geoscienceworld.org/msa/ammin/article/doi/10.2138/am-2026-10327/734673/Liddicoatite-Ca-Li2Al-Al6-Si6O18-BO3-3-OH-3OH-a",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\"><div class=\"boxTitle\">Abstract</div>Liddicoatite, ideally Ca(Li<sub>2</sub>Al)Al<sub>6</sub>(Si<sub>6</sub>O<sub>18</sub>)(BO<sub>3</sub>)<sub>3</sub>(OH)<sub>3</sub>OH, is a new mineral species of the tourmaline supergroup and the OH-dominant analogue of fluor-liddicoatite. The name liddicoatite was originally applied to a species that was subsequently renamed fluor-liddicoatite following the 2011 tourmaline-supergroup nomenclature. The new holotype material was found in an elbaite-subtype granitic pegmatite at Dolní Rožínka, Czech Republic, where it occurs as a late-stage metasomatic phase in the graphic unit. Liddicoatite forms microscopic domains, up to 1 mm across, within a zoned colorless to pale green rim surrounding black tourmaline. The compositional evolution of the zoned crystal is from Fe-rich fluor-elbaite in the core through fluor-liddicoatite to liddicoatite, followed by elbaite in the outermost rim.Liddicoatite is colorless to very pale green, with vitreous luster, white streak, and conchoidal fracture. It is uniaxial (–), has a Mohs hardness of 7–8, a calculated density of 3.035 g/cm<sup>3</sup>, and an excellent compatibility index (1–<span style=\"font-style: italic;\">K</span><sub>P</sub>/<span style=\"font-style: italic;\">K</span><sub>C</sub> = 0.039). It is trigonal, space group <span style=\"font-style: italic;\">R</span>3<span style=\"font-style: italic;\">m</span>, with unit-cell parameters <span style=\"font-style: italic;\">a</span> = 15.8277(3) Å, <span style=\"font-style: italic;\">c</span> = 7.0985(1) Å, <span style=\"font-style: italic;\">V</span> = 1540.04(6) Å<sup>3</sup> and <span style=\"font-style: italic;\">Z</span> = 3. The crystal structure was refined to <span style=\"font-style: italic;\">R</span>1 = 1.45 % using room-temperature data collected with Mo<span style=\"font-style: italic;\">K</span>α radiation. Crystal-chemical analysis obtained using electron probe microanalysis, laser ablation inductively coupled plasma mass spectroscopy, Raman spectrometry, and crystal structure refinement resulted in the following empirical formula:(XCa0.426Na0.373□0.201)Σ1.000(YLi1.498Al1.436Fe0.051Mn0.015)Σ3.000Al6Z(TSi5.793B0.207)Σ6.000O18(BO3B)3(VOH)3(WOH0.659F0.385)Σ1.044.Liddicoatite is a hydroxy-species belonging to the calcic group of the tourmaline supergroup. It is closely related to fluor-liddicoatite through the substitution <sup>W</sup>F → <sup>W</sup>OH, and to elbaite, rossmanite, and darrellhenryite through coupled substitutions involving X-, Y-, and W-ions. The Dolní Rožínka occurrence indicates that liddicoatite is a rare late-stage product of highly evolved pegmatitic systems, requiring not only Ca availability but also sufficiently low effective F activity to stabilize <sup>W</sup>(OH) dominance. Liddicoatite was approved by the IMA-CNMNC (IMA 2025-047). The name is retained from the former species name, originally honoring Richard T. Liddicoat (1918–2002), gemologist and former president of the Gemological Institute of America.</span>",
+    "source": "American Mineralogist Advance Access",
+    "date": "2026-08-05",
+    "sent": true
+  },
+  {
+    "id": "https://pubs.geoscienceworld.org/msa/ammin/article/doi/10.2138/am-2026-10295/734672/Dulanggouite-Bi6Te3-Bi2Te-a-new-tetradymite-group",
+    "title": "Dulanggouite, Bi 6 Te 3  (Bi 2 Te), a new tetradymite-group mineral from Dulanggou gold mine, Sichuan Province, China",
+    "link": "https://pubs.geoscienceworld.org/msa/ammin/article/doi/10.2138/am-2026-10295/734672/Dulanggouite-Bi6Te3-Bi2Te-a-new-tetradymite-group",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\"><div class=\"boxTitle\">Abstract</div>Dulanggouite (IMA2024-067), ideally Bi<sub>6</sub>Te<sub>3</sub>, is a new member of the tetradymite group discovered in the Dulanggou gold deposit (E 101°36<sup>′</sup>30<sup>′′</sup>, N 30°58<sup>′</sup>50<sup>′′</sup>), Sichuan Province, China. It occurs as anhedral grains (up to 200 μm) associated with native gold, native bismuth, tsumoite, pilsenite, hedleyite, and ehrigite within quartz veins or at the margins of sulfides (pyrrhotite and pyrite). The mineral is cream-white with a metallic luster, flexible with an uneven fracture, and has a calculated density of 8.827 g/cm<sup>3</sup>. Electron microprobe analyses (EPMA) yield an empirical formula of Bi<sub>6.08</sub>Te<sub>2.91</sub>Se<sub>0.01</sub> based on 9 atoms per formula unit. Single-crystal X-ray diffraction (SC-XRD) analysis determined the crystal structure of dulanggouite to be trigonal, space group <span style=\"font-style: italic;\">P-3m1</span> (#164), with unit cell parameters <span style=\"font-style: italic;\">a</span> = 4.4639(4) Å, <span style=\"font-style: italic;\">c</span> = 17.9040(15) Å, <span style=\"font-style: italic;\">V</span> = 308.97(6) Å<sup>3</sup> and <span style=\"font-style: italic;\">Z</span> = 1, refined to a final <span style=\"font-style: italic;\">R</span><sub><span style=\"font-style: italic;\">1</span></sub> of 0.0239 for 2437 (365 unique) reflections. The SC-XRD model resolves a characteristic 9-atom layer stacking sequence (Bi-Bi-Te-Bi-Te-Bi-Te-Bi-Bi) along the <span style=\"font-style: italic;\">c</span>-axis, exhibiting refined mixed Bi-Te occupancies at two specific sites. Atomic-resolution probe-corrected dark-field scanning transmission electron microscopy (DF-STEM) imaging and energy-dispersive X-ray spectrometry (EDS) mapping along the [11¯00] zone axis also confirms this 9-atom layer structure but does not support the proposed mixed occupancies. Dulanggouite represents the <span style=\"font-style: italic;\">N</span> = 9 member of the tetradymite homologous series. Within the Dulanggou deposit, native gold exhibits intimate microtextural intergrowths with dulanggouite, related Bi-rich tetradymite-group minerals (hedleyite and ehrigite), and native bismuth.</span>",
+    "source": "American Mineralogist Advance Access",
+    "date": "2026-08-05",
+    "sent": true
+  },
+  {
+    "id": "https://pubs.geoscienceworld.org/gsa/gsabulletin/article/doi/10.1130/B38896.1/734678/Stepwise-global-cooling-drove-Pleistocene-lake",
+    "title": "Stepwise global cooling drove Pleistocene lake regression in northern China",
+    "link": "https://pubs.geoscienceworld.org/gsa/gsabulletin/article/doi/10.1130/B38896.1/734678/Stepwise-global-cooling-drove-Pleistocene-lake",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\">The early Pleistocene represents a critical period for understanding the formation and evolution of the modern East Asian landscape. During this period, the intensification of Northern Hemisphere glaciation and the East Asian summer monsoon system exerted a strong influence on landscape evolution through hydrologic shifts and surface erosion and deposition in East Asia, while tectonic processes, another significant driver, shaped landforms through mountain growth and basin subsidence. Intermontane basins record the interplay among climatic variability, tectonic activity, and sediment supply, providing archives for evaluating their relative contributions. The Shanxi Rift in northern China is a prominent example, where thick late Cenozoic lacustrine successions record long-term tectonic regimes and East Asian summer monsoon variability through changes in sediment supply. Here we present a new lacustrine−deltaic succession and high-resolution magnetic susceptibility data to reconstruct lake-level evolution in the Taiyuan Basin, central Shanxi Rift, northern China. Using magnetostratigraphy combined with <sup>10</sup>Be burial dating, we establish a robust age framework from 2.59 Ma to 2.14 Ma and constrain a major lake regression to ca. 2.2 Ma. Our anisotropy of magnetic susceptibility results show no tectonic overprinting, supporting a tectonically quiescent state during the early Pleistocene. In contrast, a regional stepwise cooling and drying trend associated with the weakening of the East Asian summer monsoon is closely coupled with paleolake evolution in the Taiyuan Basin. These results demonstrate that climate forcing outweighed tectonics in controlling lake-level fluctuations in the Taiyuan Basin, highlighting the dominant role of climate change in shaping the modern East Asian landscape during key periods.</span>",
+    "source": "GSA Bulletin Advance Access",
+    "date": "2026-08-05",
+    "sent": true
+  },
+  {
+    "id": "https://pubs.geoscienceworld.org/gsa/gsabulletin/article/doi/10.1130/B38866.1/734677/Final-closure-of-the-eastern-Mongol-Okhotsk-Ocean",
+    "title": "Final closure of the eastern Mongol-Okhotsk Ocean: First evidence from Barrovian metamorphism and multistage deformation in the Luomahu Group, NE China",
+    "link": "https://pubs.geoscienceworld.org/gsa/gsabulletin/article/doi/10.1130/B38866.1/734677/Final-closure-of-the-eastern-Mongol-Okhotsk-Ocean",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\">Formation of the Mongol-Okhotsk suture belt represents the terminal orogenic event that constructed the modern tectonic framework of NE Asia. However, the timing and mechanisms of the final closure of the eastern Mongol-Okhotsk Ocean remain controversial. Based on integrated field investigations and analyses of microstructures, petrography, mineral chemistry, whole-rock geochemistry, phase equilibrium modeling, quartz electron backscatter diffraction fabric, and zircon U-Pb geochronology, we document for the first time a complete Middle to Late Jurassic Barrovian metamorphic sequence within the Luomahu Group of NE China, providing critical constraints on the timing and geodynamic processes of the final closure of the eastern Mongol-Okhotsk Ocean. Our study reveals that the Luomahu Group constitutes a tectonic collage of Lower Devonian to Lower Carboniferous metasedimentary strata intruded by early Mesozoic magmatic rocks, subsequently affected by Middle Jurassic to earliest Cretaceous syncollisional magmatism, metamorphism, and deformation. The prograde Barrovian metamorphism preserves a clockwise pressure-temperature-time-deformation path superposed by two deformation phases. Phase equilibrium modeling indicates progressive burial to amphibolite-facies peak conditions followed by retrograde cooling in both garnet-staurolite mica schist and garnet-sillimanite gneiss. Both deformation phases correlate with the peak metamorphic stage. D<sub>1</sub> deformation is characterized by top-to-the-SW/SSW thrusting. D<sub>2</sub> deformation is marked by sinistral strike-slip shearing along NNE-SSW−trending shear zones. Zircon U-Pb dating constrains the peak metamorphic age to ca. 165−145 Ma, with the two deformation phases occurring at ca. 162−150 Ma and ca. 150−144 Ma, respectively. We interpret the prograde Barrovian metamorphism and associated D<sub>1</sub> deformation as direct evidence of crustal thickening during the closure of the eastern Mongol-Okhotsk Ocean. The subsequent D<sub>2</sub> deformation is attributed to the far-field effects of NNW-directed low-angle subduction of the Paleo-Pacific plate, while a potential contribution from the ongoing ocean closure remains plausible. Together with regional data, we integrate our results to establish a west-to-east multistage closure model involving slab break-off, which conclusively demonstrates that the eastern Mongol-Okhotsk Ocean finally closed at the Jurassic to Cretaceous boundary.</span>",
+    "source": "GSA Bulletin Advance Access",
+    "date": "2026-08-05",
+    "sent": true
+  },
+  {
+    "id": "http://doi.org/10.1093/nsr/nwag475",
+    "title": "Impacts of multitrophic biological loop on soil carbon sequestration",
+    "link": "https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwag475/8753260?rss=1",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\">Interactions among soil viruses, microbes and soil fauna form a unified soil biological loop that shapes microbial necromass and controls soil carbon storage. This work extends the microbial carbon pump theory by introducing the virus-mediated microbial carbon pump, offering a new framework to explain soil carbon sequestration under global change.</span>",
+    "source": "National Science Review Advance Access",
+    "date": "2026-08-06",
+    "sent": true
+  },
+  {
     "id": "https://www.nature.com/articles/d41586-026-02429-0",
     "title": "Pumas are drivers’ guardian angels",
     "link": "https://www.nature.com/articles/d41586-026-02429-0",
