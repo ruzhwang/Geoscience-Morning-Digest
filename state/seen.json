@@ -1,5 +1,330 @@
 [
   {
+    "id": "https://www.nature.com/articles/s41561-026-02052-8",
+    "title": "Hydromagnesite on Earth and Mars",
+    "link": "https://www.nature.com/articles/s41561-026-02052-8",
+    "authors": [
+      "Yongjie Lin",
+      "Ian M. Power"
+    ],
+    "summary": "Nature Geoscience, Published online: 06 August 2026; <a href=\"https://www.nature.com/articles/s41561-026-02052-8\">doi:10.1038/s41561-026-02052-8</a>Humble hydromagnesite is a hydrated carbonate with outsized importance. Yongjie Lin and Ian Power explore its potential for both carbon sequestration and unlocking the secrets of potential past microbial life on Mars.",
+    "source": "Nature Geoscience",
+    "date": "2026-08-06",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41561-026-02073-3",
+    "title": "Opinions that matter",
+    "link": "https://www.nature.com/articles/s41561-026-02073-3",
+    "authors": [],
+    "summary": "Nature Geoscience, Published online: 06 August 2026; <a href=\"https://www.nature.com/articles/s41561-026-02073-3\">doi:10.1038/s41561-026-02073-3</a>Opinions grounded in evidence and expertise play an important role in scientific discourse. The most effective opinion pieces do not simply express a viewpoint — they acknowledge limitations, nuance, and diversity of perspectives, and help move the conversations forwards.",
+    "source": "Nature Geoscience",
+    "date": "2026-08-06",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL123701",
+    "title": "Attention‐Based Stochastic Simulation of Climate‐Informed Spatiotemporal Flood Risk for Multisite Insurance Portfolios",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL123701?af=R",
+    "authors": [
+      "Adam Nayak, \nPierre Gentine, \nUpmanu Lall"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 15, 16 August 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-08-07",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL124863",
+    "title": "Anomalies and Recovery of Evaporation Ducts Induced by Typhoons in the Northwest Pacific",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL124863?af=R",
+    "authors": [
+      "Xuhang Li, \nXiaoping Cheng, \nJiayuan Zhang, \nJianfang Fei, \nXiaogang Huang"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 15, 16 August 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-08-07",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL120846",
+    "title": "Impacts of Future Oil Palm Expansion on Carbon and Hydrological Fluxes Across the Tropics",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL120846?af=R",
+    "authors": [
+      "Ru Xu, \nYuanchao Fan, \nAshehad A. Ali, \nDavid J. Beerling, \nMaria Val Martin"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 15, 16 August 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-08-07",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL122182",
+    "title": "Gamma Rays Signal the Vulnerability of Forest to Extreme Drought",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL122182?af=R",
+    "authors": [
+      "Gavan S. McGrath, \nJoseph B. Fontaine, \nRichard Van Dongen, \nKatinka X. Ruthrof"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 15, 16 August 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-08-07",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL122331",
+    "title": "Seismic Tremor as a Precursor to Hydrothermal Explosions Near Mutnovsky Volcano (Kamchatka)",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL122331?af=R",
+    "authors": [
+      "Y. Berezhnev, \nN. Belovezhets, \nN. M. Shapiro, \nS. Abramenkov, \nI. Abkadyrov, \nS. Yaskevich, \nD. Chebrov, \nI. Koulakov"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 15, 16 August 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-08-07",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL123783",
+    "title": "Dust Layer Height Leads Atmospheric Boundary Layer Height by 3 hr Over the Taklimakan Desert",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL123783?af=R",
+    "authors": [
+      "Xingran Li, \nTian Zhou, \nDongsheng Wu, \nZikai Lin, \nYonghong Gu, \nQili Gao, \nZhongwei Huang, \nXiaokai Song, \nYufei Wang, \nQingqing Dong"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 15, 16 August 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-08-07",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL120213",
+    "title": "A Microphysical Model for Predicting Magma Fragmentation",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL120213?af=R",
+    "authors": [
+      "Jérémie Vasseur, \nFabian B. Wadsworth, \nEdward W. Llewellin, \nFrancisco Cáceres, \nDonald B. Dingwell, \nYan Lavallée, \nBettina Scheu"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 15, 16 August 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-08-07",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL122279",
+    "title": "Satellite Mapping of the Moulin Distribution Across the Entire Greenland Ice Sheet",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL122279?af=R",
+    "authors": [
+      "Yuhan Wang, \nKang Yang, \nJianing Wei, \nWenzhuo Zhang, \nDongyang Du, \nWensong Zhang"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 15, 16 August 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-08-07",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL122845",
+    "title": "Quantifying Daily Vertical Heat Flux in the Loop Current System: A Quasi‐Lagrangian Assessment of Frontal Hotspots",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL122845?af=R",
+    "authors": [
+      "Sakib Mahmud, \nXiao Ge, \nUchenna Nwankwo, \nAnthony Knap, \nSteven F. DiMarco"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 15, 16 August 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-08-07",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL120835",
+    "title": "Detecting an Ocean Inside Callisto With Geodetic Measurements From Europa Clipper and Juice",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL120835?af=R",
+    "authors": [
+      "Flavio Petricca, \nGael Cascioli, \nErwan Mazarico"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 15, 16 August 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-08-06",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL120812",
+    "title": "Updated Interior Structure of Callisto From a Reanalysis of Galileo Data",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL120812?af=R",
+    "authors": [
+      "G. Cascioli, \nF. Petricca, \nE. Mazarico, \nD. Buccino, \nC. Cochrane, \nJ. Castillo‐Rogez"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 15, 16 August 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-08-06",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL124221",
+    "title": "Temperature Dependent Complex Refractive Index (CRI) of Hexagonal Ice in the Range 150–270 K: Infrared and Far‐Infrared Transmission Measurements at the AILES Beamline",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL124221?af=R",
+    "authors": [
+      "Cecilia Taverna, \nMarine Verseils, \nJean‐Blaise Brubach, \nKelly Rader, \nQuentin Libois, \nPascale Roy, \nLaurent C.‐Labonnote"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 15, 16 August 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-08-06",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL121190",
+    "title": "Exploring Antarctic Feedback Mechanisms Using Two‐Way Coupled Subglacial Hydrology and Ice Flow Modeling in the Siple Coast",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL121190?af=R",
+    "authors": [
+      "Koi McArthur, \nChristine Dow, \nShivani Ehrenfeucht"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 15, 16 August 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-08-06",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL124704",
+    "title": "First Assessment of ICESat‐2 Summer Sea Ice Freeboard With Airborne Validation",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL124704?af=R",
+    "authors": [
+      "Ellen M. Buckley, \nSahra Kacimi, \nMelinda Webster, \nSiddarth Harrison, \nKutalmis Saylam, \nNathan T. Kurtz, \nRachel L. Tilling"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 15, 16 August 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-08-06",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GC013065",
+    "title": "An Open‐Source Markov Chain Monte Carlo Inversion Software for the Analysis of Experimental Rock Deformation Data",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GC013065?af=R",
+    "authors": [
+      "C. Jain, \nJ. Korenaga"
+    ],
+    "summary": "Geochemistry, Geophysics, Geosystems, Volume 27, Issue 8, August 2026.",
+    "source": "Wiley: Geochemistry, Geophysics, Geosystems: Table of Contents",
+    "date": "2026-08-08",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GC013187",
+    "title": "Distinct Transcrustal Evolutions of Komatiitic Primitive Magma: Implications for the Compositional Dichotomy of Continental Flood Basalts",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GC013187?af=R",
+    "authors": [
+      "Zongpeng Yang, \nTong Hou, \nRoman Botcharnikov, \nEvangelos Moulas, \nMeng Wang, \nStephan Buhre, \nZhaochong Zhang"
+    ],
+    "summary": "Geochemistry, Geophysics, Geosystems, Volume 27, Issue 8, August 2026.",
+    "source": "Wiley: Geochemistry, Geophysics, Geosystems: Table of Contents",
+    "date": "2026-08-07",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GC012960",
+    "title": "Early–Late Carboniferous Tectonic Evolution of the Northern North China Craton (NE China): Constraints From Zircon Ages, Geochemistry, and Crustal Thickness Modeling",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GC012960?af=R",
+    "authors": [
+      "Yunfei Chang, \nQingxiang Du, \nHuachun Gan, \nXiaoli Shen, \nZuozhen Han, \nXiaoxue Hou, \nHuicong Zhang"
+    ],
+    "summary": "Geochemistry, Geophysics, Geosystems, Volume 27, Issue 8, August 2026.",
+    "source": "Wiley: Geochemistry, Geophysics, Geosystems: Table of Contents",
+    "date": "2026-08-07",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025JB032373",
+    "title": "Pressurization of Shallow Magma Reservoir Preceding Basaltic Eruptions at an Open‐Vent Volcano",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JB032373?af=R",
+    "authors": [
+      "A. Ishikawa, \nT. Nishimura, \nG. Lacanna, \nH. Aoyama, \nR. Kawaguchi, \nE. Fujita, \nT. Yamada, \nT. Miwa, \nM. Ripepe"
+    ],
+    "summary": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 8, August 2026.",
+    "source": "Wiley: Journal of Geophysical Research: Solid Earth: Table of Contents",
+    "date": "2026-08-07",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025JB033724",
+    "title": "High‐Resolution Imaging of Lithosphere‐Asthenosphere Structure in Northeast China Using Eikonal Tomography With Physics‐Informed Deep Learning",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JB033724?af=R",
+    "authors": [
+      "Xinyuan Cui, \nYou Tian, \nChao Song, \nHonghao Li, \nUmair bin Waheed, \nCai Liu"
+    ],
+    "summary": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 8, August 2026.",
+    "source": "Wiley: Journal of Geophysical Research: Solid Earth: Table of Contents",
+    "date": "2026-08-07",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0016703726005120",
+    "title": "The solubility of NdPO<sub>4</sub> and DyPO<sub>4</sub> and stability of Nd and Dy chloride and hydroxyl complexes as a function of pH and salinity to 450 °C",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0016703726005120?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 7 August 2026<b>Source:</b> Geochimica et Cosmochimica ActaAuthor(s): Sarah E. Smith-Schmitz, Nicole C. Hurtig, Alexander P. Gysi, Daniel Harlov",
+    "source": "ScienceDirect Publication: Geochimica et Cosmochimica Acta",
+    "date": "2026-08-09",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0016703726005168",
+    "title": "Citation for Treibs award 2026 to Professor emeritus Steven John Rowland made by Associate Professor Maya Al Sid Cheikh (University of Edinburgh, Scotland)",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0016703726005168?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 7 August 2026<b>Source:</b> Geochimica et Cosmochimica ActaAuthor(s):",
+    "source": "ScienceDirect Publication: Geochimica et Cosmochimica Acta",
+    "date": "2026-08-09",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0016703726005156",
+    "title": "Acceptance Speech for Treibs Award 2026 to Steven John Rowland by Professor emeritus Steven Rowland (University of Plymouth, England)",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0016703726005156?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 7 August 2026<b>Source:</b> Geochimica et Cosmochimica ActaAuthor(s):",
+    "source": "ScienceDirect Publication: Geochimica et Cosmochimica Acta",
+    "date": "2026-08-09",
+    "sent": true
+  },
+  {
+    "id": "https://pubs.geoscienceworld.org/gsa/gsabulletin/article/doi/10.1130/B38686.1/734798/Carolina-Bays-and-their-connection-to-natural",
+    "title": "Carolina Bays and their connection to natural hydrogen gas seepage in the southeastern United States",
+    "link": "https://pubs.geoscienceworld.org/gsa/gsabulletin/article/doi/10.1130/B38686.1/734798/Carolina-Bays-and-their-connection-to-natural",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\">Carolina Bays are semi-circular depressional wetlands in the Atlantic Coastal Plain of the United States. By documenting matching identifications of Bays from two previously conducted large-scale mapping efforts, this study determined a conservative estimate for Carolina Bays to be ∼20,000. Carolina Bays have garnered interest due to the identification of molecular hydrogen seepage from these and other semi-circular depressional features worldwide. Hydrogen could be an important resource for carbon-free energy in the future. The potential for natural hydrogen within Carolina Bays needs further exploration to determine the degree of hydrogen availability.In this study, screening methods for molecular hydrogen gas within Georgia and the Carolinas were conducted utilizing surface and soil gas measuring techniques. Molecular hydrogen was measured within and around Carolina Bays in the three regions surveyed, confirming a likely link between these structures and molecular hydrogen seepage. Minor variations in surveying techniques led to shifts in the magnitude of hydrogen gas measurements, highlighting the importance of standardized surveying practices. Surface molecular hydrogen measurements may hold value in initial hydrogen screening for a general region. However, the lack of correlation between surface and soil gas measurements at a particular boring location limits direct comparison. The source of hydrogen gas from the Carolina Bays is unclear and needs further study. The East Coast Magnetic Anomaly and mafic dikes as geologic source rocks, as well as the role of microbial production in the soil of Carolina Bays, hold some merit.</span>",
+    "source": "GSA Bulletin Advance Access",
+    "date": "2026-08-07",
+    "sent": true
+  },
+  {
+    "id": "https://pubs.geoscienceworld.org/gsa/gsabulletin/article/doi/10.1130/B38839.1/734797/Petrological-and-geodynamic-controls-on-gold",
+    "title": "Petrological and geodynamic controls on gold fertility in Au-Cu systems: Insights from the Lut block in the Alpine-Himalayan orogenic corridor",
+    "link": "https://pubs.geoscienceworld.org/gsa/gsabulletin/article/doi/10.1130/B38839.1/734797/Petrological-and-geodynamic-controls-on-gold",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\">The Alpine-Himalayan orogenic belt in Iran exhibits a profound metallogenic contrast: the gold-rich late Eocene Lut block versus the copper-dominated Miocene Urumieh-Dokhtar magmatic arc (UDMA). This study investigates the geodynamic controls on this magmatic fertility dichotomy. For the Lut block, the mineralized 40−38 Ma intrusions are nonadakitic, derived from a moderately oxidized, phlogopite-bearing mantle wedge with limited crustal assimilation [<sup>87</sup>Sr/<sup>86</sup>Sr<sub>(t)</sub> = 0.70501−0.70666; εNd<sub>(t)</sub> = −2.29 to +1.91]. Eocene extensional tectonics from slab rollback induced crustal thinning and transcrustal fault networks. This architecture enabled rapid magma ascent, preventing significant staging. Critically, these magmas exhibited high sulfur activity, which efficiently scavenged and transported gold in resolving hydrothermal fluids. Delayed sulfide saturation further enriched the melt in chalcophile elements, yielding high Au/Cu ratios and deposition in structural traps. Simultaneous Eocene UDMA magmatism was deeper and less oxidized, inhibiting significant ore formation. The major UDMA porphyry Cu deposits formed later, in the early−middle Miocene, under a postcollisional compressional regime. Crustal thickening promoted partial melting, generating hydrous, oxidized, sulfur-rich adakitic magmas ideal for extensive fluid exsolution and copper transport. Subsequent Miocene magmatism in the Lut block remained barren due to metal-depleted sources and reduced fluid pathways. These divergent trajectories demonstrate that gold fertility is optimized in extensional regimes with high sulfur activity and efficient fluid pathways. In contrast, giant copper systems require compressional thickening to generate water-rich, adakitic magmas. This framework underscores the fundamental influence of tectono-magmatic conditions on metal endowment.</span>",
+    "source": "GSA Bulletin Advance Access",
+    "date": "2026-08-07",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025TC009269",
+    "title": "Inversion by Intrusion: Magma‐Driven Shortening in the Turkana Rift (East Africa)",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025TC009269?af=R",
+    "authors": [
+      "Ameha A. Muluneh, \nChris K. Morley, \nSascha Brune, \nSibiao Liu, \nAnne C. Glerum, \nRene Gassmöller, \nMarta Pérez‐Gussinyé"
+    ],
+    "summary": "Tectonics, Volume 45, Issue 8, August 2026.",
+    "source": "Wiley: Tectonics: Table of Contents",
+    "date": "2026-08-07",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025TC009236",
+    "title": "Uplift of the Transantarctic Mountains: Evidence for an Evolving and Long‐Lived Rayleigh‐Taylor Instability",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025TC009236?af=R",
+    "authors": [
+      "Tim Stern, \nSimon Lamb, \nJames D. P. Moore, \nAlec Yates"
+    ],
+    "summary": "Tectonics, Volume 45, Issue 8, August 2026.",
+    "source": "Wiley: Tectonics: Table of Contents",
+    "date": "2026-08-07",
+    "sent": true
+  },
+  {
     "id": "https://www.nature.com/articles/d41586-026-02488-3",
     "title": "Briefing Chat: Is DNA repair the secret to a long life? Whales and mole rats offer tantalizing hints",
     "link": "https://www.nature.com/articles/d41586-026-02488-3",
