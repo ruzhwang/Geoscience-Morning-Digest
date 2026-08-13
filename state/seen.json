@@ -1,5 +1,1991 @@
 [
   {
+    "id": "https://www.nature.com/articles/s41586-026-10994-7",
+    "title": "Lead carboxylates passivation for meter-scale perovskite solar modules",
+    "link": "https://www.nature.com/articles/s41586-026-10994-7",
+    "authors": [
+      "Dongdong Xu",
+      "Ke Xiao",
+      "Ye Liu",
+      "Xin Luo",
+      "Jian Xu",
+      "Yikang Wei",
+      "Yameen Ahmed",
+      "Shuncheng Yang",
+      "Haonan Liu",
+      "Yinke Wang",
+      "Shun Huang",
+      "Manya Li",
+      "Yuhong Zhang",
+      "Han Gao",
+      "Hongfei Sun",
+      "Gongtao Duan",
+      "Qiaolei Han",
+      "Qiang Liu",
+      "Shuo Zhang",
+      "Xingjie Lv",
+      "Jingfu Jiang",
+      "Li Chao",
+      "Dongxue Liu",
+      "Min Hao",
+      "Xincheng Hou",
+      "Makhsud I. Saidaminov",
+      "Hairen Tan"
+    ],
+    "summary": "Nature, Published online: 12 August 2026; <a href=\"https://www.nature.com/articles/s41586-026-10994-7\">doi:10.1038/s41586-026-10994-7</a>Lead carboxylates passivation for meter-scale perovskite solar modules",
+    "source": "Nature",
+    "date": "2026-08-12",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41586-026-10773-4",
+    "title": "Reply to: Pre-clinical data interpretation requires clinical context",
+    "link": "https://www.nature.com/articles/s41586-026-10773-4",
+    "authors": [
+      "Sean P. Pitroda",
+      "Ralph R. Weichselbaum"
+    ],
+    "summary": "Nature, Published online: 12 August 2026; <a href=\"https://www.nature.com/articles/s41586-026-10773-4\">doi:10.1038/s41586-026-10773-4</a>Reply to: Pre-clinical data interpretation requires clinical context",
+    "source": "Nature",
+    "date": "2026-08-12",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41586-026-10774-3",
+    "title": "Pre-clinical data interpretation requires clinical context",
+    "link": "https://www.nature.com/articles/s41586-026-10774-3",
+    "authors": [
+      "R. Muirhead",
+      "G. G. Hanna",
+      "F. McDonald",
+      "D. Palma",
+      "S. Siva",
+      "A. Tree"
+    ],
+    "summary": "Nature, Published online: 12 August 2026; <a href=\"https://www.nature.com/articles/s41586-026-10774-3\">doi:10.1038/s41586-026-10774-3</a>Pre-clinical data interpretation requires clinical context",
+    "source": "Nature",
+    "date": "2026-08-12",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-02463-y",
+    "title": "Giant balloon gives rise to new view of the Milky Way’s centre",
+    "link": "https://www.nature.com/articles/d41586-026-02463-y",
+    "authors": [],
+    "summary": "Nature, Published online: 12 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02463-y\">doi:10.1038/d41586-026-02463-y</a>Airborne camera gathers data about the high-energy particles emanating from the core of our Galaxy.",
+    "source": "Nature",
+    "date": "2026-08-12",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-02461-0",
+    "title": "Rattlesnakes’ own anti-venom could protect humans too",
+    "link": "https://www.nature.com/articles/d41586-026-02461-0",
+    "authors": [],
+    "summary": "Nature, Published online: 12 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02461-0\">doi:10.1038/d41586-026-02461-0</a>A mixture of proteins in snake blood can prevent the death of mice injected with an otherwise lethal dose of venom.",
+    "source": "Nature",
+    "date": "2026-08-12",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-02521-5",
+    "title": "The probiotic bacteria engineered to treat diabetes",
+    "link": "https://www.nature.com/articles/d41586-026-02521-5",
+    "authors": [
+      "Nick Petrić Howe",
+      "Benjamin Thompson"
+    ],
+    "summary": "Nature, Published online: 12 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02521-5\">doi:10.1038/d41586-026-02521-5</a>Genetically modified bacteria lower high blood-sugar in animal trials — plus, how to watch a solar eclipse safely.",
+    "source": "Nature",
+    "date": "2026-08-12",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41586-026-10787-y",
+    "title": "Dataset artefacts can partially drive the measured decline in disruption",
+    "link": "https://www.nature.com/articles/s41586-026-10787-y",
+    "authors": [
+      "Vincent Holst",
+      "Andres Algaba",
+      "Floriano Tori",
+      "Sylvia Wenmackers",
+      "Vincent Ginis"
+    ],
+    "summary": "Nature, Published online: 12 August 2026; <a href=\"https://www.nature.com/articles/s41586-026-10787-y\">doi:10.1038/s41586-026-10787-y</a>Dataset artefacts can partially drive the measured decline in disruption",
+    "source": "Nature",
+    "date": "2026-08-12",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41586-026-10788-x",
+    "title": "Reply to: Dataset artefacts can partially drive the measured decline in disruption",
+    "link": "https://www.nature.com/articles/s41586-026-10788-x",
+    "authors": [
+      "Michael Park",
+      "Erin Leahey",
+      "Russell J. Funk"
+    ],
+    "summary": "Nature, Published online: 12 August 2026; <a href=\"https://www.nature.com/articles/s41586-026-10788-x\">doi:10.1038/s41586-026-10788-x</a>Reply to: Dataset artefacts can partially drive the measured decline in disruption",
+    "source": "Nature",
+    "date": "2026-08-12",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41586-026-10805-z",
+    "title": "Agentic profiles for effective AI governance",
+    "link": "https://www.nature.com/articles/s41586-026-10805-z",
+    "authors": [
+      "Atoosa Kasirzadeh",
+      "Iason Gabriel"
+    ],
+    "summary": "Nature, Published online: 12 August 2026; <a href=\"https://www.nature.com/articles/s41586-026-10805-z\">doi:10.1038/s41586-026-10805-z</a>A framework comprising four dimensions—autonomy, efficacy, goal complexity and generality—is proposed for characterizing AI agents, supporting the construction of agentic profiles for the effective governance of different AI agents.",
+    "source": "Nature",
+    "date": "2026-08-12",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41586-026-10909-6",
+    "title": "Glucose-responsive probiotics for glycaemic modulation in mice and monkeys",
+    "link": "https://www.nature.com/articles/s41586-026-10909-6",
+    "authors": [
+      "Ningzi Guan",
+      "Deqiang Kong",
+      "Xianyun Gao",
+      "Lingxue Niu",
+      "Yang Zhou",
+      "Guiling Yu",
+      "Tian Gao",
+      "Mengyao Liu",
+      "Wenbo Ma",
+      "Yiyu Jin",
+      "Jianli Yin",
+      "Shangang Zhao",
+      "Haifeng Ye"
+    ],
+    "summary": "Nature, Published online: 12 August 2026; <a href=\"https://www.nature.com/articles/s41586-026-10909-6\">doi:10.1038/s41586-026-10909-6</a>Engineered probiotics equipped with a synthetic glucose-responsive circuit transiently colonize the gut and secrete therapeutic factors when glucose levels increase, enabling safe, oral, sense-and-respond control of diabetes in mouse and primate models.",
+    "source": "Nature",
+    "date": "2026-08-12",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41586-026-10916-7",
+    "title": "Temporal uncoupling of radial glia lineage progression in cortical organoids",
+    "link": "https://www.nature.com/articles/s41586-026-10916-7",
+    "authors": [
+      "Melissa Stouffer",
+      "Osvaldo A. Miranda",
+      "Florian M. Pauler",
+      "Fabrizia Pipicelli",
+      "Carmen Streicher",
+      "Giselle Cheung",
+      "Simon Hippenmeyer"
+    ],
+    "summary": "Nature, Published online: 12 August 2026; <a href=\"https://www.nature.com/articles/s41586-026-10916-7\">doi:10.1038/s41586-026-10916-7</a>RGP lineage tracing in stem-cell-derived organoids shows highly plastic proliferation and reduced clonal neuronal diversity, indicating that missing non-cell-autonomous niche cues are essential for faithful temporal control of cortical lineage progression.",
+    "source": "Nature",
+    "date": "2026-08-12",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41586-026-10756-5",
+    "title": "Shared principles of human and bacterial antiviral immunity",
+    "link": "https://www.nature.com/articles/s41586-026-10756-5",
+    "authors": [
+      "Philip J. Kranzusch"
+    ],
+    "summary": "Nature, Published online: 12 August 2026; <a href=\"https://www.nature.com/articles/s41586-026-10756-5\">doi:10.1038/s41586-026-10756-5</a>The Review describes shared ancient, conserved mechanisms between human antiviral immunity and bacterial anti-phage systems, outlining universal principles of pathogen sensing, signalling and effector function that reveal common rules governing host–virus interactions across life.",
+    "source": "Nature",
+    "date": "2026-08-12",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41586-026-10888-8",
+    "title": "Cascading continental-scale floods across Europe in 1342–1343",
+    "link": "https://www.nature.com/articles/s41586-026-10888-8",
+    "authors": [
+      "Andrea Kiss",
+      "Alberto Viglione",
+      "Mariano Barriendos",
+      "Silvia Enzi",
+      "Martin Bauch",
+      "Kris Decker",
+      "Nicolas Maughan",
+      "Dag Retsö",
+      "Astrid Ogilvie",
+      "Miriam Bertola",
+      "Tim Soens",
+      "Libor Elleder",
+      "Rudolf Brázdil",
+      "Kathleen Pribyl",
+      "Juraj Parajka",
+      "Ioannis Telelis",
+      "Inês Amorim",
+      "Josep Barriendos",
+      "Oliver Böhm",
+      "Gerardo Benito",
+      "Chiara Bertolin",
+      "Dario Camuffo",
+      "Denis Coeur",
+      "Gaston Demarée",
+      "Radoslaw Doktor",
+      "Markus Dotterweich",
+      "Rüdiger Glaser",
+      "Jürgen Komma",
+      "Neil Macdonald",
+      "Hrvoje Petrić",
+      "Christian Rohr",
+      "Petra Schmocker-Fackel",
+      "Lothar Schulte",
+      "Willem H. J. Toonen",
+      "Oliver Wetter",
+      "Günter Blöschl"
+    ],
+    "summary": "Nature, Published online: 12 August 2026; <a href=\"https://www.nature.com/articles/s41586-026-10888-8\">doi:10.1038/s41586-026-10888-8</a>Tracing cascading continental-scale medieval megafloods across Europe indicates that current flood management is unprepared for such sequences, highlighting the urgent need for proactive flood risk management strategies that account for unusual series of extreme flood events.",
+    "source": "Nature",
+    "date": "2026-08-12",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41586-026-10886-w",
+    "title": "Rb-driven transcription limits its tumour-suppressive effects in breast cancer",
+    "link": "https://www.nature.com/articles/s41586-026-10886-w",
+    "authors": [
+      "April C. Watt",
+      "Antonio Ahn",
+      "Catherine Blyth",
+      "Julia R. Dixon-Douglas",
+      "Krutika Ambani",
+      "Rhiannon Coulson",
+      "Michael Taylor",
+      "Keefe T. Chan",
+      "Catherine Dietrich",
+      "Brendan E. Russ",
+      "Susanne Ramm",
+      "Christabella A. Mahendra",
+      "Kun-Hui Lu",
+      "Nichelle Pires",
+      "Jesus Garcia-Sannicolas",
+      "Olivia Voulgaris",
+      "Sheena Nunag",
+      "Ching-Seng Ang",
+      "Mark A. Dawson",
+      "Elgene Lim",
+      "Monica Arnedos",
+      "Sarat Chandarlapaty",
+      "Fabrice André",
+      "Shom Goel"
+    ],
+    "summary": "Nature, Published online: 12 August 2026; <a href=\"https://www.nature.com/articles/s41586-026-10886-w\">doi:10.1038/s41586-026-10886-w</a>CDK4/6 inhibition redirects Rb chromatin occupancy to activate oestrogen-responsive genes, counteracting its own ability to maintain therapeutic cell-cycle arrest.",
+    "source": "Nature",
+    "date": "2026-08-12",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41586-026-10907-8",
+    "title": "Procognitive restoration of PV neuron plasticity in neurodevelopmental disorders",
+    "link": "https://www.nature.com/articles/s41586-026-10907-8",
+    "authors": [
+      "Yu-Tzu Shih",
+      "Jason Bondoc Alipio",
+      "Zin-Juan Klaft",
+      "Nathaniel Green",
+      "Alok Nath Mohapatra",
+      "Travis D. Goode",
+      "Muthu Panchanatham",
+      "Devesh Pathak",
+      "Lai Ping Wong",
+      "Ruslan Sadreyev",
+      "Jung Ho Hyun",
+      "Omar Ahmed",
+      "Chris Dulla",
+      "Amar Sahay"
+    ],
+    "summary": "Nature, Published online: 12 August 2026; <a href=\"https://www.nature.com/articles/s41586-026-10907-8\">doi:10.1038/s41586-026-10907-8</a>Expression of Meis2 in hippocampal parvalbumin-expressing interneurons in an adult mouse model of neurodevelopmental disorders rescues experience-dependent plasticity, improves memory and network function and suppresses seizures.",
+    "source": "Nature",
+    "date": "2026-08-12",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41586-026-10846-4",
+    "title": "A gas-enshrouded and gas-reddened black hole at cosmic dawn",
+    "link": "https://www.nature.com/articles/s41586-026-10846-4",
+    "authors": [
+      "Rohan P. Naidu",
+      "Jorryt Matthee",
+      "Harley Katz",
+      "Anna de Graaff",
+      "Pascal A. Oesch",
+      "Aaron Smith",
+      "Jenny E. Greene",
+      "Gabriel Brammer",
+      "Andrea Weibel",
+      "Raphael Hviding",
+      "John Chisholm",
+      "Ivo Labbé",
+      "Robert A. Simcoe",
+      "Callum Witten",
+      "Wendy Q. Sun",
+      "Hakim Atek",
+      "Josephine F. W. Baggen",
+      "Sirio Belli",
+      "Rachel Bezanson",
+      "Leindert A. Boogaard",
+      "Sownak Bose",
+      "Rychard J. Bouwens",
+      "Alba Covelo-Paz",
+      "Pratika Dayal",
+      "Yoshinobu Fudamoto",
+      "Lukas J. Furtak",
+      "Emma Giovinazzo",
+      "Andy Goulding",
+      "Max Gronke",
+      "Kasper E. Heintz",
+      "Michaela Hirschmann",
+      "Garth Illingworth",
+      "Akio K. Inoue",
+      "Benjamin D. Johnson",
+      "Joel Leja",
+      "Ecaterina Leonova",
+      "Ian McConachie",
+      "Michael V. Maseda",
+      "Priyamvada Natarajan",
+      "Erica Nelson",
+      "David J. Setton",
+      "Irene Shivaei",
+      "David Sobral",
+      "Mauro Stefanon",
+      "Sandro Tacchella",
+      "Sune Toft",
+      "Alberto Torralba",
+      "Pieter van Dokkum",
+      "Arjen van der Wel",
+      "Marta Volonteri",
+      "Fabian Walter",
+      "Bingjie Wang",
+      "Darach Watson",
+      "Katherine Whitaker"
+    ],
+    "summary": "Nature, Published online: 12 August 2026; <a href=\"https://www.nature.com/articles/s41586-026-10846-4\">doi:10.1038/s41586-026-10846-4</a>Observations of an unusual cosmic-dawn source illuminate how early supermassive black holes may have grown rapidly in a gas-enshrouded state; such enshrouded black holes may lie at the heart of the 'little red dots'.",
+    "source": "Nature",
+    "date": "2026-08-12",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41586-026-10905-w",
+    "title": "Towards an equitable future of global photovoltaic waste recycling",
+    "link": "https://www.nature.com/articles/s41586-026-10905-w",
+    "authors": [
+      "Chen Wang",
+      "Jian Zuo",
+      "Xinyu Chen",
+      "Ruidong Chang",
+      "Pengfei Yuan",
+      "Kuishuang Feng",
+      "Yu Xin",
+      "Xi Liu",
+      "Peipei Tian",
+      "Jing Li",
+      "John Laurence Esguerra",
+      "Jiashuo Li"
+    ],
+    "summary": "Nature, Published online: 12 August 2026; <a href=\"https://www.nature.com/articles/s41586-026-10905-w\">doi:10.1038/s41586-026-10905-w</a>Global photovoltaic waste will reach 297–402 million tonnes by 2060, and regionally adapted recycling strategies and international cooperation will be needed to provide equitable and scalable PV waste circularity.",
+    "source": "Nature",
+    "date": "2026-08-12",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41586-026-10889-7",
+    "title": "Luminescent-reaction-enabled super-resolution imaging",
+    "link": "https://www.nature.com/articles/s41586-026-10889-7",
+    "authors": [
+      "Wenxin Zhu",
+      "Chi Zhang",
+      "Jiahui Gui",
+      "Yibo Yang",
+      "Yuxin Wan",
+      "Xin Wang",
+      "Liying Qu",
+      "Ao Guo",
+      "Ziqing Zhang",
+      "Zhenqian Han",
+      "Weisong Zhao",
+      "Jiandong Feng"
+    ],
+    "summary": "Nature, Published online: 12 August 2026; <a href=\"https://www.nature.com/articles/s41586-026-10889-7\">doi:10.1038/s41586-026-10889-7</a>A new chemistry-based super-resolution imaging framework is described, enabling 3D, laser-free, highly sensitive and ultralong-term imaging of live cells which overcomes the limitations in spatiotemporal resolution associated with reaction-based imaging methods.",
+    "source": "Nature",
+    "date": "2026-08-12",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41586-026-10891-z",
+    "title": "Degree-of-polarization modulation for high-dimensional optical computing",
+    "link": "https://www.nature.com/articles/s41586-026-10891-z",
+    "authors": [
+      "Alessandro Petrini",
+      "Claudio Conti",
+      "Davide Pierangeli"
+    ],
+    "summary": "Nature, Published online: 12 August 2026; <a href=\"https://www.nature.com/articles/s41586-026-10891-z\">doi:10.1038/s41586-026-10891-z</a>By engineering the statistics of light at the micrometre scale using phase-only spatial light modulators, both the state and degree of polarization become spatially programmable, enabling direct encoding of information in a high-dimensional space.",
+    "source": "Nature",
+    "date": "2026-08-12",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41586-026-10896-8",
+    "title": "Neural basis of compositional control",
+    "link": "https://www.nature.com/articles/s41586-026-10896-8",
+    "authors": [
+      "Assia Chericoni",
+      "Justin M. Fine",
+      "Taha S. Ismail",
+      "Gabriela Delgado Salazar",
+      "Melissa C. Franch",
+      "Elizabeth Mickiewicz",
+      "Ana G. Chavez",
+      "Eleonora Bartoli",
+      "Danika L. Paulo",
+      "Vaishnav Krishnan",
+      "Mohamed Hegazy",
+      "Alica M. Goldman",
+      "Lu Lin",
+      "Garrett P. Banks",
+      "Nisha Giridharan",
+      "Mohammed Hasen",
+      "Nicole R. Provenza",
+      "Andrew Watrous",
+      "Seng Bum Michael Yoo",
+      "Sameer A. Sheth",
+      "Benjamin Y. Hayden"
+    ],
+    "summary": "Nature, Published online: 12 August 2026; <a href=\"https://www.nature.com/articles/s41586-026-10896-8\">doi:10.1038/s41586-026-10896-8</a>Behaviour of human participants in a prey-pursuit task reflects dynamic blending of goal-specific control policies, with hippocampus estimating latent states, anterior cingulate cortex orchestrating policy switches and orbitofrontal cortex supplying value-based contextualization rather than driving continuous policy updating.",
+    "source": "Nature",
+    "date": "2026-08-12",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41586-026-10903-y",
+    "title": "Structural mechanism governing the directionality of bridge recombination",
+    "link": "https://www.nature.com/articles/s41586-026-10903-y",
+    "authors": [
+      "Masahiro Hiraizumi",
+      "Januka S. Athukoralage",
+      "Nicholas T. Perry",
+      "Eisuke Tsujimoto",
+      "Nami Shiojiri",
+      "Naoto Nagahata",
+      "Lauren Lee",
+      "Gwanggyu Sun",
+      "Matthew G. Durrant",
+      "Sita S. Chandrasekaran",
+      "Silvana Konermann",
+      "Keitaro Yamashita",
+      "Patrick D. Hsu",
+      "Hiroshi Nishimasu"
+    ],
+    "summary": "Nature, Published online: 12 August 2026; <a href=\"https://www.nature.com/articles/s41586-026-10903-y\">doi:10.1038/s41586-026-10903-y</a>Cryo-electron microscopy structures show how IS621 bridge recombinase mediates DNA excision, explaining its natural preference for insertion and informing the design of programmable bridge-editing technologies.",
+    "source": "Nature",
+    "date": "2026-08-12",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41586-026-10870-4",
+    "title": "Species intraspecific variation drives tropical forest drought resistance",
+    "link": "https://www.nature.com/articles/s41586-026-10870-4",
+    "authors": [
+      "Chris M. Smith-Martin",
+      "Robert Muscarella",
+      "Timothy J. Brodribb",
+      "María Uriarte"
+    ],
+    "summary": "Nature, Published online: 12 August 2026; <a href=\"https://www.nature.com/articles/s41586-026-10870-4\">doi:10.1038/s41586-026-10870-4</a>Substantial intraspecific variation, together with species turnover, drives coordinated shifts in drought resistance such as increased embolism resistance and wider stomatal safety margins in drier forests.",
+    "source": "Nature",
+    "date": "2026-08-12",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41586-026-10724-z",
+    "title": "Numerous bow shocks in the outer Helix Nebula",
+    "link": "https://www.nature.com/articles/s41586-026-10724-z",
+    "authors": [
+      "Pieter van Dokkum",
+      "Roberto Abraham",
+      "William P. Bowman",
+      "Seery Chen",
+      "Steven R. Janssens",
+      "Deborah M. Lokhorst",
+      "Imad Pasha",
+      "Carter Rhea"
+    ],
+    "summary": "Nature, Published online: 12 August 2026; <a href=\"https://www.nature.com/articles/s41586-026-10724-z\">doi:10.1038/s41586-026-10724-z</a>Shocks in the eastern outskirts of the Helix Nebula, detected in Hα emission with the MOTHRA telescope, provide evidence for the recycling of fragmented stellar ejecta into the surrounding gas.",
+    "source": "Nature",
+    "date": "2026-08-12",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41586-026-10922-9",
+    "title": "Maternal influences on infant gut microbiome and health",
+    "link": "https://www.nature.com/articles/s41586-026-10922-9",
+    "authors": [
+      "Trishla Sinha",
+      "Siobhan Brushett",
+      "Asier Fernández-Pato",
+      "Sanzhima Garmaeva",
+      "Sergio Andreu-Sánchez",
+      "Johanne E. Spreckels",
+      "Cyrus A. Mallon",
+      "Nataliia Kuzub",
+      "Milla Brandao Gois",
+      "Jiafei Wu",
+      "Marloes Kruk",
+      "Soesma A. Jankipersadsing",
+      "Jackie A. M. Dekens",
+      "Ranko Gacesa",
+      "Arnau Vich Vila",
+      "Corinna Bang",
+      "Corine Perenboom",
+      "Andre Franke",
+      "Hanne L. P. Tytgat",
+      "Sara Colombo Mottaz",
+      "Lilian Peters",
+      "Ank de Jonge",
+      "Henkjan J. Verkade",
+      "Morris A. Swertz",
+      "Cisca Wijmenga",
+      "Folkert Kuipers",
+      "Sicco Scherjon",
+      "Jan Sikkema",
+      "Aline B. Sprikkelman",
+      "Marlou L. A. de Kroon",
+      "Jelmer R. Prins",
+      "Sanne J. Gordijn",
+      "Gerard H. Koppelman",
+      "Sijmen A. Reijneveld",
+      "Milla F. Brandão-Gois",
+      "Marcel Bruinenberg",
+      "Anouk Marsman",
+      "Jingyuan Fu",
+      "Moran Yassour",
+      "Alexander Kurilshikov",
+      "Alexandra Zhernakova"
+    ],
+    "summary": "Nature, Published online: 12 August 2026; <a href=\"https://www.nature.com/articles/s41586-026-10922-9\">doi:10.1038/s41586-026-10922-9</a>The maternal gut microbiome is a predictor of infant eczema.",
+    "source": "Nature",
+    "date": "2026-08-12",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41586-026-10878-w",
+    "title": "Evidence for the first globular cluster stellar stream beyond the Milky Way",
+    "link": "https://www.nature.com/articles/s41586-026-10878-w",
+    "authors": [
+      "Julie Kiel Holm",
+      "Sarah Pearson",
+      "Jacob Nibauer",
+      "David J. Sand",
+      "Adrian M. Price-Whelan",
+      "Tjitske Starkenburg",
+      "David Hendel",
+      "Catherine Fielder"
+    ],
+    "summary": "Nature, Published online: 12 August 2026; <a href=\"https://www.nature.com/articles/s41586-026-10878-w\">doi:10.1038/s41586-026-10878-w</a>Deep Hubble Space Telescope imaging of the ultra-diffuse galaxy UGC 9050-Dw1 reveals an extragalactic globular cluster stream, with analysis and modelling probing the rich dark matter content of the host galaxy.",
+    "source": "Nature",
+    "date": "2026-08-12",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41586-026-10880-2",
+    "title": "Heterogeneous climatic controls on tropical-forest biomass",
+    "link": "https://www.nature.com/articles/s41586-026-10880-2",
+    "authors": [
+      "Matheus Henrique Nunes",
+      "Helene C. Muller-Landau",
+      "Eric Bastos Görgens",
+      "Adrian Pascual",
+      "Ralph Dubayah"
+    ],
+    "summary": "Nature, Published online: 12 August 2026; <a href=\"https://www.nature.com/articles/s41586-026-10880-2\">doi:10.1038/s41586-026-10880-2</a>An analysis of the relationships between aboveground biomass and various climatic factors in three major regions of tropical forest shows that understanding the complex interactions between climate, topography and soils is crucial to predict how climate change will affect carbon storage capacity.",
+    "source": "Nature",
+    "date": "2026-08-12",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41586-026-10857-1",
+    "title": "Superconducting 2D cuprate with a single CuO<sub>2</sub> plane",
+    "link": "https://www.nature.com/articles/s41586-026-10857-1",
+    "authors": [
+      "Hengsheng Luo",
+      "Dongjoon Song",
+      "Yijun Yu",
+      "Liguo Ma",
+      "Peng Cai",
+      "Ruidan Zhong",
+      "Yiwen Chen",
+      "Lin Zhao",
+      "Jian Shen",
+      "Dan Shahar",
+      "Xingjiang Zhou",
+      "Zhengyu Weng",
+      "Xian Hui Chen",
+      "Wei Ruan",
+      "Yuanbo Zhang"
+    ],
+    "summary": "Nature, Published online: 12 August 2026; <a href=\"https://www.nature.com/articles/s41586-026-10857-1\">doi:10.1038/s41586-026-10857-1</a>A high-quality, pristine monolayer cuprate superconductor with a single CuO2 plane is fabricated and used to identify two quantum critical phenomena emerging between the Mott insulating phase and the superconducting phase.",
+    "source": "Nature",
+    "date": "2026-08-12",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41586-026-10906-9",
+    "title": "In vivo genome-wide CRISPR screens of human T cells in solid tumours",
+    "link": "https://www.nature.com/articles/s41586-026-10906-9",
+    "authors": [
+      "Qi Liu",
+      "Peixin Amy Chen",
+      "Esha Urs",
+      "Shimin Zhang",
+      "Maya M. Arce",
+      "Charlotte H. Wang",
+      "Jun Yan",
+      "Vinh Q. Nguyen",
+      "Zhongmei Li",
+      "Jin Seo",
+      "Nupura Kale",
+      "Fanglue Peng",
+      "Yikai Luo",
+      "Laine Goudy",
+      "Taylor N. LaFlam",
+      "Haixia Zhong",
+      "Chandrima Modak",
+      "Emma Dann",
+      "Jae Hyung Jung",
+      "Amanda Kirane",
+      "Allison Betof Warner",
+      "Boi Bryant Quach",
+      "Zinaida Good",
+      "Brian R. Shy",
+      "Eric Shifrut",
+      "Sagar P. Bapat",
+      "Greg M. Allen",
+      "Justin Eyquem",
+      "Katherine Fuh",
+      "Stacie E. Dodgson",
+      "Jason G. Cyster",
+      "Alexander Marson",
+      "Julia Carnevale"
+    ],
+    "summary": "Nature, Published online: 12 August 2026; <a href=\"https://www.nature.com/articles/s41586-026-10906-9\">doi:10.1038/s41586-026-10906-9</a>An in vivo model that is able to recover human T cells from solid tumours can identify targets to help improve CAR T cell antitumour activity.",
+    "source": "Nature",
+    "date": "2026-08-12",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41586-026-10925-6",
+    "title": "Biomarkers of nivolumab benefit in resectable non-small cell lung cancer",
+    "link": "https://www.nature.com/articles/s41586-026-10925-6",
+    "authors": [
+      "Tina Cascone",
+      "Mark M. Awad",
+      "Jonathan D. Spicer",
+      "Jie He",
+      "Shun Lu",
+      "Fumihiro Tanaka",
+      "Robin Cornelissen",
+      "Lubos B. Petruzelka",
+      "Yang Gao",
+      "Jean-Louis Pujol",
+      "Hiroyuki Ito",
+      "Ludmila de Oliveira Muniz Koch",
+      "Tudor-Eliade Ciuleanu",
+      "Lin Wu",
+      "Sabine Bohnet",
+      "Yasutaka Watanabe",
+      "Janis M. Taube",
+      "Julie Stein Deutsch",
+      "Cinthya Coronado Erdmann",
+      "Stephanie Meadows-Shropshire",
+      "Jaclyn Neely",
+      "Virginia Ip",
+      "Yu-Han Hung",
+      "Padma Sathyanarayana",
+      "Sumeena Bhatia",
+      "Katherine Chu",
+      "Steven I. Blum",
+      "Stefano Lucherini",
+      "Nathanial Eddy",
+      "Akshay Yadav",
+      "Mariano Provencio"
+    ],
+    "summary": "Nature, Published online: 12 August 2026; <a href=\"https://www.nature.com/articles/s41586-026-10925-6\">doi:10.1038/s41586-026-10925-6</a>Potential predictive biomarkers of perioperative nivolumab therapy benefit in non-small cell lung cancer are identified from evaluable participants in the CheckMate 77T trial.",
+    "source": "Nature",
+    "date": "2026-08-12",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-02395-7",
+    "title": "How the human brain can pursue two goals at the same time",
+    "link": "https://www.nature.com/articles/d41586-026-02395-7",
+    "authors": [],
+    "summary": "Nature, Published online: 12 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02395-7\">doi:10.1038/d41586-026-02395-7</a>In the natural world, an animal can blend strategies so it can advance towards several goals at the same time. An engineering approach called control theory was used to infer people’s goals while they played a simple video game, and showed how three brain regions work together to implement goal blending.",
+    "source": "Nature",
+    "date": "2026-08-12",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-02473-w",
+    "title": "Human brain stimulation engages different gene programs in different cell types",
+    "link": "https://www.nature.com/articles/d41586-026-02473-w",
+    "authors": [],
+    "summary": "Nature, Published online: 12 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02473-w\">doi:10.1038/d41586-026-02473-w</a>Electrical stimulation of the human brain is a promising strategy for slowing cognitive decline. The discovery of cell-type-specific gene programs that are induced in tandem with the activity of networks of neurons in the temporal cortex when it is stimulated could inform the development of therapeutic approaches using stimulation.",
+    "source": "Nature",
+    "date": "2026-08-12",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-02478-5",
+    "title": "Ultrafast temporal engineering of optical properties using terahertz light",
+    "link": "https://www.nature.com/articles/d41586-026-02478-5",
+    "authors": [],
+    "summary": "Nature, Published online: 12 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02478-5\">doi:10.1038/d41586-026-02478-5</a>A photonic time crystal is an optical system of which properties such as its refractive index are modulated strongly and rapidly over time. One has now been obtained all-optically by delivering an intense terahertz light wave onto a material with a specialized microstructure that hosts collective waves of electrons known as plasmons.",
+    "source": "Nature",
+    "date": "2026-08-12",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-02292-z",
+    "title": "Intraspecific variation in tropical trees can drive resistance to drought",
+    "link": "https://www.nature.com/articles/d41586-026-02292-z",
+    "authors": [
+      "Brendan Choat",
+      "Erick Calderón-Morales"
+    ],
+    "summary": "Nature, Published online: 12 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02292-z\">doi:10.1038/d41586-026-02292-z</a>Different tropical tree species can vary in their ability to withstand drought — and so too, it seems, can distinct populations of the same tree species.",
+    "source": "Nature",
+    "date": "2026-08-12",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-02448-x",
+    "title": "A controversial Alzheimer’s surgery is said to reverse symptoms — here’s what scientists know",
+    "link": "https://www.nature.com/articles/d41586-026-02448-x",
+    "authors": [
+      "Elie Dolgin"
+    ],
+    "summary": "Nature, Published online: 12 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02448-x\">doi:10.1038/d41586-026-02448-x</a>Jaw-dropping patient videos and miraculous testimonials ignited a frenzy in China over a technique that aims to improve drainage from the brain. Now it is entering trials worldwide.",
+    "source": "Nature",
+    "date": "2026-08-12",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-02408-5",
+    "title": "System lag",
+    "link": "https://www.nature.com/articles/d41586-026-02408-5",
+    "authors": [
+      "Toshiya Kamei"
+    ],
+    "summary": "Nature, Published online: 12 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02408-5\">doi:10.1038/d41586-026-02408-5</a>Out of place.",
+    "source": "Nature",
+    "date": "2026-08-12",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-02290-1",
+    "title": "‘Little red dot’ gets its colour from gas — not dust",
+    "link": "https://www.nature.com/articles/d41586-026-02290-1",
+    "authors": [
+      "Dominik Schleicher",
+      "Rodrigo Herrera-Camus"
+    ],
+    "summary": "Nature, Published online: 12 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02290-1\">doi:10.1038/d41586-026-02290-1</a>Dust can tint the cosmos red, but a compact astronomical object is coloured by turbulent gas around a black hole.",
+    "source": "Nature",
+    "date": "2026-08-12",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-02498-1",
+    "title": "A particle made of force: physicists say they’ve found mysterious ‘glueball’",
+    "link": "https://www.nature.com/articles/d41586-026-02498-1",
+    "authors": [
+      "Mohana Basu"
+    ],
+    "summary": "Nature, Published online: 12 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02498-1\">doi:10.1038/d41586-026-02498-1</a>Scientists have predicted the existence of a particle made of gluons for a long time, but detecting it has taken decades.",
+    "source": "Nature",
+    "date": "2026-08-12",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-02159-3",
+    "title": "Bow shocks reveal how a dying star returns matter to interstellar space",
+    "link": "https://www.nature.com/articles/d41586-026-02159-3",
+    "authors": [],
+    "summary": "Nature, Published online: 12 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02159-3\">doi:10.1038/d41586-026-02159-3</a>Deep imaging of ionized gas in the Helix Nebula uncovers many curved shock waves around a dying Sun-like star. These ‘bow shocks’ are produced when ejected shells of stellar material break up and race outwards. Their changing shapes imply that the shell fragments are being stripped, shredded and mixed into interstellar gas over roughly 10,000 years.",
+    "source": "Nature",
+    "date": "2026-08-12",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-02496-3",
+    "title": "Ocean temperatures set to break all-time record: what’s next?",
+    "link": "https://www.nature.com/articles/d41586-026-02496-3",
+    "authors": [
+      "James Dinneen"
+    ],
+    "summary": "Nature, Published online: 12 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02496-3\">doi:10.1038/d41586-026-02496-3</a>High sea surface temperatures are expected to weaken ocean carbon sinks and damage coral reefs.",
+    "source": "Nature",
+    "date": "2026-08-12",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-02291-0",
+    "title": "No single rule explains how climate affects carbon storage in tropical forests",
+    "link": "https://www.nature.com/articles/d41586-026-02291-0",
+    "authors": [
+      "María Uriarte",
+      "Marcia Macedo"
+    ],
+    "summary": "Nature, Published online: 12 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02291-0\">doi:10.1038/d41586-026-02291-0</a>Ecologists have long wondered why some tropical forests store more carbon than others. A global satellite survey offers an explanation.",
+    "source": "Nature",
+    "date": "2026-08-12",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-02515-3",
+    "title": "Trump wants MMR vaccine split up: the science behind why it’s a bad idea",
+    "link": "https://www.nature.com/articles/d41586-026-02515-3",
+    "authors": [
+      "Kaia Glickman",
+      "Max Kozlov"
+    ],
+    "summary": "Nature, Published online: 12 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02515-3\">doi:10.1038/d41586-026-02515-3</a>Numerous studies have shown that separating childhood jabs will delay protection and increase costs for families.",
+    "source": "Nature",
+    "date": "2026-08-12",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41586-026-10991-w",
+    "title": "Phosphine-mediated azine C–H couplings with water and ammonia",
+    "link": "https://www.nature.com/articles/s41586-026-10991-w",
+    "authors": [
+      "Kyle G. Nottingham",
+      "Dane A. Brunner",
+      "David Dalmau",
+      "Amanda K. Melanese",
+      "Juan V. Alegre-Requena",
+      "Robert S. Paton",
+      "Andrew McNally"
+    ],
+    "summary": "Nature, Published online: 11 August 2026; <a href=\"https://www.nature.com/articles/s41586-026-10991-w\">doi:10.1038/s41586-026-10991-w</a>Phosphine-mediated azine C–H couplings with water and ammonia",
+    "source": "Nature",
+    "date": "2026-08-11",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41586-026-10947-0",
+    "title": "Author Correction: Uncovering the role of LINE-1 in the evolution of lung adenocarcinoma",
+    "link": "https://www.nature.com/articles/s41586-026-10947-0",
+    "authors": [
+      "Tongwu Zhang",
+      "Wei Zhao",
+      "Christopher Wirth",
+      "Marcos Díaz-Gay",
+      "Jinhu Yin",
+      "Monia Cecati",
+      "Francesca Marchegiani",
+      "Phuc H. Hoang",
+      "Charles Leduc",
+      "Marina K. Baine",
+      "William D. Travis",
+      "Lynette M. Sholl",
+      "Philippe Joubert",
+      "Jian Sang",
+      "John P. McElderry",
+      "Michelle Antony",
+      "Alyssa Klein",
+      "Azhar Khandekar",
+      "Caleb Hartman",
+      "Jennifer Rosenbaum",
+      "Frank J. Colón-Matos",
+      "Mona Miraftab",
+      "Monjoy Saha",
+      "Olivia W. Lee",
+      "Kristine M. Jones",
+      "Neil E. Caporaso",
+      "Maria Pik Wong",
+      "Kin Chung Leung",
+      "Chao Agnes Hsiung",
+      "Chih-Yi Chen",
+      "Eric S. Edell",
+      "Jacobo Martínez Santamaría",
+      "Matthew B. Schabath",
+      "Sai S. Yendamuri",
+      "Marta Manczuk",
+      "Jolanta Lissowska",
+      "Beata Świątkowska",
+      "Anush Mukeria",
+      "Oxana Shangina",
+      "David Zaridze",
+      "Ivana Holcatova",
+      "Dana Mates",
+      "Sasa Milosavljevic",
+      "Milan Savic",
+      "Yohan Bossé",
+      "Bonnie E. Gould Rothberg",
+      "David C. Christiani",
+      "Valerie Gaborieau",
+      "Paul Brennan",
+      "Geoffrey Liu",
+      "Paul Hofman",
+      "Robert Homer",
+      "Soo-Ryum Yang",
+      "Angela C. Pesatori",
+      "Dario Consonni",
+      "Lixing Yang",
+      "Bin Zhu",
+      "Jianxin Shi",
+      "Kevin Brown",
+      "Nathaniel Rothman",
+      "Stephen J. Chanock",
+      "Ludmil B. Alexandrov",
+      "Jiyeon Choi",
+      "Maurizio Cardelli",
+      "Qing Lan",
+      "Martin A. Nowak",
+      "David C. Wedge",
+      "Maria Teresa Landi"
+    ],
+    "summary": "Nature, Published online: 11 August 2026; <a href=\"https://www.nature.com/articles/s41586-026-10947-0\">doi:10.1038/s41586-026-10947-0</a>Author Correction: Uncovering the role of LINE-1 in the evolution of lung adenocarcinoma",
+    "source": "Nature",
+    "date": "2026-08-11",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-02492-7",
+    "title": "Funders should look beyond strict age criteria",
+    "link": "https://www.nature.com/articles/d41586-026-02492-7",
+    "authors": [
+      "Xiaohui Xia"
+    ],
+    "summary": "Nature, Published online: 11 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02492-7\">doi:10.1038/d41586-026-02492-7</a>Funders should look beyond strict age criteria",
+    "source": "Nature",
+    "date": "2026-08-11",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-02464-x",
+    "title": "The case for responsible scientific activism",
+    "link": "https://www.nature.com/articles/d41586-026-02464-x",
+    "authors": [
+      "Stuart Capstick",
+      "Charlie Gardner",
+      "Abi Perrin"
+    ],
+    "summary": "Nature, Published online: 11 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02464-x\">doi:10.1038/d41586-026-02464-x</a>The case for responsible scientific activism",
+    "source": "Nature",
+    "date": "2026-08-11",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-02431-6",
+    "title": "Shipping on rivers packs a surprisingly large climate punch",
+    "link": "https://www.nature.com/articles/d41586-026-02431-6",
+    "authors": [],
+    "summary": "Nature, Published online: 11 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02431-6\">doi:10.1038/d41586-026-02431-6</a>Growing traffic on inland waterways could offer an opportunity for cutting emissions.",
+    "source": "Nature",
+    "date": "2026-08-11",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-02490-9",
+    "title": "AI tools speed up analysis, but scientific truths must be grounded in reality",
+    "link": "https://www.nature.com/articles/d41586-026-02490-9",
+    "authors": [
+      "Weishi Zhang",
+      "Ying Xu",
+      "Yitong Han"
+    ],
+    "summary": "Nature, Published online: 11 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02490-9\">doi:10.1038/d41586-026-02490-9</a>AI tools speed up analysis, but scientific truths must be grounded in reality",
+    "source": "Nature",
+    "date": "2026-08-11",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-02380-0",
+    "title": "How escalating costs scuppered a radio telescope at Joddrell Bank",
+    "link": "https://www.nature.com/articles/d41586-026-02380-0",
+    "authors": [],
+    "summary": "Nature, Published online: 11 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02380-0\">doi:10.1038/d41586-026-02380-0</a>Where to spot a basking shark and a gloomy tale about an abandoned telescope, in this week’s pick from the Nature archive.",
+    "source": "Nature",
+    "date": "2026-08-11",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-02491-8",
+    "title": "Will AI make our dreams all look the same?",
+    "link": "https://www.nature.com/articles/d41586-026-02491-8",
+    "authors": [
+      "Claudio Nastruzzi"
+    ],
+    "summary": "Nature, Published online: 11 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02491-8\">doi:10.1038/d41586-026-02491-8</a>Will AI make our dreams all look the same?",
+    "source": "Nature",
+    "date": "2026-08-11",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-02454-z",
+    "title": "The forgotten 20 million: why is the world neglecting Afghanistan’s girls and women?",
+    "link": "https://www.nature.com/articles/d41586-026-02454-z",
+    "authors": [],
+    "summary": "Nature, Published online: 11 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02454-z\">doi:10.1038/d41586-026-02454-z</a>It is shameful that half the country’s population continues to be overlooked by the international community.",
+    "source": "Nature",
+    "date": "2026-08-11",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-02374-y",
+    "title": "HIV vaccines guide rare immune cells to make broadly neutralizing antibodies",
+    "link": "https://www.nature.com/articles/d41586-026-02374-y",
+    "authors": [
+      "S. Gnanakaran",
+      "Cynthia A. Derdeyn"
+    ],
+    "summary": "Nature, Published online: 11 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02374-y\">doi:10.1038/d41586-026-02374-y</a>Three studies in non-human primates show that strategically designed vaccines could prime a population of B cells to produce effective antibodies against HIV.",
+    "source": "Nature",
+    "date": "2026-08-11",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-02452-1",
+    "title": "Seven tips for a graceful lab exit",
+    "link": "https://www.nature.com/articles/d41586-026-02452-1",
+    "authors": [
+      "Stephanie Melchor"
+    ],
+    "summary": "Nature, Published online: 11 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02452-1\">doi:10.1038/d41586-026-02452-1</a>Job transitions are challenging, but good communication and planning will help.",
+    "source": "Nature",
+    "date": "2026-08-11",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-02082-7",
+    "title": "When the best decision is no decision: the rise of randomization in grant funding",
+    "link": "https://www.nature.com/articles/d41586-026-02082-7",
+    "authors": [
+      "Max Bennett"
+    ],
+    "summary": "Nature, Published online: 11 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02082-7\">doi:10.1038/d41586-026-02082-7</a>If reviewers can’t reliably tell the difference between top grant proposals, why should they pretend they can? A new wave of funders is turning to lotteries to break the tie.",
+    "source": "Nature",
+    "date": "2026-08-11",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-02519-z",
+    "title": "Daily briefing: What scientists can learn from a solar eclipse",
+    "link": "https://www.nature.com/articles/d41586-026-02519-z",
+    "authors": [
+      "Jacob Smith"
+    ],
+    "summary": "Nature, Published online: 11 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02519-z\">doi:10.1038/d41586-026-02519-z</a>Researchers will have two minutes to gather data on the solar corona. Plus, people across cultures are all ticklish in the same way and how the El Niño could spell disaster for the Amazon rainforest.",
+    "source": "Nature",
+    "date": "2026-08-11",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-02489-2",
+    "title": "NIH limits funding for research on the health effects of public policy",
+    "link": "https://www.nature.com/articles/d41586-026-02489-2",
+    "authors": [
+      "Max Kozlov"
+    ],
+    "summary": "Nature, Published online: 11 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02489-2\">doi:10.1038/d41586-026-02489-2</a>US biomedical agency no longer considers policymakers ‘mission relevant’, leaving dozens of grants in limbo.",
+    "source": "Nature",
+    "date": "2026-08-11",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-02142-y",
+    "title": "Solar eclipse offers rare chance to solve Sun’s magnetic-field mysteries",
+    "link": "https://www.nature.com/articles/d41586-026-02142-y",
+    "authors": [
+      "Ignacio Amigo"
+    ],
+    "summary": "Nature, Published online: 11 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02142-y\">doi:10.1038/d41586-026-02142-y</a>Researchers will travel to Spain and Iceland to observe the solar eclipse on 12 August, hoping to answer questions about the solar corona.",
+    "source": "Nature",
+    "date": "2026-08-11",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-02449-w",
+    "title": "A ‘super’ El Niño could transform the Amazon. Is the world’s biggest rainforest doomed?",
+    "link": "https://www.nature.com/articles/d41586-026-02449-w",
+    "authors": [
+      "Quentin Septer"
+    ],
+    "summary": "Nature, Published online: 11 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02449-w\">doi:10.1038/d41586-026-02449-w</a>The Amazon rainforest might be closer to a tipping point than scientists thought. Some fear that droughts and fire could nudge it into irreversible decline.",
+    "source": "Nature",
+    "date": "2026-08-11",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-02451-2",
+    "title": "Why scientists should lead the shift away from AI mega data centres",
+    "link": "https://www.nature.com/articles/d41586-026-02451-2",
+    "authors": [
+      "Cassidy K. Buhler",
+      "Fernando Pérez",
+      "Carl Boettiger"
+    ],
+    "summary": "Nature, Published online: 11 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02451-2\">doi:10.1038/d41586-026-02451-2</a>Publicly available AI models and local infrastructure can reduce AI’s environmental footprint while giving researchers greater control over the tools they use.",
+    "source": "Nature",
+    "date": "2026-08-11",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-02500-w",
+    "title": "Daily briefing: AI agents sniff out decades-old errors in scientific literature",
+    "link": "https://www.nature.com/articles/d41586-026-02500-w",
+    "authors": [
+      "Jacob Smith"
+    ],
+    "summary": "Nature, Published online: 10 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02500-w\">doi:10.1038/d41586-026-02500-w</a>AI can spot errors quickly, but should only be used to check ‘objective’ facts, researchers say. Plus, a Tupperware-sized magnetic-field detector and Gen Z researchers’ tips on building resilience.",
+    "source": "Nature",
+    "date": "2026-08-10",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/sciadv.adz0583?af=R",
+    "title": "Proteogenomic characterization of pulmonary large-cell neuroendocrine carcinoma identifies molecular features and therapeutic strategy",
+    "link": "https://www.science.org/doi/abs/10.1126/sciadv.adz0583?af=R",
+    "authors": [
+      "Lele Zhang, Liangdong Sun, Shengnan Duan, Yilv Yan, Jinyi Song, Linghui Xia, Huansha Yu, Jijun Sun, Junjie Hu, Di Wang, Lu Han, Jue Wang, Yan Chen, Hu Zhou, Chen Wang, Haiyang Hu, Ming Ding, Peng Zhang"
+    ],
+    "summary": "Science Advances, Volume 12, Issue 33, August 2026. <br />",
+    "source": "AAAS: Science Advances: Table of Contents",
+    "date": "2026-08-12",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/sciadv.adz1892?af=R",
+    "title": "First evaluation of wearable radiation protection for human deep space exploration, as flown on Artemis I",
+    "link": "https://www.science.org/doi/abs/10.1126/sciadv.adz1892?af=R",
+    "authors": [
+      "Jordan M. Houri, Thomas Berger, Ramona Gaza, Hesham Hussein, Shirit Schwarz, Gideon Waterman, Daniel Matthiä, Karel Marsalek, Bartos Przybyla, Joachim Aeckerlein, Maximilian Radenhaeuser, Moritz Kasemann, Kathleen Coderre, W. Paul Segars, Ehsan Samei, Anuj J. Kapadia, Kerry Lee, Diego Laramore, Stuart P. George, Edward Semones, Oren Milstein"
+    ],
+    "summary": "Science Advances, Volume 12, Issue 33, August 2026. <br />",
+    "source": "AAAS: Science Advances: Table of Contents",
+    "date": "2026-08-12",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/sciadv.adz7757?af=R",
+    "title": "Reassessing the role of progesterone receptor isoforms PGR-A and PGR-B in female fertility",
+    "link": "https://www.science.org/doi/abs/10.1126/sciadv.adz7757?af=R",
+    "authors": [
+      "Doan T. Dinh, Kirsten M. Smith, Tim McPhee, Natalie J. Foot, David C. Bersten, Melissa A. White, Paul Q. Thomas, Rebecca L. Robker, Darryl L. Russell"
+    ],
+    "summary": "Science Advances, Volume 12, Issue 33, August 2026. <br />",
+    "source": "AAAS: Science Advances: Table of Contents",
+    "date": "2026-08-12",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/sciadv.aea7469?af=R",
+    "title": "Jomon genomics reveal cold adaptation in Upper Paleolithic hunter-gatherers of eastern Eurasia",
+    "link": "https://www.science.org/doi/abs/10.1126/sciadv.aea7469?af=R",
+    "authors": [
+      "Yusuke Watanabe, Yoshiki Wakiyama, Daisuke Waku, Guido Valverde, Akio Tanino, Mizuki Hayashi, Izumi Naka, Yuka Nakamura, Tsubasa Suzuki, Kae Koganebuchi, Takashi Gakuhari, Takafumi Katsumura, Motoyuki Ogawa, Atsushi Toyoda, Pornlada Nuchnoi, Suwanna Chaorattanakawee, Hathairad Hananantachai, Jintana Patarapotikul, Soichiro Mizushima, Tomohito Nagaoka, Kazuaki Hirata, Minoru Yoneda, Midori Motoi, Hideo Toyoshima, Takafumi Maeda, Takayuki Nishimura, Tadayuki Masuyama, Yasuhiro Yamada, Ryuzaburo Takahashi, Masami Izuho, Jun Ohashi, NCBN Controls WGS Consortium, Hiroki Oota"
+    ],
+    "summary": "Science Advances, Volume 12, Issue 33, August 2026. <br />",
+    "source": "AAAS: Science Advances: Table of Contents",
+    "date": "2026-08-12",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/sciadv.aec3399?af=R",
+    "title": "RNA terminal uridylyl transferases are druggable vulnerabilities in AML but are dispensable for normal hematopoiesis",
+    "link": "https://www.science.org/doi/abs/10.1126/sciadv.aec3399?af=R",
+    "authors": [
+      "Christopher Mapperley, Elise Georges, Ali A. Azar, Yuka Kabayama, Hannah Lawson, Iwo Kucinski, Derek George, Joana Campos, Corey Fyfe, Jozef Durko, Wei Y. Chan, Lewis Allen, Babak Jazayeri, Edward Blacker, Louie N. van de Lagemaat, Aurelien Tripp, Theodoros I. Roumeliotis, Giulia Guiducci, Eleanor Herbert, Jasmin Paris, Jyoti Choudhary, George Poulogiannis, Robert M. Campbell, Marcos Morgan, Lovorka Stojic, Folkert J. Van Werven, Douglas Vernimmen, Berthold Göttgens, Dónal O’Carroll, Kamil R. Kranc"
+    ],
+    "summary": "Science Advances, Volume 12, Issue 33, August 2026. <br />",
+    "source": "AAAS: Science Advances: Table of Contents",
+    "date": "2026-08-12",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/sciadv.aec3536?af=R",
+    "title": "Single-exposure holographic 3D printing via inverse-designed phase masks",
+    "link": "https://www.science.org/doi/abs/10.1126/sciadv.aec3536?af=R",
+    "authors": [
+      "Dajun Lin, Xiaofeng Chen, Connor J. O’Dea, Ji-Won Kim, Keldy S. Mason, Barbara Groh, Kwong Sang Lee, Apratim Majumder, Chih-Hao Chang, Michael Cullinan, Zachariah A. Page, Rajesh Menon"
+    ],
+    "summary": "Science Advances, Volume 12, Issue 33, August 2026. <br />",
+    "source": "AAAS: Science Advances: Table of Contents",
+    "date": "2026-08-12",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/sciadv.aec3842?af=R",
+    "title": "Myasthenia thymus reprograms class-switched B cells into BAFF-dependent survivors",
+    "link": "https://www.science.org/doi/abs/10.1126/sciadv.aec3842?af=R",
+    "authors": [
+      "Yuanqing Yan, Diego Avella Patino, Yimeng Zhao, Xin Wu, G. R. Scott Budinger, Ankit Bharat"
+    ],
+    "summary": "Science Advances, Volume 12, Issue 33, August 2026. <br />",
+    "source": "AAAS: Science Advances: Table of Contents",
+    "date": "2026-08-12",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/sciadv.aec5080?af=R",
+    "title": "Label-free biochemical imaging and time point analysis of neural organoids via deep learning–enhanced Raman microspectroscopy",
+    "link": "https://www.science.org/doi/abs/10.1126/sciadv.aec5080?af=R",
+    "authors": [
+      "Dimitar Georgiev, Ruoxiao Xie, Daniel Reumann, Xiaoyu Zhao, Álvaro Fernández-Galiana, Mauricio Barahona, Molly M. Stevens"
+    ],
+    "summary": "Science Advances, Volume 12, Issue 33, August 2026. <br />",
+    "source": "AAAS: Science Advances: Table of Contents",
+    "date": "2026-08-12",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/sciadv.aed4055?af=R",
+    "title": "Photonic time crystals assisted by quasi-bound states in the continuum",
+    "link": "https://www.science.org/doi/abs/10.1126/sciadv.aed4055?af=R",
+    "authors": [
+      "Puneet Garg, Evangelos Almpanis, Leander Zimmer, Jan David Fischbach, Xuchen Wang, Mohammad S. Mirmoosa, Markus Nyman, Nikolaos Stefanou, Nikolaos Papanikolaou, Viktar Asadchy, Carsten Rockstuhl"
+    ],
+    "summary": "Science Advances, Volume 12, Issue 33, August 2026. <br />",
+    "source": "AAAS: Science Advances: Table of Contents",
+    "date": "2026-08-12",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/sciadv.aed5692?af=R",
+    "title": "GNPs-pIL-4 reprograms macrophage polarization and activates the OSM/GSNOR/ENG axis to improve angiogenesis in ischemic limbs",
+    "link": "https://www.science.org/doi/abs/10.1126/sciadv.aed5692?af=R",
+    "authors": [
+      "Peng Zhang, Jinman Zhuang, Yizhou Hao, Xiangrui Zhu, Hongbiao Liang, Guizimeng Hu, Peiyi Li, Yuwei Song, Qijia Liu, Guangxin Yang, Tianqi Chen, Xinmei Huo, Kai Sun, Li Yan, Chun-Shui Pan, Qihua He, Kuangda Lu, Yang Zhao, Jing-Yan Han, Tianrun Li, Jian-Hao Chen, Juan Feng"
+    ],
+    "summary": "Science Advances, Volume 12, Issue 33, August 2026. <br />",
+    "source": "AAAS: Science Advances: Table of Contents",
+    "date": "2026-08-12",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/sciadv.aed8901?af=R",
+    "title": "A prefrontal peptidergic circuit for psychogenic itch",
+    "link": "https://www.science.org/doi/abs/10.1126/sciadv.aed8901?af=R",
+    "authors": [
+      "Sipin Zhang, Zhenhua Qi, Huoqing Luo, Chao Tian, Fang Cai, Ji Hu, Jingdun Xie"
+    ],
+    "summary": "Science Advances, Volume 12, Issue 33, August 2026. <br />",
+    "source": "AAAS: Science Advances: Table of Contents",
+    "date": "2026-08-12",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/sciadv.aee0180?af=R",
+    "title": "Internal electric fields enhance reductive reactivity at MoS2 boundaries revealed by ultrafast near-field nanospectroscopy",
+    "link": "https://www.science.org/doi/abs/10.1126/sciadv.aee0180?af=R",
+    "authors": [
+      "Feng Li, Qi Sun, Tao Yang, Fengke Sun, Boning Wu, Shengye Jin, Wenming Tian"
+    ],
+    "summary": "Science Advances, Volume 12, Issue 33, August 2026. <br />",
+    "source": "AAAS: Science Advances: Table of Contents",
+    "date": "2026-08-12",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/sciadv.aee0509?af=R",
+    "title": "Mito-TEMPO improves survival rates in npc1-knockout zebrafish by reducing oxidative stress and enhancing mitophagy via Sod2",
+    "link": "https://www.science.org/doi/abs/10.1126/sciadv.aee0509?af=R",
+    "authors": [
+      "Wenhao Zhao, Xudong Hu, Ruyi Wang, Han Zhang, Man Zhou, Hong Cao"
+    ],
+    "summary": "Science Advances, Volume 12, Issue 33, August 2026. <br />",
+    "source": "AAAS: Science Advances: Table of Contents",
+    "date": "2026-08-12",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/sciadv.aee2305?af=R",
+    "title": "Prediction of mild cognitive impairment progression using time-sensitive multimodal biomarkers",
+    "link": "https://www.science.org/doi/abs/10.1126/sciadv.aee2305?af=R",
+    "authors": [
+      "Jonathan Gallego-Rudolf, Alex I. Wiesman, Yara Yakoub, Henrik Zetterberg, Kaj Blennow, Sylvain Baillet, Sylvia Villeneuve, The PREVENT-AD Research Group"
+    ],
+    "summary": "Science Advances, Volume 12, Issue 33, August 2026. <br />",
+    "source": "AAAS: Science Advances: Table of Contents",
+    "date": "2026-08-12",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/sciadv.aee3254?af=R",
+    "title": "Retention of noble gases in the deep Earth: Kinetic trapping or stable bonding?",
+    "link": "https://www.science.org/doi/abs/10.1126/sciadv.aee3254?af=R",
+    "authors": [
+      "Sarah Figowy, Razvan Caracas, Guillaume Avice"
+    ],
+    "summary": "Science Advances, Volume 12, Issue 33, August 2026. <br />",
+    "source": "AAAS: Science Advances: Table of Contents",
+    "date": "2026-08-12",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/sciadv.aee3993?af=R",
+    "title": "Breaking solubility of metal-organic cages via polymer carrier for concentrated type II porous liquid to extract n-alkanes",
+    "link": "https://www.science.org/doi/abs/10.1126/sciadv.aee3993?af=R",
+    "authors": [
+      "Shuaibo Yang, Yu Han, Mifen Cui, Jihai Tang, Xu Qiao, Zhuxiu Zhang"
+    ],
+    "summary": "Science Advances, Volume 12, Issue 33, August 2026. <br />",
+    "source": "AAAS: Science Advances: Table of Contents",
+    "date": "2026-08-12",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/sciadv.aee5305?af=R",
+    "title": "CD5+ dendritic cell robots mediated in situ immunocyte activation",
+    "link": "https://www.science.org/doi/abs/10.1126/sciadv.aee5305?af=R",
+    "authors": [
+      "Chuanhua Li, Weiwei Zhang, Xuyang Chen, Shixiao Ding, Lin Wang, Qian Wang, Songlin Yu, Qiran Zhu, Jiawen Niu, Ying Cui, Mengmeng Sun, Jie Zhao, Tianlong Li"
+    ],
+    "summary": "Science Advances, Volume 12, Issue 33, August 2026. <br />",
+    "source": "AAAS: Science Advances: Table of Contents",
+    "date": "2026-08-12",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/sciadv.aee5871?af=R",
+    "title": "Fibroblasts resist Staphylococcus aureus on the skin surface by responding to interleukin-1 and recruiting neutrophils",
+    "link": "https://www.science.org/doi/abs/10.1126/sciadv.aee5871?af=R",
+    "authors": [
+      "Jared S. Simmons, Teruaki Nakatsuji, Fengwu Li, Carlos Aguilera, Tomofumi Numata, Kellen J. Cavagnero, Samia Almoughrabie, Andrea Roso Mares, Consuelo Sauceda, Jacquelyn Castaneda, David J. Gonzalez, Hal M. Hoffman, Richard L. Gallo"
+    ],
+    "summary": "Science Advances, Volume 12, Issue 33, August 2026. <br />",
+    "source": "AAAS: Science Advances: Table of Contents",
+    "date": "2026-08-12",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/sciadv.aee6914?af=R",
+    "title": "CDT1 acts with the replisome to remodel replication forks",
+    "link": "https://www.science.org/doi/abs/10.1126/sciadv.aee6914?af=R",
+    "authors": [
+      "Caitlin Hathaway, Thanh Le, Yuki Hatoyama, Masato Kanemaki, Huzefa Dungrawala"
+    ],
+    "summary": "Science Advances, Volume 12, Issue 33, August 2026. <br />",
+    "source": "AAAS: Science Advances: Table of Contents",
+    "date": "2026-08-12",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/sciadv.aee9000?af=R",
+    "title": "Phage-encoded NARP3 system rebuilds NAD+ to subvert bacterial immunity",
+    "link": "https://www.science.org/doi/abs/10.1126/sciadv.aee9000?af=R",
+    "authors": [
+      "Jia Yan, Siyu Liu, Zhaorong Luo, Zhi Su, Gaoqin Teng, Mengyuan Li, Jiangang Ma, Rongsui Gao, Jiuxin Qu, Man Huang, Jianhua Gan, Youjun Feng"
+    ],
+    "summary": "Science Advances, Volume 12, Issue 33, August 2026. <br />",
+    "source": "AAAS: Science Advances: Table of Contents",
+    "date": "2026-08-12",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/sciadv.aee9298?af=R",
+    "title": "Synaptic zinc plasticity shapes adaptive and maladaptive cortical plasticity following cochlear injury",
+    "link": "https://www.science.org/doi/abs/10.1126/sciadv.aee9298?af=R",
+    "authors": [
+      "Manoj Kumar, Cassandra Linnertz, Brandon Bizup, Wenyuan Huang, Huiwang Ai, Thanos Tzounopoulos"
+    ],
+    "summary": "Science Advances, Volume 12, Issue 33, August 2026. <br />",
+    "source": "AAAS: Science Advances: Table of Contents",
+    "date": "2026-08-12",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/sciadv.aef0259?af=R",
+    "title": "Thermomechanical regulation of quasi-2D perovskite photonic structures via nanoimprint",
+    "link": "https://www.science.org/doi/abs/10.1126/sciadv.aef0259?af=R",
+    "authors": [
+      "Xuezhou Wang, Long Jin, Zhibo Zhang, Zhiwen Zhou, Pok Fung Chan, Xinhui Lu, Yong Yang, Xiankai Sun, Ni Zhao"
+    ],
+    "summary": "Science Advances, Volume 12, Issue 33, August 2026. <br />",
+    "source": "AAAS: Science Advances: Table of Contents",
+    "date": "2026-08-12",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/sciadv.aef1581?af=R",
+    "title": "Ancestral proteins trace the emergence of substrate specificity and oligomerization within bacterial DEDDy dinucleases",
+    "link": "https://www.science.org/doi/abs/10.1126/sciadv.aef1581?af=R",
+    "authors": [
+      "Sofia Mortensen, Andrew A. Burnim, Keith Dufault-Thompson, Alexandra E. Lipka, Xiaofang Jiang, Holger Sondermann"
+    ],
+    "summary": "Science Advances, Volume 12, Issue 33, August 2026. <br />",
+    "source": "AAAS: Science Advances: Table of Contents",
+    "date": "2026-08-12",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/sciadv.aef3487?af=R",
+    "title": "Wide-field two-photon random illumination microscopy (2P-RIM)",
+    "link": "https://www.science.org/doi/abs/10.1126/sciadv.aef3487?af=R",
+    "authors": [
+      "Assia Benachir, Xiangyi Li, Eric M. Fantuzzi, Guillaume Giroussens, Thomas Mangeat, Federico Vernuccio, Hervé Rigneault, Anne Sentenac, Sandro Heuke"
+    ],
+    "summary": "Science Advances, Volume 12, Issue 33, August 2026. <br />",
+    "source": "AAAS: Science Advances: Table of Contents",
+    "date": "2026-08-12",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/sciadv.aef5617?af=R",
+    "title": "A thiol-rich immunomodulatory injectable hydrogel suppresses endometrial fibrosis to restore fertilization",
+    "link": "https://www.science.org/doi/abs/10.1126/sciadv.aef5617?af=R",
+    "authors": [
+      "Mingwei Li, Runqi Zhu, Yufeng Tian, Hanqing Yu, Liu Yang, Lucy Boyi Wang, Ping Zhou, Qiang Li, Rijian Song, Wenxin Wang"
+    ],
+    "summary": "Science Advances, Volume 12, Issue 33, August 2026. <br />",
+    "source": "AAAS: Science Advances: Table of Contents",
+    "date": "2026-08-12",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/sciadv.aef5620?af=R",
+    "title": "Acoustic resonators as wireless actuators in air for small-scale robots",
+    "link": "https://www.science.org/doi/abs/10.1126/sciadv.aef5620?af=R",
+    "authors": [
+      "Junsun Hwang, Quentin Angéloz, Ashwin Subramanian Murugan, Hervé Lissek, Mahmut Selman Sakar"
+    ],
+    "summary": "Science Advances, Volume 12, Issue 33, August 2026. <br />",
+    "source": "AAAS: Science Advances: Table of Contents",
+    "date": "2026-08-12",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/sciadv.aef6559?af=R",
+    "title": "Interfacial amplifier: High-throughput visual protein detection via droplet dynamics",
+    "link": "https://www.science.org/doi/abs/10.1126/sciadv.aef6559?af=R",
+    "authors": [
+      "Tianxin Ge, Xuexue He, Shouzi Zhang, Haofeng Chen, Wenxu Hu, Zhaofan Luo, Liqiu Wang, Zong Dai, Xing Han"
+    ],
+    "summary": "Science Advances, Volume 12, Issue 33, August 2026. <br />",
+    "source": "AAAS: Science Advances: Table of Contents",
+    "date": "2026-08-12",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/sciadv.aef9769?af=R",
+    "title": "TAL1 is indispensable in ETV2-primed human endothelial cell fate determination",
+    "link": "https://www.science.org/doi/abs/10.1126/sciadv.aef9769?af=R",
+    "authors": [
+      "Yun Zhao, Mengze Sun, Zixuan Hong, Jingkun Yi, Donglin Yu, Xiaojing Ma, Liangliang Tian, Yi Hong, Lijun Sun, Xiaoxia Li, Yuan Zhou, Kailong Li, Xi Wang, Kai Wang"
+    ],
+    "summary": "Science Advances, Volume 12, Issue 33, August 2026. <br />",
+    "source": "AAAS: Science Advances: Table of Contents",
+    "date": "2026-08-12",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/sciadv.aeg1542?af=R",
+    "title": "A programmed reset mechanism primes Clostridioides difficile virulence at the onset of infection",
+    "link": "https://www.science.org/doi/abs/10.1126/sciadv.aeg1542?af=R",
+    "authors": [
+      "Nicole C. Gadda, Jilarie A. Santos-Santiago, Rani S. Sellers, Rita Tamayo"
+    ],
+    "summary": "Science Advances, Volume 12, Issue 33, August 2026. <br />",
+    "source": "AAAS: Science Advances: Table of Contents",
+    "date": "2026-08-12",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/sciadv.aeg5802?af=R",
+    "title": "Faster, bigger, more severe: Extreme wildfire spread sets the stage for forest ecosystem change in western and boreal North America",
+    "link": "https://www.science.org/doi/abs/10.1126/sciadv.aeg5802?af=R",
+    "authors": [
+      "Jonathan D. Coop, Jared A. Balik, Jessika R. McFarland, Sean A. Parks, Kyle C. Rodman, Camille S. Stevens-Rumann, Meg A. Krawchuk, Cameron E. Naficy, Marc-André Parisien, Ellen Whitman"
+    ],
+    "summary": "Science Advances, Volume 12, Issue 33, August 2026. <br />",
+    "source": "AAAS: Science Advances: Table of Contents",
+    "date": "2026-08-12",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/sciadv.aeh0657?af=R",
+    "title": "Mitochondrial stress activates ELT-2–dependent lysosomal proteostasis to extend lifespan in C. elegans",
+    "link": "https://www.science.org/doi/abs/10.1126/sciadv.aeh0657?af=R",
+    "authors": [
+      "Rendan Yang, Yu Sun, Wenzheng Wang, Yuxuan Lei, Lin Chen, Xiaoxu Li, Raya B. Liu, Ang Zhou, Arwen W. Gao, Liangshan Mu, Johan Auwerx, Terytty Yang Li"
+    ],
+    "summary": "Science Advances, Volume 12, Issue 33, August 2026. <br />",
+    "source": "AAAS: Science Advances: Table of Contents",
+    "date": "2026-08-12",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/sciadv.aeh1116?af=R",
+    "title": "Fully dry-processed electrodes for highly reversible aqueous zinc powder-based batteries",
+    "link": "https://www.science.org/doi/abs/10.1126/sciadv.aeh1116?af=R",
+    "authors": [
+      "Han Wu, Yunling Jiang, Shao-Jian Zhang, Yiyang Hu, Junnan Hao, Shi-Zhang Qiao"
+    ],
+    "summary": "Science Advances, Volume 12, Issue 33, August 2026. <br />",
+    "source": "AAAS: Science Advances: Table of Contents",
+    "date": "2026-08-12",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/sciadv.aeh2835?af=R",
+    "title": "MALT1 alternative splicing—A molecular rheostat for balancing immune activation and homeostasis",
+    "link": "https://www.science.org/doi/abs/10.1126/sciadv.aeh2835?af=R",
+    "authors": [
+      "Thomas J. O’Neill, Carina Graß, Andreas Gewies, Sofia Coelho, Torben Gehring, Thomas Seeholzer, Lesca-Miriam Holdt, Andrew Flatley, Regina Feederle, Jens Staal, Rudi Beyaert, Florian Giesert, Wolfgang Wurst, Necil Kutukculer, Ronald Naumann, Daniel Krappmann"
+    ],
+    "summary": "Science Advances, Volume 12, Issue 33, August 2026. <br />",
+    "source": "AAAS: Science Advances: Table of Contents",
+    "date": "2026-08-12",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/sciadv.aeh3040?af=R",
+    "title": "Long-term amyloid aggregation kinetic assay and rapid amyloid clustering enabled by programmable microdroplet water extraction",
+    "link": "https://www.science.org/doi/abs/10.1126/sciadv.aeh3040?af=R",
+    "authors": [
+      "Da Yeon Cheong, Seokbeom Roh, Jung Bae Seong, Sang Won Lee, Dain Kang, Taeha Lee, Jiyeon Cho, Seung Pil Pack, Minho Moon, Wonseok Lee, Kyung Rok Nam, Bo Hyun Kim, Jae Yong Choi, Jinyoung Won, Kyung Seob Lim, Chang-Yeop Jeon, Yangzhi Zhu, Yeongjeon Lee, Gyudo Lee, Insu Park"
+    ],
+    "summary": "Science Advances, Volume 12, Issue 33, August 2026. <br />",
+    "source": "AAAS: Science Advances: Table of Contents",
+    "date": "2026-08-12",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/sciadv.aeh5593?af=R",
+    "title": "Molecular basis of HACD-TECR complex mediated very-long-chain fatty acid elongation reveal a potential target in colorectal cancer",
+    "link": "https://www.science.org/doi/abs/10.1126/sciadv.aeh5593?af=R",
+    "authors": [
+      "Rui Lv, Leiye Yu, Jingyi Liu, Youli Zhou, Ruiping He, Chen Wang, Bing Gan, Rujuan Ti, Haizhan Jiao, Baohui Song, Yiqi Chen, Feifei Lin, Mei Gao, Hongli Hu, Shankai Yin, Pinghong Zhou, Lizhe Zhu, Mingyan Cai, Tian Xie, Jia Liu, Li Chen, Yunshi Zhong, Ruobing Ren"
+    ],
+    "summary": "Science Advances, Volume 12, Issue 33, August 2026. <br />",
+    "source": "AAAS: Science Advances: Table of Contents",
+    "date": "2026-08-12",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/sciadv.aeh8194?af=R",
+    "title": "Palladium-catalyzed enantioselective alkenylation of acyclic alkenols: Broad scope with alkenyl bromides",
+    "link": "https://www.science.org/doi/abs/10.1126/sciadv.aeh8194?af=R",
+    "authors": [
+      "Jun Chen, Hong-Mei Guo, Jasmine X. Yan, Chong Liu, Debabrata Maiti, Haibo Ge"
+    ],
+    "summary": "Science Advances, Volume 12, Issue 33, August 2026. <br />",
+    "source": "AAAS: Science Advances: Table of Contents",
+    "date": "2026-08-12",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/sciadv.aef2986?af=R",
+    "title": "A transcription factor TOE3 simultaneously promotes growth and antiviral immunity by disrupting ABA core module in tobacco",
+    "link": "https://www.science.org/doi/abs/10.1126/sciadv.aef2986?af=R",
+    "authors": [
+      "Bolei Jiao, Baijun Wu, Haonan Fang, Jiale Jiang, Zhongyue Mai, Ning Jiang, Honghui Lin, Dehui Xi"
+    ],
+    "summary": "Science Advances, Volume 12, Issue 33, August 2026. <br />",
+    "source": "AAAS: Science Advances: Table of Contents",
+    "date": "2026-08-12",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/sciadv.aef9926?af=R",
+    "title": "aDISCO: A clearing method to enable 3D microscopy of large archival paraffin-embedded human tissue blocks",
+    "link": "https://www.science.org/doi/abs/10.1126/sciadv.aef9926?af=R",
+    "authors": [
+      "Anna Maria Reuss, Dominik Groos, Martina Cerisoli, Lena Nordberg, Lukas Frick, Fabian F. Voigt, Nikita Vladimirov, Philipp Bethge, Regina Reimann, Fritjof Helmchen, Peter Rupprecht, Adriano Aguzzi"
+    ],
+    "summary": "Science Advances, Volume 12, Issue 33, August 2026. <br />",
+    "source": "AAAS: Science Advances: Table of Contents",
+    "date": "2026-08-12",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/sciadv.aeb8377?af=R",
+    "title": "Direct bacterial transcript visualization illuminates spatiotemporal environmental adaptation of Mycobacterium tuberculosis in the lung",
+    "link": "https://www.science.org/doi/abs/10.1126/sciadv.aeb8377?af=R",
+    "authors": [
+      "Anna-Lisa E. Lawrence and Shumin Tan"
+    ],
+    "summary": "Science Advances, Volume 12, Issue 33, August 2026. <br />",
+    "source": "AAAS: Science Advances: Table of Contents",
+    "date": "2026-08-12",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/sciadv.aeg3567?af=R",
+    "title": "Antenna photosystem I remodeling in the iron stress–induced complex from Anabaena sp. PCC 7120",
+    "link": "https://www.science.org/doi/abs/10.1126/sciadv.aeg3567?af=R",
+    "authors": [
+      "Ranel Maqdisi, Dariusz M. Niedzwiedzki, Christopher Gorski, Sandeep Biswas, Himadri B. Pakrasi, Yuval Mazor"
+    ],
+    "summary": "Science Advances, Volume 12, Issue 33, August 2026. <br />",
+    "source": "AAAS: Science Advances: Table of Contents",
+    "date": "2026-08-12",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/sciadv.aee4522?af=R",
+    "title": "Petermann Glacier on the brink: Progress, challenges and insights",
+    "link": "https://www.science.org/doi/abs/10.1126/sciadv.aee4522?af=R",
+    "authors": [
+      "Dominik Fahrner, William T. Colgan, Joseph A. MacGregor, Peter Washam, Anja Løkkegaard, Shfaqat Abbas Khan"
+    ],
+    "summary": "Science Advances, Volume 12, Issue 33, August 2026. <br />",
+    "source": "AAAS: Science Advances: Table of Contents",
+    "date": "2026-08-12",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41561-026-02039-5",
+    "title": "Impacts of power plant emissions on air quality amplified by renewable energy droughts",
+    "link": "https://www.nature.com/articles/s41561-026-02039-5",
+    "authors": [
+      "Lu Shen",
+      "Tianguang Lu",
+      "Mingwei Li",
+      "Meng Qu",
+      "Fengwei Wan",
+      "Chris P. Nielsen",
+      "Xi Lu",
+      "Michael McElroy"
+    ],
+    "summary": "Nature Geoscience, Published online: 11 August 2026; <a href=\"https://www.nature.com/articles/s41561-026-02039-5\">doi:10.1038/s41561-026-02039-5</a>Integrated model simulations suggest that air quality across China could be substantially degraded by emissions from fossil fuel power plants during renewable energy droughts in the 2050s, underscoring the need for a deeper clean energy transition.",
+    "source": "Nature Geoscience",
+    "date": "2026-08-11",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-76734-7",
+    "title": "Stoichiometry-driven electronic heterogeneity in covalent organic frameworks for coupled H<sub>2</sub>O<sub>2</sub> photoproduction and chemoselective fragrance upgrading",
+    "link": "https://www.nature.com/articles/s41467-026-76734-7",
+    "authors": [
+      "Jie-Yu Yue",
+      "Zi-Shuo Xu",
+      "Yan Guo",
+      "Jing-Xian Luo",
+      "Peng Yang",
+      "Bo Tang"
+    ],
+    "summary": "Nature Communications, Published online: 13 August 2026; <a href=\"https://www.nature.com/articles/s41467-026-76734-7\">doi:10.1038/s41467-026-76734-7</a>While coupling H2O2 photosynthesis with value-added organic transformations circumvents the sluggish kinetics of water oxidation, integrating both processes within a single photocatalyst remains challenging. Here the authors report a stoichiometry-driven modulation strategy in covalent organic frameworks to tune electronic heterogeneity for simultaneous H2O2 photosynthesis and fragrance upgrading.",
+    "source": "Nature Communications",
+    "date": "2026-08-13",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-76254-4",
+    "title": "Toward nonlinear representations with Gaussian-splat manifolds for physics-informed learning",
+    "link": "https://www.nature.com/articles/s41467-026-76254-4",
+    "authors": [
+      "Xu Han",
+      "Kuangxu Chen",
+      "Rui Wang",
+      "Guanzhou Wei",
+      "Ligong Han",
+      "Han Gao"
+    ],
+    "summary": "Nature Communications, Published online: 12 August 2026; <a href=\"https://www.nature.com/articles/s41467-026-76254-4\">doi:10.1038/s41467-026-76254-4</a>Simulating shocks and thin shear layers typically requires extremely fine computational grids. Here, the authors adapt mobile, stretchable Gaussian kernels originally developed in computer graphics to directly satisfy the governing equations, enabling sharp features to be captured with far fewer parameters than conventional numerical or neural-network-based solvers.",
+    "source": "Nature Communications",
+    "date": "2026-08-12",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-76669-z",
+    "title": "Author Correction: Effective in vivo RNA base editing via engineered cytidine deaminase APOBECs fused with PUF proteins",
+    "link": "https://www.nature.com/articles/s41467-026-76669-z",
+    "authors": [
+      "Wenjian Han",
+      "Bo Yuan",
+      "Xiaojuan Fan",
+      "Weike Li",
+      "Yiting Yuan",
+      "Yuefang Zhang",
+      "Shu Wang",
+      "Shifang Shan",
+      "Markus Hafner",
+      "Zefeng Wang",
+      "Zilong Qiu"
+    ],
+    "summary": "Nature Communications, Published online: 12 August 2026; <a href=\"https://www.nature.com/articles/s41467-026-76669-z\">doi:10.1038/s41467-026-76669-z</a>Author Correction: Effective in vivo RNA base editing via engineered cytidine deaminase APOBECs fused with PUF proteins",
+    "source": "Nature Communications",
+    "date": "2026-08-12",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-76646-6",
+    "title": "Author Correction: Atrial fibrillation detection via contactless radio monitoring and knowledge transfer",
+    "link": "https://www.nature.com/articles/s41467-026-76646-6",
+    "authors": [
+      "Yuqin Yuan",
+      "Jinbo Chen",
+      "Dongheng Zhang",
+      "Ruixu Geng",
+      "Hanqin Gong",
+      "Guixin Xu",
+      "Yu Pu",
+      "Zhi Lu",
+      "Yang Hu",
+      "Dong Zhang",
+      "Likun Ma",
+      "Qibin Sun",
+      "Yan Chen"
+    ],
+    "summary": "Nature Communications, Published online: 12 August 2026; <a href=\"https://www.nature.com/articles/s41467-026-76646-6\">doi:10.1038/s41467-026-76646-6</a>Author Correction: Atrial fibrillation detection via contactless radio monitoring and knowledge transfer",
+    "source": "Nature Communications",
+    "date": "2026-08-12",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-75312-1",
+    "title": "Cooperation, competition and enforcement in transposon evolution",
+    "link": "https://www.nature.com/articles/s41467-026-75312-1",
+    "authors": [
+      "Nicholas G. Davies",
+      "J. Arvid Ågren",
+      "Kevin R. Foster"
+    ],
+    "summary": "Nature Communications, Published online: 12 August 2026; <a href=\"https://www.nature.com/articles/s41467-026-75312-1\">doi:10.1038/s41467-026-75312-1</a>Transposons are genetic parasites that have had far-reaching effects on eukaryotic evolution. This modelling study shows that host defences against transposon activity are necessary to prevent species extinction.",
+    "source": "Nature Communications",
+    "date": "2026-08-12",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-76680-4",
+    "title": "Loss-of-function mutation in Omicron variants reduces spike protein expression and attenuates SARS-CoV-2 infection",
+    "link": "https://www.nature.com/articles/s41467-026-76680-4",
+    "authors": [
+      "Michelle N. Vu",
+      "R. Elias Alvarado",
+      "Dorothea R. Morris",
+      "Kumari G. Lokugamage",
+      "Yiyang Zhou",
+      "Angelica L. Morgan",
+      "Yani P. Ahearn",
+      "Nicholas C. Hazell",
+      "Leah K. Estes",
+      "Alyssa M. McLeland",
+      "Craig Schindewolf",
+      "Jessica A. Plante",
+      "William M. Meyers",
+      "Jordan T. Murray",
+      "Patricia A. Crocquet-Valdes",
+      "Scott C. Weaver",
+      "Mehul S. Suthar",
+      "David H. Walker",
+      "William K. Russell",
+      "Andrew L. Routh",
+      "Haitao Hu",
+      "Kenneth S. Plante",
+      "Vineet D. Menachery"
+    ],
+    "summary": "Nature Communications, Published online: 12 August 2026; <a href=\"https://www.nature.com/articles/s41467-026-76680-4\">doi:10.1038/s41467-026-76680-4</a>Spike mutations in SARS-CoV-2 Omicron variants impact vaccine-mediated protection. In this study, the authors identify mutations that also alter spike cleavage and virus entry and that these Omicron mutations reshape both pathogenesis and transmission outcomes.",
+    "source": "Nature Communications",
+    "date": "2026-08-12",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-76534-z",
+    "title": "High-temperature superconductivity at 100K in La<sub>3−<i>x</i></sub>Nd<sub><i>x</i></sub>Ni<sub>2</sub>O<sub>7</sub>",
+    "link": "https://www.nature.com/articles/s41467-026-76534-z",
+    "authors": [
+      "Zhengyang Qiu",
+      "Junfeng Chen",
+      "Dmitrii V. Semenok",
+      "Qingyi Zhong",
+      "Di Zhou",
+      "Jingyuan Li",
+      "Peiyue Ma",
+      "Xing Huang",
+      "Mengwu Huo",
+      "Tao Xie",
+      "Xiang Chen",
+      "Ho-kwang Mao",
+      "Viktor V. Struzhkin",
+      "Hualei Sun",
+      "Meng Wang"
+    ],
+    "summary": "Nature Communications, Published online: 12 August 2026; <a href=\"https://www.nature.com/articles/s41467-026-76534-z\">doi:10.1038/s41467-026-76534-z</a>The authors synthesize polycrystalline La3-xNdxNi2O7 with record-level rare-earth Nd substitution (x = 2.4) creating chemical pressure. Radio-frequency transmission reveals superconducting signatures up to 100.5 K under 33 GPa pressure.",
+    "source": "Nature Communications",
+    "date": "2026-08-12",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-76558-5",
+    "title": "Multiple-layer mesh from electrospinnable amyloid‑like protein and their application in treating oral ulcer",
+    "link": "https://www.nature.com/articles/s41467-026-76558-5",
+    "authors": [
+      "Juanhua Tian",
+      "Yujia Zhang",
+      "Yan Li",
+      "Yongchun Liu",
+      "Rundong Song",
+      "Shuo Wei",
+      "Ziyu Cao",
+      "Li Xue",
+      "Tie Chong",
+      "Peng Yang"
+    ],
+    "summary": "Nature Communications, Published online: 12 August 2026; <a href=\"https://www.nature.com/articles/s41467-026-76558-5\">doi:10.1038/s41467-026-76558-5</a>Dynamic moist conditions limit oral ulcer patch performance. Here, authors build amyloid-like protein meshes via unfolding-stabilization for wet adhesion and faster healing.",
+    "source": "Nature Communications",
+    "date": "2026-08-12",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S001282522600262X",
+    "title": "Microplate subdivision, terrane identification and intra-terrane stratigraphic framework of the Arabian Shield—volcanic arcs priming the planet for the Cryogenian?",
+    "link": "https://www.sciencedirect.com/science/article/pii/S001282522600262X?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 11 August 2026<b>Source:</b> Earth-Science ReviewsAuthor(s): Alan S. Collins, Mahrous M. Abu El-Enen, Pierre Nehlig, Paul H. Macey, Joachim Jacobs, Cees Passchier, Fayak Kattan, Martin Whitehouse, Rami Bakhsh, Saad Al Garni, Mohammed B. Elkomi, Peter Johnson, Robert J. Stern, Fahd M.H. Harbi, Nawaf Rimi, Ashraf Qubsani, Wadee Kashghari",
+    "source": "ScienceDirect Publication: Earth-Science Reviews",
+    "date": "2026-08-13",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012821X26004620",
+    "title": "Outer-rise serpentinization water flux: a fault-localized mechanism with nonlinear controls",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012821X26004620?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: 15 October 2026<b>Source:</b> Earth and Planetary Science Letters, Volume 692Author(s): Rui Zhang, Jianfeng Yang, Chang Zhang, Tong Liu, Linpei Deng, Xin Wang, Liang Zhao",
+    "source": "ScienceDirect Publication: Earth and Planetary Science Letters",
+    "date": "2026-08-13",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0016703726005144",
+    "title": "Magnitude of stable iron isotope fractionation limited by multiple stages of terrestrial core formation",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0016703726005144?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 12 August 2026<b>Source:</b> Geochimica et Cosmochimica ActaAuthor(s): Gabriel Nathan, Seth A. Jacobson",
+    "source": "ScienceDirect Publication: Geochimica et Cosmochimica Acta",
+    "date": "2026-08-13",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0016703726005119",
+    "title": "Submicron-scale mineral weathering and organo-mineral association in the rhizosphere of iron ore tailings",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0016703726005119?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 11 August 2026<b>Source:</b> Geochimica et Cosmochimica ActaAuthor(s): Zhen Li, Songlin Wu, Ting-Shan Chan, Cheng-Wei Kao, Jian Wang, Gordon Southam, Longbin Huang",
+    "source": "ScienceDirect Publication: Geochimica et Cosmochimica Acta",
+    "date": "2026-08-13",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0016703726004990",
+    "title": "Calcium isotopic compositions of the lower continental crust estimated from lower-crustal xenoliths and Archean terrain",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0016703726004990?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 11 August 2026<b>Source:</b> Geochimica et Cosmochimica ActaAuthor(s): Huange Ren, Ganglan Zhang, Chunfei Chen, Lanping Feng, Zhenyi Liu, Frédéric Moynier, Yongsheng Liu",
+    "source": "ScienceDirect Publication: Geochimica et Cosmochimica Acta",
+    "date": "2026-08-13",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0016703726005089",
+    "title": "Selenium isotope constraints on sediment–oceanic crust interaction during slab deserpentinization",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0016703726005089?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 11 August 2026<b>Source:</b> Geochimica et Cosmochimica ActaAuthor(s): Juan Muñoz-Alfaro, Stephan König, Claudio Marchesi, Romain Tilhac, María Isabel Varas-Reus, José Alberto Padrón-Navarta, Vicente López Sánchez-Vizcaíno, Ronny Schoenberg, Carlos J. Garrido",
+    "source": "ScienceDirect Publication: Geochimica et Cosmochimica Acta",
+    "date": "2026-08-13",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S001670372600503X",
+    "title": "Impact origin of pink spinel in the Chang’e-6 lunar soils",
+    "link": "https://www.sciencedirect.com/science/article/pii/S001670372600503X?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 11 August 2026<b>Source:</b> Geochimica et Cosmochimica ActaAuthor(s): Linxi Li, Guangyuan Yu, Sen Hu, Hejiu Hui, Yi Chen, Qiu-Li Li, Wei Yang, Lihui Jia, Di Zhang, Shitou Wu, Guoqiang Tang, Hao Wang, Lixin Gu, Ziyu Wang, Huicun He, Yubing Gao, Mengfan Qiu, Liang Gao, Zhan Zhou, Yangting Lin",
+    "source": "ScienceDirect Publication: Geochimica et Cosmochimica Acta",
+    "date": "2026-08-13",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S001670372600517X",
+    "title": "Shock-induced hydrogen-isotope modification in apatite from the Martian meteorite Los Angeles",
+    "link": "https://www.sciencedirect.com/science/article/pii/S001670372600517X?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 11 August 2026<b>Source:</b> Geochimica et Cosmochimica ActaAuthor(s): E. Dobrică, J.P. Greenwood, A.N. Krot, A.J. Brearley, E.P. Vicenzi, S. Itoh, N. Sakamoto, H. Yurimoto",
+    "source": "ScienceDirect Publication: Geochimica et Cosmochimica Acta",
+    "date": "2026-08-13",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0016703726005028",
+    "title": "Experimental constraints on lithium isotope systematics in <em>Porites</em> corals: robustness of Li/Mg and δ<sup>7</sup>Li paleoceanographic proxies",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0016703726005028?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 11 August 2026<b>Source:</b> Geochimica et Cosmochimica ActaAuthor(s): Toshihiro Yoshimura, Wenshuai Li, Xiao-Ming Liu",
+    "source": "ScienceDirect Publication: Geochimica et Cosmochimica Acta",
+    "date": "2026-08-13",
+    "sent": true
+  },
+  {
+    "id": "https://pubs.geoscienceworld.org/gsa/gsabulletin/article/doi/10.1130/B38891.1/734852/Timing-of-rifting-and-drifting-of-the-Cimmerian",
+    "title": "Timing of rifting and drifting of the Cimmerian Continent: Insights from Permian to Triassic strata on the Tibetan Plateau",
+    "link": "https://pubs.geoscienceworld.org/gsa/gsabulletin/article/doi/10.1130/B38891.1/734852/Timing-of-rifting-and-drifting-of-the-Cimmerian",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\">Accurately constraining the timing of rifting and drifting of the Cimmerian Continent is crucial for reconstructing the transition from the Paleo-Tethys to the Neo-Tethys Ocean. Sedimentary rocks provide critical evidence for these processes. In this study, we utilize the Zhongba micro-terrane, which remained situated along the northern Indian margin of Gondwana throughout the late Paleozoic, as a reference, and conduct a comprehensive comparison of its Permian to Triassic sedimentary rocks with those of the South Qiangtang terrane, representing the Cimmerian Continent. By integrating analyses of depositional environment, sedimentary provenance, and tectonic setting, we find that during the Asselian to Sakmarian both terranes were situated on the stable passive margin of Gondwana, sediment being predominantly derived from the northern Indian margin of Gondwana. However, from the Artinskian to the Middle Triassic, their evolution diverged significantly. The South Qiangtang terrane experienced a shift to a tectonically active setting, marked by an abrupt provenance change to syn-depositional magmatic sources, while the Zhongba micro-terrane maintained stable passive margin deposition, its provenance consistently linked to the northern Indian margin of Gondwana. These data, combined with previous paleontological and paleomagnetic data, provide strong evidence that rifting of the Cimmerian Continent initiated during the Artinskian to Kungurian, and transitioned to a drift phase away from the northern margin of Gondwana by the Middle Permian. Together, these findings offer robust sedimentological evidence for reconstructing the late Paleozoic oceanic-continental configuration of the Tethyan realm.</span>",
+    "source": "GSA Bulletin Advance Access",
+    "date": "2026-08-11",
+    "sent": true
+  },
+  {
+    "id": "https://pubs.geoscienceworld.org/gsa/gsabulletin/article/doi/10.1130/B38482.1/734851/Orbital-forcing-of-rainfall-belt-and-vegetation",
+    "title": "Orbital forcing of rainfall belt and vegetation evolution in the Middle Jurassic on the northeastern Tibetan Plateau",
+    "link": "https://pubs.geoscienceworld.org/gsa/gsabulletin/article/doi/10.1130/B38482.1/734851/Orbital-forcing-of-rainfall-belt-and-vegetation",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\">Terrestrial vegetation dynamics offer a sensitive record of climate variability. However, how external orbital dynamics modulate internal climate processes to drive vegetation evolution remains unclear. Focusing on two deep boreholes in the northern Qaidam Basin at the northeastern margin of the Tibetan Plateau, we integrate palynology, multivariate statistics, and cyclostratigraphy to link Middle Jurassic vegetation evolution to orbital forcing. Palynological assemblages indicate fern-gymnosperm dominance, followed in the late Middle Jurassic by a sharp decline in ferns and a marked increase in <span style=\"font-style: italic;\">Classopollis</span>, signaling a shift from humid to more arid conditions. High-resolution natural gamma spectra show a pronounced decrease in obliquity/total power from the early to the late Middle Jurassic. Together with published belemnite δ<sup>18</sup>O records and climate simulations, these observations support a mechanism whereby reduced obliquity weakens the Hadley circulation, displaces rainfall belts, and thus restructures terrestrial communities. Our synthesis identifies obliquity as the primary driver of Middle Jurassic climate dynamics and vegetation change.</span>",
+    "source": "GSA Bulletin Advance Access",
+    "date": "2026-08-11",
+    "sent": true
+  },
+  {
+    "id": "http://doi.org/10.1093/nsr/nwag486",
+    "title": "Contrasting glacier mass balance changes in High Mountain Asia from 1975 to 2013",
+    "link": "https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwag486/8759706?rss=1",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\">Glaciers across High Mountain Asia have been losing ice much faster since 2000, with the overall rate increasing by 54% compared with 1975â€“2000. This acceleration was highly uneven, with the fastest ice loss occurring in the western Himalaya and southeastern Tibet, while some glaciers along the southern margin of the Tarim Basin became stable or even gained mass.</span>",
+    "source": "National Science Review Advance Access",
+    "date": "2026-08-12",
+    "sent": true
+  },
+  {
+    "id": "http://doi.org/10.1093/nsr/nwag488",
+    "title": "Molecular-level petroleum refining by graded membranes",
+    "link": "https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwag488/8759696?rss=1",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\"><div class=\"boxTitle\">Abstract</div>Light naphtha is a critical feedstock whose full value relies on molecular-level fractionation into value-specific streams. Achieving such precise separation remains difficult because its components exhibit extremely similar physicochemical properties. Here, we address this challenge by developing a graded membrane cascade based on metal-organic framework CuBTC whose pore size and surface chemistry are continuously tuned through mild tannic acid treatment. Membranes with distinct sieving characteristics were created to sequentially co-separate linear and mono-branched alkanes and then selectively permeate aromatics. The integrated cascade fractionated a 15-component C<sub>5</sub>–C<sub>7</sub> mixture into three high-purity streams, ethylene feedstock, chemical intermediates, and gasoline fuel, with recoveries of 85–90% and an estimated 91% reduction in energy consumption compared to conventional distillation. This strategy establishes an energy-efficient route toward molecular refining.</span>",
+    "source": "National Science Review Advance Access",
+    "date": "2026-08-12",
+    "sent": true
+  },
+  {
+    "id": "http://doi.org/10.1093/nsr/nwag483",
+    "title": "Giving AI a ‘case library’ to diagnose battery failures",
+    "link": "https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwag483/8759690?rss=1",
+    "authors": [],
+    "summary": "",
+    "source": "National Science Review Advance Access",
+    "date": "2026-08-12",
+    "sent": true
+  },
+  {
+    "id": "http://doi.org/10.1093/nsr/nwag482",
+    "title": "Empowering semiconductor chips via diamond-integrated near-junction cooling",
+    "link": "https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwag482/8759688?rss=1",
+    "authors": [],
+    "summary": "",
+    "source": "National Science Review Advance Access",
+    "date": "2026-08-12",
+    "sent": true
+  },
+  {
     "id": "https://www.nature.com/articles/s41467-026-76674-2",
     "title": "Observed poleward heat transport by mesoscale eddies in the deep Southern Ocean",
     "link": "https://www.nature.com/articles/s41467-026-76674-2",
