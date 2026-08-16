@@ -1,5 +1,625 @@
 [
   {
+    "id": "https://www.nature.com/articles/s41586-026-11023-3",
+    "title": "Author Correction: Cell intrinsic immunity spreads to bystander cells via the intercellular transfer of cGAMP",
+    "link": "https://www.nature.com/articles/s41586-026-11023-3",
+    "authors": [
+      "Andrea Ablasser",
+      "Jonathan L. Schmid-Burgk",
+      "Inga Hemmerling",
+      "Gabor L. Horvath",
+      "Tobias Schmidt",
+      "Eicke Latz",
+      "Veit Hornung"
+    ],
+    "summary": "Nature, Published online: 14 August 2026; <a href=\"https://www.nature.com/articles/s41586-026-11023-3\">doi:10.1038/s41586-026-11023-3</a>Author Correction: Cell intrinsic immunity spreads to bystander cells via the intercellular transfer of cGAMP",
+    "source": "Nature",
+    "date": "2026-08-14",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41586-026-11022-4",
+    "title": "Publisher Correction: Targeting cancer-specific mutations with RNA-triggered chromatin shredding",
+    "link": "https://www.nature.com/articles/s41586-026-11022-4",
+    "authors": [
+      "Jingkun Zeng",
+      "Zhiyuan Cheng",
+      "Huadong Chen",
+      "Zhaojun Wang",
+      "Jared Thompson",
+      "Kadin T. Crosby",
+      "Hesong Han",
+      "Arushi Singhal",
+      "Wayne Ngo",
+      "Chenglong Xia",
+      "Daniel Rosas-Rivera",
+      "Zeyuan Zhang",
+      "Min Hyung Kang",
+      "Ying Mao",
+      "Morgan E. Diolaiti",
+      "Giselle C. Lee",
+      "John F. X. Diffley",
+      "Yixuan Song",
+      "Longhui Qiu",
+      "Nathan M. Krah",
+      "Niren Murthy",
+      "Ryan N. Jackson",
+      "Yang Liu",
+      "Alan Ashworth",
+      "Jennifer A. Doudna"
+    ],
+    "summary": "Nature, Published online: 14 August 2026; <a href=\"https://www.nature.com/articles/s41586-026-11022-4\">doi:10.1038/s41586-026-11022-4</a>Publisher Correction: Targeting cancer-specific mutations with RNA-triggered chromatin shredding",
+    "source": "Nature",
+    "date": "2026-08-14",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-02562-w",
+    "title": "Briefing Chat: Anthropic rolls out new AI watermark — will it make a difference?",
+    "link": "https://www.nature.com/articles/d41586-026-02562-w",
+    "authors": [
+      "Benjamin Thompson",
+      "Elizabeth Gibney"
+    ],
+    "summary": "Nature, Published online: 14 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02562-w\">doi:10.1038/d41586-026-02562-w</a>Nature staff discuss what flagging AI content may mean for research integrity — plus, how people from different cultural backgrounds have the same ‘tickle hotspots’ on the body.",
+    "source": "Nature",
+    "date": "2026-08-14",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-02504-6",
+    "title": "Einstein the musician, AI prophets and more: Books in brief",
+    "link": "https://www.nature.com/articles/d41586-026-02504-6",
+    "authors": [
+      "Andrew Robinson"
+    ],
+    "summary": "Nature, Published online: 14 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02504-6\">doi:10.1038/d41586-026-02504-6</a>Andrew Robinson reviews five of the best science picks.",
+    "source": "Nature",
+    "date": "2026-08-14",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-02542-0",
+    "title": "Undocumented migration does not raise crime rates, huge study finds",
+    "link": "https://www.nature.com/articles/d41586-026-02542-0",
+    "authors": [
+      "Miryam Naddaf"
+    ],
+    "summary": "Nature, Published online: 14 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02542-0\">doi:10.1038/d41586-026-02542-0</a>Analysis of neighbourhoods in more than 100 US cities finds no evidence that rising numbers of undocumented immigrants are linked with violent crime.",
+    "source": "Nature",
+    "date": "2026-08-14",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-02558-6",
+    "title": "Daily briefing: New evidence of the mysterious ‘glueballs’",
+    "link": "https://www.nature.com/articles/d41586-026-02558-6",
+    "authors": [
+      "Jacob Smith"
+    ],
+    "summary": "Nature, Published online: 13 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02558-6\">doi:10.1038/d41586-026-02558-6</a>Physicists have found evidence of a particle made entirely of force-carrying gluons. Plus, what changes to US vaccine recommendations mean for children and the ways food scientists are improving chocolate.",
+    "source": "Nature",
+    "date": "2026-08-13",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-02546-w",
+    "title": "Daily briefing: The first archaeological evidence of death by trebuchet",
+    "link": "https://www.nature.com/articles/d41586-026-02546-w",
+    "authors": [
+      "Jacob Smith"
+    ],
+    "summary": "Nature, Published online: 12 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02546-w\">doi:10.1038/d41586-026-02546-w</a>More than 160 fractures are evidence of a fast, grisly cause of death. Plus, the health risks of the mummy trade and a controversial new type of surgery for Alzheimer’s disease.",
+    "source": "Nature",
+    "date": "2026-08-12",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/science.ael5176?af=R",
+    "title": "New Products",
+    "link": "https://www.science.org/doi/abs/10.1126/science.ael5176?af=R",
+    "authors": [],
+    "summary": "Science, Volume 393, Issue 6812, Page 736-736, August 2026. <br />",
+    "source": "AAAS: Science: Table of Contents",
+    "date": "2026-08-14",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41561-026-02076-0",
+    "title": "Antarctic greening is constrained by biology and requires field validation",
+    "link": "https://www.nature.com/articles/s41561-026-02076-0",
+    "authors": [
+      "S. Bokhorst",
+      "S. Huisman",
+      "I. K. de Jonge",
+      "T. A. J. Janssen",
+      "J. H. C. Cornelissen",
+      "K. A. Hughes",
+      "P. Convey"
+    ],
+    "summary": "Nature Geoscience, Published online: 14 August 2026; <a href=\"https://www.nature.com/articles/s41561-026-02076-0\">doi:10.1038/s41561-026-02076-0</a>Antarctic greening is constrained by biology and requires field validation",
+    "source": "Nature Geoscience",
+    "date": "2026-08-14",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41561-026-02080-4",
+    "title": "Reply to: Antarctic greening is constrained by biology and requires field validation",
+    "link": "https://www.nature.com/articles/s41561-026-02080-4",
+    "authors": [
+      "Thomas P. Roland",
+      "Oliver T. Bartlett",
+      "Dan J. Charman",
+      "Karen Anderson",
+      "Dominic A. Hodgson",
+      "Matthew J. Amesbury",
+      "Ilya Maclean",
+      "Peter T. Fretwell",
+      "Andrew Fleming"
+    ],
+    "summary": "Nature Geoscience, Published online: 14 August 2026; <a href=\"https://www.nature.com/articles/s41561-026-02080-4\">doi:10.1038/s41561-026-02080-4</a>Reply to: Antarctic greening is constrained by biology and requires field validation",
+    "source": "Nature Geoscience",
+    "date": "2026-08-14",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41561-026-02072-4",
+    "title": "Changes in the tropical rainfall seasonal cycle dominated by mesoscale convective systems",
+    "link": "https://www.nature.com/articles/s41561-026-02072-4",
+    "authors": [
+      "Xiaojie Guo",
+      "Guangxing Lin",
+      "Fengfei Song",
+      "Xuyang Guo",
+      "Zhe Feng",
+      "Xi Chen",
+      "Wenbin Kou",
+      "Yang Gao",
+      "Jinyan Song",
+      "Wei Liao",
+      "Feiya Bi",
+      "Chenglai Wu",
+      "Aiguo Dai"
+    ],
+    "summary": "Nature Geoscience, Published online: 14 August 2026; <a href=\"https://www.nature.com/articles/s41561-026-02072-4\">doi:10.1038/s41561-026-02072-4</a>High-resolution simulations project that the seasonal cycle of precipitation from mesoscale convective systems will intensify by 38–45% and be delayed by 10–15 days under high emissions, driving future changes in tropical rainfall seasonality.",
+    "source": "Nature Geoscience",
+    "date": "2026-08-14",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-76943-0",
+    "title": "Depletion of davemaoite in Earth’s ambient lower mantle",
+    "link": "https://www.nature.com/articles/s41467-026-76943-0",
+    "authors": [
+      "Ming Hao",
+      "Motohiko Murakami",
+      "Pinku Saha",
+      "Nicolas Guignot"
+    ],
+    "summary": "Nature Communications, Published online: 15 August 2026; <a href=\"https://www.nature.com/articles/s41467-026-76943-0\">doi:10.1038/s41467-026-76943-0</a>Davemaoite remains cubic throughout most of the lower mantle and exhibits intrinsically low shear-wave velocities. Seismic constraints indicate that it is depleted in the ambient lower mantle but enriched within LLSVPs, likely as a result of late-stage crystallization during magma-ocean differentiation.",
+    "source": "Nature Communications",
+    "date": "2026-08-15",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-76743-6",
+    "title": "Atmospheric turbulence sensing with structured terahertz beams containing orbital angular momentum",
+    "link": "https://www.nature.com/articles/s41467-026-76743-6",
+    "authors": [
+      "Ruiyi Shen",
+      "Miranda van Iersel",
+      "Yasaman Ghasempour"
+    ],
+    "summary": "Nature Communications, Published online: 15 August 2026; <a href=\"https://www.nature.com/articles/s41467-026-76743-6\">doi:10.1038/s41467-026-76743-6</a>This study introduces a method using structured THz-OAM beam to detect clear air turbulence. It overcomes optical limits by resisting saturation and misalignment, enabling robust turbulence strength sensing, hazard localization, and water vapor monitoring.",
+    "source": "Nature Communications",
+    "date": "2026-08-15",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-76777-w",
+    "title": "Quantifying the role of nitrogen in achieving global Sustainable Development Goals",
+    "link": "https://www.nature.com/articles/s41467-026-76777-w",
+    "authors": [
+      "Yi Zhou",
+      "Xiuming Zhang",
+      "Yiyang Zou",
+      "Chen Wang",
+      "Xin Xu",
+      "Baojing Gu"
+    ],
+    "summary": "Nature Communications, Published online: 15 August 2026; <a href=\"https://www.nature.com/articles/s41467-026-76777-w\">doi:10.1038/s41467-026-76777-w</a>Balanced nitrogen intake and lower nitrogen releases are linked to progress across the Sustainable Development Goals, helping align human well-being with environmental protection and highlighting the need for context-specific nitrogen management.",
+    "source": "Nature Communications",
+    "date": "2026-08-15",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-76407-5",
+    "title": "Focal mechanism variations reveal mechanical controls on segmentation at oceanic transform faults",
+    "link": "https://www.nature.com/articles/s41467-026-76407-5",
+    "authors": [
+      "Fengzhou Tan",
+      "Wenyuan Fan",
+      "Peter M. Shearer",
+      "Mark D. Behn",
+      "Jeffrey J. McGuire"
+    ],
+    "summary": "Nature Communications, Published online: 15 August 2026; <a href=\"https://www.nature.com/articles/s41467-026-76407-5\">doi:10.1038/s41467-026-76407-5</a>The authors use thousands of small earthquakes to show that variations in fault zone strength control segmentation of oceanic transform faults and their distinct slip behaviors.",
+    "source": "Nature Communications",
+    "date": "2026-08-15",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-76685-z",
+    "title": "CD36-mediated lipid-accumulation in reactive microglia contributes to retinal degeneration via the NLRP3-IL-1β pathway in mice",
+    "link": "https://www.nature.com/articles/s41467-026-76685-z",
+    "authors": [
+      "Tian Zhou",
+      "Ziqi Yang",
+      "Hong Zhou",
+      "Biyan Ni",
+      "Yang Zhou",
+      "Jingpeng Li",
+      "Minglu Ma",
+      "Huaicheng Wang",
+      "Peng An",
+      "Huiyi Xu",
+      "Xiaojing Lin",
+      "Shiya Lin",
+      "Shasha Wang",
+      "Shida Chen",
+      "Lixia Lin",
+      "Xialin Liu",
+      "Chang He"
+    ],
+    "summary": "Nature Communications, Published online: 15 August 2026; <a href=\"https://www.nature.com/articles/s41467-026-76685-z\">doi:10.1038/s41467-026-76685-z</a>Metabolic stress can reshape immune cells into drivers of tissue damage. This study identifies CD36-driven lipid accumulation in reactive microglia as a mechanism linking retinal inflammation to degeneration.",
+    "source": "Nature Communications",
+    "date": "2026-08-15",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-76720-z",
+    "title": "Ryugu and Bennu preserve primordial isotopic heterogeneity absent from the meteorite record",
+    "link": "https://www.nature.com/articles/s41467-026-76720-z",
+    "authors": [
+      "Martin Bizzarro",
+      "Martin Schiller",
+      "Elishevah van Kooten",
+      "Isaac J. Onyett",
+      "Wei Dai",
+      "Yuki Masuda",
+      "James N. Connelly",
+      "Frédéric Moynier",
+      "Tetsuya Yokoyama",
+      "Maria Schönbächler",
+      "Jessica J. Barnes",
+      "Ann N. Nguyen",
+      "Harold C. Connolly Jr.",
+      "Dante S. Lauretta"
+    ],
+    "summary": "Nature Communications, Published online: 15 August 2026; <a href=\"https://www.nature.com/articles/s41467-026-76720-z\">doi:10.1038/s41467-026-76720-z</a>Samples returned from Ryugu and Bennu preserve primordial isotopic heterogeneity in major planet-building elements that is not represented in meteorite collections.",
+    "source": "Nature Communications",
+    "date": "2026-08-15",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-76532-1",
+    "title": "Achieving Near 21% Efficiency Organic Solar Cells through Controlled Packing of Fused-Ring Electron Acceptors",
+    "link": "https://www.nature.com/articles/s41467-026-76532-1",
+    "authors": [
+      "Nan Wei",
+      "Tong Sun",
+      "Hao Lu",
+      "Xiaodong Wang",
+      "Xueqing Ma",
+      "Jiahe Zhang",
+      "Bohan Shang",
+      "Jieni Chen",
+      "Wenkai Zhang",
+      "Ming Fan",
+      "Yukun Xia",
+      "Zaifei Ma",
+      "Xiangwei Zhu",
+      "Zhishan Bo",
+      "Yahui Liu"
+    ],
+    "summary": "Nature Communications, Published online: 15 August 2026; <a href=\"https://www.nature.com/articles/s41467-026-76532-1\">doi:10.1038/s41467-026-76532-1</a>Non radiative energy loss remains a challenge in non-fullerene organic solar cells. Wei et al. introduce chlorobenzene-functionalized acceptors that exhibit enhanced photoluminescence quantum yield with a distinct molecular packing mode, enabling a power conversion efficiency of 20.92%.",
+    "source": "Nature Communications",
+    "date": "2026-08-15",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-76796-7",
+    "title": "Phosphorylation of OTUB1 promotes autophagy initiation under starvation",
+    "link": "https://www.nature.com/articles/s41467-026-76796-7",
+    "authors": [
+      "Liangbo Sun",
+      "Meng He",
+      "Dong Liu",
+      "Jiahong Liu",
+      "Meihua Shan",
+      "Mingzhen Yang",
+      "Yan Zhang",
+      "Xufang Dai",
+      "Jie Yao",
+      "Yanhao Zhang",
+      "Haojun Xiong",
+      "Fengtian He",
+      "Jiqin Lian"
+    ],
+    "summary": "Nature Communications, Published online: 15 August 2026; <a href=\"https://www.nature.com/articles/s41467-026-76796-7\">doi:10.1038/s41467-026-76796-7</a>This study uncovers a phosphorylation-dependent regulatory mechanism controlling OTUB1’s function in nutrient deficiency-triggered autophagy initiation, providing cellular and molecular evidence supporting the therapeutic potential of fasting in alleviating MASLD.",
+    "source": "Nature Communications",
+    "date": "2026-08-15",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-026-03929-7",
+    "title": "Need-responsive accessibility supports equitable sustainable development and reshapes migration as evolving human needs",
+    "link": "https://www.nature.com/articles/s43247-026-03929-7",
+    "authors": [
+      "Ting Zhou",
+      "Chunlin Huang",
+      "Fanglei Zhong",
+      "Xiaoyu Song",
+      "Jinliang Hou",
+      "Ying Zhang",
+      "Xin Li",
+      "Huadong Guo"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 15 August 2026; <a href=\"https://www.nature.com/articles/s43247-026-03929-7\">doi:10.1038/s43247-026-03929-7</a>Accessibility in China rose from 2000 to 2020, and east-west disparities narrowed, system coordination improved while migration motives shifted toward self-actualization needs, according to an analysis that uses a needs-responsive accessibility framework integrating SDGs, Maslow’s hierarchy, and migration data.",
+    "source": "Communications Earth & Environment",
+    "date": "2026-08-15",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-026-03928-8",
+    "title": "High dynamic satellite data reveal slower global urban expansion and rising inequality during COVID",
+    "link": "https://www.nature.com/articles/s43247-026-03928-8",
+    "authors": [
+      "Jie Yang",
+      "Xin Huang",
+      "Jiayi Li",
+      "Xiaofeng Pan",
+      "Song Ma",
+      "Liangpei Zhang"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 14 August 2026; <a href=\"https://www.nature.com/articles/s43247-026-03928-8\">doi:10.1038/s43247-026-03928-8</a>Consider this: The COVID-19 pandemic slowed global urban expansion to 6722.9 square kilometers in 2020–2022, 27 percent below expected levels and causing a 9.8-month delay, with widening inequality driven mainly within income groups according to monthly satellite mapping and country-month analysis.",
+    "source": "Communications Earth & Environment",
+    "date": "2026-08-14",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-026-03932-y",
+    "title": "Large-scale climate oscillations induce accelerated high tide flooding along the U.S. East Coast",
+    "link": "https://www.nature.com/articles/s43247-026-03932-y",
+    "authors": [
+      "Yingli Zhu",
+      "Weiqing Han",
+      "Oluwayemi Garuba",
+      "D. L. Suhas",
+      "Lai-yung Ruby Leung",
+      "Aneesh C. Subramanian",
+      "Karthik Balaguru",
+      "Gengxin Chen",
+      "Luke Van Roekel",
+      "Jianing Wang"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 14 August 2026; <a href=\"https://www.nature.com/articles/s43247-026-03932-y\">doi:10.1038/s43247-026-03932-y</a>Both the Indian Ocean Dipole and North Atlantic Oscillation have acted to accelerate high tide flooding along the U.S. East Coast in recent decades, according to combined observational analyses and model experiments.",
+    "source": "Communications Earth & Environment",
+    "date": "2026-08-14",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-026-03812-5",
+    "title": "A baseline of surface water connectivity in European Ramsar wetlands",
+    "link": "https://www.nature.com/articles/s43247-026-03812-5",
+    "authors": [
+      "Abigail E. Robinson",
+      "Fernando Jaramillo"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 13 August 2026; <a href=\"https://www.nature.com/articles/s43247-026-03812-5\">doi:10.1038/s43247-026-03812-5</a>Surface water connectivity varies widely across European Ramsar wetlands and becomes more predictable towards higher latitudes, according to an analysis of ~50 wetlands using Sentinel-1 satellite imagery and connectivity metrics between 2015 and 2024.",
+    "source": "Communications Earth & Environment",
+    "date": "2026-08-13",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012821X26004449",
+    "title": "The fast destruction of methane by heterogeneous electrochemistry induced by martian dust activity: An experimental approach",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012821X26004449?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: 1 November 2026<b>Source:</b> Earth and Planetary Science Letters, Volume 693Author(s): Alian Wang, Chuck Y.C. Yan, Quincy H.K. Qu, Alexander S. Bradley, Thirupathi Ravula, Michael D․ Smith, Kevin Olsen",
+    "source": "ScienceDirect Publication: Earth and Planetary Science Letters",
+    "date": "2026-08-16",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL124048",
+    "title": "Gravity Wave Energy Baselines (∼30–110 km) Established From Lidar Observations at McMurdo (77.84°S, 166.67°E), Antarctica: Energy Dissipation and Constituent Diffusion",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL124048?af=R",
+    "authors": [
+      "Jackson Jandreau, \nXinzhao Chu, \nYingfei Chen, \nChester S. Gardner"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 16, 28 August 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-08-14",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL122534",
+    "title": "Iron Isotopes Reveal Fe Export Driven by Change of Tropical Weathering Regime",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL122534?af=R",
+    "authors": [
+      "Z. Fekiacova‐Castanet, \nB. Heller, \nD. Guinoiseau, \nJ. Bouchez, \nA. Duvivier, \nS. Cornu, \nA. Guihou, \nC. Quantin, \nT. Allard, \nS. B. Riffel, \nP. Deschamps, \nC. Gautheron"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 16, 28 August 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-08-14",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL125110",
+    "title": "Spiky Bursts of Energetic Electron Beams Upstream of Nonstationary Quasi‐Perpendicular Shocks",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL125110?af=R",
+    "authors": [
+      "Ao Guo, \nQuanming Lu, \nSan Lu, \nShutao Yao, \nXinliang Gao"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 16, 28 August 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-08-14",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL125366",
+    "title": "Global Evidence for Off‐Axis Flexural Modification of Abyssal Hill Faults at Mid‐Ocean Ridges",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL125366?af=R",
+    "authors": [
+      "Ran Li, \nZhonglan Liu, \nShuming Feng, \nTeng Peng, \nYuan Wang"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 16, 28 August 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-08-14",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL123882",
+    "title": "Morphological and Size‐Dependent Enrichment of Endotoxins in Coastal Spray Aerosols: Implications for Regional Respiratory Health Risks",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL123882?af=R",
+    "authors": [
+      "Hong Na, \nJianlong Li, \nNarcisse Tsona Tchinda, \nHartmut Herrmann, \nChristian George, \nYan Wu, \nLin Du"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 16, 28 August 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-08-14",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL117325",
+    "title": "Contribution of Urbanization and Large‐Scale Warming to Temperature Increase From Pre‐Industrial Revolution Time to Recent Period in Central Beijing City",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL117325?af=R",
+    "authors": [
+      "Guoyu Ren, \nYuyu Ren, \nSiqi Huang, \nYuan Zhang, \nPanfeng Zhang"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 16, 28 August 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-08-14",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL122357",
+    "title": "Electron Shot Noise on a Current Biased Antenna",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL122357?af=R",
+    "authors": [
+      "Winry Ember, \nMarc Pulupa, \nMihailo Martinović, \nJohn Bonnell, \nMingzhe Liu, \nStuart D. Bale"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 16, 28 August 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-08-14",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL123378",
+    "title": "A Deep‐Learning‐Based Wind Gust Estimation Scheme in Complex Terrain",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL123378?af=R",
+    "authors": [
+      "Aiwei Li, \nJiahao Feng, \nZilong Li, \nJingjia Luo, \nWenhao Dong, \nDeliang Chen, \nWenyu Huang"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 16, 28 August 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-08-14",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL121874",
+    "title": "Multivariate Controls on Bed Turnover in Braided Rivers",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL121874?af=R",
+    "authors": [
+      "Safiya Alpheus, \nElizabeth Hajek"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 16, 28 August 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-08-14",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL122338",
+    "title": "Rapid Surface Intensification of the Gulf Stream Since 2014",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL122338?af=R",
+    "authors": [
+      "Shenfu Dong, \nMarlos Goes, \nDenis Volkov, \nSang‐Ki Lee, \nHosmay Lopez"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 16, 28 August 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-08-14",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GC012854",
+    "title": "Oxygen Isotopic Composition of Miocene Meteoric Water (δ18Ow) in Alpine Foreland Basins",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GC012854?af=R",
+    "authors": [
+      "Armelle Ballian, \nMaud J. M. Meijers, \nDaniel Boateng, \nIsabelle Cojan, \nSebastian G. Mutz, \nTodd A. Ehlers, \nAndreas Mulch"
+    ],
+    "summary": "Geochemistry, Geophysics, Geosystems, Volume 27, Issue 8, August 2026.",
+    "source": "Wiley: Geochemistry, Geophysics, Geosystems: Table of Contents",
+    "date": "2026-08-14",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025JB033666",
+    "title": "Kinematics and Dynamics of Normal Faults in Southern Tibet: Insights From the 2025 Mw 7.1 Dingri Earthquake",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JB033666?af=R",
+    "authors": [
+      "Haicheng Xiong, \nYanchuan Li, \nXinjian Shan, \nZhenjie Wang, \nYingfeng Zhang, \nZhaowu Guo, \nChenglong Li, \nRenqi Lu, \nJun Hua, \nChunyan Qu"
+    ],
+    "summary": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 8, August 2026.",
+    "source": "Wiley: Journal of Geophysical Research: Solid Earth: Table of Contents",
+    "date": "2026-08-14",
+    "sent": true
+  },
+  {
+    "id": "https://pubs.geoscienceworld.org/gsa/gsabulletin/article/doi/10.1130/B38952.1/734914/Distinctive-heavy-rare-earth-element-enrichment-in",
+    "title": "Distinctive heavy rare earth element enrichment in granites of South China: Perspectives from geochemical signatures of Chinese granitoids",
+    "link": "https://pubs.geoscienceworld.org/gsa/gsabulletin/article/doi/10.1130/B38952.1/734914/Distinctive-heavy-rare-earth-element-enrichment-in",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\">Heavy rare earth elements (HREEs) are critical metals that face significant supply risks, with current production dominated by ion-adsorption−type HREE deposits (IAHREDs) in South China. A fundamental prerequisite for IAHRED formation is HREE enrichment in parent granites, yet whether granites in South China are distinct from those elsewhere remains unclear. Here we address this question by analyzing the chemical compositions of 762 granites across China. Spatial analysis reveals that HREE enrichment is overwhelmingly concentrated in South China, particularly in the Nanling region, and coincides closely with known IAHREDs. The HREE-rich granites are peraluminous, high-K calc-alkaline, and characterized by low CaO/Na<sub>2</sub>O ratios as well as elevated Rb/Ba and Rb/Sr ratios, indicating derivation from partial melting of clay-rich metasedimentary protoliths. Low Nb/Ta and Zr/Hf ratios and pronounced negative δEu anomalies document extensive magma evolution, during which fractional crystallization of LREE-rich minerals progressively enhanced HREE enrichment in late-stage melts. The extensional setting in South China facilitated crustal melting and prolonged differentiation. We propose that the unique combination of favorable source composition, extensional tectonics, and sustained differentiation—converging in South China—produced the distinctive HREE-rich granites that serve as protoliths for IAHREDs. This study demonstrates that South China’s exceptional HREE mineralization is not coincidental, and the resulting geochemical signatures provide robust criteria for identifying granites with high IAHRED potential, offering a predictive framework for exploring critical HREE resources globally.</span>",
+    "source": "GSA Bulletin Advance Access",
+    "date": "2026-08-14",
+    "sent": true
+  },
+  {
+    "id": "https://pubs.geoscienceworld.org/gsa/gsabulletin/article/doi/10.1130/B39152.1/734913/Millimeter-scale-mineral-Li-mapping-and",
+    "title": "Millimeter-scale mineral-Li mapping and mineralization mechanism analysis of clay-type lithium deposits using hyperspectral core imaging",
+    "link": "https://pubs.geoscienceworld.org/gsa/gsabulletin/article/doi/10.1130/B39152.1/734913/Millimeter-scale-mineral-Li-mapping-and",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\">With the rapid growth of the green energy industry, lithium resources are becoming increasingly important. Bauxite-associated clay-type lithium deposits represent a newly identified type of sedimentary lithium deposits that occur extensively in the Central Yunnan region. However, the key lithium-bearing minerals and their enrichment mechanisms in these deposits are still being researched. Imaging hyperspectral technology provides high spatial and spectral datasets and is widely used for drill core analysis. However, there are relatively few studies on quantitative analysis using hyperspectral images of drill cores. When the Transformer-multilayer perceptron−based lithium content inversion model was constructed and applied to the hyperspectral data of drill cores from Xiaoshiqiao area, the results demonstrated extremely high accuracy, with R<sup>2</sup> values of ∼0.9 in the training set, test set, and validation set. The inversion models for clay minerals, including montmorillonite, illite, kaolinite, and chlorite, also achieve high accuracy. The spatial distribution of montmorillonite strongly correlates with that of lithium, suggesting that montmorillonite is the primary lithium-bearing mineral. Based on the results and paleogeographic analysis, the sedimentary process can be classified into four stages for the transition from a lacustrine basin to a lacustrine swamp marked by exceptionally enriched lithium-bearing layers. The millimeter-scale spatial distribution of lithium and clay minerals derived from imaging hyperspectral technology reveals a cyclic pattern of lithium enrichment, where lithium-rich (montmorillonite) and lithium-poor (illite and kaolinite) zones alternate within the enriched lithium-bearing formation. It is obvious that lithium enrichment is primarily driven by the strong adsorption capacity of montmorillonite and the high concentration of lithium ions in the lake basin. The detailed investigation into lithium enrichment mechanisms in this study offers valuable insights for exploring large-scale lithium deposits in the Central Yunnan Basin.</span>",
+    "source": "GSA Bulletin Advance Access",
+    "date": "2026-08-14",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026TC009427",
+    "title": "Late Cenozoic Convergence Between the Pamir and the Tianshan Revealed by Low‐Temperature Thermochronology",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026TC009427?af=R",
+    "authors": [
+      "Fujun Wang, \nEdward R. Sobel, \nPeter van der Beek, \nCody L. Colleps, \nJessica A. Stammeier, \nJohannes Glodny, \nWenbin Zhu"
+    ],
+    "summary": "Tectonics, Volume 45, Issue 8, August 2026.",
+    "source": "Wiley: Tectonics: Table of Contents",
+    "date": "2026-08-14",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026TC009377",
+    "title": "Post‐Collisional Evolution in the Southern Variscan Belt: Insights From Numerical Modeling of the Valpelline Series (Western Alps)",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026TC009377?af=R",
+    "authors": [
+      "Alessandro Regorda, \nMarco Filippi, \nManuel Roda, \nFabiola Caso, \nFederico Farina, \nChiara Benedetta Piloni, \nMichele Zucali"
+    ],
+    "summary": "Tectonics, Volume 45, Issue 8, August 2026.",
+    "source": "Wiley: Tectonics: Table of Contents",
+    "date": "2026-08-14",
+    "sent": true
+  },
+  {
     "id": "https://www.science.org/doi/abs/10.1126/sciadv.ady4193?af=R",
     "title": "Nuclear RSK1 mediates interferon-γ–induced proinflammatory activation in human primary macrophages and humanized mice",
     "link": "https://www.science.org/doi/abs/10.1126/sciadv.ady4193?af=R",
