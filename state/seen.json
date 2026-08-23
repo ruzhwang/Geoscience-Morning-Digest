@@ -1,5 +1,676 @@
 [
   {
+    "id": "https://www.nature.com/articles/d41586-026-02626-x",
+    "title": "Briefing Chat: New narcolepsy drug could unlock host of novel brain therapies",
+    "link": "https://www.nature.com/articles/d41586-026-02626-x",
+    "authors": [
+      "Nick Petrić Howe",
+      "Maren Hunsberger"
+    ],
+    "summary": "Nature, Published online: 21 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02626-x\">doi:10.1038/d41586-026-02626-x</a>Nature staff discuss how an FDA-approved drug for narcolepsy could have promise beyond the condition, and the longest-lived human brain organoids yet.",
+    "source": "Nature",
+    "date": "2026-08-21",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-02596-0",
+    "title": "Earth-shaking thunder probes underground geology",
+    "link": "https://www.nature.com/articles/d41586-026-02596-0",
+    "authors": [],
+    "summary": "Nature, Published online: 21 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02596-0\">doi:10.1038/d41586-026-02596-0</a>Seismologists measured the varying speeds of a ‘thunderquake’ to survey an area with little seismic activity.",
+    "source": "Nature",
+    "date": "2026-08-21",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-02566-6",
+    "title": "Why we must stop talking about artificial general intelligence — and instead build ‘pro-worker’ AI",
+    "link": "https://www.nature.com/articles/d41586-026-02566-6",
+    "authors": [
+      "Daron Acemoglu"
+    ],
+    "summary": "Nature, Published online: 21 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02566-6\">doi:10.1038/d41586-026-02566-6</a>Rather than racing to replace people, we should build AI tools that amplify human expertise and expand opportunity.",
+    "source": "Nature",
+    "date": "2026-08-21",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-02352-4",
+    "title": "Sleuth identifies dozens of studies that used the wrong antibody",
+    "link": "https://www.nature.com/articles/d41586-026-02352-4",
+    "authors": [
+      "Holly Else"
+    ],
+    "summary": "Nature, Published online: 21 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02352-4\">doi:10.1038/d41586-026-02352-4</a>The case is the latest example of a scientific workhorse being misused in experiments.",
+    "source": "Nature",
+    "date": "2026-08-21",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41586-026-11043-z",
+    "title": "Dialkyl ether synthesis through heteroatom homolytic substitution",
+    "link": "https://www.nature.com/articles/s41586-026-11043-z",
+    "authors": [
+      "Johannes J. Großkopf",
+      "Johnny Z. Wang",
+      "Jacqueline W. Gu",
+      "Cheng Bi",
+      "Sarah N. Dishman",
+      "Xiaoshen Ma",
+      "Yu-hong Lam",
+      "David W. C. MacMillan"
+    ],
+    "summary": "Nature, Published online: 20 August 2026; <a href=\"https://www.nature.com/articles/s41586-026-11043-z\">doi:10.1038/s41586-026-11043-z</a>Dialkyl ether synthesis through heteroatom homolytic substitution",
+    "source": "Nature",
+    "date": "2026-08-20",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-02555-9",
+    "title": "Hidden volcanoes hint at Moon’s turbulent past",
+    "link": "https://www.nature.com/articles/d41586-026-02555-9",
+    "authors": [],
+    "summary": "Nature, Published online: 20 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02555-9\">doi:10.1038/d41586-026-02555-9</a>A pair of massive shield volcanoes have been pinpointed by lunar spacecraft.",
+    "source": "Nature",
+    "date": "2026-08-20",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-02553-x",
+    "title": "To shield the fetus, link a protein to these drugs",
+    "link": "https://www.nature.com/articles/d41586-026-02553-x",
+    "authors": [],
+    "summary": "Nature, Published online: 20 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02553-x\">doi:10.1038/d41586-026-02553-x</a>Adding albumin to popular antibody-based medicines helps to block their passage through the placenta.",
+    "source": "Nature",
+    "date": "2026-08-20",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-02556-8",
+    "title": "Astronaut vest cuts radiation exposure in half",
+    "link": "https://www.nature.com/articles/d41586-026-02556-8",
+    "authors": [],
+    "summary": "Nature, Published online: 20 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02556-8\">doi:10.1038/d41586-026-02556-8</a>Tests on uncrewed NASA mission showed garment could spare astronauts the worst effects of solar storms.",
+    "source": "Nature",
+    "date": "2026-08-20",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-02586-2",
+    "title": "These trees are making air quality in cities worse",
+    "link": "https://www.nature.com/articles/d41586-026-02586-2",
+    "authors": [
+      "Mohana Basu"
+    ],
+    "summary": "Nature, Published online: 20 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02586-2\">doi:10.1038/d41586-026-02586-2</a>They release compounds that contribute to ozone emissions, and rising temperatures could exacerbate the problem.",
+    "source": "Nature",
+    "date": "2026-08-20",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-02574-6",
+    "title": "Exclusive: NSF set to issue lowest number of new grants in four decades",
+    "link": "https://www.nature.com/articles/d41586-026-02574-6",
+    "authors": [
+      "Dan Garisto"
+    ],
+    "summary": "Nature, Published online: 20 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02574-6\">doi:10.1038/d41586-026-02574-6</a>The US science-funding agency is withholding $1 billion of its budget so that the money can go to a special White House project.",
+    "source": "Nature",
+    "date": "2026-08-20",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-02612-3",
+    "title": "Moderna cancer vaccine stops melanoma returning: what’s next for personalized treatments?",
+    "link": "https://www.nature.com/articles/d41586-026-02612-3",
+    "authors": [
+      "Rachel Fieldhouse",
+      "Mohana Basu"
+    ],
+    "summary": "Nature, Published online: 20 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02612-3\">doi:10.1038/d41586-026-02612-3</a>Promising trial results suggest cancer vaccines work and could be used to target other tumours.",
+    "source": "Nature",
+    "date": "2026-08-20",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-02617-y",
+    "title": "Daily briefing: People older than 100 have more cancer-killing cells",
+    "link": "https://www.nature.com/articles/d41586-026-02617-y",
+    "authors": [
+      "Flora Graham"
+    ],
+    "summary": "Nature, Published online: 20 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02617-y\">doi:10.1038/d41586-026-02617-y</a>Killer T cells might help people to live to extraordinarily old ages. Plus, the longest-lived brain organoids so far and how mass genome-screening programmes for newborns might work.",
+    "source": "Nature",
+    "date": "2026-08-20",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-02549-7",
+    "title": "Investors’ sneak peak: can this AI tool spot the science that will lead to patents?",
+    "link": "https://www.nature.com/articles/d41586-026-02549-7",
+    "authors": [
+      "Chris Stokel-Walker"
+    ],
+    "summary": "Nature, Published online: 20 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02549-7\">doi:10.1038/d41586-026-02549-7</a>The approach could speed up investment decisions, but researchers say it has flaws.",
+    "source": "Nature",
+    "date": "2026-08-20",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-02551-z",
+    "title": "Staggering 90% of biomedical papers now show signs of AI help",
+    "link": "https://www.nature.com/articles/d41586-026-02551-z",
+    "authors": [
+      "Kaia Glickman"
+    ],
+    "summary": "Nature, Published online: 20 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02551-z\">doi:10.1038/d41586-026-02551-z</a>The figure, which is much higher than previous estimates of Large Language Model use, is for papers published in December and archived in PubMed",
+    "source": "Nature",
+    "date": "2026-08-20",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-02455-y",
+    "title": "Researcher, heal thyself: meet the scientists studying their own diseases",
+    "link": "https://www.nature.com/articles/d41586-026-02455-y",
+    "authors": [
+      "Josie Glausiusz"
+    ],
+    "summary": "Nature, Published online: 20 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02455-y\">doi:10.1038/d41586-026-02455-y</a>Studying a condition after being diagnosed with it can be rewarding but also presents some ethical and psychological challenges.",
+    "source": "Nature",
+    "date": "2026-08-20",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-02614-1",
+    "title": "Daily briefing: How 3D printers are changing lab work",
+    "link": "https://www.nature.com/articles/d41586-026-02614-1",
+    "authors": [
+      "Flora Graham"
+    ],
+    "summary": "Nature, Published online: 19 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02614-1\">doi:10.1038/d41586-026-02614-1</a>Printing custom lab tools can be cheaper than buying them. Plus, South African scientists might soon have to register with a regulatory body and what an exoskeleton-powered future might look like.",
+    "source": "Nature",
+    "date": "2026-08-19",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-02600-7",
+    "title": "Daily briefing: ‘Too hot to sleep’ is harmful to your health",
+    "link": "https://www.nature.com/articles/d41586-026-02600-7",
+    "authors": [
+      "Flora Graham"
+    ],
+    "summary": "Nature, Published online: 18 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02600-7\">doi:10.1038/d41586-026-02600-7</a>Heatwave-driven sleepless nights are robbing people of a crucial aspect of health and recovery. Plus, dolphin calves learn hunting techniques from their mothers and how slavery is linked to health disparities in the United States today.",
+    "source": "Nature",
+    "date": "2026-08-18",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-77068-0",
+    "title": "Glucagon-like Peptide-1 Receptor Agonists and Risk of Tuberculosis in Type 2 Diabetes",
+    "link": "https://www.nature.com/articles/s41467-026-77068-0",
+    "authors": [
+      "Kuang-Ming Liao",
+      "Jheng-Yan Wu",
+      "Chih-Cheng Lai"
+    ],
+    "summary": "Nature Communications, Published online: 22 August 2026; <a href=\"https://www.nature.com/articles/s41467-026-77068-0\">doi:10.1038/s41467-026-77068-0</a>A large international study found that certain diabetes drugs (GLP-1 receptor agonists) may link to a lower risk of tuberculosis than other common treatments. These medications may offer added protection against tuberculosis in type 2 diabetes.",
+    "source": "Nature Communications",
+    "date": "2026-08-22",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-76856-y",
+    "title": "Asian summer monsoon orbital variability directly paced by CO2 and precession, not eccentricity",
+    "link": "https://www.nature.com/articles/s41467-026-76856-y",
+    "authors": [
+      "Jeanne Millot-Weil",
+      "Paul J. Valdes",
+      "Alexander Farnsworth"
+    ],
+    "summary": "Nature Communications, Published online: 22 August 2026; <a href=\"https://www.nature.com/articles/s41467-026-76856-y\">doi:10.1038/s41467-026-76856-y</a>Asian summer monsoon variability is investigated using climate model simulations covering the last 800 kyr. Greenhouse gases drive 100-kyr variability via its thermal forcing, while precession governs 20-kyr variability.",
+    "source": "Nature Communications",
+    "date": "2026-08-22",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-76147-6",
+    "title": "Longitudinal digital phenotyping of activity rhythms and biological aging using commercial wearables",
+    "link": "https://www.nature.com/articles/s41467-026-76147-6",
+    "authors": [
+      "Jinjoo Shim",
+      "Jukka-Pekka Onnela"
+    ],
+    "summary": "Nature Communications, Published online: 22 August 2026; <a href=\"https://www.nature.com/articles/s41467-026-76147-6\">doi:10.1038/s41467-026-76147-6</a>Long-term links between free-living rest-activity rhythms and biological aging remain unclear. Here, the authors show that Fitbit-derived rest-activity rhythms are associated with biological aging trajectories in All of Us Research Program.",
+    "source": "Nature Communications",
+    "date": "2026-08-22",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-76840-6",
+    "title": "An LRR-truncated NLR natural variant confers dual resistance to drought and blast in rice",
+    "link": "https://www.nature.com/articles/s41467-026-76840-6",
+    "authors": [
+      "Haifu Tu",
+      "Ying Ye",
+      "Huaijun Wang",
+      "Shumin Li",
+      "Zhiyue Feng",
+      "Xinhua Feng",
+      "Qian Liu",
+      "Xiaokai Li",
+      "Tiantian Ye",
+      "Yu Zhang",
+      "Dan Hu",
+      "Yu Yan",
+      "Yu Chen",
+      "Yongzhong Xing",
+      "Honghong Hu",
+      "Faming Dong",
+      "Xuelei Lai",
+      "Kabin Xie",
+      "Haiyan Xiong",
+      "Lizhong Xiong"
+    ],
+    "summary": "Nature Communications, Published online: 22 August 2026; <a href=\"https://www.nature.com/articles/s41467-026-76840-6\">doi:10.1038/s41467-026-76840-6</a>Genetic resources with combined resistance to drought and blast disease are scarce. Here, the authors identify NLR8-Hap2, a natural allele of the rice NLR gene NLR8 that encodes an LRR-truncated protein, and show that it enhances resistance to both stresses by stabilizing two distinct transcription factors.",
+    "source": "Nature Communications",
+    "date": "2026-08-22",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-76661-7",
+    "title": "Time-Temperature-Transformation Diagrams to Navigate the Nucleation and Quenchability of Metastable α-Li₃PS<sub>4</sub>",
+    "link": "https://www.nature.com/articles/s41467-026-76661-7",
+    "authors": [
+      "Akira Miura",
+      "Woohyeon Baek",
+      "Yuta Fujii",
+      "Kiyoharu Tadanaga",
+      "Rana Hossain",
+      "Aichi Yamashita",
+      "Yoshikazu Mizuguchi",
+      "Chikako Moriyoshi",
+      "Shintaro Kobayashi",
+      "Shogo Kawaguchi",
+      "Ding Jiong",
+      "Shigeo Mori",
+      "Atsushi Sakuda",
+      "Akitoshi Hayashi",
+      "Wenhao Sun"
+    ],
+    "summary": "Nature Communications, Published online: 22 August 2026; <a href=\"https://www.nature.com/articles/s41467-026-76661-7\">doi:10.1038/s41467-026-76661-7</a>Here authors investigate the mechanisms underlying the synthesis and retention of metastable α-Li₃PS₄, a solid-state electrolyte with high ionic conductivity, which can be formed and quenched at low temperatures despite being a high-temperature equilibrium phase.",
+    "source": "Nature Communications",
+    "date": "2026-08-22",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-76869-7",
+    "title": "Data-driven construction of an imine reductase library capable of broad-scope reductive amination at equimolar substrate concentrations",
+    "link": "https://www.nature.com/articles/s41467-026-76869-7",
+    "authors": [
+      "Sarah A. Berger",
+      "Christopher Grimm",
+      "Marco Cespugli",
+      "Andreas Krassnigg",
+      "Tobias Schopper",
+      "Irene Marzuoli",
+      "Isabel Oroz-Guinea",
+      "Stephan Vrabl",
+      "Lukas Roemer",
+      "Melanie A. Weber",
+      "Fabian M. Kulier",
+      "Yuliya Orel",
+      "Bettina M. Nestl",
+      "Christian C. Gruber",
+      "Georg Steinkellner",
+      "Serena Bisagni",
+      "Francis Gosselin",
+      "Hans Iding",
+      "Kurt Puentener",
+      "Dennis Wetzl",
+      "Wolfgang Kroutil",
+      "Joerg H. Schrittwieser"
+    ],
+    "summary": "Nature Communications, Published online: 22 August 2026; <a href=\"https://www.nature.com/articles/s41467-026-76869-7\">doi:10.1038/s41467-026-76869-7</a>Reductive amination catalysed by imine reductases and reductive aminases is a powerful method for the asymmetric synthesis of chiral amines, yet the generality and practical limitations of these enzymes remain poorly understood. Here, the authors combine large-scale, iterative activity screening, sequence analysis and machine-learning-guided exploration to profile reductive amination performance across 175 enzymes and structurally diverse substrate panels.",
+    "source": "Nature Communications",
+    "date": "2026-08-22",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-77053-7",
+    "title": "Ru-enabled dehydration-reductive amination of α-, β-hydroxy acids into amino acids",
+    "link": "https://www.nature.com/articles/s41467-026-77053-7",
+    "authors": [
+      "Shixiang Feng",
+      "Jun Yi",
+      "Huirong Yu",
+      "Jie He",
+      "Di Xu",
+      "Xinbin Ma",
+      "Ning Yan",
+      "Li Shuai"
+    ],
+    "summary": "Nature Communications, Published online: 22 August 2026; <a href=\"https://www.nature.com/articles/s41467-026-77053-7\">doi:10.1038/s41467-026-77053-7</a>Biomass derived α-, β-hydroxy acids can provide greener routes to valuable amino acids, but selective conversion remains difficult. This study shows isolated ruthenium sites can drive a new pathway from hydroxy acids to amino acids.",
+    "source": "Nature Communications",
+    "date": "2026-08-22",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-76862-0",
+    "title": "XPO1-mediated TRIM21 nuclear export reprograms TREM2+ macrophage polarization by targeting IRF3 to augment anti-PD-1 efficacy in small cell lung cancer",
+    "link": "https://www.nature.com/articles/s41467-026-76862-0",
+    "authors": [
+      "Qingwu Du",
+      "Tingting Qin",
+      "Jingya Wang",
+      "Yantao Jiang",
+      "Qi Xu",
+      "Xueyang Li",
+      "Huiyan Liu",
+      "Junjie Yu",
+      "Yi Lu",
+      "Luyao Tong",
+      "Tao Sun",
+      "Peng Chen",
+      "Richeng Jiang",
+      "Dingzhi Huang"
+    ],
+    "summary": "Nature Communications, Published online: 22 August 2026; <a href=\"https://www.nature.com/articles/s41467-026-76862-0\">doi:10.1038/s41467-026-76862-0</a>Small cell lung cancer (SCLC) is an aggressive malignancy characterized by an immunosuppressive tumor microenvironment (TME) resistant to Immune checkpoint inhibitor (ICI) therapy. Here, the authors define an XPO1-TRIM21-TNFSF15 axis that promotes the polarization of immunosuppressive TREM2+ macrophages, which ultimately orchestrates immune exclusion by impairing antigen presentation. Importantly, targeting XPO1 enhances the efficacy of anti-PD1 immunotherapy in mice.",
+    "source": "Nature Communications",
+    "date": "2026-08-22",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-026-03972-4",
+    "title": "Seasonal dynamics of aquatic organic carbon driven by floating-mat formation in a terrestrializing lake",
+    "link": "https://www.nature.com/articles/s43247-026-03972-4",
+    "authors": [
+      "Geng Cui",
+      "Yan Liu",
+      "Long Yan",
+      "Shouzheng Tong",
+      "Ming Jiang",
+      "Chuanyu Gao",
+      "Weiyu Huang",
+      "Xin Liu"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 22 August 2026; <a href=\"https://www.nature.com/articles/s43247-026-03972-4\">doi:10.1038/s43247-026-03972-4</a>Floating peat mats regulate aquatic organic carbon during lake terrestrialization by acting as sources and modulators shaped by biological production, water chemistry, temperature, and sediment-water exchange, based on field observations, isotope tracing, and structural equation modelling.",
+    "source": "Communications Earth & Environment",
+    "date": "2026-08-22",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-026-03930-0",
+    "title": "Cocoa expansion around Ghana’s protected areas is associated with food crop displacement and forest loss inside them",
+    "link": "https://www.nature.com/articles/s43247-026-03930-0",
+    "authors": [
+      "Thomas Addoah",
+      "Cécile Renier",
+      "Valentin Guye",
+      "Federico Cammelli",
+      "Patrick Meyfroidt",
+      "Javier Fajardo",
+      "Wilma J. Blaser-Hart",
+      "Rachael D. Garrett"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 22 August 2026; <a href=\"https://www.nature.com/articles/s43247-026-03930-0\">doi:10.1038/s43247-026-03930-0</a>Cocoa expansion outside Ghana’s protected area is associated with food crop displacement and forest loss inside reserves, while sustainability programs are associated with lower forest loss, based on an analysis of 76 villages.",
+    "source": "Communications Earth & Environment",
+    "date": "2026-08-22",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-026-03973-3",
+    "title": "Bacterial quorum sensing signals reshape phycosphere functions to regulate colony morphology in <i>Phaeocystis globosa</i>",
+    "link": "https://www.nature.com/articles/s43247-026-03973-3",
+    "authors": [
+      "Jianming Zhu",
+      "Yuelu Jiang",
+      "Si Tang",
+      "Xiaobing Wen",
+      "Shuo Han",
+      "Mengjie Wu",
+      "Zhonghua Cai",
+      "Jin Zhou"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 22 August 2026; <a href=\"https://www.nature.com/articles/s43247-026-03973-3\">doi:10.1038/s43247-026-03973-3</a>The key marine primary producer Phaeocystis globosa formed larger but fewer colonies and showed broad metabolic reprogramming following exposure to the bacterial quorum-sensing molecule acyl-homoserine lactone in controlled laboratory experiments.",
+    "source": "Communications Earth & Environment",
+    "date": "2026-08-22",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-026-03924-y",
+    "title": "Episodic fluid decompression drives lithium enrichment in granitic pegmatites",
+    "link": "https://www.nature.com/articles/s43247-026-03924-y",
+    "authors": [
+      "Tao Hong",
+      "Zhang Zhang",
+      "Xiao-Yue Ma",
+      "Yi Zou",
+      "Matthieu Harlaux",
+      "Xing-Wang Xu",
+      "Jun Gao",
+      "Gao-Bin Chu",
+      "Ming-Guo Zhai"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 22 August 2026; <a href=\"https://www.nature.com/articles/s43247-026-03924-y\">doi:10.1038/s43247-026-03924-y</a>Episodic drops in fluid pressure within granitic pegmatite systems transiently accelerate crystal growth and enable the incorporation of Al and Li substitution within quartz, according to analysis of quartz in miarolitic cavities from the Bailongshan deposit.",
+    "source": "Communications Earth & Environment",
+    "date": "2026-08-22",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012825226002643",
+    "title": "Comment on <a href=\"https://rss.sciencedirect.com/publication/science/00128252#bb0020\" id=\"cf0020\" name=\"bbb0020\">Luo et al. (2022)</a> “Life history and evolution of the enigmatic Cretaceous-Eocene Alienopteridae: A critical review”",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012825226002643?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: November 2026<b>Source:</b> Earth-Science Reviews, Volume 282Author(s): Guoyi Zhang",
+    "source": "ScienceDirect Publication: Earth-Science Reviews",
+    "date": "2026-08-23",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012821X26004784",
+    "title": "Experimental mineralogical replacement to investigate the role of texture on interface morphology, reaction kinetics and pore-scale transport during metasomatism",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012821X26004784?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: 1 November 2026<b>Source:</b> Earth and Planetary Science Letters, Volume 693Author(s): Nicolas E. Beaudoin, Kanchana Kularatne, Stephen Centrella, Matthieu Mascle, Benjamin Lefeuvre, Pascale Sénéchal, Souhail Youssef, Fadi Henri Nader",
+    "source": "ScienceDirect Publication: Earth and Planetary Science Letters",
+    "date": "2026-08-23",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012821X26004097",
+    "title": "Replacing the elastic model with a simple viscoelastic model for more reliable estimation of geodetic locking depths of strike-slip faults",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012821X26004097?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: 1 November 2026<b>Source:</b> Earth and Planetary Science Letters, Volume 693Author(s): Yijie Zhu, Kelin Wang, Lin Shen, Edwin Nissen",
+    "source": "ScienceDirect Publication: Earth and Planetary Science Letters",
+    "date": "2026-08-23",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL124019",
+    "title": "Post‐Sunset Merging of Equatorial Ionization Anomaly Crests Into a Single Peak Over ∼35° Longitude During the 19 January 2026 Geomagnetic Superstorm",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL124019?af=R",
+    "authors": [
+      "Deepak K. Karan, \nRichard W. Eastes, \nKuldeep Pandey, \nWenbin Wang, \nCarlos R. Martinis, \nRobert E. Daniell, \nQuan Gan"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 16, 28 August 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-08-22",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL121613",
+    "title": "Rapid UAV‐ and Ground‐Based Magnetic Mapping of Subsurface Fractures During a Volcano‐Tectonic Crisis in Grindavík, Iceland",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL121613?af=R",
+    "authors": [
+      "E. J. Piispa, \nC. R. Gallagher, \nS. Bernholt, \nG. M. Einarsson, \nÖ. Erlendsson, \nK. Á. Karlsdóttir, \nM. Á. Sigurgeirsson, \nR. A. Askew, \nD. Ben‐Yehoshua, \nB. V. Óskarsson, \nS. R. Gunnarson, \nM. T. Gudmundsson, \nG. Björnsson"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 16, 28 August 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-08-22",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL123503",
+    "title": "HF Heating Effects as Seen From Below and Above: First Results of Joint SURA–Ionosfera‐M Experiment",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL123503?af=R",
+    "authors": [
+      "A. A. Chernyshov, \nA. M. Padokhin, \nS. M. Grach, \nD. A. Kogogin, \nA. V. Shindin, \nS. A. Pulinets, \nI. A. Nasyrov, \nA. B. Beletsky, \nI. D. Tkachev, \nJ. K. Legostaeva, \nD. V. Chugunin, \nM. A. Evdokimova, \nG. A. Kurbatov, \nK. G. Tsybulya, \nA. E. Solin, \nA. V. Shchennikov, \nE. V. Tareeva, \nV. V. Emelyanov, \nM. M. Mogilevsky"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 16, 28 August 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-08-22",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL123990",
+    "title": "Influence of Heat Wave and Precipitation on Chikungunya Transmission",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL123990?af=R",
+    "authors": [
+      "Wei Yan, \nJianping Huang, \nShujuan Hu, \nXiaolu Fan, \nXinbo Lian"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 16, 28 August 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-08-21",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GC013086",
+    "title": "Evolution in Fluid Composition During Subduction",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GC013086?af=R",
+    "authors": [
+      "A. A. Helm, \nM. J. Caddick, \nR. J. Bodnar"
+    ],
+    "summary": "Geochemistry, Geophysics, Geosystems, Volume 27, Issue 8, August 2026.",
+    "source": "Wiley: Geochemistry, Geophysics, Geosystems: Table of Contents",
+    "date": "2026-08-21",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025JB031867",
+    "title": "Shaking‐Induced Small Seismic Velocity Changes as Revealed From Seismic Interferometry Analysis of Distributed Acoustic Sensing Data",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JB031867?af=R",
+    "authors": [
+      "Takashi Hirose, \nTakeshi Nishimura, \nHisashi Nakahara, \nKimiko Taguchi, \nHaruhisa Nakamichi, \nKentaro Emoto, \nSatoru Hamanaka"
+    ],
+    "summary": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 8, August 2026.",
+    "source": "Wiley: Journal of Geophysical Research: Solid Earth: Table of Contents",
+    "date": "2026-08-21",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026JB034160",
+    "title": "Transition From Faulting to Dilatant Cataclastic Flow in Carrara Marble Revealed by Acoustic Monitoring and 4D X‐Ray Imaging",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026JB034160?af=R",
+    "authors": [
+      "Erina Prastyani, \nLei Wang, \nJessica McBeck, \nBenoît Cordonnier, \nErik Rybacki, \nGeorg Dresen, \nFrançois Renard"
+    ],
+    "summary": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 8, August 2026.",
+    "source": "Wiley: Journal of Geophysical Research: Solid Earth: Table of Contents",
+    "date": "2026-08-21",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0016703726005363",
+    "title": "Corrigendum to “Catch and release of deep energy sources across orogenic cycles” [Geochim. Cosmochim. Acta 426 (2026) 93–109]",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0016703726005363?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 22 August 2026<b>Source:</b> Geochimica et Cosmochimica ActaAuthor(s): Orlando Sébastien Olivieri, Francesco Ressico, Thomas Gusmeo, Isabelle Daniel, Antoine Boutier, Veronica Peverelli, Zeudia Pastore, Mark Van Baalen, Jens Fiebig, Alberto Vitale Brovarone",
+    "source": "ScienceDirect Publication: Geochimica et Cosmochimica Acta",
+    "date": "2026-08-23",
+    "sent": true
+  },
+  {
+    "id": "https://pubs.geoscienceworld.org/gsa/geology/article/doi/10.1130/G55209.1/745649/The-world-s-highest-late-Middle-Pleistocene-marine",
+    "title": "The world’s highest late Middle-Pleistocene marine deposits on the southern margin of the Central Anatolian Plateau (southern Türkiye)",
+    "link": "https://pubs.geoscienceworld.org/gsa/geology/article/doi/10.1130/G55209.1/745649/The-world-s-highest-late-Middle-Pleistocene-marine",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\">Reconstructing surface uplift rates in active orogens is critical for understanding how deep Earth processes shape topography, but such estimates require both rapid uplift and preservation of young marine deposits. The southern margin of the Central Anatolian Plateau (CAP) in Türkiye provides an exceptional example, preserving Upper Miocene and late Middle-Pleistocene marine deposits at ∼2.2 km and ∼1.1 km of elevation, respectively, indicating multiphase uplift. We investigated the TOL-1 section in the Mut Basin, which preserves late Middle-Pleistocene (Marine Isotope Stage 7) marine deposits at 1177 m above mean sea level (amsl); the highest in the world. The section records two key calcareous nannofossil bioevents: the last occurrence of <span style=\"font-style: italic;\">Pseudoemiliania lacunosa</span> (0.46 Ma) and the first occurrence of <span style=\"font-style: italic;\">Emiliania huxleyi</span> (0.26 Ma). Foraminiferal biostratigraphy, marked by the consistent presence of <span style=\"font-style: italic;\">Globigerinella calida</span> from the base, indicates that deposition began after ca. 0.53 Ma. Ostracod assemblages reveal a transition from upper epibathyal to littoral environments, with a shallowing-upward trend beginning at ca. 0.40 Ma. Paleomagnetic data indicate normal polarity, consistent with deposition during the current normal polarity Brunhes Chron. By integrating biostratigraphy, paleobathymetric reconstructions (∼50 m below mean sea level), and sea-level estimates at 0.23 Ma (∼−18 m), we calculated a mean uplift rate of ∼5.2 m/k.y. This exceptionally high rate may be attributed to slab break-off of the still-subducting eastern Cyprus slab combined with mantle flow from the Arabian slab window at the Eastern Anatolian collision zone. These findings provide a rare high-resolution temporal benchmark for linking stratigraphic records of marine deposition with deep-seated processes and rapid surface uplift in active convergent margins.</span>",
+    "source": "Geology Advance Access",
+    "date": "2026-08-21",
+    "sent": true
+  },
+  {
+    "id": "https://pubs.geoscienceworld.org/gsa/geology/article/doi/10.1130/G54842.1/745648/Amazonian-aged-glacial-melting-recorded-by-a",
+    "title": "Amazonian-aged glacial melting recorded by a subglacial paleolake and regionally widespread eskers on Mars",
+    "link": "https://pubs.geoscienceworld.org/gsa/geology/article/doi/10.1130/G54842.1/745648/Amazonian-aged-glacial-melting-recorded-by-a",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\">The mid-to-late Amazonian period on Mars (ca. 0−1 Ga) was cold and hyperarid, with an extremely limited role of liquid water. Abundant midlatitude viscous flow features (VFFs; putative debris-covered glaciers) that formed during this time are thought to be the partially retreated remnants of larger, thicker, predominantly cold-based ice masses deposited by snowfall. Small numbers of eskers (ridges of glaciofluvial sediment deposited in ice-confined meltwater tunnels) associated with VFFs have been attributed to rare, spatially restricted past subglacial melting driven by localized geothermal heating. Here, we present two key findings based on analysis of orbital images and elevation data. First, VFF-associated eskers distributed throughout a 650-km-long plateau system in the Tempe Terra region necessitate more widespread occurrences of Amazonian subglacial melting and more spatially extensive heating (e.g., a geothermal hotspot and/or regional climate change) than previously understood. Second, two of the eskers are associated with a landform assemblage consistent with meltwater drainage into a subglacial paleolake. This suggests that VFFs were capable of supporting subglacial lakes when they were thicker and more extensive. Glaciers in Mars’ midlatitudes are key targets for robotic missions aiming to search for life, reconstruct environmental change, and characterize in situ water resources for human missions. On Earth, subglacial lakes support microbial ecosystems under extreme conditions, and paleolake deposits have high potential for preserving biosignatures in the geologic record. Hence, subglacial paleolake deposits proximal to Mars’ midlatitude glaciers represent high-priority targets for future exploration.</span>",
+    "source": "Geology Advance Access",
+    "date": "2026-08-21",
+    "sent": true
+  },
+  {
+    "id": "https://pubs.geoscienceworld.org/msa/ammin/article/doi/10.2138/am-2025-10114/736455/Massive-CaCO3-subducted-into-the-deep-earth-and",
+    "title": "Massive CaCO 3  subducted into the deep earth and significant influence on the seismic velocity of subduction zone",
+    "link": "https://pubs.geoscienceworld.org/msa/ammin/article/doi/10.2138/am-2025-10114/736455/Massive-CaCO3-subducted-into-the-deep-earth-and",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\"><div class=\"boxTitle\">Abstract</div>The sound velocities of aragonite at high pressures and temperatures were measured in-situ using ultrasonic interferometry in conjunction with x-ray techniques. The experiment shows aragonite has extremely low compressional and shear velocities that 18 ∼ 31% and 26 ∼31% lower than the major minerals in the subduction zones. Velocities of altered oceanic crust (AOC) as well as sediments containing aragonite were calculated, showing distinct low seismic velocity characteristics, the AOC which contains 2.5wt% CO<sub>2</sub> would cause ∼2% and ∼2-3% reduction in V<sub>P</sub> and V<sub>S</sub>, respectively, while 5-7 vol% aragonite in the sediments causes ∼7% reduction in both V<sub>P</sub> and V<sub>S</sub> relative to surrounding materials. Furthermore, the velocities of sediments with different aragonite contents were calculated and compared them with the seismic data of north-central Chile subduction zone. Our results suggest that the maximum sedimentary aragonite fractions in Chile subduction zone is about 20 vol% at 140 km depth and about 35 vol% at 220 km depth. The presence of aragonite would therefore have significant influence on the velocities in the subduction zone. This result provides new mechanisms for explaining the low-velocity anomalies in subduction zones and deepens the understanding of the carbon quantization in subduction zones.</span>",
+    "source": "American Mineralogist Advance Access",
+    "date": "2026-08-19",
+    "sent": true
+  },
+  {
+    "id": "https://pubs.geoscienceworld.org/msa/ammin/article/doi/10.2138/am-2025-10122/736454/Arsenic-rich-Apatite-as-a-Recorder-of",
+    "title": "Arsenic-rich Apatite as a Recorder of Crystallization Processes in Felsic Plutonic Systems",
+    "link": "https://pubs.geoscienceworld.org/msa/ammin/article/doi/10.2138/am-2025-10122/736454/Arsenic-rich-Apatite-as-a-Recorder-of",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\"><div class=\"boxTitle\">Abstract</div>Arsenic can concentrate in phosphate minerals, such as apatite, with levels exceeding whole-rock concentrations in some felsic igneous suites. This strong As-apatite association is ascribed to oxidizing conditions during crystallization, as arsenate [As<sup>V</sup>O<sub>4</sub><sup>3-</sup>] is expected to be more compatible than arsenite [As<sup>III</sup>O<sub>3</sub><sup>3-</sup>] in apatite. However, previous spectroscopic measurements on a basaltic melt composition indicates that As<sup>III</sup> is the dominant species over the range of terrestrial oxygen fugacity (<span style=\"font-style: italic;\">f</span>O<sub>2</sub>), thus total As partitioning (meaning the combined As<sup>III</sup> and As<sup>V</sup> species) into apatite is expected to be minimal. To understand this apparent contradiction, apatite-melt partitioning experiments using metaluminous, peraluminous, and peralkaline felsic melt compositions were performed at <span style=\"font-style: italic;\">f</span>O<sub>2</sub> ranging from ΔFMQ of −0.4 to +8.1 (ΔFMQ = log deviation from the Fayalite-Magnetite-Quartz redox buffer), 0.75 GPa, and 900–1050 °C. Arsenic speciation data obtained from quenched silicate glasses using X-ray absorption near edge structures spectroscopy (XANES) indicate that As<sup>III</sup> predominates at FMQ−0.4, but decreases in abundance with increasing <span style=\"font-style: italic;\">f</span>O<sub>2</sub>. At FMQ+8.1, the amount of As<sup>V</sup> reaches ∼60–80% of the total arsenic concentration. At a given <span style=\"font-style: italic;\">f</span>O<sub>2</sub>, the proportion of As<sup>V</sup> decreases in the compositional order: peralkaline, metaluminous and peraluminous, and that these felsic melts stabilize more As<sup>V</sup> than previously reported for a basaltic composition. Results from the apatite/melt partitioning experiments indicate that D<sup>apatite/melt</sup> increases from ∼0.1 at FMQ-0.4 to ∼20 at FMQ+8.1 consistent with the increased prevalence of As<sup>V</sup>, and the preferred substitution of [As<sup>V</sup>O<sub>4</sub><sup>3-</sup>] for [P<sup>V</sup>O<sub>4</sub><sup>3-</sup>] in the apatite structure. Speciation and partitioning results are combined to generate an apatite-melt partitioning model that incorporates <span style=\"font-style: italic;\">f</span>O<sub>2</sub>, temperature and melt composition. Results underscore the need for unusually oxidizing conditions (ΔFMQ+4.7) for the As concentration of apatite to exceed the levels in the co-existing melt. Application of the model to natural samples indicates that apatite-whole rock or -glass ratios of arsenic concentrations from plutonic and extrusive suites often exceed the model predictions. The higher ratios for extrusive suites could be attributed to relative arsenic depletion in the glass from volatile transfer during eruption. For peraluminous plutonic suites, in which apatite solubility is high, apatite concentrations exceeding the whole rock may result from protracted <span style=\"font-style: italic;\">in situ</span> crystallization of As-free phases prior to apatite saturation. For metaluminous plutonic suites, in which apatite crystallizes early, factors such as accumulation of arsenic-poor phases, or late arsenic loss are possible explanations of high apatite/whole-rock partitioning. High arsenic concentrations in apatite do not, alone, reflect oxidizing conditions during crystallization, but instead require accurate estimates of the melt concentration from which the apatite formed.</span>",
+    "source": "American Mineralogist Advance Access",
+    "date": "2026-08-19",
+    "sent": true
+  },
+  {
+    "id": "http://doi.org/10.1093/nsr/nwag528",
+    "title": "Rising Coastal Wave Hazards from Climate-Driven Winds and Tropical Cyclones",
+    "link": "https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwag528/8768594?rss=1",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\"><div class=\"boxTitle\">Abstract</div>Coastal wave storms are intense, long-lasting hazards that threaten populated shorelines worldwide. Under global warming, large-scale wind patterns are changing and modifying ocean surface waves. However, the long-term evolution of coastal wave storms and the drivers of their change remain poorly quantified on global scales. Here, using global wave simulations with corrected tropical-cyclone winds for 1990-2023, we show that coastal wave storm frequency increases worldwide, with the strongest rise along the Atlantic coasts (∼5%/decade). This basin-wide enhancement is primarily driven by intensified nearshore winds, while tropical cyclones act as an additional amplifier. Combining changes in frequency, duration and intensity, we identify the Yellow Sea-East China Sea and the Northwest Atlantic coasts as emerging hotspots of rapidly intensifying wave hazards. Our findings provide the first global-scale baseline for attributing coastal wave-storm trends to changes in the wind-storm environment, thereby informing early-warning systems and guiding adaptation strategies under continued climate change.</span>",
+    "source": "National Science Review Advance Access",
+    "date": "2026-08-22",
+    "sent": true
+  },
+  {
+    "id": "http://doi.org/10.1093/nsr/nwag529",
+    "title": "Continuously powering intelligent microrobots through an electrochemical polymer skin membrane",
+    "link": "https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwag529/8768589?rss=1",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\"><div class=\"boxTitle\">Abstract</div>Autonomous microrobots require electric power, sensing capability, and intelligence. However, at the microscale, traditional technologies struggle to simultaneously provide sufficient energy density and power while enabling intelligent environment recognition. This paper reports an open polymer engineering system enabling continuous microrobot operation without energy density limitations and active energy seeking through electrochemical environment recognition. The core innovation is a membrane design based on a crosslinked potassium polyacrylate membrane attached to the microrobot’s foot. This engineered skin membrane extracts chemical energy from contacting metal or silicon substrates and converts it into electricity via controlled reaction kinetics of an electrochemical process that utilizes atmospheric moisture and oxygen. Fabricated down to ∼1 mm<sup>2</sup> area and 0.05 mm thickness, this open system is ideal for millimeter-to-centimeter scale microrobots. The skin membrane delivered a power density of 133 mW cm<sup>−2</sup>, an order of magnitude higher than microbatteries, and powered a microrobot for over 10,000 walking steps. Furthermore, the system demonstrates intelligent control of mass transport; internal ion migration within the membrane enables recognition of substrate material and roughness, facilitating active energy pursuit.</span>",
+    "source": "National Science Review Advance Access",
+    "date": "2026-08-22",
+    "sent": true
+  },
+  {
+    "id": "http://doi.org/10.1093/nsr/nwag526",
+    "title": "Megapixel snapshot hyperspectral imaging with high resolution Fabry–Pérot color filter array",
+    "link": "https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwag526/8768588?rss=1",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\"><div class=\"boxTitle\">Abstract</div>In the field of snapshot hyperspectral imaging, a long pursuit objective is to develop advanced spectral information encoding elements with both high spatial resolution and large sensor size. Among various strategies, Fabry–Pérot (F–P) cavity color filter, which has both high transmittance and narrow color filtering function, represents a promising platform. However, it is extremely challenging to make F–P color filters by using multi-layer deposition method. Here, we demonstrate that a commercial sensor compatible F–P cavity color filter array can be fabricated through the single-step grayscale electron beam lithography. In the proof of concept experiment, the silver–dielectric–silver F–P color filter array, which has spatial resolution of 5.2 µm × 5.2 µm and pixel number of 1.26 million, is successfully used to demonstrate the hyperspectral imaging function. As the diameter of the electron beam is at the level of tens of nanometers, the pixel size of the F–P cavity can be down to 3.45 µm × 3.45 µm and even further. The proposed method may have great potential in high-resolution snapshot hyperspectral imaging and related applications in optical inspection, remote sensing, biomedical imaging, and so on.</span>",
+    "source": "National Science Review Advance Access",
+    "date": "2026-08-22",
+    "sent": true
+  },
+  {
+    "id": "http://doi.org/10.1093/nsr/nwag503",
+    "title": "Multi-objective and cross-scale inverse design of temperature-control materials via physics-constrained machine learning",
+    "link": "https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwag503/8768582?rss=1",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\"><div class=\"boxTitle\">Abstract</div>Temperature-control materials, notably composite phase-change materials (CPCMs), show great potential for the thermal management of next-generation power electronics. However, the synergistic optimization of multiple performance metrics still relies heavily on Edisonian trial-and-error experimentation. Herein, we present an artificial intelligence framework that incorporates a physics-constrained inverse-design system (PHICS) built upon a directed acyclic graph (DAG) architecture for CPCMs, integrating interface, phase, and carrier engineering. By encoding structural hierarchies and physical causality through DAG, PHICS framework couples forward predictive modeling with a diversity-enhanced NSGA-II optimizer to efficiently map Pareto-optimal design boundaries. Guided by these predictions, we successfully fabricate a high-performance CPCM composed of an oriented graphite fiber skeleton and an n-octacosane matrix with amorphous alumina (am-Al<sub>2</sub>O<sub>3</sub>) interfacial transition layers. Benefiting from the bifunctional role of the am-Al<sub>2</sub>O<sub>3</sub> interlayer as both an interfacial phonon bridge and electron barrier, the resulting CPCMs achieve a superior balance of thermal conduction, thermal storage, and electrical insulation. These results demonstrate the accuracy of PHICS-guided multifunctional composite design, establishing a closed-loop platform that combines physics-constrained machine learning with experimental validation to solve key thermal–electrical trade-offs.</span>",
+    "source": "National Science Review Advance Access",
+    "date": "2026-08-22",
+    "sent": true
+  },
+  {
+    "id": "http://doi.org/10.1093/nsr/nwag524",
+    "title": "High-throughput and accurate cross-scale 3D sensing with a meta-depth sensor",
+    "link": "https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwag524/8767957?rss=1",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\"><div class=\"boxTitle\">Abstract</div>Depth sensing has been widely applied in industrial inspection, transportation, and consumer electronics. However, existing methods still face an inherent trade-off between depth precision and data throughput. Here, we present a meta-imaging-empowered depth sensor (MDS), a fully passive and monocular modality, that transcends this limitation through aberration robust disparity-depth calibration and vision foundation model empowered fine-gained 3D ranging based on a scanning light-field imaging system. Our system synergizes high-throughput disparity estimation and massive data prior of foundation model, enabling high-precision fine-grained metric depth estimation across depth ranges from 0.1 meter to 500 meters. Experimental validation demonstrates 2.5-mm absolute depth precision at 1.5-m distance (0.18% relative error) and 3-megapixel resolution, outperforming conventional light-field depth sensors by 7 times in accuracy and 5 times in spatial resolution without sacrificing imaging speed with a virtual scanning technique. We also achieve turbulence-robust remote depth sensing at the 500-m distance with a significantly denser spatial sampling rate compared with commercial LiDAR systems, and a depth estimation precision of 0.7 m at 235 m distance. By unifying the throughput advantages of passive imaging with high-precision depth estimation ability of physics-aware neural regression, the proposed MDS establishes a scalable paradigm for high-fidelity passive 3D sensing across scales, with applications ranging from industrial inspection to autonomous driving.</span>",
+    "source": "National Science Review Advance Access",
+    "date": "2026-08-21",
+    "sent": true
+  },
+  {
     "id": "https://www.science.org/doi/abs/10.1126/sciadv.ady8161?af=R",
     "title": "RNA delivery to the corneal endothelium using charge-altering releasable transporters",
     "link": "https://www.science.org/doi/abs/10.1126/sciadv.ady8161?af=R",
