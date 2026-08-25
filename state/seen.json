@@ -1,5 +1,412 @@
 [
   {
+    "id": "https://www.nature.com/articles/d41586-026-02641-y",
+    "title": "The exoskeletons are coming (to a store near you)",
+    "link": "https://www.nature.com/articles/d41586-026-02641-y",
+    "authors": [
+      "Shamini Bundell"
+    ],
+    "summary": "Nature, Published online: 24 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02641-y\">doi:10.1038/d41586-026-02641-y</a>Technology to help people walk, run and jump is moving rapidly from labs to hiking trails.",
+    "source": "Nature",
+    "date": "2026-08-24",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-02572-8",
+    "title": "Frontier-technology markets are too narrow — here’s how to widen them",
+    "link": "https://www.nature.com/articles/d41586-026-02572-8",
+    "authors": [
+      "Luisa Corrado",
+      "Paul Kattuman"
+    ],
+    "summary": "Nature, Published online: 24 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02572-8\">doi:10.1038/d41586-026-02572-8</a>Governments need to keep their procurement processes as open as possible, or they will face risks of technological lock-in down the line.",
+    "source": "Nature",
+    "date": "2026-08-24",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-02620-3",
+    "title": "Billion-dollar machine aims to set a fusion-energy record — and study nuclear weapons",
+    "link": "https://www.nature.com/articles/d41586-026-02620-3",
+    "authors": [
+      "James Dinneen"
+    ],
+    "summary": "Nature, Published online: 24 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02620-3\">doi:10.1038/d41586-026-02620-3</a>Pacific Fusion is breaking ground next door to a US nuclear-weapons laboratory, hoping the partnership will give it an edge.",
+    "source": "Nature",
+    "date": "2026-08-24",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-02616-z",
+    "title": "Patient’s own mitochondria injected into eyes in attempt to restore vision",
+    "link": "https://www.nature.com/articles/d41586-026-02616-z",
+    "authors": [
+      "Miryam Naddaf"
+    ],
+    "summary": "Nature, Published online: 24 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02616-z\">doi:10.1038/d41586-026-02616-z</a>Injection of a person’s own mitochondria into the retina was safe but had only a temporary effect on restoring vision.",
+    "source": "Nature",
+    "date": "2026-08-24",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-02571-9",
+    "title": "Can AI ever be conscious? The question stems from a misconception",
+    "link": "https://www.nature.com/articles/d41586-026-02571-9",
+    "authors": [
+      "Abeba Birhane"
+    ],
+    "summary": "Nature, Published online: 24 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02571-9\">doi:10.1038/d41586-026-02571-9</a>A book outlines how the fields of artificial intelligence, psychology and philosophy have neglected a key aspect of consciousness: the body.",
+    "source": "Nature",
+    "date": "2026-08-24",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-77055-5",
+    "title": "Combinatorial group testing for efficient scaling across biological applications",
+    "link": "https://www.nature.com/articles/s41467-026-77055-5",
+    "authors": [
+      "Lorenzo Talamanca",
+      "Julian Trouillon"
+    ],
+    "summary": "Nature Communications, Published online: 25 August 2026; <a href=\"https://www.nature.com/articles/s41467-026-77055-5\">doi:10.1038/s41467-026-77055-5</a>Combinatorial group testing can reduce experimental costs but remains challenging to apply due to its complexity and the lack of implementation tools. Here, the authors present PoolPy, a complete combinatorial group testing framework, enabling up to 93% cost reduction across biological assays.",
+    "source": "Nature Communications",
+    "date": "2026-08-25",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-77249-x",
+    "title": "Redox-stratified macromolecule degradation supports microbial survival in the oligotrophic Kermadec Trench sediments",
+    "link": "https://www.nature.com/articles/s41467-026-77249-x",
+    "authors": [
+      "Yongxin Lv",
+      "Peiyu Liu",
+      "Yan Liu",
+      "Liang Dong",
+      "Jinhua Li",
+      "Yu Zhang"
+    ],
+    "summary": "Nature Communications, Published online: 25 August 2026; <a href=\"https://www.nature.com/articles/s41467-026-77249-x\">doi:10.1038/s41467-026-77249-x</a>Understanding how microbes survive in the crushing pressure and nutrient-poor conditions of the deepest ocean has remained a major challenge. This study reveals that Kermadec Trench microbes thrive by recycling organic matter and flexibly switching energy-generation pathways.",
+    "source": "Nature Communications",
+    "date": "2026-08-25",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-77029-7",
+    "title": "BRANCHED1 acts as a rheostat of Nuclear Factor Y-dependent epigenetic regulation in axillary bud development",
+    "link": "https://www.nature.com/articles/s41467-026-77029-7",
+    "authors": [
+      "Mai Yang",
+      "Hao Zhu",
+      "Jinping Zhao",
+      "Xiaofeng Shi",
+      "Wenzhi Lan",
+      "Sheng Luan",
+      "Yongbiao Zhang",
+      "Chun Yan"
+    ],
+    "summary": "Nature Communications, Published online: 25 August 2026; <a href=\"https://www.nature.com/articles/s41467-026-77029-7\">doi:10.1038/s41467-026-77029-7</a>Shoot branching plasticity is largely regulated by BRC1. The authors show that BRC1 acts as a dose-dependent rheostat, modulating NF-Y-mediated chromatin looping and H3K27me3 demethylation at floral organ development genes to fine-tune axillary bud activity.",
+    "source": "Nature Communications",
+    "date": "2026-08-25",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-77001-5",
+    "title": "Crustal weakening before rupture at volcanoes after long repose",
+    "link": "https://www.nature.com/articles/s41467-026-77001-5",
+    "authors": [
+      "Eric L. Newland",
+      "Christopher R. J. Kilburn"
+    ],
+    "summary": "Nature Communications, Published online: 24 August 2026; <a href=\"https://www.nature.com/articles/s41467-026-77001-5\">doi:10.1038/s41467-026-77001-5</a>In this study, the authors show that accelerating volcano-tectonic earthquakes can occur as crustal stress decreases and fractures weaken the crust, providing a way to recognise when a reawakening volcano may be approaching rupture.",
+    "source": "Nature Communications",
+    "date": "2026-08-24",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-77176-x",
+    "title": "Author Correction: Host macrophages/monocytes promote malaria transmission by modulating mosquito microbiota via SR-A-mediated phagocytosis",
+    "link": "https://www.nature.com/articles/s41467-026-77176-x",
+    "authors": [
+      "Biao He",
+      "Meilin Li",
+      "Shuai Guo",
+      "Jiaqin Fang",
+      "Yongling Fan",
+      "Nie Tan",
+      "Taiping Liu",
+      "Jianyong Li",
+      "Feng Zhu",
+      "Jian Zhang",
+      "Wenyue Xu"
+    ],
+    "summary": "Nature Communications, Published online: 24 August 2026; <a href=\"https://www.nature.com/articles/s41467-026-77176-x\">doi:10.1038/s41467-026-77176-x</a>Author Correction: Host macrophages/monocytes promote malaria transmission by modulating mosquito microbiota via SR-A-mediated phagocytosis",
+    "source": "Nature Communications",
+    "date": "2026-08-24",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-77030-0",
+    "title": "Geometrically periodic architecture for enhanced mass transport in electrocatalysis",
+    "link": "https://www.nature.com/articles/s41467-026-77030-0",
+    "authors": [
+      "Zenglong Wu",
+      "Haimin Zhang",
+      "Huajie Yin",
+      "Huijun Zhao"
+    ],
+    "summary": "Nature Communications, Published online: 24 August 2026; <a href=\"https://www.nature.com/articles/s41467-026-77030-0\">doi:10.1038/s41467-026-77030-0</a>Mass-transfer limitations hinder electrochemical energy conversion at industrial current densities. Here, the authors report a geometrically periodic porous electrode that enhances transport across several reactions and enables durable high-current water electrolysis.",
+    "source": "Nature Communications",
+    "date": "2026-08-24",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-76430-6",
+    "title": "Living co-culture fabrication for biologically crosslinked mycelium–cellulose hydrogels and films",
+    "link": "https://www.nature.com/articles/s41467-026-76430-6",
+    "authors": [
+      "Bingyu Xia",
+      "Yanpei Tian",
+      "Qilong Cheng",
+      "Huilong Liu",
+      "Xiaojie Liu",
+      "Zhenyuan Niu",
+      "Xiwei Shan",
+      "Pengfei Deng",
+      "Wenhui Xu",
+      "Shubhra Bansal",
+      "Tian Li"
+    ],
+    "summary": "Nature Communications, Published online: 24 August 2026; <a href=\"https://www.nature.com/articles/s41467-026-76430-6\">doi:10.1038/s41467-026-76430-6</a>Microbial growth can be used to create biomaterials, but controlling their growth and material properties is a challenge. Here, the authors co-culture mycelium and bacterial cellulose to create biopolymer composite films with high mechanical and optical properties.",
+    "source": "Nature Communications",
+    "date": "2026-08-24",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-77018-w",
+    "title": "Low-gas-flow strategy boosts hierarchical porosity of ZIF-8 single-atom catalysts for efficient adsorption-driven degradation",
+    "link": "https://www.nature.com/articles/s41467-026-77018-w",
+    "authors": [
+      "Guiwei Liang",
+      "Shuyi Yang",
+      "Yaping Xie",
+      "Tingran Liu",
+      "Rongbing Fu",
+      "Bingcai Pan",
+      "Yuping Qiu"
+    ],
+    "summary": "Nature Communications, Published online: 24 August 2026; <a href=\"https://www.nature.com/articles/s41467-026-77018-w\">doi:10.1038/s41467-026-77018-w</a>Hierarchical porosity enhances single-atom catalyst performance by facilitating mass transport and improving active-site accessibility, yet its fabrication often requires complex templating or post-synthetic etching. Here, the authors report a simple low-gas-flow strategy to engineer hierarchically porous ZIF-8 single-atom catalysts for efficient adsorption-driven degradation.",
+    "source": "Nature Communications",
+    "date": "2026-08-24",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43017-026-00819-6",
+    "title": "The challenge of defining effectively no snow",
+    "link": "https://www.nature.com/articles/s43017-026-00819-6",
+    "authors": [
+      "Adrienne M. Marshall",
+      "Timothy E. Link"
+    ],
+    "summary": "Nature Reviews Earth &amp; Environment, Published online: 24 August 2026; <a href=\"https://www.nature.com/articles/s43017-026-00819-6\">doi:10.1038/s43017-026-00819-6</a>The challenge of defining effectively no snow",
+    "source": "Nature Reviews Earth & Environment",
+    "date": "2026-08-24",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-026-03946-6",
+    "title": "Perfluoroalkyl substance release in permafrost surface waters is projected to increase under global warming",
+    "link": "https://www.nature.com/articles/s43247-026-03946-6",
+    "authors": [
+      "Huimin Yu",
+      "Xiaoping Wang",
+      "Cong Wang",
+      "Dianchao Sun",
+      "Yunqiao Zhou",
+      "Huike Dong",
+      "Ping Gong"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 24 August 2026; <a href=\"https://www.nature.com/articles/s43247-026-03946-6\">doi:10.1038/s43247-026-03946-6</a>Intensified permafrost degradation and reduced vegetation cover are projected to increase the likelihood of perfluoroalkyl acid (PFAA) exceedance in surface waters across permafrost regions, according to a machine-learning study that mapped the global distribution of PFAAs and their congeners.",
+    "source": "Communications Earth & Environment",
+    "date": "2026-08-24",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-026-03968-0",
+    "title": "Long-term stability of the North Water Polynya and emerging productivity hotspots driven by sea-ice arch dynamics in Nares Strait",
+    "link": "https://www.nature.com/articles/s43247-026-03968-0",
+    "authors": [
+      "Foucaut Tachon",
+      "Karen Nieto",
+      "Philippe Massicotte",
+      "Philippe Archambault",
+      "Marie Latil",
+      "Simon Bélanger",
+      "Marcel Babin",
+      "Karl Attard",
+      "Mathieu Ardyna"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 24 August 2026; <a href=\"https://www.nature.com/articles/s43247-026-03968-0\">doi:10.1038/s43247-026-03968-0</a>Sea-ice arches act as ecosystem structuring features, influencing phytoplankton bloom dynamics at the southern boundary of the Last Ice Area, according to analyses of two decades of satellite sea-ice observations.",
+    "source": "Communications Earth & Environment",
+    "date": "2026-08-24",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL119760",
+    "title": "Riverine Export of Millennial and Decadal Carbon From the Amazon Basin",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL119760?af=R",
+    "authors": [
+      "Valier Galy, \nBrenna Boehman, \nTimothy Eglinton, \nNegar Haghipour, \nTaian Lu, \nJose Mauro S. Moura, \nSarah Rosengard, \nRobert G. M. Spencer, \nBrad E. Rosenheim"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 16, 28 August 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-08-23",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL124108",
+    "title": "Competing Effects of Elastic Heterogeneity and Viscous Flow on Interseismic Coupling at Cascadia",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL124108?af=R",
+    "authors": [
+      "E. M. Sherrill, \nK. M. Johnson, \nF. F. Pollitz"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 16, 28 August 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-08-23",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL123382",
+    "title": "Seasonal Reversal of Polarity Dominance in High‐Current Cloud‐to‐Ground Return Strokes Over East Asian Midlatitudes",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL123382?af=R",
+    "authors": [
+      "Nengxing Guo, \nLi Cai, \nYu Feng, \nWenzhao Lu, \nYongxing Zeng, \nYuheng Niu, \nChun Zhao, \nShanqiang Gu"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 16, 28 August 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-08-23",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL121477",
+    "title": "A Subtle Atmospheric Shift Is Redefining Winter Hydrology on the Tibetan Plateau",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL121477?af=R",
+    "authors": [
+      "Hao Chen, \nXianhong Meng, \nS.‐Y. Simon Wang, \nYaling Chen, \nLin Zhao, \nLele Shu, \nMingshan Deng, \nZhaoguo Li, \nChenghai Wang"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 16, 28 August 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-08-23",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL123919",
+    "title": "How Modeling Assumptions Shape Predictions of Convective Mixing of Carbon Dioxide",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL123919?af=R",
+    "authors": [
+      "Marco De Paoli, \nSergio Pirozzoli"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 16, 28 August 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-08-23",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL123839",
+    "title": "Stratospheric Temperature Adjustment Robustly Damps the State Dependence of CO2 Radiative Forcing",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL123839?af=R",
+    "authors": [
+      "Ruogu He, \nYi Huang"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 16, 28 August 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-08-23",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GC013011",
+    "title": "Tectonic Evolution and Crustal Growth of the East Kunlun Orogen, NW China: Insights From the Late Permian–Triassic Granitoids",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GC013011?af=R",
+    "authors": [
+      "Xiaodong Wang, \nChao Wang, \nLiyun Zhang, \nJinxiang Li, \nYahui Yue, \nLin Ding"
+    ],
+    "summary": "Geochemistry, Geophysics, Geosystems, Volume 27, Issue 8, August 2026.",
+    "source": "Wiley: Geochemistry, Geophysics, Geosystems: Table of Contents",
+    "date": "2026-08-24",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025JB033195",
+    "title": "Global Distribution of PKP Precursors Derived From Three Decades of Seismic Data With Deep Learning",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JB033195?af=R",
+    "authors": [
+      "Yurui Guan, \nJuan Li, \nZhuowei Xiao, \nWei Wang, \nTao Xu"
+    ],
+    "summary": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 8, August 2026.",
+    "source": "Wiley: Journal of Geophysical Research: Solid Earth: Table of Contents",
+    "date": "2026-08-23",
+    "sent": true
+  },
+  {
+    "id": "http://doi.org/10.1093/nsr/nwag527",
+    "title": "Enhancing generalization in non-uniformly sampled NMR spectra reconstruction via accelerated conditional diffusion models",
+    "link": "https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwag527/8769440?rss=1",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\"><div class=\"boxTitle\">Abstract</div>Multidimensional NMR spectroscopy provides rich molecular-level information on species and structures, with broad significance across chemistry, biology, and materials science. However, its widespread application is generally limited by prolonged acquisition times. Combining non-uniform sampling techniques with spectra reconstruction methods offers a promising solution to this acquisition bottleneck. Traditional reconstruction methods are robust but constrained by algorithmic assumptions and approximations, whereas deep learning approaches can potentially overcome these limitations and achieve higher reconstruction fidelity, though generalization to unseen data remains challenging. Here, we present an accelerated conditional diffusion model for multidimensional NMR spectra reconstruction, formulating the task as a probabilistic iterative denoising process that progressively refines undersampled spectra under physical constraints. Experiments demonstrate that this method outperforms both traditional and end-to-end deep learning algorithms in peak recovery, artifact suppression, and robustness across multiple sampling conditions and experimental datasets.</span>",
+    "source": "National Science Review Advance Access",
+    "date": "2026-08-24",
+    "sent": true
+  },
+  {
+    "id": "http://doi.org/10.1093/nsr/nwag517",
+    "title": "Gram-scale microbial synthesis of hypericin, a low-abundance complex phytochemical drug candidate",
+    "link": "https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwag517/8769438?rss=1",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\"><div class=\"boxTitle\">Abstract</div>Hypericin is a promising Phase II/III drug candidate for oncology and psoriasis, yet its sustainable supply is problematic: multi-step synthesis is resource-intensive, and heterologous expression is blocked by the unknown plant pathway. Here, we re-engineer the polyketide biosynthetic pathways in <span style=\"font-style: italic;\">Cladosporium fulvum</span> and overcome substrate inhibition and metabolic inefficiency, achieving scalable and plant-pathway-independent biomanufacturing of hypericin. In particular, we redesigned the catalytic cavity of the critical P450 enzyme RugG to yield a variant (RugG<sup>T452P-R160D</sup>) with enhanced activity and reduced substrate inhibition. This achievement was combined with the suppression of shunt product formation to redirect metabolic flux toward emodin bianthrone—an indispensable hypericin precursor. These efforts enabled us to construct an engineered strain, Δ<span style=\"font-style: italic;\">claC-</span>Δ<span style=\"font-style: italic;\">claH2-rugG</span><sup>T452P-R160D</sup>-<span style=\"font-style: italic;\">claA-claE</span>, which produced 1.87 g/L hypericin in a 5-L bioreactor after photocatalytic treatment. Collectively, this work provides an effective strategy for alleviating substrate inhibition and redirecting metabolic flux in the biomanufacturing of complex, high-value natural products.</span>",
+    "source": "National Science Review Advance Access",
+    "date": "2026-08-24",
+    "sent": true
+  },
+  {
+    "id": "http://doi.org/10.1093/nsr/nwag533",
+    "title": "Revealing the stabilization pathway, stack validation, and techno-economic assessment of phosphonate-Fe(III) complex for near-neutral aqueous all-iron flow batteries",
+    "link": "https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwag533/8769436?rss=1",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\"><div class=\"boxTitle\">Abstract</div>Aqueous iron-based redox flow batteries are promising for grid-scale energy storage due to inherent safety, low cost, and material abundance. However, their stability remains limited by poor redox reversibility and iron dendrite formation. Herein, we report a hexadentate phosphate-rich Fe(III) complex, Fe(P4N2), specifically engineered for near-neutral conditions. The robust Fe–O/Fe–N coordination environment of phosphate-based ligand framework stabilizes redox-active Fe<sup>3+</sup>/Fe<sup>2+</sup> centers and suppresses parasitic side reactions. Additionally, the hydrogen-bond-rich solvation shell, formed by abundant phosphonate terminal groups, fosters a dense hydration layer around the complex, bringing high aqueous solubility (1.47 M) and low cross-membrane contamination. Consequently, the Fe(P4N2)-based flow batteries demonstrate high energy efficiency (85.7% at 100 mA cm<sup>−2</sup>), rapid redox kinetics (21.4 Wh L<sup>−1</sup> at 200 mA cm<sup>−2</sup>), ultralow capacity decay (0.00052% per cycle or 0.027% per day). When scaled to a 12-cell stack (900 cm<sup>2</sup> active area per cell), the Fe(P4N2)-based flow batteries deliver a stable 300 W power output during long-term operation. Techno-economic analysis demonstrates promising economic potential for this system, driven by low material cost, high energy efficiency, and long-term durability. This study establishes a multidentate phosphate coordination strategy for developing fast-charging, durable, scalable, and economically attractive all-iron redox flow batteries.</span>",
+    "source": "National Science Review Advance Access",
+    "date": "2026-08-24",
+    "sent": true
+  },
+  {
+    "id": "http://doi.org/10.1093/nsr/nwag532",
+    "title": "Stabilizing vacancy-rich In2O3 by isolated Cr species for durable CO2 hydrogenation",
+    "link": "https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwag532/8769434?rss=1",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\"><div class=\"boxTitle\">Abstract</div>The over-reduction of the vacancy-rich In<sub>2</sub>O<sub>3</sub> phase remains a critical challenge in CO<sub>2</sub> hydrogenation over In<sub>2</sub>O<sub>3</sub>-based catalysts. Here, we demonstrate that a vacancy-stabilizing ensemble consisting of isolated Cr atoms embedded in the In<sub>2</sub>O<sub>3</sub> lattice can simultaneously provide abundant surface O<sub>v</sub> sites, excellent catalytic activity and outstanding structural stability under CO<sub>2</sub> hydrogenation conditions. Through experimental and DFT investigations, we identify the active site to be Cr<sup>3+</sup>-[O<sub>v</sub>]<sub>2</sub>-In<span style=\"font-style: italic;\">δ</span><sup>+</sup>, where paired O<sub>v</sub> sites facilitate CO<sub>2</sub> adsorption in a bridge configuration and subsequent hydrogenation to HCOO* intermediates. The optimized catalyst with 10 mol% Cr delivers a methanol yield 2.1 times higher than that on pristine In<sub>2</sub>O<sub>3</sub> and maintains structural integrity without detectable metallic In° formation over 110 h time-on-stream, even after strongly reducing treatment. This work highlights the isolated-Cr-stabilized oxygen-vacancy-pair ensembles as an effective strategy to reconcile abundant active vacancies with structural durability in In<sub>2</sub>O<sub>3</sub>-based CO<sub>2</sub> hydrogenation catalysts.</span>",
+    "source": "National Science Review Advance Access",
+    "date": "2026-08-24",
+    "sent": true
+  },
+  {
+    "id": "http://doi.org/10.1093/nsr/nwag525",
+    "title": "Topologically Plastic Reservoir Computing with Self-rectifying Memristor Arrays",
+    "link": "https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwag525/8769432?rss=1",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\"><div class=\"boxTitle\">Abstract</div>Predicting the evolution of high-dimensional chaotic systems, such as meteorological and climate dynamics, demands hardware-efficient frameworks capable of capturing complex spatio-temporal correlations. While reservoir computing (RC) offers a promising approach, conventional implementations are constrained by fixed network topologies that cannot adapt to the non-stationary, multi-scale dynamics inherent to real-world chaos. Here, we introduce a reconfigurable RC system with topological plasticity whose core functionality is intrinsically enabled by a novel self-rectifying memristor (SRM) array. The SRM device, featuring high rectification ratio (&gt;10<sup>6</sup>) and 128 distinguishable conductance states, exhibits a unique voltage-gated tri-modal operation: a low-voltage regime (0–2 V) for local nonlinear computation; a high-voltage regime (2.5–3 V) that induces stable resistive switching, enabling dynamic, hardware-level reconfiguration of global reservoir connectivity; and a negative-voltage regime (−2V–0) that blocks inter-conductance crosstalk. This tri-modal operation allows the physical hardware substrate itself—a 16 kb SRM array—to morph its interconnect topology in direct response to operational demands. When applied to the classical Lorenz system, our model achieves normalized mean squared error (NMSE) of 0.0613 with a core-array energy cost of 0.83 pJ/op. In meteorological dynamics forecasting, the system physically implements an adaptively tuned small‑world network reservoir, sustaining &gt; 90% frame‑by‑frame accuracy over 30 days—a 7.6% improvement versus the fixed‑topology reservoir hardware. Our work establishes a new paradigm of adaptive neuromorphic computing driven by device physics, providing a transformative hardware solution for the energy-efficient and high-fidelity forecasting of complex environmental phenomena.</span>",
+    "source": "National Science Review Advance Access",
+    "date": "2026-08-24",
+    "sent": true
+  },
+  {
+    "id": "http://doi.org/10.1093/nsr/nwag520",
+    "title": "Wings with Stiffness and Stroke Variations Enabling Efficient Flight and Swimming for Flapping-Wing Robots",
+    "link": "https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwag520/8768813?rss=1",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\"><div class=\"boxTitle\">Abstract</div>Flapping-wing propulsion demonstrates high efficiency and maneuverability, commonly observed in natural species for either aerial flight or aquatic swimming. To chase prey and evade predators, biological flapping wings are specialized for a single medium, posing significant challenges in achieving effective and efficient amphibious flapping. Existing aerial-aquatic robots are primarily driven by artificial propulsion and lack bionic flapping-wing mechanisms. Meanwhile, current flapping-wing robots are operated only in a single medium, without amphibious propulsion capabilities. Inspired by the flapping principles of two different species, birds and manta rays, we design a bimodal flapping wing for both aerial and aquatic propulsion. The wing can switch between aerial and aquatic modes to adapt to the distinct requirements of air and water environments. In the aerial mode, metal tubular spars replicate the high stiffness of bird’s hollow bones, while limited rotation strokes of joints emulate asymmetric feather deformation. In the aquatic mode, elastic plates mimic the flexible cartilages of manta rays, and free rotation strokes of joints reproduce the symmetric fin deformation. Simplified analysis, dynamics tests and robot motion tests have demonstrated that the wing’s aerial mode enhances lift generation during aerial flapping, while its aquatic mode decreases power consumption and improves thrust efficiency in aquatic flapping. Furthermore, by carrying auxiliary structures, the flapping-wing robot equipped with bimodal wings shows the potential to perform aerial-aquatic amphibious applications. Our work enhances the amphibious propulsion adaptability of large-scale flapping-wing robots and proposes a feasible engineering design.</span>",
+    "source": "National Science Review Advance Access",
+    "date": "2026-08-22",
+    "sent": true
+  },
+  {
     "id": "https://www.sciencedirect.com/science/article/pii/S0012821X26004760",
     "title": "Viscosity of <math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" altimg=\"si13.svg\" class=\"math\"><mrow><mrow><mi mathvariant=\"normal\">N</mi></mrow><mi>a</mi><mi>A</mi><mi>l</mi><mi>S</mi><msub><mi>i</mi><mn>3</mn></msub><msub><mi>O</mi><mn>8</mn></msub><mo linebreak=\"goodbreak\">−</mo><msub><mi>H</mi><mn>2</mn></msub><mi>O</mi></mrow></math> fluids and implications for arc magmatism",
     "link": "https://www.sciencedirect.com/science/article/pii/S0012821X26004760?dgcid=rss_sd_all",
