@@ -1,5 +1,400 @@
 [
   {
+    "id": "https://www.nature.com/articles/s41467-026-77276-8",
+    "title": "Quinone-heme π-π interactions bridge the biotic-abiotic interface for enhanced methanogenesis",
+    "link": "https://www.nature.com/articles/s41467-026-77276-8",
+    "authors": [
+      "Zhihao Jiang",
+      "Zhiqiang Zhao",
+      "Qilin Yu",
+      "Wenlong Lin",
+      "Yaobin Zhang"
+    ],
+    "summary": "Nature Communications, Published online: 01 September 2026; <a href=\"https://www.nature.com/articles/s41467-026-77276-8\">doi:10.1038/s41467-026-77276-8</a>Quinone-based conductive materials promote extracellular electron transfer and methanogenesis during anaerobic digestion, in which the material mediates the transfer of electrons produced from exoelectrogens to electrotrophic methanogens, but the underlying mechanism remains elusive. Here, the authors establish the electron transfer interface between reduced anthraquinone (H₂AQC) and Methanosarcina barkeri in a microbial electrolysis cell, and reveal an intrinsic electronic complementarity between the electron donating π-system of H₂AQC and the electron-accepting iron-porphyrin ring of labile heme b.",
+    "source": "Nature Communications",
+    "date": "2026-09-01",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-77335-0",
+    "title": "The Fanconi anemia pathway restrains MLL-rearranged leukemogenesis through suppressing non-homologous end joining-mediated genomic instability",
+    "link": "https://www.nature.com/articles/s41467-026-77335-0",
+    "authors": [
+      "Jian Xu",
+      "Logan M. Sund",
+      "Emily V. Wolff",
+      "Anthony Z. Zhu",
+      "Rui Wang",
+      "Zhenxia Gao",
+      "Sawa Ito",
+      "Wei Du"
+    ],
+    "summary": "Nature Communications, Published online: 01 September 2026; <a href=\"https://www.nature.com/articles/s41467-026-77335-0\">doi:10.1038/s41467-026-77335-0</a>Mutations in the Fanconi anemia (FA) DNA repair genes predispose to leukemia and bone marrow failure. Here, the authors discover that the FA pathway controls MLL-rearranged leukemia progression via blocking nonhomologous end joining-mediated genomic instability.",
+    "source": "Nature Communications",
+    "date": "2026-09-01",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-77201-z",
+    "title": "Topological valley quasi-bound states in the continuum for radiatively accessible robust transport",
+    "link": "https://www.nature.com/articles/s41467-026-77201-z",
+    "authors": [
+      "Minggui Wei",
+      "Yang Long",
+      "Gui-Geng Liu",
+      "Jianwei Liu",
+      "Manjima Sudheer",
+      "Elbert E. M. Chia",
+      "Baile Zhang"
+    ],
+    "summary": "Nature Communications, Published online: 01 September 2026; <a href=\"https://www.nature.com/articles/s41467-026-77201-z\">doi:10.1038/s41467-026-77201-z</a>Topological valley photonics enables robust on-chip light transport, but valley edge states lie outside the light cone, blocking free-space excitation. Here, authors fold these states into topological valley quasi-bound states in the continuum, enabling free-space coupling while preserving low-loss terahertz transport.",
+    "source": "Nature Communications",
+    "date": "2026-09-01",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-76234-8",
+    "title": "The changing surface of the world’s roads",
+    "link": "https://www.nature.com/articles/s41467-026-76234-8",
+    "authors": [
+      "Sukanya Randhawa",
+      "Guntaj Randhawa",
+      "Clemens Langer",
+      "Francis Andorful",
+      "Benjamin Herfort",
+      "Daniel Kwakye",
+      "Omer Olchik",
+      "Sven Lautenbach",
+      "Alexander Zipf"
+    ],
+    "summary": "Nature Communications, Published online: 01 September 2026; <a href=\"https://www.nature.com/articles/s41467-026-76234-8\">doi:10.1038/s41467-026-76234-8</a>Researchers created a global, multi-temporal map of road surfaces and widths from satellite imagery, covering 9.2 million km of roads. The dataset reveals infrastructure change, connectivity gaps, and resilience patterns worldwide.",
+    "source": "Nature Communications",
+    "date": "2026-09-01",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-75533-4",
+    "title": "Unassisted bipolar photoelectrochemical synthesis of H<sub>2</sub>O<sub>2</sub>",
+    "link": "https://www.nature.com/articles/s41467-026-75533-4",
+    "authors": [
+      "Haojie Chen",
+      "Rui-Ting Gao",
+      "Lei Wang",
+      "Limin Wu"
+    ],
+    "summary": "Nature Communications, Published online: 31 August 2026; <a href=\"https://www.nature.com/articles/s41467-026-75533-4\">doi:10.1038/s41467-026-75533-4</a>PEC H2O2 production usually suffers from low selectivity and poor stability. This study shows a Zn-TiO2/BVO/WO3∥Ru:CuO/Nb-CBO bipolar system that enables efficient and stable H2O2 synthesis under sunlight, achieving a combined Faradaic efficiency of 163.37%.",
+    "source": "Nature Communications",
+    "date": "2026-08-31",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-77371-w",
+    "title": "Grain boundary segregation of ceramic aerogels for reliable thermal insulation at extreme conditions",
+    "link": "https://www.nature.com/articles/s41467-026-77371-w",
+    "authors": [
+      "Zhengli Yan",
+      "Yingde Zhao",
+      "Jingran Guo",
+      "Han Zhao",
+      "Jinyu Xu",
+      "Shixuan Dang",
+      "Duola Wang",
+      "Chuanyun Song",
+      "Hongxuan Yu",
+      "Jianing Zhang",
+      "Dizhou Liu",
+      "Jiali Chen",
+      "Cong Li",
+      "Tiande Lin",
+      "Haiyang Zhao",
+      "Shaoyi Zhang",
+      "Wenli Chen",
+      "Yuanpeng Deng",
+      "Hui Li",
+      "Xiang Xu"
+    ],
+    "summary": "Nature Communications, Published online: 31 August 2026; <a href=\"https://www.nature.com/articles/s41467-026-77371-w\">doi:10.1038/s41467-026-77371-w</a>Grain-boundary segregation enables ceramic aerogels with high thermal stability and reliable thermal insulation at temperatures up to 1500 °C, offering a strategy for designing lightweight thermal protection materials for extreme environments.",
+    "source": "Nature Communications",
+    "date": "2026-08-31",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-76972-9",
+    "title": "IFN-γ-driven iNOS induction in macrophages mediates CAR T cell resistance in B cell lymphoma",
+    "link": "https://www.nature.com/articles/s41467-026-76972-9",
+    "authors": [
+      "Sae Bom Lee",
+      "Allan Pavy",
+      "Nolan Beatty",
+      "Justin C. Boucher",
+      "Jay K. Mandula",
+      "Emiliano Roselli",
+      "Darwin C. Chang",
+      "Rachel V. Jimenez",
+      "Hiroshi Kotani",
+      "Kayla Reid",
+      "Julio Vazquez-Martinez",
+      "Payal Goala",
+      "Max Ilecki",
+      "Cooper J. Sailer",
+      "Shannon L. McSain",
+      "Showkat Hamid",
+      "Muhammad Junaid Tariq",
+      "Rosa A. Sierra-Mondragon",
+      "Min Liu",
+      "John M. Koomen",
+      "Jonathan Nguyen",
+      "Mohammad Hussaini",
+      "Timothy I. Shaw",
+      "Xuefeng Wang",
+      "Jianmin Wang",
+      "Julieta Abraham-Miranda",
+      "Rawan Faramand",
+      "Michael D. Jain",
+      "Meredith L. Stone",
+      "Frederick L. Locke",
+      "Paulo C. Rodriguez",
+      "Yun Pyo Kang",
+      "Marco L. Davila"
+    ],
+    "summary": "Nature Communications, Published online: 31 August 2026; <a href=\"https://www.nature.com/articles/s41467-026-76972-9\">doi:10.1038/s41467-026-76972-9</a>Tumor associated macrophages can support cancer progression by suppressing T cell effector functions. Here the authors report that induction of iNOS in tumor-associated macrophages by IFN-gamma secreted from CAR T cells contributes to the development of CAR-T resistance in B cell lymphoma.",
+    "source": "Nature Communications",
+    "date": "2026-08-31",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-77277-7",
+    "title": "Multidisciplinary intervention in frail elderly patients with cardiovascular diseases: a multicentre, single-blinded, randomised controlled trial",
+    "link": "https://www.nature.com/articles/s41467-026-77277-7",
+    "authors": [
+      "Ke Chai",
+      "Chen Meng",
+      "Liwei Ji",
+      "Yujia Liu",
+      "Zhao Ma",
+      "Linlin Qiao",
+      "Lijuan Wang",
+      "Di Guo",
+      "Ning Sun",
+      "Lingling Cui",
+      "Simin Yao",
+      "Peipei Zheng",
+      "Xuelu Zhu",
+      "Wei Dong",
+      "Ping Zeng",
+      "Yao Lu",
+      "Ping Zhang",
+      "Guobin Miao",
+      "Yi Li",
+      "Jiefu Yang",
+      "Hua Wang"
+    ],
+    "summary": "Nature Communications, Published online: 31 August 2026; <a href=\"https://www.nature.com/articles/s41467-026-77277-7\">doi:10.1038/s41467-026-77277-7</a>A hospital-initiated multidisciplinary program was associated with improved frailty and physical function and lower readmission risk in frail elderly patients with cardiovascular diseases, although larger studies are needed to confirm these.",
+    "source": "Nature Communications",
+    "date": "2026-08-31",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-026-03494-z",
+    "title": "The log-logistic evolution of meteorite friability and implications for asteroid regolith",
+    "link": "https://www.nature.com/articles/s43247-026-03494-z",
+    "authors": [
+      "Suraj Bhatt",
+      "Laurence A. J. Garvie",
+      "Desireé Cotto-Figueroa",
+      "Erik Asphaug",
+      "Christian G. Hoover"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 01 September 2026; <a href=\"https://www.nature.com/articles/s43247-026-03494-z\">doi:10.1038/s43247-026-03494-z</a>Asteroid regolith maturation and rubble-pile evolution occur over comparably broad timescales, according to foundational friability measurements derived from mechanical tumbling experiments conducted on a broad range of meteorite types",
+    "source": "Communications Earth & Environment",
+    "date": "2026-09-01",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-026-03988-w",
+    "title": "Mounting damage and losses in the United States from post-wildfire flash floods and debris flows",
+    "link": "https://www.nature.com/articles/s43247-026-03988-w",
+    "authors": [
+      "Matthew A. Thomas",
+      "Jaime Kostelnik",
+      "Charles W. Bombard"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 31 August 2026; <a href=\"https://www.nature.com/articles/s43247-026-03988-w\">doi:10.1038/s43247-026-03988-w</a>“Post-wildfire flash floods and debris flows are a mounting problem for people and the built environment, according to a 147-year inventory of damage and losses associated with the hazard in the United States.“",
+    "source": "Communications Earth & Environment",
+    "date": "2026-08-31",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-026-03993-z",
+    "title": "Drivers of marine heatwaves and their decadal suppression in the southwest Indian Ocean",
+    "link": "https://www.nature.com/articles/s43247-026-03993-z",
+    "authors": [
+      "William Kamp",
+      "Weiqing Han"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 31 August 2026; <a href=\"https://www.nature.com/articles/s43247-026-03993-z\">doi:10.1038/s43247-026-03993-z</a>Marine heatwaves in the southwest Indian Ocean are driven by surface wind anomalies and suppressed by volcanic activity, according to a combination of satellite observations, reanalysis data, and climate model simulations.",
+    "source": "Communications Earth & Environment",
+    "date": "2026-08-31",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-026-03982-2",
+    "title": "Hydropower reservoirs will lead energy-sector carbon emissions by 2050 under a net-zero scenario",
+    "link": "https://www.nature.com/articles/s43247-026-03982-2",
+    "authors": [
+      "Zilin Wang",
+      "Meili Feng",
+      "Matthew F. Johnson",
+      "Aldo Lipani",
+      "Muyang Wu",
+      "Lyuchen Wang",
+      "Hongxin Chen",
+      "Ziyang Yan",
+      "Faith Ka Shun Chan"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 31 August 2026; <a href=\"https://www.nature.com/articles/s43247-026-03982-2\">doi:10.1038/s43247-026-03982-2</a>Hydropower reservoirs representing 87% of total energy-sector emissions by 2050 under a net-zero scenario; according to machine learning models trained on published datasets accounting for evolving climatic conditions.",
+    "source": "Communications Earth & Environment",
+    "date": "2026-08-31",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-026-04005-w",
+    "title": "Significant variability in marine hydrate stability",
+    "link": "https://www.nature.com/articles/s43247-026-04005-w",
+    "authors": [
+      "Aditya Kumar",
+      "Ann E. Cook",
+      "Alexey Portnov",
+      "Alejandro Cardona",
+      "Jess I. T. Hillman"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 31 August 2026; <a href=\"https://www.nature.com/articles/s43247-026-04005-w\">doi:10.1038/s43247-026-04005-w</a>“Bottom simulating reflections (BSR) vary over 100 s of meters and do not coincide with the calculated thermodynamic base of methane hydrate stability, as shown using 70 BSR measurements across the northern Gulf of Mexico.”",
+    "source": "Communications Earth & Environment",
+    "date": "2026-08-31",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-026-03998-8",
+    "title": "Strengthened cross-trophic coupling in soil communities enhances soil multifunctionality in fenced grasslands",
+    "link": "https://www.nature.com/articles/s43247-026-03998-8",
+    "authors": [
+      "Xihang Yang",
+      "Yong Zhang",
+      "Dashi Du",
+      "Chaofang Sun",
+      "Yuting Wang",
+      "Xiang Liu",
+      "Mu Liu",
+      "Yao Xiao",
+      "Jihua Wu"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 31 August 2026; <a href=\"https://www.nature.com/articles/s43247-026-03998-8\">doi:10.1038/s43247-026-03998-8</a>Grazing exclusion through fencing increased soil multifunctionality, driven by the direct positive effect of multi trophic diversity outweighing the contribution of single trophic diversity, according to an analysis of soil properties and microbes across pairs of grassland plots across China.",
+    "source": "Communications Earth & Environment",
+    "date": "2026-08-31",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-026-03870-9",
+    "title": "Enhancing aquatic ecosystem environmental DNA capture, preservation and analysis with magnetic spiky silica nanoparticles",
+    "link": "https://www.nature.com/articles/s43247-026-03870-9",
+    "authors": [
+      "Yuwei Wang",
+      "Weiqiang Zheng",
+      "Xue Zhang",
+      "Changxiang Hao",
+      "Weizhi Liu",
+      "Jiexi Chen",
+      "Xin Wang",
+      "Xudong Liu",
+      "Wenlian Cui",
+      "Meng Qiu",
+      "Li Li",
+      "Wei Wang"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 31 August 2026; <a href=\"https://www.nature.com/articles/s43247-026-03870-9\">doi:10.1038/s43247-026-03870-9</a>The efficiency of environmental DNA capture and purification can be enhanced through engineered magnetic spike silica nanoparticles allowing for a cost-effective way of increasing eDNA based aquatic ecosystem monitoring.",
+    "source": "Communications Earth & Environment",
+    "date": "2026-08-31",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012825226002850",
+    "title": "Aptian climate change, the Equatorial Humid Belt and the global shallow-marine sedimentary record – with particular attention to the North African margin (Tunisia)",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012825226002850?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 30 August 2026<b>Source:</b> Earth-Science ReviewsAuthor(s): Najeh Ben Chaabane, Amir Kalifi, Jiří Kvaček, Fares Khemiri, Yuriy Kaprielov, Mohamed Ouaja, Frans van Buchem",
+    "source": "ScienceDirect Publication: Earth-Science Reviews",
+    "date": "2026-09-01",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012821X2600484X",
+    "title": "Full-waveform tomography of southeastern Tibet: Evidence for dual crustal low-velocity zones and hybrid tectonic processes",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012821X2600484X?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: 15 November 2026<b>Source:</b> Earth and Planetary Science Letters, Volume 694Author(s): Xinyu Jiang, Xiaodong Song, Xuezhen Zhang, Haoyu Xu, Xingchen Wang, Bin He, Hejun Zhu",
+    "source": "ScienceDirect Publication: Earth and Planetary Science Letters",
+    "date": "2026-09-01",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL123720",
+    "title": "Irrigation Impact on Humid Heat Stress: Divergent Metrics, Vegetation Dynamics, and Future Worsening",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL123720?af=R",
+    "authors": [
+      "Hanjie Shen, \nYuwen Fan, \nJina Hur, \nEun‐Soon Im"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 17, 16 September 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-08-30",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL123217",
+    "title": "New Electron Population Trapped at Low Latitudes Near Jupiter",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL123217?af=R",
+    "authors": [
+      "F. Allegrini, \nP. Kollman, \nR. W. Ebert, \nJ. R. Szalay, \nG. Clark, \nP. Louarn, \nD. J. McComas, \nP. Valek, \nS. J. Bolton"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 17, 16 September 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-08-30",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GC012898",
+    "title": "Geochronological Constraints on Diachronous Post‐Collisional Slab Breakoff Along the Paleo‐Tethyan Sutures",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GC012898?af=R",
+    "authors": [
+      "Min Liu, \nHao Wu, \nXi‐Jun Liu, \nRong‐Guo Hu, \nSi‐Nan Lv, \nXiao‐Xiao Hu, \nYao Xiao, \nHao‐Dong Wei"
+    ],
+    "summary": "Geochemistry, Geophysics, Geosystems, Volume 27, Issue 9, September 2026.",
+    "source": "Wiley: Geochemistry, Geophysics, Geosystems: Table of Contents",
+    "date": "2026-08-30",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026JB034032",
+    "title": "Wave Propagation in 3‐D Poroelastic Media Accounting for Both Mesoscopic and Global Flow Effects",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026JB034032?af=R",
+    "authors": [
+      "Zhiyu Hou, \nYury Alkhimenkov, \nBeatriz Quintal"
+    ],
+    "summary": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 9, September 2026.",
+    "source": "Wiley: Journal of Geophysical Research: Solid Earth: Table of Contents",
+    "date": "2026-08-30",
+    "sent": true
+  },
+  {
+    "id": "http://doi.org/10.1093/nsr/nwag531",
+    "title": "Correction to: A soft biosensor with printable responsive hydrogel interfaces for detection and differentiation of blood circulation complications",
+    "link": "https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwag531/8776255?rss=1",
+    "authors": [],
+    "summary": "",
+    "source": "National Science Review Advance Access",
+    "date": "2026-08-31",
+    "sent": true
+  },
+  {
     "id": "https://www.nature.com/articles/d41586-026-02684-1",
     "title": "AI models are being used to track zoonotic diseases. Will they prevent the next pandemic?",
     "link": "https://www.nature.com/articles/d41586-026-02684-1",
