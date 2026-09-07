@@ -1,5 +1,147 @@
 [
   {
+    "id": "https://www.nature.com/articles/d41586-026-02800-1",
+    "title": "Briefing Chat: How 1,000 pairs of buried underpants helped measure soil health",
+    "link": "https://www.nature.com/articles/d41586-026-02800-1",
+    "authors": [
+      "Benjamin Thompson",
+      "Maren Hunsberger"
+    ],
+    "summary": "Nature, Published online: 04 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-02800-1\">doi:10.1038/d41586-026-02800-1</a>Nature staff discuss the winners of the 2026 Ig Nobel prizes — plus, the isolated energy flash that could be the first glimpse of dark matter.",
+    "source": "Nature",
+    "date": "2026-09-04",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-02741-9",
+    "title": "Super-precise optical clocks in four nations tick in harmony",
+    "link": "https://www.nature.com/articles/d41586-026-02741-9",
+    "authors": [],
+    "summary": "Nature, Published online: 04 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-02741-9\">doi:10.1038/d41586-026-02741-9</a>Comparison using signals sent over fibre-optic cable tests agreement between seven devices spread across Europe.",
+    "source": "Nature",
+    "date": "2026-09-04",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-02739-3",
+    "title": "Body parts used for ancient Egyptian artworks traced to surprising source",
+    "link": "https://www.nature.com/articles/d41586-026-02739-3",
+    "authors": [],
+    "summary": "Nature, Published online: 04 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-02739-3\">doi:10.1038/d41586-026-02739-3</a>Coffin decorations and wall paintings were made with tissue from a broad range of organisms.",
+    "source": "Nature",
+    "date": "2026-09-04",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-02643-w",
+    "title": "Tropical cyclones could be predicted with an extra day’s warning, thanks to an AI model",
+    "link": "https://www.nature.com/articles/d41586-026-02643-w",
+    "authors": [
+      "Tom Beucler",
+      "Milton Gomez"
+    ],
+    "summary": "Nature, Published online: 04 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-02643-w\">doi:10.1038/d41586-026-02643-w</a>The track and intensity of tropical cyclones can be predicted with high accuracy using an AI model, which has the potential to protect lives if shared responsibly worldwide.",
+    "source": "Nature",
+    "date": "2026-09-04",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-02801-0",
+    "title": "Ada Yonath obituary: Crystallographer who overcame ‘impossible’ challenge of mapping the ribosome",
+    "link": "https://www.nature.com/articles/d41586-026-02801-0",
+    "authors": [
+      "Georgina Ferry"
+    ],
+    "summary": "Nature, Published online: 04 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-02801-0\">doi:10.1038/d41586-026-02801-0</a>Nobel laureate persisted despite widespread derision and revolutionized structural biology by protecting fragile crystals.",
+    "source": "Nature",
+    "date": "2026-09-04",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-02799-5",
+    "title": "Revealed: inside the US military's plan to tap huge sums from the NIH",
+    "link": "https://www.nature.com/articles/d41586-026-02799-5",
+    "authors": [
+      "Max Kozlov"
+    ],
+    "summary": "Nature, Published online: 04 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-02799-5\">doi:10.1038/d41586-026-02799-5</a>An agreement paves the way for hundreds of millions of dollars’ worth of projects to be transferred from the NIH’s institute for infectious diseases to the Department of Defense.",
+    "source": "Nature",
+    "date": "2026-09-04",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-02758-0",
+    "title": "Bunsen burners’ reputation for sterilizing workplaces flames out",
+    "link": "https://www.nature.com/articles/d41586-026-02758-0",
+    "authors": [
+      "Kaia Glickman"
+    ],
+    "summary": "Nature, Published online: 04 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-02758-0\">doi:10.1038/d41586-026-02758-0</a>Study shows that the venerable device does not waft bacteria away from workbenches, as is often assumed.",
+    "source": "Nature",
+    "date": "2026-09-04",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-02740-w",
+    "title": "CRISPR therapy cuts cholesterol for at least 12 months",
+    "link": "https://www.nature.com/articles/d41586-026-02740-w",
+    "authors": [],
+    "summary": "Nature, Published online: 01 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-02740-w\">doi:10.1038/d41586-026-02740-w</a>Small trial targeted liver proteins that play a part in the regulation of lipid levels.",
+    "source": "Nature",
+    "date": "2026-09-01",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-77310-9",
+    "title": "Telomere variant sequences encode the genetic blueprint for allele-specific telomere length",
+    "link": "https://www.nature.com/articles/s41467-026-77310-9",
+    "authors": [
+      "Xiaoran Chai",
+      "LaiFong Poon",
+      "Hengrui Liu",
+      "Manvendra K. Singh",
+      "Takashi Minami",
+      "Goro Sashida",
+      "Masafumi Fukuda",
+      "Bin Tean Teh",
+      "Patrick Tan",
+      "William Ying Khee Hwang",
+      "Jue Lin",
+      "Angela S. Koh",
+      "Tatsuro Kondoh",
+      "Lifeng Xu",
+      "Motomi Osato",
+      "Jin Liu",
+      "Shang Li"
+    ],
+    "summary": "Nature Communications, Published online: 07 September 2026; <a href=\"https://www.nature.com/articles/s41467-026-77310-9\">doi:10.1038/s41467-026-77310-9</a>The authors use long-read sequencing to map allele-specific telomere lengths and telomere variant sequences (TVS). They find that TVSs dispersed along the telomere repeat region are heritable genetic elements that account for the extreme heterogeneity of telomere length between alleles.",
+    "source": "Nature Communications",
+    "date": "2026-09-07",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026JB034263",
+    "title": "A Fractal Link Between Soil Water Retention and Freezing",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026JB034263?af=R",
+    "authors": [
+      "Hao Wang, \nSai K. Vanapalli"
+    ],
+    "summary": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 9, September 2026.",
+    "source": "Wiley: Journal of Geophysical Research: Solid Earth: Table of Contents",
+    "date": "2026-09-05",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0016703726005703",
+    "title": "Iron isotopes reveal the transition from magmatic to hydrothermal systems in highly evolved granites",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0016703726005703?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 6 September 2026<b>Source:</b> Geochimica et Cosmochimica ActaAuthor(s): Yikang Quan, Jiaru Sheng, Gengxin Deng, Yan Jing, Xiangyu Yan, Fang Huang",
+    "source": "ScienceDirect Publication: Geochimica et Cosmochimica Acta",
+    "date": "2026-09-07",
+    "sent": true
+  },
+  {
     "id": "https://www.nature.com/articles/s41561-026-02079-x",
     "title": "Nature-based solutions in open ecosystems must support biodiversity and people",
     "link": "https://www.nature.com/articles/s41561-026-02079-x",
