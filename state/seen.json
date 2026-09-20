@@ -1,5 +1,246 @@
 [
   {
+    "id": "https://www.nature.com/articles/s41467-026-77985-0",
+    "title": "Checkerboard-type Zhang-Rice states in overdoped cuprate superconductors",
+    "link": "https://www.nature.com/articles/s41467-026-77985-0",
+    "authors": [
+      "Xiongfang Liu",
+      "Kun Han",
+      "Yan Peng",
+      "Yuanjie Ning",
+      "Jing Wu",
+      "Zhaoyang Luo",
+      "Difan Zhou",
+      "Zhigang Zeng",
+      "Qian He",
+      "Chuanbing Cai",
+      "Mark. B. H. Breese",
+      "Ariando Ariando",
+      "Chi Sin Tang",
+      "George A. Sawatzky",
+      "Mi Jiang",
+      "Xinmao Yin"
+    ],
+    "summary": "Nature Communications, Published online: 19 September 2026; <a href=\"https://www.nature.com/articles/s41467-026-77985-0\">doi:10.1038/s41467-026-77985-0</a>In cuprate superconductors, the overdoped regime has received comparatively limited attention. Here, broadband optical spectroscopy and DQMC calculations reveal an electronic reconstruction in LSCO beyond x > 0.2, consistent with a checkerboard Zhang–Rice configuration hosting coexisting localized and itinerant carriers.",
+    "source": "Nature Communications",
+    "date": "2026-09-19",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012821X26005285",
+    "title": "Thallium isotope evidence for an anoxic global deep ocean ∼1.83 billion years ago",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012821X26005285?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: 1 December 2026<b>Source:</b> Earth and Planetary Science Letters, Volume 695Author(s): Chadlin M. Ostrander, Andy W. Heard, Donald E. Canfield, Philip W. Fralick, Sune G. Nielsen, Jean N.R. Clemente, Simon W. Poulton",
+    "source": "ScienceDirect Publication: Earth and Planetary Science Letters",
+    "date": "2026-09-20",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012821X26005273",
+    "title": "Heavy rubidium isotope compositions in intraplate basalts trace recycled carbonates in the deep mantle",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012821X26005273?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: 1 December 2026<b>Source:</b> Earth and Planetary Science Letters, Volume 695Author(s): Ding-Sheng Jiang, Matthew Jackson, Frederic Moynier, Xing Ding, Kan Li, Xia Hu, Guo-Liang Zhang, Zi-Qiang Zhong, Fang Huang",
+    "source": "ScienceDirect Publication: Earth and Planetary Science Letters",
+    "date": "2026-09-20",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012821X26005297",
+    "title": "Geological characterization of Shackleton-Slater crater region at lunar south pole, Chang’e-7 candidate landing site",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012821X26005297?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: 1 December 2026<b>Source:</b> Earth and Planetary Science Letters, Volume 695Author(s): Mingyu Tian, Yuqi Qian, Lukas Wueller, James Head, Xiang Li, Wajiha Iqbal, Harald Hiesinger, Carolyn van der Bogert, Ke Xu, Lingzhi Sun, Long Xiao, Guochun Zhao",
+    "source": "ScienceDirect Publication: Earth and Planetary Science Letters",
+    "date": "2026-09-20",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL123975",
+    "title": "Co‐Occurring Weather Systems Vary by Atmospheric River Scale Across the United States",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL123975?af=R",
+    "authors": [
+      "Diya Kamnani, \nTravis A. O’Brien, \nWei‐Ming Tsai, \nKwesi Twentwewa Quagraine, \nJ. David Neelin, \nJennifer L. Catto, \nYang Zhou, \nL. Ruby Leung, \nWilliam R. Boos, \nHongsheng Wang"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 18, 28 September 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-09-18",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL122610",
+    "title": "Assimilation of SWOT Water Surface Elevation Enhances Simulations of River Dynamics in the Ohio River Basin",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL122610?af=R",
+    "authors": [
+      "Yeosang Yoon, \nAugusto Getirana, \nSujay V. Kumar, \nElyssa Collins, \nJerry W. Wegiel"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 18, 28 September 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-09-18",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL122470",
+    "title": "Capturing Typhoon Rapid Intensification and Abrupt Recurvature Using an IAU‐Based 4DVar Scheme",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL122470?af=R",
+    "authors": [
+      "Siqi Chen, \nLiwen Wang, \nYongzhu Liu, \nJiandong Gong, \nBanglin Zhang"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 18, 28 September 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-09-18",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL124338",
+    "title": "Ecological and Hydrological Modulation of Land Surface Temperature in the East Asian Monsoon Margin During Pliocene‐Pleistocene Global Cooling",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL124338?af=R",
+    "authors": [
+      "Chen Chen, \nHanzhi Zhang, \nHuayu Lu, \nCheng Zhao, \nYuqiang Zeng, \nJian Yu"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 18, 28 September 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-09-18",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL125720",
+    "title": "Global Projections of Coral Reef Sediment Dissolution in the 21st Century",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL125720?af=R",
+    "authors": [
+      "Tingli Yan, \nLi‐Qing Jiang, \nXianxun Li, \nLeilei Jiang, \nShuzhen Song, \nNing Zhao"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 18, 28 September 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-09-18",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL123910",
+    "title": "Dampened Diurnal Cycles of Hot‐Wet Extremes in Urban Areas Contrast With Thermally Driven Daytime Stress in Rural Landscapes of Beijing‐Tianjin‐Hebei Region",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL123910?af=R",
+    "authors": [
+      "Hanxu Jiang, \nBoqi Liu, \nShuangmei Ma"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 18, 28 September 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-09-18",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL123945",
+    "title": "A Shallow‐Marine Ecosystem Before Initial Tibetan Plateau Uplift",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL123945?af=R",
+    "authors": [
+      "Ming Wang, \nXin Rao, \nRichard M. Palin, \nPeter W. Skelton, \nWenjiao Xiao, \nYuhe Zhang, \nBinxuan Hao, \nDongfang Song, \nBo Wang, \nYangrui Guo, \nTingting Yu, \nKun Liang, \nFelix Schlagintweit"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 18, 28 September 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-09-18",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL124877",
+    "title": "Linking Extreme Precipitation to Pluvial Hydrometeorological Disasters in Southeast Asia Using a Long‐Term Event Database",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL124877?af=R",
+    "authors": [
+      "Junjun Li, \nJingyu Wang, \nHui Su, \nXianfeng Wang, \nEdward Park, \nRaju Pathak, \nDung Duc Tran, \nLuojie Dong"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 18, 28 September 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-09-18",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL120985",
+    "title": "Intra‐Seasonal Variability of Serial Clustering of Severe European Winter Windstorms",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL120985?af=R",
+    "authors": [
+      "S. Feltz, \nK. S. Ng, \nC. Allen, \nT. Kruschke, \nM. Angus, \nA. Quinn, \nG. C. Leckebusch"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 18, 28 September 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-09-18",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026JB034209",
+    "title": "Thermal and Structural Signatures Associated With Subducted Seamounts in Hyuga‐nada and Off Cape Muroto, Southwest Japan",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026JB034209?af=R",
+    "authors": [
+      "Masataka Kinoshita, \nKazuya Shiraishi, \nYoshitaka Hashimoto, \nYohei Hamada, \nRie Nakata"
+    ],
+    "summary": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 9, September 2026.",
+    "source": "Wiley: Journal of Geophysical Research: Solid Earth: Table of Contents",
+    "date": "2026-09-18",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0016703726006009",
+    "title": "The role of sediments in calc-alkaline differentiation of thickened arc magmas and bulk crust compositions",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0016703726006009?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 18 September 2026<b>Source:</b> Geochimica et Cosmochimica ActaAuthor(s): Jun Wang, Chris J. Hawkesworth, Qiang Wang, Peng Sun, Wan-Long Hu, Shaohao Zou",
+    "source": "ScienceDirect Publication: Geochimica et Cosmochimica Acta",
+    "date": "2026-09-20",
+    "sent": true
+  },
+  {
+    "id": "https://pubs.geoscienceworld.org/gsa/gsabulletin/article/doi/10.1130/B39044.1/785897/Decomposition-of-phengite-from-residual-subducted",
+    "title": "Decomposition of phengite from residual subducted slabs enhancing lithospheric tin mineralization: Insights from K–Li–Nd isotopes",
+    "link": "https://pubs.geoscienceworld.org/gsa/gsabulletin/article/doi/10.1130/B39044.1/785897/Decomposition-of-phengite-from-residual-subducted",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\">The sources and roles of volatiles in tin (Sn)-related magmatic systems remain controversial. We present integrated K–Li–Nd isotopic, trace element, and volatile data from Late Cretaceous Xishan Sn-mineralized granites in the southern margin of the South China Block to constrain the origin of volatiles and the mechanisms driving mineralization. The δ<sup>41</sup>K values of the Xishan granites (−0.80‰ to −0.47‰) are systematically lower than those of coeval barren granites (−0.67‰ to −0.27‰) and positively correlated with δ<sup>7</sup>Li. Their high F (2350–10,850 ppm) and H<sub>2</sub>O (2.8–4.6 wt%) contents exhibit negative correlations with δ<sup>41</sup>K, indicating a genetic link between volatile enrichment and light K isotope signatures. These isotopic variations cannot be explained by post-magmatic alteration, crustal contamination or fractional crystallization. Instead, they record the incorporation of isotopically light, phengite-bearing eclogitic materials recycled from residual subducted slabs during slab rollback. The breakdown of phengite released F- and K-rich hydrous melts with light K–Li isotopic compositions, which mixed (~6% on average; range ~1%–12%) with crustal melts to generate hydrous, volatile-rich magmas. Geochemical and geophysical evidence further suggests that slab rollback induced asthenospheric upwelling, producing extensional basins and widespread granitic magmatism. The recycled hydrous melts, rich in F and Sn, effectively mobilized tin from rutile and transferred it into granitic melts under reduced conditions, where Sn<sup>2+</sup> remained incompatible and accumulated. The combination of recycled phengite-derived volatiles, rutile dissolution, and reduced F-rich magmas provided the key physicochemical environment for Sn enrichment and mineralization.</span>",
+    "source": "GSA Bulletin Advance Access",
+    "date": "2026-09-18",
+    "sent": true
+  },
+  {
+    "id": "https://pubs.geoscienceworld.org/gsa/gsabulletin/article/doi/10.1130/B38609.1/785896/Geochronology-and-sedimentology-of-the-Buluk",
+    "title": "Geochronology and sedimentology of the Buluk fossil site, East Turkana, Kenya: Hominoid fossil–bearing strata within the Miocene climate optimum",
+    "link": "https://pubs.geoscienceworld.org/gsa/gsabulletin/article/doi/10.1130/B38609.1/785896/Geochronology-and-sedimentology-of-the-Buluk",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\">The Buluk Member of the Bakate Formation in the eastern Turkana Basin of northern Kenya includes the remarkable Buluk fossil site that preserves the remains of primitive apes and Old World monkeys, along with a rich faunal assemblage of terrestrial vertebrate fossils. The age of the site has been interpreted to be either middle Miocene based on its biostratigraphy or early Miocene (older than 17.4 Ma to 16.3 Ma) based on whole-rock K-Ar analyses on tuffs and basalt. Further, the depositional environments of the Buluk Member are poorly constrained. This study demonstrates that the Buluk Member primarily consists of a meandering river complex with fluvial channel deposits, pedogenically modified floodplain deposits, and rare lacustrine deposits that include oxbow lakes. Sedimentological analysis of the Buluk fossil sites and taphonomic assessments of the faunal remains indicate that the Buluk faunal assemblage accumulated primarily within fluvial channels through a variety of pathways, leading to differential weathering and fossil preservation. Combined magnetostratigraphy and <sup>40</sup>Ar/<sup>39</sup>Ar geochronology indicate that all major mammal fossil localities at Buluk were deposited at the end of the early Miocene between ca. 16.6 Ma and 16.11 Ma, making Buluk the only known terrestrial strata that document the onset of the Miocene climate optimum (16.7–14.7 Ma) in eastern Africa.</span>",
+    "source": "GSA Bulletin Advance Access",
+    "date": "2026-09-18",
+    "sent": true
+  },
+  {
+    "id": "https://pubs.geoscienceworld.org/gsa/gsabulletin/article/doi/10.1130/B38610.1/785895/Terrestrial-paleoenvironments-and-paleoclimate",
+    "title": "Terrestrial paleoenvironments and paleoclimate during the Miocene climate optimum at Buluk, East Turkana, Kenya",
+    "link": "https://pubs.geoscienceworld.org/gsa/gsabulletin/article/doi/10.1130/B38610.1/785895/Terrestrial-paleoenvironments-and-paleoclimate",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\">Understanding the environmental and climatic context of Neogene fossil localities in eastern Africa is critical for determining potential drivers of evolution in our hominoid ancestors and their floral and faunal communities. In this study, we reconstructed paleoenvironments and paleoclimate conditions for strata associated with the Buluk fossil site in the Turkana Basin of northern Kenya. Recent geochronologic analysis situates the fossiliferous strata at Buluk between ca. 16.6 Ma and 16.1 Ma, making this one of a very few equatorial, terrestrial records coinciding with the Miocene climate optimum (16.9–14.7 Ma). Floodplain paleosols were described using field observations, micromorphology, bulk elemental geochemistry, and stable isotope geochemistry. The paleosols range from weakly developed Entisols to moderately mature Vertisols that contain co-occurring pedogenic slickensides, carbonates, illuviated clay, iron mottling, and Fe-Mn concretions. These features are consistent with a seasonally varying soil water budget, ranging from saturation to water deficit on annual scales. Two paleosol proxies for mean annual precipitation indicate that climate was subhumid: 588–1188 mm (± 512 mm, PPM<sub>1.0</sub> model) and 615–998 mm (± 209 mm, RF-MAP<sub>2.0</sub> model). Mean annual temperature inferred from clumped isotope analysis on pedogenic carbonates suggests that a thermic to hyperthermic soil temperature regime (24–31 ± 5 °C) existed during the peak of the Miocene climate optimum, notably lower than the Pliocene through modern conditions in the Turkana Basin. Stable carbon isotope ratios (δ<sup>13</sup>C) measured on bulk organic matter and plant waxes are consistent with vegetation dominated by C<sub>3</sub> biomass, which supports existing tooth enamel δ<sup>13</sup>C records that indicate C<sub>3</sub> diets in fossil taxa at Buluk. However, numerous carefully vetted pedogenic carbonate samples have δ<sup>13</sup>C values that fall above the C<sub>3</sub> end member and suggest spatially and temporally variable abundances of C<sub>4</sub> vegetation. These findings support interpretations of heterogeneous, dynamic landscapes at Buluk that likely hosted seasonal woodlands—not forests or grasslands—and seasonally varying rainfall possibly driven by monsoon circulation. This study provides clear evidence that the Turkana Basin was significantly wetter, but not hotter, during the Miocene climate optimum compared to today, but further work is needed to understand broader temporal patterns of hydroclimate change across the middle to late Miocene in the region.</span>",
+    "source": "GSA Bulletin Advance Access",
+    "date": "2026-09-18",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026TC009355",
+    "title": "The Parguera Fault System: Possible Quaternary Reactivation of Bedrock Faults in Southwest Puerto Rico",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026TC009355?af=R",
+    "authors": [
+      "Jessica Thompson Jobe, \nRichard Briggs, \nVictor Ortega Diaz, \nEmerson M. Lynch, \nK. Stephen Hughes, \nThomas Pratt, \nAnjana Shah, \nFrancisco Hernandez, \nChris M. Justiniano Vélez, \nAlberto López‐Venegas, \nElizabeth Vanacore, \nM. Morow Tan, \nHarrison Gray"
+    ],
+    "summary": "Tectonics, Volume 45, Issue 9, September 2026.",
+    "source": "Wiley: Tectonics: Table of Contents",
+    "date": "2026-09-18",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026TC009390",
+    "title": "Dominant Glacial Control on Plio‐Pleistocene to Recent Exhumation of the Kyrgyz Range (Tien Shan)",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026TC009390?af=R",
+    "authors": [
+      "A. Mariotti, \nT. F. Schildgen, \nE. R. Sobel, \nL. Gong, \nP. A. van der Beek, \nM. Bernard, \nI. M. Wapenhans, \nJ. Glodny, \nT. Omurbekov, \nK. Asilbekov, \nB. Moldobekov"
+    ],
+    "summary": "Tectonics, Volume 45, Issue 9, September 2026.",
+    "source": "Wiley: Tectonics: Table of Contents",
+    "date": "2026-09-18",
+    "sent": true
+  },
+  {
     "id": "https://www.science.org/doi/abs/10.1126/sciadv.aef6686?af=R",
     "title": "Direct spectroscopic observation of matter falling onto a compact stellar object",
     "link": "https://www.science.org/doi/abs/10.1126/sciadv.aef6686?af=R",
