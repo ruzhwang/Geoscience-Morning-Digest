@@ -1,5 +1,406 @@
 [
   {
+    "id": "https://www.nature.com/articles/s41586-026-11160-9",
+    "title": "Chemist-aligned retrosynthesis by ensembling diverse inductive bias models",
+    "link": "https://www.nature.com/articles/s41586-026-11160-9",
+    "authors": [
+      "Krzysztof Maziarz",
+      "Guoqing Liu",
+      "Felix Pultar",
+      "John Gardner",
+      "Tobias Gensch",
+      "Jean Helie",
+      "Hubert Misztela",
+      "Austin Tripp",
+      "Junren Li",
+      "Aleksei Kornev",
+      "Piotr Gaiński",
+      "Holger Hoefling",
+      "Mike Fortunato",
+      "Rishi Gupta",
+      "Andrew Baxter",
+      "Darren L. Poole",
+      "Jennifer M. Elward",
+      "Adrian Krzyzanowski",
+      "Peter Pogány",
+      "Stephen D. Pickett",
+      "Ian D. Wall",
+      "Christopher M. Bishop",
+      "Philip G. Humphreys",
+      "James A. Lumley",
+      "Mario P. Wiesenfeldt",
+      "Marwin H. S. Segler"
+    ],
+    "summary": "Nature, Published online: 21 September 2026; <a href=\"https://www.nature.com/articles/s41586-026-11160-9\">doi:10.1038/s41586-026-11160-9</a>Chemist-aligned retrosynthesis by ensembling diverse inductive bias models",
+    "source": "Nature",
+    "date": "2026-09-21",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-02932-4",
+    "title": "Six principles for supporting academic freedom in universities",
+    "link": "https://www.nature.com/articles/d41586-026-02932-4",
+    "authors": [
+      "Sarah de Rijcke"
+    ],
+    "summary": "Nature, Published online: 21 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-02932-4\">doi:10.1038/d41586-026-02932-4</a>Many academics are concerned about threats to independent enquiry in higher education. Here’s how it can be protected while taking legitimate concerns into account.",
+    "source": "Nature",
+    "date": "2026-09-21",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-02928-0",
+    "title": "Losing your way of life to climate change matters — and we need a way to measure it",
+    "link": "https://www.nature.com/articles/d41586-026-02928-0",
+    "authors": [
+      "Manasi  Kumar"
+    ],
+    "summary": "Nature, Published online: 21 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-02928-0\">doi:10.1038/d41586-026-02928-0</a>Climate losses extend beyond property and income. Policymakers need ways to assess what people value, experience and ultimately stand to lose.",
+    "source": "Nature",
+    "date": "2026-09-21",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-02987-3",
+    "title": "Edible batteries power medical devices in the body",
+    "link": "https://www.nature.com/articles/d41586-026-02987-3",
+    "authors": [
+      "Katherine Bourzac"
+    ],
+    "summary": "Nature, Published online: 21 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-02987-3\">doi:10.1038/d41586-026-02987-3</a>The tiny power sources, tested in pigs, dissolve inside the digestive tract after several months.",
+    "source": "Nature",
+    "date": "2026-09-21",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-02890-x",
+    "title": "China punishes prominent academics exposed by research sleuth",
+    "link": "https://www.nature.com/articles/d41586-026-02890-x",
+    "authors": [
+      "Xiaoying You"
+    ],
+    "summary": "Nature, Published online: 21 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-02890-x\">doi:10.1038/d41586-026-02890-x</a>Several scientists investigated for research-integrity violations by video-blogger ‘Student Geng’ have now faced disciplinary measures. The penalties are part of a misconduct crackdown on 31 research teams.",
+    "source": "Nature",
+    "date": "2026-09-21",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-02931-5",
+    "title": "AI co-scientists are revolutionizing how research is done",
+    "link": "https://www.nature.com/articles/d41586-026-02931-5",
+    "authors": [
+      "Elie Dolgin"
+    ],
+    "summary": "Nature, Published online: 21 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-02931-5\">doi:10.1038/d41586-026-02931-5</a>Artificial-intelligence systems can generate hypotheses, design experiments and analyse data — but humans still need to decide what makes sense.",
+    "source": "Nature",
+    "date": "2026-09-21",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-02441-4",
+    "title": "How do I change labs gracefully during my PhD?",
+    "link": "https://www.nature.com/articles/d41586-026-02441-4",
+    "authors": [
+      "N. G. Boeck"
+    ],
+    "summary": "Nature, Published online: 21 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-02441-4\">doi:10.1038/d41586-026-02441-4</a>A scientist in training seeks help in finding a new adviser without damaging existing working relationships.",
+    "source": "Nature",
+    "date": "2026-09-21",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-02981-9",
+    "title": "'Epigenetic' editing is here: gene-tagging technique banishes hepatitis B virus",
+    "link": "https://www.nature.com/articles/d41586-026-02981-9",
+    "authors": [
+      "Miryam Naddaf"
+    ],
+    "summary": "Nature, Published online: 21 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-02981-9\">doi:10.1038/d41586-026-02981-9</a>Technique uses chemical tags to shut down viral DNA lurking in host’s genome.",
+    "source": "Nature",
+    "date": "2026-09-21",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-02994-4",
+    "title": "Daily briefing: How to turn a paper into an AI agent",
+    "link": "https://www.nature.com/articles/d41586-026-02994-4",
+    "authors": [
+      "Flora Graham"
+    ],
+    "summary": "Nature, Published online: 18 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-02994-4\">doi:10.1038/d41586-026-02994-4</a>A new tool is designed to help researchers interact with published papers. Plus, promising news for an RNA-based treatment for ALS and how psychoactive drugs might have shaped pre-Incan culture.",
+    "source": "Nature",
+    "date": "2026-09-18",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-02955-x",
+    "title": "Daily briefing: Fresh evidence for hidden chambers at Tutankhamun’s tomb",
+    "link": "https://www.nature.com/articles/d41586-026-02955-x",
+    "authors": [
+      "Flora Graham"
+    ],
+    "summary": "Nature, Published online: 17 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-02955-x\">doi:10.1038/d41586-026-02955-x</a>Scans support the idea that as-yet-unexplored chambers might hold the remains of the Egyptian queen Nefertiti. Plus, mathematical controversy and beautiful ctenophores.",
+    "source": "Nature",
+    "date": "2026-09-17",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-77940-z",
+    "title": "Host-pathogen pyrimidine metabolism drives cystic fibrosis lung disease",
+    "link": "https://www.nature.com/articles/s41467-026-77940-z",
+    "authors": [
+      "Gaurav Kumar Lohia",
+      "Ying-Tsun Chen",
+      "Samantha Chen",
+      "Ayesha Beg",
+      "Erin Theiller",
+      "Aomeng Cui",
+      "Ahmed M. Moustafa",
+      "Sebastián A. Riquelme"
+    ],
+    "summary": "Nature Communications, Published online: 22 September 2026; <a href=\"https://www.nature.com/articles/s41467-026-77940-z\">doi:10.1038/s41467-026-77940-z</a>Here, Lohia et al show that pyrimidine metabolism is a driver of pulmonary remodelling and bacterial infection in people with cystic fibrosis.",
+    "source": "Nature Communications",
+    "date": "2026-09-22",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-77931-0",
+    "title": "Risk stratification for MDR/RR-TB: a comprehensive integrated patient-level analysis from TB programs and contemporary clinical trials",
+    "link": "https://www.nature.com/articles/s41467-026-77931-0",
+    "authors": [
+      "Maria Garcia-Cremades",
+      "Jonathon R. Campbell",
+      "Natasha Strydom",
+      "Belén P. Solans",
+      "Samer Mouksassi",
+      "Ziran Li",
+      "Patrick P. J. Phillips",
+      "Gustavo E. Velásquez",
+      "Payam Nahid",
+      "Dick Menzies",
+      "Radojka M. Savic"
+    ],
+    "summary": "Nature Communications, Published online: 22 September 2026; <a href=\"https://www.nature.com/articles/s41467-026-77931-0\">doi:10.1038/s41467-026-77931-0</a>Pooling data from 7750 patients with drug-resistant tuberculosis worldwide, in this study, the authors defined disease-severity phenotypes based on clinical and treatment features, stratifying patients by risk of unfavourable outcomes to enable risk-adapted, stratified care.",
+    "source": "Nature Communications",
+    "date": "2026-09-22",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-77840-2",
+    "title": "Author Correction: Interfacial design strategies for stable and high-performance perovskite/silicon tandem solar cells on industrial silicon cells",
+    "link": "https://www.nature.com/articles/s41467-026-77840-2",
+    "authors": [
+      "Lingyi Fang",
+      "Ming Ren",
+      "Biwen Li",
+      "Xuzheng Liu",
+      "Suzhe Liang",
+      "Julian Petermann",
+      "Mohammad Gholipoor",
+      "Tonghan Zhao",
+      "Johannes Sutter",
+      "Paul Fassl",
+      "Henry Weber",
+      "Ralf Niemann",
+      "Linjie Dai",
+      "Renjun Guo",
+      "Uli Lemmer",
+      "Fabian Fertig",
+      "Ulrich W. Paetzold"
+    ],
+    "summary": "Nature Communications, Published online: 21 September 2026; <a href=\"https://www.nature.com/articles/s41467-026-77840-2\">doi:10.1038/s41467-026-77840-2</a>Author Correction: Interfacial design strategies for stable and high-performance perovskite/silicon tandem solar cells on industrial silicon cells",
+    "source": "Nature Communications",
+    "date": "2026-09-21",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-77892-4",
+    "title": "Real-world mileage and survival of electric vehicles in Britain and implications for lifecycle emissions",
+    "link": "https://www.nature.com/articles/s41467-026-77892-4",
+    "authors": [
+      "Daniel Mehlig",
+      "Iain Staffell"
+    ],
+    "summary": "Nature Communications, Published online: 21 September 2026; <a href=\"https://www.nature.com/articles/s41467-026-77892-4\">doi:10.1038/s41467-026-77892-4</a>Analysis of Britain’s entire vehicle fleet finds electric cars now match petrol and diesel cars in mileage and lifespan and produce less than half the lifetime greenhouse gas emissions of conventional vehicles, based on real-world usage data.",
+    "source": "Nature Communications",
+    "date": "2026-09-21",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-77852-y",
+    "title": "Author Correction: Foot-and-mouth disease virus antigenic landscape and reduced immunogenicity elucidated in atomic detail",
+    "link": "https://www.nature.com/articles/s41467-026-77852-y",
+    "authors": [
+      "Haozhou Li",
+      "Pan Liu",
+      "Hu Dong",
+      "Aldo Dekker",
+      "Michiel M. Harmsen",
+      "Huichen Guo",
+      "Xiangxi Wang",
+      "Shiqi Sun"
+    ],
+    "summary": "Nature Communications, Published online: 21 September 2026; <a href=\"https://www.nature.com/articles/s41467-026-77852-y\">doi:10.1038/s41467-026-77852-y</a>Author Correction: Foot-and-mouth disease virus antigenic landscape and reduced immunogenicity elucidated in atomic detail",
+    "source": "Nature Communications",
+    "date": "2026-09-21",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-77843-z",
+    "title": "Author Correction: Iceberg-like pyramids in industrially textured silicon enabled 33% efficient perovskite-silicon tandem solar cells",
+    "link": "https://www.nature.com/articles/s41467-026-77843-z",
+    "authors": [
+      "Daoyong Zhang",
+      "Tao Wu",
+      "Biao Li",
+      "Degong Ding",
+      "Ruilin Li",
+      "Jiyao Wei",
+      "Hengyu Zhang",
+      "Chenxia Kan",
+      "Yuxin Yao",
+      "Pengjie Hang",
+      "Zhiguo Yu",
+      "Zhenyi Ni",
+      "Kaifu Qiu",
+      "Deren Yang",
+      "Xuegong Yu"
+    ],
+    "summary": "Nature Communications, Published online: 21 September 2026; <a href=\"https://www.nature.com/articles/s41467-026-77843-z\">doi:10.1038/s41467-026-77843-z</a>Author Correction: Iceberg-like pyramids in industrially textured silicon enabled 33% efficient perovskite-silicon tandem solar cells",
+    "source": "Nature Communications",
+    "date": "2026-09-21",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-77841-1",
+    "title": "Publisher Correction: A ubiquitin chain-feeding mechanism for BRCA1-A.",
+    "link": "https://www.nature.com/articles/s41467-026-77841-1",
+    "authors": [
+      "Andrea G. Murachelli",
+      "Farid El Oualid",
+      "Titia K. Sixma"
+    ],
+    "summary": "Nature Communications, Published online: 21 September 2026; <a href=\"https://www.nature.com/articles/s41467-026-77841-1\">doi:10.1038/s41467-026-77841-1</a>Publisher Correction: A ubiquitin chain-feeding mechanism for BRCA1-A.",
+    "source": "Nature Communications",
+    "date": "2026-09-21",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-77839-9",
+    "title": "Author Correction: Vitamin B12 induces memory of predation through vitellogenin provisioning",
+    "link": "https://www.nature.com/articles/s41467-026-77839-9",
+    "authors": [
+      "Shiela Pearl Quiobe",
+      "Ata Kalirad",
+      "Raphaela Zurheide",
+      "Hanh Witte",
+      "Christian Rödelsperger",
+      "Ralf J. Sommer"
+    ],
+    "summary": "Nature Communications, Published online: 21 September 2026; <a href=\"https://www.nature.com/articles/s41467-026-77839-9\">doi:10.1038/s41467-026-77839-9</a>Author Correction: Vitamin B12 induces memory of predation through vitellogenin provisioning",
+    "source": "Nature Communications",
+    "date": "2026-09-21",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012825226002989",
+    "title": "Deciphering spatiotemporal river-borne sediment signals at the eastern China margin since the last glaciation: Clay mineralogy insights from the Oujiang Delta and regional data synthesis",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012825226002989?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 20 September 2026<b>Source:</b> Earth-Science ReviewsAuthor(s): Yuhao Chen, Xing Jian, Pan Wang, Haowei Mei, Ling Wang, Hanjing Fu",
+    "source": "ScienceDirect Publication: Earth-Science Reviews",
+    "date": "2026-09-22",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012821X26005327",
+    "title": "A rapid cooling stage in Earth’s thermal history driven by the onset of plate tectonics",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012821X26005327?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: 1 December 2026<b>Source:</b> Earth and Planetary Science Letters, Volume 695Author(s): Jia-Le Mou, Cin-Ty Lee",
+    "source": "ScienceDirect Publication: Earth and Planetary Science Letters",
+    "date": "2026-09-22",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL123424",
+    "title": "Future Redistribution of North Atlantic Tropical Cyclone Risk in Two Contrasting CMIP6 Scenarios",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL123424?af=R",
+    "authors": [
+      "Ratnaksha Lele, \nAdam H. Sobel, \nChia‐Ying Lee, \nSuzana J. Camargo, \nMichael K. Tippett, \nPatrick Kelly, \nTed Amdur, \nRadovan Drinka"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 18, 28 September 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-09-20",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026JB033983",
+    "title": "Theoretical Constraints on Tidal Triggering of Slow Earthquakes",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026JB033983?af=R",
+    "authors": [
+      "Yishuo Zhou, \nAnkit Gupta, \nHideo Aochi, \nAlexandre Schubnel, \nSatoshi Ide, \nPierpaolo Dubernet, \nHarsha S. Bhat"
+    ],
+    "summary": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 9, September 2026.",
+    "source": "Wiley: Journal of Geophysical Research: Solid Earth: Table of Contents",
+    "date": "2026-09-20",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026JB035256",
+    "title": "Phase E: Modulator for Water Distribution and Seismic Low‐Velocity Layers Near 410 km",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026JB035256?af=R",
+    "authors": [
+      "Baocun Wang, \nNao Cai, \nDuojun Wang, \nRui Zhang, \nJunsheng Ma, \nYinan Sun, \nPeng Chen, \nSho Kakizawa, \nNoriyoshi Tsujino, \nYuji Higo"
+    ],
+    "summary": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 9, September 2026.",
+    "source": "Wiley: Journal of Geophysical Research: Solid Earth: Table of Contents",
+    "date": "2026-09-20",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025JB032101",
+    "title": "Shear Wave Velocity Assessment Offshore Fukushima by Analysis of HVSR From Coda Waves",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JB032101?af=R",
+    "authors": [
+      "A. H. Farazi, \nY. Ito, \nA. M. Lontsi, \nJ. Piña‐Flores, \nF. J. Sánchez‐Sesma, \nE. S. M. Garcia, \nM. Shinohara, \nR. Hino, \nS. Ohyanagi"
+    ],
+    "summary": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 9, September 2026.",
+    "source": "Wiley: Journal of Geophysical Research: Solid Earth: Table of Contents",
+    "date": "2026-09-20",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S001670372600596X",
+    "title": "Temperature-dependent Fe(II) thresholds for magnetite formation during Fe(II)-catalyzed ferrihydrite transformation",
+    "link": "https://www.sciencedirect.com/science/article/pii/S001670372600596X?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 21 September 2026<b>Source:</b> Geochimica et Cosmochimica ActaAuthor(s): Jiahao Chen, Anhuai Lu, Yuefei Ding, Qishun Sun, Liao Chang, Anxu Sheng, Yurong Deng, Shan Huang, Yongheng Jiang, Yoshio Takahashe, Xinglan Cui, Liuqin Huang, Juan Liu",
+    "source": "ScienceDirect Publication: Geochimica et Cosmochimica Acta",
+    "date": "2026-09-22",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0016703726006010",
+    "title": "Metal complexions in growth-related crystal defects in pyrite",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0016703726006010?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 20 September 2026<b>Source:</b> Geochimica et Cosmochimica ActaAuthor(s): Lin Yang, Qingfei Wang, Denis Fougerouse, Steven M. Reddy, Huajian Li, Kunfeng Qiu, Qihai Shu, William D.A. Rickard, Yiwei Song, Paul Guagliardo, David W. Saxey, Chaoyi Dong, Yushan Zeng, Xiao Sun, Jun Deng",
+    "source": "ScienceDirect Publication: Geochimica et Cosmochimica Acta",
+    "date": "2026-09-22",
+    "sent": true
+  },
+  {
+    "id": "http://doi.org/10.1093/nsr/nwag605",
+    "title": "HapTWAS: a haplotype-resolved transcriptome-wide association study framework",
+    "link": "https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwag605/8824256?rss=1",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\"><div class=\"boxTitle\">Abstract</div>Transcriptome-wide association studies (TWAS) link genetic loci to gene regulation, yet traditional SNP-based models overlook the concerted action of inter-variants and fragment <span style=\"font-style: italic;\">cis</span>-regulatory signals. We present HapTWAS, a haplotype-resolved transcriptome-wide association study framework, that models genetically regulated expression employing haplotypes and supports both individual-level and summary-statistic inputs. Leveraging multi-species FarmGTEx resources, HapTWAS constructs tissue-specific haplotype prediction models and provides a user-friendly server, achieving superior gene expression prediction and gene-trait association with fine-mapping. In balanced simulations, HapTWAS improved expression prediction accuracy by 17.50% (from 0.080 to 0.094) and gene-identified F1-score by 9.02% (from 0.399 to 0.435) while maintaining lower false discovery rate. Applied to six complex traits across four species, HapTWAS detected 20.64% additional genes and prioritized biologically meaningful candidates missed by SNP-based approaches. Our perturbation experiment confirmed <span style=\"font-style: italic;\">MRPL45</span> as a regulator of porcine skeletal muscle cell proliferation. HapTWAS provides a scalable haplotype‑based strategy that directly encodes linkage phase and local LD into the predictor space, accelerating candidate gene discovery and delivering insights into human health and animal production.</span>",
+    "source": "National Science Review Advance Access",
+    "date": "2026-09-21",
+    "sent": true
+  },
+  {
     "id": "https://www.nature.com/articles/d41586-026-02984-6",
     "title": "Briefing Chat: Evidence mounts for hidden chambers beyond Tutankhamun's tomb",
     "link": "https://www.nature.com/articles/d41586-026-02984-6",
