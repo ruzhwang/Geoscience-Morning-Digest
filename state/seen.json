@@ -1,5 +1,540 @@
 [
   {
+    "id": "https://www.nature.com/articles/s41467-026-77967-2",
+    "title": "Efficient transport kinetics of indirect excitons in van der Waals heterostructure",
+    "link": "https://www.nature.com/articles/s41467-026-77967-2",
+    "authors": [
+      "Zhiwen Zhou",
+      "W. J. Brunner",
+      "E. A. Szwed",
+      "H. Henstridge",
+      "L. H. Fowler-Gerace",
+      "L. V. Butov"
+    ],
+    "summary": "Nature Communications, Published online: 26 September 2026; <a href=\"https://www.nature.com/articles/s41467-026-77967-2\">doi:10.1038/s41467-026-77967-2</a>Here, the authors investigate the transport kinetics of indirect excitons (IXs) in a MoSe2/WSe2 van der Waals heterostructure, and observe anomalously high IX mobility, consistent with IX superfluidity.",
+    "source": "Nature Communications",
+    "date": "2026-09-26",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-77965-4",
+    "title": "Manipulation of ferromagnetism with a light-driven nonlinear Edelstein-Zeeman field",
+    "link": "https://www.nature.com/articles/s41467-026-77965-4",
+    "authors": [
+      "Yinchuan Lv",
+      "W. Joe Meese",
+      "Azel Murzabekova",
+      "Jennifer Freedberg",
+      "Changjun Lee",
+      "Yiming Sun",
+      "Joshua Wakefield",
+      "Takashi Kurumaji",
+      "Joseph Checkelsky",
+      "Fahad Mahmood"
+    ],
+    "summary": "Nature Communications, Published online: 26 September 2026; <a href=\"https://www.nature.com/articles/s41467-026-77965-4\">doi:10.1038/s41467-026-77965-4</a>Ultrafast non-thermal control of magnetism is a major goal of spintronics, however, in centrosymmetric materials, symmetry typically forbids direct control via electric fields. Here, Lv, Meese and coauthors use the non-linear Edelstein effect to create a non-equilibrium magnetic density in the van der Waals magnetic semiconductor Cr2Ge2Te6.",
+    "source": "Nature Communications",
+    "date": "2026-09-26",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-77197-6",
+    "title": "Global spatiotemporal dynamics of mortality from carbapenem-resistant Gram-negative infections over the past three decades",
+    "link": "https://www.nature.com/articles/s41467-026-77197-6",
+    "authors": [
+      "Zhihui Chen",
+      "Mingchen Zhong",
+      "Jing Wu",
+      "Xiangru Ye",
+      "Zhonghua Li",
+      "Jing Wang",
+      "Yueru Tian",
+      "Shirong Li",
+      "Lei Zhou",
+      "Jie Ni",
+      "Jialin Jin",
+      "Wenhong Zhang"
+    ],
+    "summary": "Nature Communications, Published online: 26 September 2026; <a href=\"https://www.nature.com/articles/s41467-026-77197-6\">doi:10.1038/s41467-026-77197-6</a>Long-term mortality from carbapenem-resistant Gram-negative infections is poorly characterised worldwide. Here, authors analyse data from 204 countries and territories, revealing divergent trajectories by region, pathogen, and pandemic period.",
+    "source": "Nature Communications",
+    "date": "2026-09-26",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-78046-2",
+    "title": "Branched-type nanocluster-junction fluorofluidic-gels for interface-adaptive thermal conduction and mechanical resistance",
+    "link": "https://www.nature.com/articles/s41467-026-78046-2",
+    "authors": [
+      "Weiming Tang",
+      "Hangsheng Zhou",
+      "Hanyu Wang",
+      "Xingyue Zhu",
+      "Lei Jiang",
+      "Ziguang Zhao",
+      "Shutao Wang"
+    ],
+    "summary": "Nature Communications, Published online: 26 September 2026; <a href=\"https://www.nature.com/articles/s41467-026-78046-2\">doi:10.1038/s41467-026-78046-2</a>‘Conventional thermal interface materials often suffer from a certain degree of mismatch between their thermal conductivity and contact thermal resistance. Here the authors develop a thermal interface fluorofluidic-gel with a branched-type nanocluster-junction network exhibiting high thermal conductivity and low contact thermal resistance.",
+    "source": "Nature Communications",
+    "date": "2026-09-26",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-78079-7",
+    "title": "<i>Alteromonas macleodii</i> breaches the diatom frustule triggering protoplast emergence and programmed necrosis-like death in <i>Thalassiosira rotula</i>",
+    "link": "https://www.nature.com/articles/s41467-026-78079-7",
+    "authors": [
+      "Isobel Short",
+      "Clara Martínez-Pérez",
+      "Samuel Miravet-Verde",
+      "Shinichi Sunagawa",
+      "Roman Stocker",
+      "Uria Alcolombri"
+    ],
+    "summary": "Nature Communications, Published online: 26 September 2026; <a href=\"https://www.nature.com/articles/s41467-026-78079-7\">doi:10.1038/s41467-026-78079-7</a>In this study, the authors show that the marine bacterium Alteromonas macleodii exploits the diatom Thalassiosira rotula by triggering programmed necrosis-like cell death. By forcing cells out of their silica shells and lysing them, this interaction may affect ocean carbon cycling.",
+    "source": "Nature Communications",
+    "date": "2026-09-26",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-77487-z",
+    "title": "Microglia regulate nucleus accumbens synaptic development and circuit function underlying threat avoidance behaviors in mice",
+    "link": "https://www.nature.com/articles/s41467-026-77487-z",
+    "authors": [
+      "Michael W. Gongwer",
+      "Fanny Etienne",
+      "Eric N. Moca",
+      "Sara V. Blagburn-Blanco",
+      "Megan S. Chappell",
+      "Keionna A. Newton",
+      "Daniel T. Gray",
+      "Jack P. Riley",
+      "Chloe R. Christensen",
+      "Russell N. Ahmed",
+      "Alexander S. Enos",
+      "Melody Haratian",
+      "Alex Qi",
+      "Rocio Rojo",
+      "Scott A. Wilke",
+      "Clare Pridans",
+      "Laura A. DeNardo",
+      "Lindsay M. De Biase"
+    ],
+    "summary": "Nature Communications, Published online: 26 September 2026; <a href=\"https://www.nature.com/articles/s41467-026-77487-z\">doi:10.1038/s41467-026-77487-z</a>Microglial synapse removal has been heavily studied. Here, the authors reveal roles for microglia in synapse formation by showing that absence of nucleus accumbens microglia during development reduces synapse number and alters avoidance behaviors.",
+    "source": "Nature Communications",
+    "date": "2026-09-26",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-78058-y",
+    "title": "PARP10 condensation inhibits viral replication via targeting NAD<sup>+</sup> homeostasis",
+    "link": "https://www.nature.com/articles/s41467-026-78058-y",
+    "authors": [
+      "Xiaoxin Chen",
+      "Qi Xu",
+      "Yi Liu",
+      "Zhenshuo Zhu",
+      "Ziqiu Wang",
+      "Yun Zhang",
+      "Ziru Li",
+      "Yunan Mao",
+      "Chenmiao Ai",
+      "Qi Chen",
+      "Le Tian",
+      "Zhiying Yao",
+      "Youngdae Gwon",
+      "Zhubing Shi",
+      "Peiguo Yang"
+    ],
+    "summary": "Nature Communications, Published online: 26 September 2026; <a href=\"https://www.nature.com/articles/s41467-026-78058-y\">doi:10.1038/s41467-026-78058-y</a>While specific antiviral mechanisms of certain ADP-ribosyltransferases remain unclear, this study uses vesicular stomatitis virus to reveal that PARP10 forms condensates to amplify enzyme activity. This in turn decreases local NAD+ levels to block viral replication.",
+    "source": "Nature Communications",
+    "date": "2026-09-26",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-78077-9",
+    "title": "Early insights into predicted efficacy of Ebola monoclonal antibodies for the 2026 Bundibugyo virus disease outbreak",
+    "link": "https://www.nature.com/articles/s41467-026-78077-9",
+    "authors": [
+      "Kevin Cissy Nabukeera",
+      "Gradi Luakanda-Ndelemo",
+      "Syrus Semawule",
+      "Alisen Ayitewala",
+      "Pascal Adroba-Tandele",
+      "Andrew Walakira",
+      "Adrienne Amuri-Aziza",
+      "Daan Jansen",
+      "Ronald Galiwango",
+      "Eddy Kinganda-Lusamaki",
+      "Andrew Tebba",
+      "Christian Ngandu",
+      "Aloysious Ssemaganda",
+      "Olivier Tshiani-Mbaya",
+      "Stephen Kanyerezi",
+      "Judith Kyokushaba",
+      "Prince Akil-Bandali",
+      "Carol Makoha",
+      "Hellen Rosette Oundo",
+      "Servet Kimbonza",
+      "Stephen Balinandi",
+      "Daniel Mukadi-Bamuleka",
+      "Valeria Nakintu",
+      "Justus Nsio",
+      "Ibrahimm Mugerwa",
+      "Daniel Kadobera",
+      "Daniel Euriene",
+      "Sabue Mulangu",
+      "Ahidjo Ayouba",
+      "Micheal Eliu",
+      "Sam Gidudu",
+      "Henry Kyobe Bosa",
+      "Misaki Wayengera",
+      "Anne W. Rimoin",
+      "Benard Lubwama",
+      "Atek Kagirita",
+      "Steve Ahuka-Mundeke",
+      "Dieudonné Mwamba",
+      "Andrew Kambugu",
+      "Pontiano Kaleebu",
+      "Christian Happi",
+      "Laurens Liesenborghs",
+      "Miles W. Carroll",
+      "Piet Maes",
+      "Jean B. Nachega",
+      "Martine Peeters",
+      "Pierre Akilimali",
+      "Ronnie Bahatungire",
+      "Allan Muruta",
+      "Jason Kindrachuk",
+      "Andrew Rambaut",
+      "Daniel Kyabayinze",
+      "Charles Olaro",
+      "Koen Vercauteren",
+      "Jean-Jacques Muyembe-Tamfum",
+      "Susan Nabadda",
+      "Diana Atwine",
+      "Daudi Jjingo",
+      "Tony Wawina-Bokalanga",
+      "Placide Mbala-Kingebeni",
+      "Isaac Ssewanyana"
+    ],
+    "summary": "Nature Communications, Published online: 26 September 2026; <a href=\"https://www.nature.com/articles/s41467-026-78077-9\">doi:10.1038/s41467-026-78077-9</a>Rapid predictive methods narrow the solution space in an outbreak setting. In this computational study, the authors find that cocktail treatments for Ebola Zaire could be more effective than monotherapies against the 2026 Bundibugyo strain.",
+    "source": "Nature Communications",
+    "date": "2026-09-26",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-026-04098-3",
+    "title": "Government support drives agroforestry adoption and tree cultivation in smallholder farming systems",
+    "link": "https://www.nature.com/articles/s43247-026-04098-3",
+    "authors": [
+      "Chandan Singha",
+      "Helena Cardenas-Diaz",
+      "Zhixian Luo",
+      "Sanjana Anand",
+      "Jeffrey R. Vincent",
+      "Priya Shyamsundar"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 26 September 2026; <a href=\"https://www.nature.com/articles/s43247-026-04098-3\">doi:10.1038/s43247-026-04098-3</a>Participation in government-supported agroforestry programs increases commercial tree cultivation in Madhya Pradesh, whereas awareness alone has little effect, based on surveys of 870 farm households across 59 villages integrated with geospatial data.",
+    "source": "Communications Earth & Environment",
+    "date": "2026-09-26",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-026-04075-w",
+    "title": "Anthropogenic warming is projected to divert atmospheric rivers toward densely populated Asia",
+    "link": "https://www.nature.com/articles/s43247-026-04075-w",
+    "authors": [
+      "Ju Liang",
+      "Mat Collins",
+      "Zhihua Pan",
+      "Xuejuan Ren",
+      "Xichen Li",
+      "Jing Wang",
+      "Xuebiao Pan",
+      "Binxiang Huang",
+      "Qijin He",
+      "Buju Long",
+      "Wanlin Dong",
+      "Guanyuan Ma"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 26 September 2026; <a href=\"https://www.nature.com/articles/s43247-026-04075-w\">doi:10.1038/s43247-026-04075-w</a>Thermodynamic enhancement of atmospheric rivers (ARs) is projected to dominate subtropical and midlatitude regions, resulting in increased extreme precipitation in Asian urban areas, according to a study integrating a large ensemble of high-resolution global climate models for AR projections.",
+    "source": "Communications Earth & Environment",
+    "date": "2026-09-26",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-026-04067-w",
+    "title": "Groundwater regulates the spatial pattern of photosynthesis in the contiguous United States",
+    "link": "https://www.nature.com/articles/s43247-026-04067-w",
+    "authors": [
+      "Francesco Giardina",
+      "Jiangong Liu",
+      "Sonia I. Seneviratne",
+      "Benjamin D. Stocker",
+      "Pierre Gentine"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 26 September 2026; <a href=\"https://www.nature.com/articles/s43247-026-04067-w\">doi:10.1038/s43247-026-04067-w</a>Groundwater, represented by water table depth, plays a critical role in shaping spatial patterns of photosynthesis across the United States, with effects comparable to aridity, according to a study that integrates satellite solar-induced fluorescence, water table depth estimates, and explainable machine learning.",
+    "source": "Communications Earth & Environment",
+    "date": "2026-09-26",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012825226003090",
+    "title": "Interferometric SAR for monitoring the Arctic cryosphere: Progress, challenges, and perspectives",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012825226003090?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 25 September 2026<b>Source:</b> Earth-Science ReviewsAuthor(s): Jinbiao Zhao, Tonghua Wu, Peiqing Lou, Xiaodong Wu, Junming Hao, Dong Wang, Jie Chen, Ren Li, Amin Wen, Xin Ma, Xingchen Lin, Yong Zhang, Junqiang Bai",
+    "source": "ScienceDirect Publication: Earth-Science Reviews",
+    "date": "2026-09-27",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012821X26005479",
+    "title": "Bimodal double-frequency microseisms beneath Arctic sea ice: The role of sediment modulation",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012821X26005479?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: 1 December 2026<b>Source:</b> Earth and Planetary Science Letters, Volume 695Author(s): Zhangju Liu, Jiabiao Li, Fansheng Kong, Xiongwei Niu, Tao Zhang, Zhiteng Yu, Zhezhe Lu, Yongfa Zhang, Jianmin Lin, Weiwei Ding",
+    "source": "ScienceDirect Publication: Earth and Planetary Science Letters",
+    "date": "2026-09-27",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012821X26005510",
+    "title": "Apatite sulfur signatures reveal melt–fluid remiscibility at low temperature in felsic systems",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012821X26005510?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: 1 December 2026<b>Source:</b> Earth and Planetary Science Letters, Volume 695Author(s): Thomas Grocolas, Nordine Bouden, Emilie Bruand, Othmar Müntener",
+    "source": "ScienceDirect Publication: Earth and Planetary Science Letters",
+    "date": "2026-09-27",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL125138",
+    "title": "Phytoplankton Size Structure Controls the Bio‐Optical Anomaly of Antarctic Waters",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL125138?af=R",
+    "authors": [
+      "Xuerong Sun, \nRobert J. W. Brewin, \nGiorgio Dall’Olmo, \nJaime Pitarch, \nThomas G. Bell, \nBethany Wilkinson, \nDionysios E. Raitsos, \nHendrik Jan van der Woerd, \nShubha Sathyendranath"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 18, 28 September 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-09-25",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL122766",
+    "title": "Systematic Overestimation of Global Peak Runoff Synchronization in CMIP6 Models",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL122766?af=R",
+    "authors": [
+      "Yixin Yang, \nGabriele Villarini, \nLong Yang"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 18, 28 September 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-09-25",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL120974",
+    "title": "Simulation of Coastal El Niño Events in CMIP6 Models and Its Relationship to Mean‐State and ENSO Biases",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL120974?af=R",
+    "authors": [
+      "G. A. Rivera Tello, \nC. Karamperidou"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 18, 28 September 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-09-25",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL122757",
+    "title": "Fault Slip Reversals Preceded the Intraplate 2021 Earthquake Series in the Vienna Basin (Central Europe)",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL122757?af=R",
+    "authors": [
+      "I. Baroň, \nJ. Jelének, \nM. Rowberry, \nR. Melichar, \nM. del Puy Papí‐Isaba, \nR. Schultz, \nJ. Balek, \nJ. Stemberk, \nĽ. Sokol, \nH. Hausmann, \nL. Plan, \nG. Winkler, \nB. Grasemann, \nR. Bürgmann"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 18, 28 September 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-09-25",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL123445",
+    "title": "Cross‐Scale Energy Transfer and Scale‐to‐Scale Energy Conversion During the Collisionless Magnetic Reconnection",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL123445?af=R",
+    "authors": [
+      "Yongyuan Yi, \nMeng Zhou, \nRunqing Jin, \nZhihong Zhong, \nLiangjin Song, \nYe Pang, \nXiaohua Deng"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 18, 28 September 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-09-25",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL125625",
+    "title": "Decreasing Translation Speed of Rapid Expansion Tropical Cyclones Over the Western North Pacific",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL125625?af=R",
+    "authors": [
+      "Huilin Li, \nXiaodong Tang"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 18, 28 September 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-09-25",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL125037",
+    "title": "Global Characterization of Precipitation Peaks in the Seasonal Cycle",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL125037?af=R",
+    "authors": [
+      "Zijie Zhao, \nYueyang Lu, \nAndréa S. Taschetto"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 18, 28 September 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-09-25",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026JB034841",
+    "title": "Resolving Sub‐Kilometer Cascading Ruptures of Moderate Earthquakes With Distributed Acoustic Sensing",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026JB034841?af=R",
+    "authors": [
+      "Hao Zhang, \nZhongwen Zhan"
+    ],
+    "summary": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 9, September 2026.",
+    "source": "Wiley: Journal of Geophysical Research: Solid Earth: Table of Contents",
+    "date": "2026-09-25",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025JB033615",
+    "title": "Source Effects in Higher‐Order Ambient Seismic Field Correlations",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JB033615?af=R",
+    "authors": [
+      "Sven Schippkus, \nGregor Hillers, \nCéline Hadziioannou"
+    ],
+    "summary": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 9, September 2026.",
+    "source": "Wiley: Journal of Geophysical Research: Solid Earth: Table of Contents",
+    "date": "2026-09-25",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026JB034460",
+    "title": "P‐T‐H2O Dependence on Structure and Transport Properties in Supercritical SiO2‐H2O Fluids",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026JB034460?af=R",
+    "authors": [
+      "Yifan Lu, \nYicheng Sun, \nKai Wang, \nYingchun Zhang, \nGuo‐Guang Wang, \nXiancai Lu"
+    ],
+    "summary": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 9, September 2026.",
+    "source": "Wiley: Journal of Geophysical Research: Solid Earth: Table of Contents",
+    "date": "2026-09-25",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0016703726006113",
+    "title": "Time-resolved Mo isotopes track source evolution from recycled slab components to a coherent OIB-type mantle source",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0016703726006113?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 25 September 2026<b>Source:</b> Geochimica et Cosmochimica ActaAuthor(s): Dongjing Xu, Xiu-Zheng Zhang, Yue Qi, Jie Li, Bing Chen, Pei-Na Guo, Tao Du, Qiang Wang",
+    "source": "ScienceDirect Publication: Geochimica et Cosmochimica Acta",
+    "date": "2026-09-27",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0016703726006101",
+    "title": "Small sulfur isotope fractionations by environmentally relevant sulfur oxidizers under oligotrophic conditions",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0016703726006101?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 25 September 2026<b>Source:</b> Geochimica et Cosmochimica ActaAuthor(s): Daniela Osorio-Rodriguez, Thomas E. Hanson, Douglas E. LaRowe, Victoria J. Orphan, Alex L. Sessions, Jess F. Adkins",
+    "source": "ScienceDirect Publication: Geochimica et Cosmochimica Acta",
+    "date": "2026-09-27",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0016703726006022",
+    "title": "Secular evolution of marine carbonate <math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\" id=\"d1e763\" altimg=\"si32.svg\" class=\"math\"><mrow><msup><mrow><mi>δ</mi></mrow><mrow><mn>66</mn></mrow></msup><mi mathvariant=\"normal\">Zn</mi></mrow></math> and its implications for nutrient cycling through time",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0016703726006022?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 25 September 2026<b>Source:</b> Geochimica et Cosmochimica ActaAuthor(s): Francis Albarède, Janne Blichert-Toft, Kurt O. Konhauser, Andrew H. Knoll, Marine Pinto, Aline Lamboux, Harilaos Tsikos, Gilles Dromart",
+    "source": "ScienceDirect Publication: Geochimica et Cosmochimica Acta",
+    "date": "2026-09-27",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0016703726006095",
+    "title": "Ca-Sr isotope constraints on riverine Ca cycling under anthropogenic perturbations: insights from a tributary of Lower Mekong",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0016703726006095?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 25 September 2026<b>Source:</b> Geochimica et Cosmochimica ActaAuthor(s): Shitong Zhang, Guilin Han, Xi Gao",
+    "source": "ScienceDirect Publication: Geochimica et Cosmochimica Acta",
+    "date": "2026-09-27",
+    "sent": true
+  },
+  {
+    "id": "https://pubs.geoscienceworld.org/gsa/gsabulletin/article/doi/10.1130/B39118.1/786083/Tectono-magmatic-volatile-coupling-in",
+    "title": "Tectono-magmatic–volatile coupling in postcollisional giant porphyry Cu formation: Evidence from slab tearing and mantle inputs at Qulong, Tibet",
+    "link": "https://pubs.geoscienceworld.org/gsa/gsabulletin/article/doi/10.1130/B39118.1/786083/Tectono-magmatic-volatile-coupling-in",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\">The origin of postcollisional porphyry copper deposits (PCDs) within thickened crust remains debated, particularly regarding the coupling between tectono-magmatic–volatile evolution and ore formation. At Qulong, Tibet, new geochemical and isotopic data across four Miocene intrusive phases define a magmatic transition from juvenile crustal to mantle-influenced sources. Pre-ore biotite monzogranite (17.4 ± 0.2 Ma) is derived from juvenile lower crust with depleted Sr-Nd-Hf isotopes and negative ∆<sup>199</sup>Hg. Syn-ore monzonitic granite porphyry (17.6 ± 0.3 Ma) shares crustal isotopes but shows positive ∆<sup>199</sup>Hg, implying volatile influx from metasomatized mantle. Intermediate granodiorite porphyry (15.3 ± 0.1 Ma) exhibits transitional isotopic traits and rare earth element patterns, reflecting crust–mantle hybridization. Post-ore diorite porphyry (14.6 ± 0.1 Ma and 14.7 ± 0.1 Ma) displays mantle affinities, positive ∆<sup>199</sup>Hg, and enriched Sr-Nd-Hf signatures, indicating metasomatized lithospheric mantle melting. Across the sequence toward the young rocks with mantle signatures, decreasing Sr/Y ratios and increasing zircon saturation temperatures record a shift from amphibole- to plagioclase-dominated fractionation. High magmatic oxygen fugacity (fO<sub>2</sub>) and H<sub>2</sub>O contents and near-zero ∆<sup>199</sup>Hg values in magnetite and chalcopyrite point to oxidized, H<sub>2</sub>O-rich mantle-derived magmas as key metal carriers. Geophysical and isotopic data links reveal that the locations and fertility of the Miocene porphyry deposits, including the deposit at Qulong, were controlled by focused mantle-derived inputs facilitated by tearing of the subducting Indian continental slab. This tearing, particularly along structures such as the Yadong–Gulu rift corridor, provided vertical zones of weakness for asthenospheric upwelling within the broader context of continued Indian continental subduction. This explains the northward younging of ore centers (Qulong → Jiama → Bangpu). We propose that the formation of postcollisional PCDs in this region required (1) slab tearing during the sustained subduction of the Indian continental plate-triggered mantle upwelling, which provided the necessary heat for crustal melting and the generation of crustal-derived magmas; (2) syn-mineralization interaction between crustal melts and mantle-derived volatiles and metals; (3) tectonic transition from compression to extension facilitating underplating; and (4) slab-tear-induced mantle flow sustaining high fO<sub>2</sub> and volatile flux. This model provides a conceptual framework integrating magmatism, metal sources, and geodynamics in collisional orogens with specific relevance to settings affected by slab tearing and substantial mantle uplift, as exemplified by Tibet.</span>",
+    "source": "GSA Bulletin Advance Access",
+    "date": "2026-09-25",
+    "sent": true
+  },
+  {
+    "id": "https://pubs.geoscienceworld.org/gsa/gsabulletin/article/doi/10.1130/B39438.1/786082/Formation-of-Paleoarchean-continental-nuclei",
+    "title": "Formation of Paleoarchean continental nuclei during a tectonic transition from plateau to delamination: Evidence from the Barberton granitoid-greenstone terrane, South Africa",
+    "link": "https://pubs.geoscienceworld.org/gsa/gsabulletin/article/doi/10.1130/B39438.1/786082/Formation-of-Paleoarchean-continental-nuclei",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\">Whether Earth’s earliest continental nuclei formed in subduction-related (plate tectonics) or thick, plateau-like (not related to plate tectonics) regimes remains controversial. Resolving this debate hinges on elucidating the petrogenesis of the earliest tonalite-trondhjemite-granodiorite (TTG) suites, specifically the nature of their basaltic sources and physico-chemical conditions (pressure-temperature) during partial melting. Here, we investigated the Paleoarchean Steynsdorp Complex—the oldest TTG complex in South Africa’s Barberton granitoid-greenstone terrane (BGGT). Zircon U-Pb dating confirms the main magmatic phase at ca. 3.51 Ga and identifies a previously unrecognized ca. 3.22 Ga magmatic episode within the same complex. Thermodynamic modeling indicates that both the TTG phases were derived from partial melting of hydrous basaltic sources but at distinct pressures: 1.1–1.3 GPa for the ca. 3.51 Ga phase and 0.9–1.1 GPa for the ca. 3.22 Ga phase. Isotopically, the ca. 3.51 Ga TTGs yield mantle-like δ<sup>18</sup>O and ε<sub>Hf</sub>(t) values tracking a ca. 3.7–3.55 Ga source and reflecting melting within a thickened mafic plateau. In contrast, the ca. 3.22 Ga TTGs exhibit a distinct decoupled isotopic signature characterized by elevated δ<sup>18</sup>O (up to 7.0‰) and highly positive ε<sub>Hf</sub>(t) values (up to +5). Combined with elevated Mg# and Cr concentrations, these geochemical characteristics indicate that the ca. 3.22 Ga magmatism resulted from subduction-driven tectonic thickening followed by lower crustal delamination, which induced asthenospheric upwelling and subsequent hybridization of juvenile mantle-derived melts with supracrustal-derived melts. Our results suggest a fundamental transition from stable plateau growth at ca. 3.51 Ga to a dynamic subduction-delamination regime at ca. 3.22 Ga, which may ultimately drive the formation and stabilization of the BGGT continental nuclei.</span>",
+    "source": "GSA Bulletin Advance Access",
+    "date": "2026-09-25",
+    "sent": true
+  },
+  {
+    "id": "http://doi.org/10.1093/nsr/nwag617",
+    "title": "Introgressive hybridization fuels local adaptation in oakleaf butterflies",
+    "link": "https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwag617/8836580?rss=1",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\"><div class=\"boxTitle\">Abstract</div>Hybridization may have multiple impacts on speciation and adaptation. Yet the evidence of adaptive introgression events that have historically occurred between nonradiating or established species is still lacking. The oakleaf butterflies in the genus <span style=\"font-style: italic;\">Kallima</span> include multiple sympatric and incipient species with a known history of diversification and therefore serve as a useful system for addressing historical introgression and adaptation. By integrating population genomics, phylogenomics, CRISPR/Cas9 genome editing and de novo genome assembly, we disentangled the genome-wide pattern of admixture among multiple <span style=\"font-style: italic;\">Kallima</span> species and used the putative introgressed gene <span style=\"font-style: italic;\">pale</span> as an example to reveal its role in scale pigmentation, structure and potentially in sexual dimorphism. We further demonstrated the complex evolutionary history of the Z chromosome largely owing to historical introgression. Our study revealed genome-wide introgression that has historically occurred during butterfly dispersal and differentiation, facilitating the understanding of interspecific relationships and potential local adaptation during gradual evolution.</span>",
+    "source": "National Science Review Advance Access",
+    "date": "2026-09-26",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025TC009341",
+    "title": "Thermal Inheritance Controls Necking Patterns of a Marginal Rift: Insight From the Qiongdongnan Basin, Northern South China Sea",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025TC009341?af=R",
+    "authors": [
+      "Yunlong Wang, \nHongdan Deng, \nHongyi Li, \nClaudio Alejandro Salazar‐Mora, \nHanlin Chen, \nFengqi Zhang, \nFang Dong, \nYiyang Hu, \nHanqiao Zheng"
+    ],
+    "summary": "Tectonics, Volume 45, Issue 9, September 2026.",
+    "source": "Wiley: Tectonics: Table of Contents",
+    "date": "2026-09-25",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026TC009618",
+    "title": "Initiation, Growth, and Contractional Deformation of Minibasins in a Salt‐Bearing Inverted Atlantic‐Type Rifted Margin: The Cotiella Massif (Southern Pyrenees)",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026TC009618?af=R",
+    "authors": [
+      "M. Estiarte‐Ruiz, \nP. Santolaria, \nJ. A. Muñoz, \nO. Ferrer"
+    ],
+    "summary": "Tectonics, Volume 45, Issue 9, September 2026.",
+    "source": "Wiley: Tectonics: Table of Contents",
+    "date": "2026-09-25",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025TC009229",
+    "title": "Reconstructing Along‐Strike Variability of Retreating Accretionary Margins Using Detrital Isotopic Proxies in Patagonia and Japan",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025TC009229?af=R",
+    "authors": [
+      "F. M. Rey, \nM. A. Malkowski, \nH. Masago, \nE. M. Launderville"
+    ],
+    "summary": "Tectonics, Volume 45, Issue 9, September 2026.",
+    "source": "Wiley: Tectonics: Table of Contents",
+    "date": "2026-09-25",
+    "sent": true
+  },
+  {
     "id": "https://www.nature.com/articles/d41586-026-03041-y",
     "title": "Briefing Chat: Why scientists made papyrus scrolls, then burnt them",
     "link": "https://www.nature.com/articles/d41586-026-03041-y",
