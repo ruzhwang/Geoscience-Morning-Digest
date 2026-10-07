@@ -1,5 +1,791 @@
 [
   {
+    "id": "https://www.nature.com/articles/s41586-026-11244-6",
+    "title": "Author Correction: Anodic Pd membrane H<sub>2</sub> extraction enhances thermochemical dehydrogenation",
+    "link": "https://www.nature.com/articles/s41586-026-11244-6",
+    "authors": [
+      "Rui Zeng",
+      "Julian Ufert",
+      "Bryan Y. Tang",
+      "Ryan P. Bisbey",
+      "Yogesh Surendranath"
+    ],
+    "summary": "Nature, Published online: 06 October 2026; <a href=\"https://www.nature.com/articles/s41586-026-11244-6\">doi:10.1038/s41586-026-11244-6</a>Author Correction: Anodic Pd membrane H<sub>2</sub> extraction enhances thermochemical dehydrogenation",
+    "source": "Nature",
+    "date": "2026-10-06",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-03176-y",
+    "title": "Maintaining global science collaboration during conflict requires fairer rules",
+    "link": "https://www.nature.com/articles/d41586-026-03176-y",
+    "authors": [
+      "Emmanuel Chidiebere Edeh",
+      "Ehizuelen Michael Mitchell Omoruyi"
+    ],
+    "summary": "Nature, Published online: 06 October 2026; <a href=\"https://www.nature.com/articles/d41586-026-03176-y\">doi:10.1038/d41586-026-03176-y</a>Maintaining global science collaboration during conflict requires fairer rules",
+    "source": "Nature",
+    "date": "2026-10-06",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-03155-3",
+    "title": "The Solar System could die one billion times earlier than thought",
+    "link": "https://www.nature.com/articles/d41586-026-03155-3",
+    "authors": [],
+    "summary": "Nature, Published online: 06 October 2026; <a href=\"https://www.nature.com/articles/d41586-026-03155-3\">doi:10.1038/d41586-026-03155-3</a>Modelling suggests that the planets’ orbits will become destabilized inside one billion years once the Sun starts to shed mass.",
+    "source": "Nature",
+    "date": "2026-10-06",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-03174-0",
+    "title": "The Great Barrier Reef requires special attention in the developing super El Niño",
+    "link": "https://www.nature.com/articles/d41586-026-03174-0",
+    "authors": [
+      "Awais Shakoor"
+    ],
+    "summary": "Nature, Published online: 06 October 2026; <a href=\"https://www.nature.com/articles/d41586-026-03174-0\">doi:10.1038/d41586-026-03174-0</a>The Great Barrier Reef requires special attention in the developing super El Niño",
+    "source": "Nature",
+    "date": "2026-10-06",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-02973-9",
+    "title": "Scientists take a radiometer for a spin in a hot-air balloon",
+    "link": "https://www.nature.com/articles/d41586-026-02973-9",
+    "authors": [],
+    "summary": "Nature, Published online: 06 October 2026; <a href=\"https://www.nature.com/articles/d41586-026-02973-9\">doi:10.1038/d41586-026-02973-9</a>A satisfying congruence between genetics and cell-biology findings, and experiments at altitude with a rotating device that measures radiant energy, in this week’s peek at Nature’s archive.",
+    "source": "Nature",
+    "date": "2026-10-06",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-03177-x",
+    "title": "Preprints must not leak sensitive research information",
+    "link": "https://www.nature.com/articles/d41586-026-03177-x",
+    "authors": [
+      "Jingyi Chen"
+    ],
+    "summary": "Nature, Published online: 06 October 2026; <a href=\"https://www.nature.com/articles/d41586-026-03177-x\">doi:10.1038/d41586-026-03177-x</a>Preprints must not leak sensitive research information",
+    "source": "Nature",
+    "date": "2026-10-06",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-03160-6",
+    "title": "Unprecedented hole opened up in Antarctic winter sea ice",
+    "link": "https://www.nature.com/articles/d41586-026-03160-6",
+    "authors": [],
+    "summary": "Nature, Published online: 06 October 2026; <a href=\"https://www.nature.com/articles/d41586-026-03160-6\">doi:10.1038/d41586-026-03160-6</a>‘Rivers in the sky’ helped to keep an expanse of water roughly as big as Portugal ice-free.",
+    "source": "Nature",
+    "date": "2026-10-06",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-03175-z",
+    "title": "AI could undermine scientific independence in subtle ways",
+    "link": "https://www.nature.com/articles/d41586-026-03175-z",
+    "authors": [
+      "Fabio Y. S. Motoki"
+    ],
+    "summary": "Nature, Published online: 06 October 2026; <a href=\"https://www.nature.com/articles/d41586-026-03175-z\">doi:10.1038/d41586-026-03175-z</a>AI could undermine scientific independence in subtle ways",
+    "source": "Nature",
+    "date": "2026-10-06",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-03095-y",
+    "title": "Astronomy’s ‘adrenaline junkies’: Nobel prize captures the thrill of neutrino physics",
+    "link": "https://www.nature.com/articles/d41586-026-03095-y",
+    "authors": [
+      "Davide Castelvecchi"
+    ],
+    "summary": "Nature, Published online: 06 October 2026; <a href=\"https://www.nature.com/articles/d41586-026-03095-y\">doi:10.1038/d41586-026-03095-y</a>Nature reporter Davide Castelvecchi reflects on covering the fast-moving field of astronomy honoured by the Nobel physics award.",
+    "source": "Nature",
+    "date": "2026-10-06",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-02798-6",
+    "title": "Rising numbers of Asian and African PhD students choose to study in China",
+    "link": "https://www.nature.com/articles/d41586-026-02798-6",
+    "authors": [
+      "Xiaoying You"
+    ],
+    "summary": "Nature, Published online: 06 October 2026; <a href=\"https://www.nature.com/articles/d41586-026-02798-6\">doi:10.1038/d41586-026-02798-6</a>International students explain the advantages and challenges that come with pursuing a doctoral degree in China.",
+    "source": "Nature",
+    "date": "2026-10-06",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-03105-z",
+    "title": "How digital breakdowns affect supply chains — and endanger the global economy",
+    "link": "https://www.nature.com/articles/d41586-026-03105-z",
+    "authors": [
+      "Dabo Guan"
+    ],
+    "summary": "Nature, Published online: 06 October 2026; <a href=\"https://www.nature.com/articles/d41586-026-03105-z\">doi:10.1038/d41586-026-03105-z</a>When supply chains fail, it’s often because of energy, computer or data-network failures. Addressing these requires a way to make interdependencies visible.",
+    "source": "Nature",
+    "date": "2026-10-06",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-03129-5",
+    "title": "Strong evidence that ‘baryon junctions’ give proton its identity",
+    "link": "https://www.nature.com/articles/d41586-026-03129-5",
+    "authors": [
+      "José Guilherme Milhano",
+      "Néstor Armesto"
+    ],
+    "summary": "Nature, Published online: 06 October 2026; <a href=\"https://www.nature.com/articles/d41586-026-03129-5\">doi:10.1038/d41586-026-03129-5</a>A conserved property of protons and neutrons is carried not by their constituent particles but by structures that mediate the force between them.",
+    "source": "Nature",
+    "date": "2026-10-06",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-03131-x",
+    "title": "Why smart glasses are about to create a major privacy crisis",
+    "link": "https://www.nature.com/articles/d41586-026-03131-x",
+    "authors": [
+      "Joy Buolamwini"
+    ],
+    "summary": "Nature, Published online: 06 October 2026; <a href=\"https://www.nature.com/articles/d41586-026-03131-x\">doi:10.1038/d41586-026-03131-x</a>As AI wearables become discreet, cheap and mainstream, they risk normalizing non-consensual recording in everyday spaces.",
+    "source": "Nature",
+    "date": "2026-10-06",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-03136-6",
+    "title": "Cells, who needs them? Biochemists turn to proteins in a tube",
+    "link": "https://www.nature.com/articles/d41586-026-03136-6",
+    "authors": [
+      "Amber Dance"
+    ],
+    "summary": "Nature, Published online: 06 October 2026; <a href=\"https://www.nature.com/articles/d41586-026-03136-6\">doi:10.1038/d41586-026-03136-6</a>Scientists are using cell-free transcription and translation systems to synthesize proteins, design biology-based sensors and develop synthetic cells.",
+    "source": "Nature",
+    "date": "2026-10-06",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-02966-8",
+    "title": "Circular DNA exposes a weakness in cancer cells",
+    "link": "https://www.nature.com/articles/d41586-026-02966-8",
+    "authors": [
+      "Nikolaus A. Watson",
+      "Jan O. Korbel"
+    ],
+    "summary": "Nature, Published online: 06 October 2026; <a href=\"https://www.nature.com/articles/d41586-026-02966-8\">doi:10.1038/d41586-026-02966-8</a>Repetitive sequences make extrachromosomal DNA vulnerable to breaks, which could be exploited for therapy — but might also promote tumour evolution.",
+    "source": "Nature",
+    "date": "2026-10-06",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-03150-8",
+    "title": "Flu season could kick off ‘incredibly’ early — what scientists are watching",
+    "link": "https://www.nature.com/articles/d41586-026-03150-8",
+    "authors": [
+      "Mariana Lenharo"
+    ],
+    "summary": "Nature, Published online: 06 October 2026; <a href=\"https://www.nature.com/articles/d41586-026-03150-8\">doi:10.1038/d41586-026-03150-8</a>Cases in the Northern Hemisphere are cropping up weeks early, and they are dominated by a virus with a concerning mutation.",
+    "source": "Nature",
+    "date": "2026-10-06",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-03092-1",
+    "title": "Nobel physics prize awarded for detection of cosmic neutrinos",
+    "link": "https://www.nature.com/articles/d41586-026-03092-1",
+    "authors": [
+      "Elizabeth Gibney",
+      "Davide Castelvecchi"
+    ],
+    "summary": "Nature, Published online: 06 October 2026; <a href=\"https://www.nature.com/articles/d41586-026-03092-1\">doi:10.1038/d41586-026-03092-1</a>Francis Halzen wins the 2026 award for his work on a neutrino observatory at the South Pole that has helped to unlock mysteries of the Universe.",
+    "source": "Nature",
+    "date": "2026-10-06",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-02967-7",
+    "title": "Brain organoids grafted into cortex-free mice will advance human brain research",
+    "link": "https://www.nature.com/articles/d41586-026-02967-7",
+    "authors": [
+      "Marty G. Yang",
+      "Aparna Bhaduri"
+    ],
+    "summary": "Nature, Published online: 06 October 2026; <a href=\"https://www.nature.com/articles/d41586-026-02967-7\">doi:10.1038/d41586-026-02967-7</a>Cell-based models of the human cortex transplanted into mice produce neurons that are inaccessible in vitro, and could enable scientists to link brain injury to behaviour.",
+    "source": "Nature",
+    "date": "2026-10-06",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-03130-y",
+    "title": "How to mobilize the agile science needed in a crisis",
+    "link": "https://www.nature.com/articles/d41586-026-03130-y",
+    "authors": [],
+    "summary": "Nature, Published online: 06 October 2026; <a href=\"https://www.nature.com/articles/d41586-026-03130-y\">doi:10.1038/d41586-026-03130-y</a>Two reports highlight the changes needed in academia to facilitate the fast, collaborative, responsive and inclusive research that aids global decision makers.",
+    "source": "Nature",
+    "date": "2026-10-06",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-03094-z",
+    "title": "‘What took them so long?’ This year’s medicine Nobel winner is overdue",
+    "link": "https://www.nature.com/articles/d41586-026-03094-z",
+    "authors": [
+      "Ewen Callaway"
+    ],
+    "summary": "Nature, Published online: 05 October 2026; <a href=\"https://www.nature.com/articles/d41586-026-03094-z\">doi:10.1038/d41586-026-03094-z</a>Nature’s senior biology reporter Ewen Callaway reflects on today’s prize for optogenetics — which scientists have anticipated for years.",
+    "source": "Nature",
+    "date": "2026-10-05",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-03157-1",
+    "title": "The top cancer success stories of the past 50 years, by the numbers",
+    "link": "https://www.nature.com/articles/d41586-026-03157-1",
+    "authors": [
+      "Heidi Ledford"
+    ],
+    "summary": "Nature, Published online: 05 October 2026; <a href=\"https://www.nature.com/articles/d41586-026-03157-1\">doi:10.1038/d41586-026-03157-1</a>Outcomes have improved drastically in the United States for some forms of the disease, but those for others continue to lag.",
+    "source": "Nature",
+    "date": "2026-10-05",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-03185-x",
+    "title": "Daily briefing: Medicine Nobel prize goes to optogenetics",
+    "link": "https://www.nature.com/articles/d41586-026-03185-x",
+    "authors": [
+      "Flora Graham"
+    ],
+    "summary": "Nature, Published online: 05 October 2026; <a href=\"https://www.nature.com/articles/d41586-026-03185-x\">doi:10.1038/d41586-026-03185-x</a>Three pioneers of optogenetics have won the 2026 Nobel Prize in Physiology or Medicine. Plus, the funniest nature photography and the physics behind a new science-fiction novel.",
+    "source": "Nature",
+    "date": "2026-10-05",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-03091-2",
+    "title": "Medicine Nobel awarded for brain ‘switch’ that controls neurons with light",
+    "link": "https://www.nature.com/articles/d41586-026-03091-2",
+    "authors": [
+      "Miryam Naddaf",
+      "Ewen Callaway"
+    ],
+    "summary": "Nature, Published online: 05 October 2026; <a href=\"https://www.nature.com/articles/d41586-026-03091-2\">doi:10.1038/d41586-026-03091-2</a>Karl Deisseroth, Peter Hegemann and Georg Nagel win the 2026 Nobel Prize in Physiology or Medicine for their work on optogenetics, which has revolutionized neuroscience.",
+    "source": "Nature",
+    "date": "2026-10-05",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-03134-8",
+    "title": "How big tech is building a military–industrial complex in the age of AI",
+    "link": "https://www.nature.com/articles/d41586-026-03134-8",
+    "authors": [
+      "Chris Stokel-Walker"
+    ],
+    "summary": "Nature, Published online: 05 October 2026; <a href=\"https://www.nature.com/articles/d41586-026-03134-8\">doi:10.1038/d41586-026-03134-8</a>Two books explore how warfare is being reshaped, with influence shifting from states to tech giants.",
+    "source": "Nature",
+    "date": "2026-10-05",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-03135-7",
+    "title": "AI biohazard hype must not divert attention from the real risks we face now",
+    "link": "https://www.nature.com/articles/d41586-026-03135-7",
+    "authors": [
+      "Saskia Popescu"
+    ],
+    "summary": "Nature, Published online: 05 October 2026; <a href=\"https://www.nature.com/articles/d41586-026-03135-7\">doi:10.1038/d41586-026-03135-7</a>Twenty-five years after the US anthrax attacks, fears around AI are distracting people from seeing what’s needed to stay safe: a strong, regulated life-sciences sector.",
+    "source": "Nature",
+    "date": "2026-10-05",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-03164-2",
+    "title": "Daily briefing: Can you name every female Nobel laureate?",
+    "link": "https://www.nature.com/articles/d41586-026-03164-2",
+    "authors": [
+      "Flora Graham"
+    ],
+    "summary": "Nature, Published online: 02 October 2026; <a href=\"https://www.nature.com/articles/d41586-026-03164-2\">doi:10.1038/d41586-026-03164-2</a>Test yourself on your science Nobel knowledge. Plus, how butterfly markings mislead the eye and how to respond to hate speech without fuelling it further.",
+    "source": "Nature",
+    "date": "2026-10-02",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-03141-9",
+    "title": "Daily briefing: The sky as you’ve never seen it — the month’s best science images",
+    "link": "https://www.nature.com/articles/d41586-026-03141-9",
+    "authors": [
+      "Jacob Smith"
+    ],
+    "summary": "Nature, Published online: 01 October 2026; <a href=\"https://www.nature.com/articles/d41586-026-03141-9\">doi:10.1038/d41586-026-03141-9</a>Coloured stripes across the sky and a crab caught in jellyfish tentacles are among this month’s sharpest science shots. Plus, a ‘speech clock’ could determine how fast you’re ageing and how invasive plant species are displacing farmers in Africa.",
+    "source": "Nature",
+    "date": "2026-10-01",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-78216-2",
+    "title": "Neonatal overfeeding accelerates age-related sarcopenia and metabolic disorders through lifelong gut mucosa and microbiota programming in mice",
+    "link": "https://www.nature.com/articles/s41467-026-78216-2",
+    "authors": [
+      "Yeyu Song",
+      "Jingyi Xu",
+      "Jingjie Zhao",
+      "Rong Yang",
+      "Yuandi Ma",
+      "Yi-Ming Hou",
+      "Yutang Cao",
+      "Jiaqi Li",
+      "Shuwu Yu",
+      "Xinyu Liang",
+      "Yongxin Zhang",
+      "Kanglong Wang",
+      "Lijuan An",
+      "Yameng Liu",
+      "Zhuo-Xian Meng",
+      "Jian-Gao Fan",
+      "Cen Xie"
+    ],
+    "summary": "Nature Communications, Published online: 07 October 2026; <a href=\"https://www.nature.com/articles/s41467-026-78216-2\">doi:10.1038/s41467-026-78216-2</a>Here, the authors demonstrate that neonatal overfeeding in mice shortens lifespan and accelerates late-life muscle loss. This originates from persistent gut mucus defects and depleted Akkermansia muciniphila, revealing a targetable developmental origin for sarcopenia.",
+    "source": "Nature Communications",
+    "date": "2026-10-07",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-78206-4",
+    "title": "High potential contribution of intercropping to soybean and maize self-sufficiency in Europe",
+    "link": "https://www.nature.com/articles/s41467-026-78206-4",
+    "authors": [
+      "Mathilde Chen",
+      "Nicolas Guilpart",
+      "David Makowski"
+    ],
+    "summary": "Nature Communications, Published online: 06 October 2026; <a href=\"https://www.nature.com/articles/s41467-026-78206-4\">doi:10.1038/s41467-026-78206-4</a>Domestic production of maize and soybeans in the EU currently falls short of demand. This study finds that adoption of maize-soybean intercropping could improve soybean self-sufficiency by 25−91% but also contribute to EU maize demand by 50−145%.",
+    "source": "Nature Communications",
+    "date": "2026-10-06",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-78460-6",
+    "title": "Real-time visualization of G2L4 reverse transcriptase in DNA repair via microhomology-mediated end joining",
+    "link": "https://www.nature.com/articles/s41467-026-78460-6",
+    "authors": [
+      "Pangmiaomiao Zhang",
+      "Mo Guo",
+      "Y. Jessie Zhang",
+      "Alan M. Lambowitz",
+      "Yi-Chih Lin"
+    ],
+    "summary": "Nature Communications, Published online: 06 October 2026; <a href=\"https://www.nature.com/articles/s41467-026-78460-6\">doi:10.1038/s41467-026-78460-6</a>The error-prone microhomology-mediated end joining (MMEJ) pathway is important for double strand break repair. Here, the authors use high-speed atomic force microscopy to visualize how the Pseudomonas aeruginosa chromosomally encoded group II intron-like reverse transcriptase (G2L4 RT) act on MMEJ substrates.",
+    "source": "Nature Communications",
+    "date": "2026-10-06",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-78564-z",
+    "title": "Ultrathin high-performance circular polarizers based on MoOCl<sub>2</sub>/NbOCl<sub>2</sub> van der Waals heterostructures",
+    "link": "https://www.nature.com/articles/s41467-026-78564-z",
+    "authors": [
+      "Shuxin Huang",
+      "Guanyu Zhang",
+      "Yaolong Li",
+      "Xianghan Meng",
+      "Yijun Wang",
+      "Weizhe Zhang",
+      "Minghao Deng",
+      "Yixuan Xu",
+      "Zini Cao",
+      "Jiaqi Li",
+      "Kaihui Liu",
+      "Wenjing Liu",
+      "Qihuang Gong",
+      "Guowei Lyu"
+    ],
+    "summary": "Nature Communications, Published online: 06 October 2026; <a href=\"https://www.nature.com/articles/s41467-026-78564-z\">doi:10.1038/s41467-026-78564-z</a>Circularly polarized light can be used in several applications, but normally requires bulky optical components. Here, the authors report the realization of sub-micron-thick circular polarizers based on the natural phase modulation capability of NbOCl2 and polarization selectivity of MoOCl2 crystals, showing their integration into a LED chip.",
+    "source": "Nature Communications",
+    "date": "2026-10-06",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-78178-5",
+    "title": "Embryonic origin of cancer in newborn twins",
+    "link": "https://www.nature.com/articles/s41467-026-78178-5",
+    "authors": [
+      "Barbara Walkowiak",
+      "Sadie Baskind",
+      "Manas Dave",
+      "Pooja Balasubramanian",
+      "Nathaniel Anderson",
+      "Jonathan Kennedy",
+      "Thomas R. W. Oliver",
+      "Rohan Verma",
+      "Sarita Depani",
+      "Simon Hannam",
+      "Tom Watson",
+      "Dyanne Rampling",
+      "Karin Straathof",
+      "Liina Palm",
+      "J. Ciaran Hutchinson",
+      "Henry Lee-Six",
+      "Olga Slater",
+      "Sam Behjati"
+    ],
+    "summary": "Nature Communications, Published online: 06 October 2026; <a href=\"https://www.nature.com/articles/s41467-026-78178-5\">doi:10.1038/s41467-026-78178-5</a>Identical twins with the same cancer can reveal how childhood tumours arise and spread before birth. Here, the authors use whole-genome sequencing of tumour, normal and placental tissues to show that a sarcoma that originated in one twin spread to the other in utero, and trace early embryonic lineages that contributed differently to the twins and placenta.",
+    "source": "Nature Communications",
+    "date": "2026-10-06",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-78444-6",
+    "title": "Distinct T cell correlates of COVID-19 risk before and after a second booster in previously SARS-CoV-2 infected versus naïve COVAIL trial participants",
+    "link": "https://www.nature.com/articles/s41467-026-78444-6",
+    "authors": [
+      "Bo Zhang",
+      "Youyi Fong",
+      "Chenchen Yu",
+      "Shiyu Chen",
+      "Valentin Voillet",
+      "Bhavesh Borate",
+      "Katharine Schwedhelm",
+      "Zhe Chen",
+      "Jing Wang",
+      "Nadine G. Rouphael",
+      "Angela R. Branche",
+      "David J. Diemert",
+      "Ann R. Falsey",
+      "Daniel S. Graciaa",
+      "Lindsey R. Baden",
+      "Sharon E. Frey",
+      "Jennifer A. Whitaker",
+      "Susan J. Little",
+      "Satoshi Kamidani",
+      "Emmanuel B. Walter",
+      "Richard M. Novak",
+      "Richard Rupp",
+      "Lisa A. Jackson",
+      "Craig A. Magaret",
+      "Lindsay N. Carpp",
+      "Tara M. Babu",
+      "Angelica C. Kottkamp",
+      "Anne F. Luetkemeyer",
+      "Lilly C. Immergluck",
+      "Rachel M. Presti",
+      "Martín Bäcker",
+      "Patricia L. Winokur",
+      "Siham M. Mahgoub",
+      "Paul A. Goepfert",
+      "Dahlene N. Fusco",
+      "Robert L. Atmar",
+      "Christine M. Posavad",
+      "Jinjian Mu",
+      "Mat Makowski",
+      "Mamodikoe K. Makhene",
+      "Seema U. Nayak",
+      "Paul C. Roberts",
+      "Dean Follmann",
+      "Stephen C. De Rosa",
+      "M. Juliana McElrath",
+      "Peter B. Gilbert"
+    ],
+    "summary": "Nature Communications, Published online: 06 October 2026; <a href=\"https://www.nature.com/articles/s41467-026-78444-6\">doi:10.1038/s41467-026-78444-6</a>Vaccines to SARS-CoV-2 clearly stimulate virus specific T cell and antibody responses but T cell-mediated protection is challenging to show. Here the authors use PBMC samples from an open-label clinical trial of different prototype and variant-specific COVID-19 vaccine boosters to examine the function and phenotype of T cell populations and how T cell response levels associate with risk of, and with protection against, symptomatic SARS-CoV-2 infection.",
+    "source": "Nature Communications",
+    "date": "2026-10-06",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-78265-7",
+    "title": "A generative diffusion framework for physically consistent 3D turbulence",
+    "link": "https://www.nature.com/articles/s41467-026-78265-7",
+    "authors": [
+      "Tianyi Li",
+      "Michele Buzzicotti",
+      "Fabio Bonaccorso",
+      "Luca Biferale"
+    ],
+    "summary": "Nature Communications, Published online: 06 October 2026; <a href=\"https://www.nature.com/articles/s41467-026-78265-7\">doi:10.1038/s41467-026-78265-7</a>Three-dimensional turbulence contains complex multiscale fluctuations that challenge even state-of-the-art generative models. Here, the authors develop a generative diffusion framework that produces physically consistent 3D turbulence with accurate multiscale statistics.",
+    "source": "Nature Communications",
+    "date": "2026-10-06",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-78192-7",
+    "title": "MOF-mediated cascade photoreactions under nanoconfinement for defluorination of per- and polyfluoroalkyl substances",
+    "link": "https://www.nature.com/articles/s41467-026-78192-7",
+    "authors": [
+      "Jingjing Tang",
+      "Xiang Zhang",
+      "Jie Li",
+      "Hongchao Li",
+      "Yuqian Jia",
+      "Wanyi Fu",
+      "Weiming Zhang",
+      "Jieshu Qian",
+      "Bingcai Pan"
+    ],
+    "summary": "Nature Communications, Published online: 06 October 2026; <a href=\"https://www.nature.com/articles/s41467-026-78192-7\">doi:10.1038/s41467-026-78192-7</a>Here, authors report a nanoconfinement strategy to encapsulate a MOF photocatalyst within a graphene aerogel matrix. This not only allows cascade reduction-oxidation reactions but also provides kinetic and thermodynamic advantages for efficient defluorination of various PFASs.",
+    "source": "Nature Communications",
+    "date": "2026-10-06",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43017-026-00828-5",
+    "title": "Rethinking ocean alkalinity enhancement",
+    "link": "https://www.nature.com/articles/s43017-026-00828-5",
+    "authors": [
+      "Lennart T. Bach",
+      "Dariia Atamanchuk",
+      "Damon Britton",
+      "Michael Fuhr",
+      "Astrid Hylén",
+      "Sara Nawaz",
+      "Tyler Rohr"
+    ],
+    "summary": "Nature Reviews Earth &amp; Environment, Published online: 06 October 2026; <a href=\"https://www.nature.com/articles/s43017-026-00828-5\">doi:10.1038/s43017-026-00828-5</a>Ocean alkalinity enhancement (OAE) is often thought of as a global-scale geoengineering approach to mitigate climate change. This Perspective explores the environmental effects, geochemical constraints, verification and governance of OAE and argues for local-scale, context-led evaluation.",
+    "source": "Nature Reviews Earth & Environment",
+    "date": "2026-10-06",
+    "sent": true
+  },
+  {
+    "id": "https://www.pnas.org/doi/abs/10.1073/pnas.2608919123?af=R",
+    "title": "Causality-integrated graph learning for multi-endpoint toxicity prediction",
+    "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2608919123?af=R",
+    "authors": [
+      "Haoyue TanTong BaoYin FangRong ZhangJinsha JinDan XuLan XieHuan ZhongXuezhi XiaoHuixiao HongEmilio BenfenatiTadahaya MizunoQing ZhouJingfan QiuChangsheng QuYan MaoXiangyi YuJing GuoHongxia YuXiaowei ZhangWei Shiahttps://ror.org/01rxvg760State Key Laboratory of Water Pollution Control and Green Resource Recycling, School of Environment, Nanjing University, Nanjing 210023, Jiangsu, ChinabJiangsu Province Ecology and Environment Protection Key Laboratory of Chemical Safety and Health Risk, Nanjing 210023, Jiangsu, ChinacCollege of Computer Science and Technology, Zhejiang University, Hangzhou 310027, Chinadhttps://ror.org/04gwbew76Foreign Environmental Cooperation Centre, Ministry of Ecology and Environment of the People‘s Republic of China, Beijing 100035, ChinaeNational Center for Toxicological Research US Food and Drug Administration, Jefferson, AR 72079fhttps://ror.org/04tfzc498Department of Environmental Health Sciences, Istituto di Ricerche Farmacologiche Mario Negri Istituto di Ricovero e Cura a Carattere Scientifico, Milano 20156, Italyghttps://ror.org/057zh3y96Laboratory of Molecular Pharmacokinetics, Graduate School of Pharmaceutical Sciences, The University of Tokyo, Bunkyo, Tokyo 113-0033, Japanhhttps://ror.org/03jcejr58The School of Statistical Thinking, The Institute of Statistical Mathematics, Tachikawa, Tokyo 190-8562, Japanihttps://ror.org/059gcgy73Key Laboratory for Pathogen Infection and Control of Jiangsu Province, Department of Pathogen Biology and Immunology, Nanjing Medical University, Nanjing 211166, Chinajhttps://ror.org/0385nmy68Key Laboratory of Environmental Remediation and Ecological Health, Ministry of Industry and Information Technology, Jiangsu Environmental Engineering Technology Co., Ltd, Nanjing 210019, Jiangsu, Chinakhttps://ror.org/04gwbew76Solid Waste and Chemicals Management Center, Ministry of Ecology and Environment, Beijing 100029, China"
+    ],
+    "summary": "Proceedings of the National Academy of Sciences, Volume 123, Issue 41, October 2026. <br />SignificanceExisting models largely predict toxicity one end point at a time, although chemical toxicity emerges from coordinated perturbations across multiple targets, pathways, and adverse outcomes. We developed a causality-integrated graph learning ...",
+    "source": "Proceedings of the National Academy of Sciences: Earth, Atmospheric, and Planetary Sciences",
+    "date": "2026-10-05",
+    "sent": true
+  },
+  {
+    "id": "https://www.pnas.org/doi/abs/10.1073/pnas.2612680123?af=R",
+    "title": "An unidentified reservoir of comet 81P/Wild 2 chondrules",
+    "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2612680123?af=R",
+    "authors": [
+      "Mingming ZhangDonald E. BrownleeDave J. JoswiakNoriko T. Kitaahttps://ror.org/01y2jtd41WiscSIMS, Department of Geoscience, University of Wisconsin–Madison, Madison, WI 53706bhttps://ror.org/00cvxb145Department of Astronomy, University of Washington, Seattle, WA 98195"
+    ],
+    "summary": "Proceedings of the National Academy of Sciences, Volume 123, Issue 41, October 2026. <br />SignificanceIt is widely accepted that chondrules were formed in the inner regions of the protoplanetary disk, though the heating mechanism is unknown. Petrography and O isotopes of ~100 silicate fragments from one of the largest aerogel tracks from the ...",
+    "source": "Proceedings of the National Academy of Sciences: Earth, Atmospheric, and Planetary Sciences",
+    "date": "2026-10-05",
+    "sent": true
+  },
+  {
+    "id": "https://www.pnas.org/doi/abs/10.1073/pnas.2612779123?af=R",
+    "title": "A 2,623-year temperature reconstruction from the Colorado Rocky Mountains reveals warm and cool droughts",
+    "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2612779123?af=R",
+    "authors": [
+      "Alexandre F. NolinConnie A. WoodhouseCody C. Routsonahttps://ror.org/03m2x1q45School of Geography, Development & Environment, University of Arizona, Tucson, AZ 85721bhttps://ror.org/03m2x1q45Laboratory of Tree-Ring Research, University of Arizona, Tucson, AZ 85721chttps://ror.org/0272j5188School of Earth and Sustainability, Northern Arizona University, Flagstaff, AZ 86011"
+    ],
+    "summary": "Proceedings of the National Academy of Sciences, Volume 123, Issue 41, October 2026. <br />SignificanceThis study provides a millennial-length temperature reconstruction for the southern Rocky Mountains, headwaters of the Colorado River and Rio Grande, which supply water to millions of people and global food systems. Yet recent drought in the ...",
+    "source": "Proceedings of the National Academy of Sciences: Earth, Atmospheric, and Planetary Sciences",
+    "date": "2026-10-05",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012825226003193",
+    "title": "Natural fractures in crystalline basement reservoirs in China: types, controls, and effectiveness",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012825226003193?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 5 October 2026<b>Source:</b> Earth-Science ReviewsAuthor(s): Xiaoyu Du, Lianbo Zeng, Guoping Liu, Lei Gong, Ruitong Guo, Jiacheng Yin",
+    "source": "ScienceDirect Publication: Earth-Science Reviews",
+    "date": "2026-10-07",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL125688",
+    "title": "Interdecadal Phase Shifts of Winter Asian‐Pacific Oscillation Modulate the Warm Arctic‐Cold Eurasia Pattern",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL125688?af=R",
+    "authors": [
+      "Peilin Li, \nBotao Zhou, \nDapeng Zhang, \nXinping Xu, \nYujia Liu, \nWenxin Xie"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 19, 16 October 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-10-05",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL124065",
+    "title": "Corals Reveal Atlantic Drivers of Red Sea Surface Variability Through Indian Ocean Inflow",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL124065?af=R",
+    "authors": [
+      "Ian H. Plummer, \nSujata A. Murty, \nAlison M. Sawyer, \nDavid P. Gillikin, \nAnouk Verheyden, \nKonrad A. Hughen"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 19, 16 October 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-10-05",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL123652",
+    "title": "Drift‐Resonance Driven by Field Line Resonance Gradients: A Mechanism for Non‐Dispersive Microinjection Events",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL123652?af=R",
+    "authors": [
+      "J. Liu, \nR. Rankin, \nA. W. Degeling, \nS. Yao, \nF. Fenrich"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 19, 16 October 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-10-05",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL125062",
+    "title": "High‐ and Low‐Latitude Insolation Forcing Drives the Half‐Precession Cycle in Winter Arctic Sea Ice",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL125062?af=R",
+    "authors": [
+      "Zhipeng Wu, \nQiuzhen Yin, \nAndré Berger, \nZhengtang Guo, \nZhifeng Zhang, \nMing‐Qiang Liang, \nWei Liu"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 19, 16 October 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-10-05",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GC012964",
+    "title": "Provenance of the Middle‐Upper Triassic Songpan‐Ganzi Flysch of Western China Revealed by Anisotropy of Magnetic Susceptibility Measurements: Implications for the Tectonic‐Paleogeographic Evolution of the Paleo‐Tethys Ocean",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GC012964?af=R",
+    "authors": [
+      "Yuhan Yang, \nYong Cao, \nXiaozhou Ye, \nZhenyu Yang, \nZhiming Sun, \nHaibing Li"
+    ],
+    "summary": "Geochemistry, Geophysics, Geosystems, Volume 27, Issue 10, October 2026.",
+    "source": "Wiley: Geochemistry, Geophysics, Geosystems: Table of Contents",
+    "date": "2026-10-05",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GC013071",
+    "title": "LIPOTHERM: A Calibration Framework for GDGT Paleothermometry Based on Machine Learning",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GC013071?af=R",
+    "authors": [
+      "Vikash Kumar, \nManish Tiwari, \nBiswajit Roy"
+    ],
+    "summary": "Geochemistry, Geophysics, Geosystems, Volume 27, Issue 10, October 2026.",
+    "source": "Wiley: Geochemistry, Geophysics, Geosystems: Table of Contents",
+    "date": "2026-10-05",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0016703726006368",
+    "title": "Accessory mineral control on <em>δ</em><sup>88/86</sup>Sr variation during granitic magma evolution and implications for tracing fluid-melt interaction",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0016703726006368?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 5 October 2026<b>Source:</b> Geochimica et Cosmochimica ActaAuthor(s): Nian-Qin Zhang, Yi-Xiang Chen, Kun Zhou, Xu-Qi Chen, Fang Huang",
+    "source": "ScienceDirect Publication: Geochimica et Cosmochimica Acta",
+    "date": "2026-10-07",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0016703726006356",
+    "title": "Volcanically driven manganese mineralization mediated by carbonate substrates during the Early Triassic",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0016703726006356?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 5 October 2026<b>Source:</b> Geochimica et Cosmochimica ActaAuthor(s): Li Wang, Ling Gan, Chenchen Yang, Yinqiang Zhao, Hai Xu, Runsheng Yin, Hanjie Wen",
+    "source": "ScienceDirect Publication: Geochimica et Cosmochimica Acta",
+    "date": "2026-10-07",
+    "sent": true
+  },
+  {
+    "id": "https://pubs.geoscienceworld.org/gsa/geology/article/doi/10.1130/G54981.1/789669/Lava-life-Evidence-for-fossilized-microbial",
+    "title": "Lava life: Evidence for fossilized microbial filaments in 2.46 Ga vesicular basalts",
+    "link": "https://pubs.geoscienceworld.org/gsa/geology/article/doi/10.1130/G54981.1/789669/Lava-life-Evidence-for-fossilized-microbial",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\">The modern oceanic crust, dominated by basaltic lavas and gabbroic sills, is home to a diverse ecosystem of prokaryotes and eukaryotes that are fueled by chemical reactions during seawater alteration of mafic igneous rocks. Despite the abundance and antiquity of submarine basalts, the fossil record of this deep igneous habitat is sparse and controversial. Here we report the presence of filamentous microstructures in drill-core samples (drill depth 610 m) of vesicular submarine basalts intercalated with the 2.46 Ga Kuruman Iron Formation, in Griqualand West, South Africa. A network of sinuous and uniformly thick filaments, which are lined by fine-grained Fe-rich phyllosilicates, is preserved in calcite- and stilpnomelane-cemented vesicles near the top of the flow. Based on their uniform size, regular shape, and similarity to putative microfossils in younger vesicular basalts, the filaments are interpreted to be relicts of cavity-dwelling (cryptoendolithic) microbes that were mineralized by Fe-silicate clays and encased in calcite cement shortly after basalt eruption. Our results suggest that ancient basaltic lavas were rapidly colonized by microbes in a thermally and geochemically active environment that today is occupied by chemoautotrophs and heterotrophs. The findings confirm submarine lavas as a habitat for early life, and extend the antiquity of basalt-hosted cryptoendoliths, hinting at a lengthy fossil record for the deep igneous biosphere.</span>",
+    "source": "Geology Advance Access",
+    "date": "2026-10-06",
+    "sent": true
+  },
+  {
+    "id": "https://pubs.geoscienceworld.org/gsa/geology/article/doi/10.1130/G55140.1/789668/A-29-year-natural-experiment-constrains-Fe-Mg",
+    "title": "A 29-year natural experiment constrains Fe−Mg diffusion rates in olivine",
+    "link": "https://pubs.geoscienceworld.org/gsa/geology/article/doi/10.1130/G55140.1/789668/A-29-year-natural-experiment-constrains-Fe-Mg",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\">Fe−Mg diffusion in olivine is the most widely used chronometer for extracting the time scales of magmatic processes that drive pre-eruptive volcanic unrest. Yet experimental calibrations of diffusion rates disagree: melt−solid diffusion couples yield rates up to ten times faster than the solid−solid couples underlying canonical values, and whether this discrepancy applies to natural magmas remains untested. The 1959 eruption of Kīlauea Iki (Hawaiʻi, USA) created a rootless lava lake that was repeatedly drilled and sampled over 29 yr as it cooled, preserving petrological snapshots of diffusive re-equilibration on decadal time scales that are inaccessible in the laboratory. Here, we model olivine from drill cores collected between 1960 and 1988 by coupling a 3-D lava-lake cooling model to diffusion models of olivine populations re-equilibrating with their host melt. Matching the measured compositions requires Fe−Mg diffusivities 5−15 times faster than canonical values, independently confirming the faster melt−solid rates and implying that many published pre-eruptive time scales are correspondingly too long.</span>",
+    "source": "Geology Advance Access",
+    "date": "2026-10-06",
+    "sent": true
+  },
+  {
+    "id": "https://pubs.geoscienceworld.org/gsa/gsabulletin/article/doi/10.1130/B38897.1/789675/Compression-extension-transition-and-crustal",
+    "title": "Compression-extension transition and crustal evolution in the early India-Eurasia collision zone",
+    "link": "https://pubs.geoscienceworld.org/gsa/gsabulletin/article/doi/10.1130/B38897.1/789675/Compression-extension-transition-and-crustal",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\">The early India-Eurasia collision induced widespread tectonic deformation and vigorous magmatism throughout southern Tibet, yet the dynamic connections between magmatism and crustal evolution in the collision zone remain controversial. Here, we present new integrated datasets comprising zircon U-Pb geochronology, in situ zircon Hf-O isotopes, whole-rock major and trace element geochemistry, and bulk Sr-Nd isotopes for the Kazi volcanic sequence within the Paleocene–Eocene Pana Formation in the Namling area, southern Lhasa Terrane. Zircon U-Pb dating constrains synchronous eruption of bimodal basaltic-andesites and rhyolite lavas at ca. 48 Ma. Geochemical and isotopic results indicate that the basaltic-andesite magmas originated from subduction-metasomatized hybrid mantle sources, with insignificant crustal contamination and petrogenesis controlled by two-stage fractional crystallization. The contemporaneous rhyolites exhibit typical geochemical signatures of A-type granites, generated by low-pressure dehydration melting of juvenile felsic crustal materials. Consistently depleted Sr-Nd-Hf-O isotopic compositions reveal a predominant juvenile mantle contribution to the magmatic system. The newly identified ca. 48 Ma bimodal magmatism documents the complete breakoff of the Neo-Tethyan oceanic slab and marks a tectonic transition from compression to extension in southern Tibet. This magmatic event records a prominent Phanerozoic crustal growth episode on the Tibetan Plateau, providing robust constraints on the dynamic evolution of tectonic switching and crustal evolution in global collisional orogens.</span>",
+    "source": "GSA Bulletin Advance Access",
+    "date": "2026-10-06",
+    "sent": true
+  },
+  {
+    "id": "https://pubs.geoscienceworld.org/gsa/gsabulletin/article/doi/10.1130/B39231.1/789674/Protracted-accretion-and-amalgamation-in-the-Altyn",
+    "title": "Protracted accretion and amalgamation in the Altyn orogen: Insights from field study, detrital zircon ages, and U-Pb-Hf isotopes of the North Altyn accretionary complex, Northwest China",
+    "link": "https://pubs.geoscienceworld.org/gsa/gsabulletin/article/doi/10.1130/B39231.1/789674/Protracted-accretion-and-amalgamation-in-the-Altyn",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\">The Altyn orogen records the evolution of the northern branch of the Proto-Tethys Ocean. However, the timing and process of accretion and amalgamation remain debated. In this study, we investigate the well-exposed North Altyn accretionary complex of Northwest China, with particular emphasis on sedimentary rocks that have been largely overlooked in previous studies but provide critical constraints on the accretionary and collisional evolution. Field study indicates that the North Altyn accretionary complex is composed of ophiolites, magmatic rocks, high-pressure/low-temperature metamorphic rocks, Neoproterozoic tectonic fragments, intraoceanic arc relics, and sedimentary sequences. Sedimentary samples collected from different units are dominated by volcanic detritus and display low compositional maturity, consistent with deposition in forearc to backarc basin settings. Detrital zircon U-Pb geochronology yields maximum depositional ages ranging from ca. 505 Ma to ca. 402 Ma and reveals an overall northward-younging trend across the accretionary complex. Variations in detrital zircon age spectra and Hf isotopic compositions indicate distinct provenance signatures and temporal changes in sediment supply. These data demonstrate that subduction of the North Altyn Ocean initiated before ca. 540 Ma and persisted with a southern-dipping polarity until at least ca. 419 Ma, as indicated by the predominance of detritus from a southern sediment source (Central Altyn Terrane). A significant provenance shift to bidirectional sediment input occurred between ca. 419 Ma and ca. 402 Ma, recording the onset of amalgamation between the North and Central Altyn terranes. Furthermore, our new provenance data reveal the presence of an Ediacaran intraoceanic arc and provide the first sedimentary evidence linking it to the South Altyn orogenesis, thereby constraining the timing of amalgamation and exhumation across the entire Altyn orogen. The diverse geological record preserved in the North Altyn accretionary complex highlights its dominant role in unraveling the subduction evolution of the Proto-Tethys Ocean and the construction of ancient orogenic systems.</span>",
+    "source": "GSA Bulletin Advance Access",
+    "date": "2026-10-06",
+    "sent": true
+  },
+  {
+    "id": "https://pubs.geoscienceworld.org/gsa/gsabulletin/article/doi/10.1130/B38986.1/789673/The-role-of-Te-Bi-melts-in-controlling-gold",
+    "title": "The role of Te-Bi melts in controlling gold enrichment: Insights from the Yuerya gold deposit in the North China Craton",
+    "link": "https://pubs.geoscienceworld.org/gsa/gsabulletin/article/doi/10.1130/B38986.1/789673/The-role-of-Te-Bi-melts-in-controlling-gold",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\">The Yuerya gold deposit, located in the northern North China Craton, contains abundant Te-Bi minerals that coexist with gold and therefore provides an ideal natural laboratory for addressing the mechanisms by which Te-Bi elements control the migration, enrichment, and precipitation of gold, particularly the processes by which Te-Bi efficiently extract gold and promote precipitation of native gold. Based on mineral assemblages, ore textures, and vein crosscutting relationships, the deposit is divided into three stages: (I) K-feldspar–quartz–pyrite, (II) quartz–pyrite–native gold, and (III) quartz-calcite. Native gold commonly coexists with a variety of Te-Bi minerals in stages I and II. In each stage, pyrite is further subdivided into two generations, with native gold and Te-Bi minerals precipitated within pyrite rims, particularly along rims and fractures. Geochemically, Au shows strong positive correlations with Te and Bi, whereas its correlation with As is weak, in contrast to most orogenic gold deposits in China. Droplet-shaped Te-Bi mineral aggregates and continuous compositional variations within their solid solutions were observed. These features are interpreted to suggest the former existence of Te-Bi melts, which likely played a role as efficient scavengers of Au in the complex Au-Ag-Te-Bi-Pb system. Pyrite δ<sup>34</sup>S values are consistent with a magmatic sulfur source. Thermodynamic simulations indicate an evolution of an ore-forming system from a weakly reducing, slightly acidic environment to a strongly reducing, near-neutral setting. A zircon U-Pb age obtained from biotite-bearing monzogranite (169.6 ± 0.7 Ma) is consistent with gold crystallization ages (169.4 ± 1.0 Ma). Gold enrichment in the Yuerya gold deposit was controlled by coupled magmatic and hydrothermal processes. Elevated magma oxygen fugacity favored the retention of Te-Bi in the residual magma. The extensive partitioning of Te-Bi into magmatic-hydrothermal fluids occurred during late-stage magma crystallization. Subsequently, immiscibility may have led to the formation of Te-Bi melts, which effectively scavenged Au from the hydrothermal fluid. Overall, the magma supplied the ore-forming metals, whereas the Te-Bi melt played a role in concentrating and precipitating native gold.</span>",
+    "source": "GSA Bulletin Advance Access",
+    "date": "2026-10-06",
+    "sent": true
+  },
+  {
+    "id": "https://pubs.geoscienceworld.org/gsa/gsabulletin/article/doi/10.1130/B39253.1/789672/Prototype-basin-reconstruction-during-deposition",
+    "title": "Prototype basin reconstruction during deposition of the Xiamaling Formation, North China Craton: Implications for the Mesoproterozoic paleoenvironment and atmospheric-oceanic oxygenation",
+    "link": "https://pubs.geoscienceworld.org/gsa/gsabulletin/article/doi/10.1130/B39253.1/789672/Prototype-basin-reconstruction-during-deposition",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\">The Xiamaling Formation, located on the northern margin of the North China Craton (Yanliao Basin), represents the earliest stratigraphic succession in North China recording the Mesoproterozoic Oxygenation Event, thereby attracting widespread research interest. However, intense post-depositional modification has generated considerable debate over whether the formation was deposited in a large, open marine basin or a restricted, small basin. Resolving this paleogeographic uncertainty is crucial for accurately assessing the formation’s global paleoenvironmental significance. By integrating lithostratigraphic characteristics, stratigraphic stacking patterns, spatial distribution of facies belts, basin-filling architecture, and magnetic fabric data, this study identifies shore sandstones along the southern proto-basin margin, reconstructs the basin-filling architecture, and constrains sediment provenance and transgression directions. Our results indicate that the Xiamaling Formation was deposited in a large marine basin connected to the open ocean, rather than in a small, enclosed basin, providing critical constraints for understanding the global implications of the Mesoproterozoic Oxygenation Event as recorded in the Xiamaling Formation.</span>",
+    "source": "GSA Bulletin Advance Access",
+    "date": "2026-10-06",
+    "sent": true
+  },
+  {
+    "id": "https://pubs.geoscienceworld.org/gsa/gsabulletin/article/doi/10.1130/B38808.1/789671/Metallogenic-model-of-potassium-bearing-brine",
+    "title": "Metallogenic model of potassium-bearing brine deposits in nonsalt reservoirs of China and analogues in sedimentary basins worldwide",
+    "link": "https://pubs.geoscienceworld.org/gsa/gsabulletin/article/doi/10.1130/B38808.1/789671/Metallogenic-model-of-potassium-bearing-brine",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\">Potash salts and potassium (K)-rich brines are essential raw materials for potash fertilizer production and play a vital role in safeguarding global resources and food security. Two types of K-bearing brines are widely distributed in evaporite basins: shallow salt-lake intercrystalline brines hosted in salt reservoirs and deep Meso-Cenozoic clastic pore brines within nonsalt reservoirs. The recently identified deep sand-gravel brine (SGB) in the piedmont alluvial fans of the Altyn Tagh–Saishiteng Mountains on the northern Tibetan Plateau constitutes a newly discovered brine-type potash resource hosted in nonsalt reservoirs. Based on hydrogeochemical investigations, isotopic tracing, and mass-balance calculations, this study clarifies the provenance and metallogenic mechanism of SGB and compares the metallogenic models of salt lake brines (salt reservoirs) and clastic pore brines (nonsalt reservoirs) in worldwide sedimentary basins. Our results reveal that the SGB on the northern Tibetan Plateau is of meteoric origin and shares similar geochemical signatures with adjacent intercrystalline brines in the corresponding playas. Constrained by salinity and gravity gradients as well as tectonic compression, intercrystalline brines in the terminal salt lakes supply abundant K to the sand-gravel reservoirs in the pediment alluvial fans, forming an integrated fan–lake recharge mineralization system. Systematic variations in Sr concentrations and <sup>87</sup>Sr/<sup>86</sup>Sr ratios document solute inheritance associated with paleolake depocenter migration. These analyses clarify a dual inheritance recharge model for the genetic relationship between paleolake-derived intercrystalline brines and the resulting SGB. This model clarifies the genetic linkage of K-bearing brines in both salt reservoirs and nonsalt reservoirs in the sedimentary basins of China (the Kuqa, Lop Nur, Sichuan, and Jianghan basins) and around the world (Altiplano–Puna Plateau, North America, and Saudi Arabia) and provides a new theoretical basis for deep potash brine exploration in analogous sedimentary basins.</span>",
+    "source": "GSA Bulletin Advance Access",
+    "date": "2026-10-06",
+    "sent": true
+  },
+  {
+    "id": "https://pubs.geoscienceworld.org/gsa/gsabulletin/article/doi/10.1130/B39086.1/789670/Evolution-of-the-Au-Sb-W-mineralization-system",
+    "title": "Evolution of the Au-Sb-W mineralization system: Evidence from geochronology, mineralogy, fluid inclusions, and H-O-S isotopes of the Xingfengshan and Xiangxi deposits, Jiangnan Orogenic Belt, South China",
+    "link": "https://pubs.geoscienceworld.org/gsa/gsabulletin/article/doi/10.1130/B39086.1/789670/Evolution-of-the-Au-Sb-W-mineralization-system",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\">The Jiangnan Orogenic Belt in South China hosts numerous world-class Au-Sb-W deposits, with different mineralization styles, including Au-W and Au-Sb. Yet the genetic link and fluid evolution processes among these mineralization types and their genetic association with magmatic processes remain poorly constrained. This study integrates field observations, <sup>40</sup>Ar/<sup>39</sup>Ar geochronology, fluid inclusion, and H-O-S isotope analyses of the Xingfengshan Au-W and Xiangxi Au-Sb deposits in the central in situ orogenic belt to document the fluid evolution and their genetic association with magmatism. Results show that sheeted quartz vein Au-W mineralization at Xingfengshan occurred at 212.9–204.6 Ma, while Au-Sb mineralization at Xiangxi formed at 207.3–203.1 Ma, both coeval with the adjacent Late Triassic Baimashan reduced granitic complex (218.0–204.5 Ma). Fluid inclusion data reveal a transition in ore-forming fluids from medium–high temperature, medium–low salinity H<sub>2</sub>O-NaCl ± CO<sub>2</sub> ± CH<sub>4</sub> systems (221–420 °C, 1.2–8.5 wt% NaCl eqv) at Xingfengshan to lower-temperature H<sub>2</sub>O-NaCl-CO<sub>2</sub> systems (232–335 °C, 0.2–8.8 wt% NaCl eqv) at Xiangxi. Hydrogen and oxygen isotope compositions (δD = −103.6‰ to −50.1‰ and δ<sup>18</sup>O = 6.6‰ to 12.1‰ for the Xingfengshan Au-W deposit; δD = −59.6‰ to −51.9‰ and δ<sup>18</sup>O = 7.5‰ to 8.9‰ for the Xiangxi Au-Sb deposit) indicate a major contribution from magmatic fluids for both mineralization types, with only a minor amount of meteoric fluid involved. Sulfur isotope compositions show that the dominant magmatic fluid signature was buffered by fluid-rock interaction, as the high-temperature Xingfengshan deposit has negative δ<sup>34</sup>S values (−11.4‰ to −0.6‰), whereas the Xiangxi deposit shows near-zero δ<sup>34</sup>S values (−3.9‰ to 1.1‰). The systematic spatial-temporal and geochemical changes from the high-temperature Au-W to lower-temperature Au-Sb mineralization record an evolving magmatic-hydrothermal system and provide robust evidence for a unified magmatic-hydrothermal origin of the diverse Au-Sb-W mineralization in the Jiangnan Orogenic Belt.</span>",
+    "source": "GSA Bulletin Advance Access",
+    "date": "2026-10-06",
+    "sent": true
+  },
+  {
+    "id": "http://doi.org/10.1093/nsr/nwag630",
+    "title": "The ocean within planetary boundaries: complexity, tipping risks and pathways to a safe operating space",
+    "link": "https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwag630/8868915?rss=1",
+    "authors": [],
+    "summary": "",
+    "source": "National Science Review Advance Access",
+    "date": "2026-10-06",
+    "sent": true
+  },
+  {
+    "id": "http://doi.org/10.1093/nsr/nwag618",
+    "title": "Dexterous Manipulation with Robotic Hands: A Contact-Centric Perspective from Explicit Contact Models to Learned Policies",
+    "link": "https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwag618/8865302?rss=1",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\"><div class=\"boxTitle\">Abstract</div>Dexterous manipulation with multi-fingered robotic hands enables versatile object handling through coordinated high-dimensional actuation and rich physical interaction. However, reliable contact-rich behavior remains difficult to achieve because contact constraints are non-smooth, sensing is often partial, and interaction dynamics are hybrid with discrete contact modes coupled to continuous motion and force. This review adopts a contact-centric perspective, defining dexterous manipulation as the closed-loop formation, maintenance, and reconfiguration of finger-object contacts during grasping and in-hand manipulation. From this perspective, the transition from explicit contact models to learned policies is interpreted not as a replacement of physics by data, but as a redistribution of contact knowledge across explicit models, learned representations, and feedback-driven adaptation, while explicit physics remains a complementary source of structure. Model-based methods are reviewed through contact modeling, contact-constrained planning and optimization, and feedback execution. Learning-based approaches are organized through a contact-centered taxonomy covering supervision source, contact-state observability, action and contact representation, transfer pathways, and the transition from task-specific policies to dexterous foundation models. Hybrid methods are reviewed as mechanisms for incorporating physical priors, optimization, and safety into learned systems. Comparative analysis suggests that unified foundation models are an important emerging direction and highlights the remaining challenges in multimodal contact data, cross-embodiment transfer, and reliable real-world deployment.</span>",
+    "source": "National Science Review Advance Access",
+    "date": "2026-10-05",
+    "sent": true
+  },
+  {
     "id": "https://www.nature.com/articles/s41561-026-02113-y",
     "title": "Ocean acidification reshapes phytoplankton phosphorus metabolism under phosphate-limited conditions",
     "link": "https://www.nature.com/articles/s41561-026-02113-y",
