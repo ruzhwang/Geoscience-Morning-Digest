@@ -1,5 +1,366 @@
 [
   {
+    "id": "https://www.nature.com/articles/s41561-026-02138-3",
+    "title": "Dry pebble rain could have delivered water to Earth through hydrogen reduction of iron oxide",
+    "link": "https://www.nature.com/articles/s41561-026-02138-3",
+    "authors": [],
+    "summary": "Nature Geoscience, Published online: 12 October 2026; <a href=\"https://www.nature.com/articles/s41561-026-02138-3\">doi:10.1038/s41561-026-02138-3</a>Much of the water on Earth could have been produced from dry silicate pebbles falling through the hot, hydrogen-rich primordial atmosphere as the planet formed. High-temperature experiments in streams of pure hydrogen demonstrate that the reduction of iron oxide in the silicates can produce water vapour in minutes or hours, and suggest that water production on Earth-sized exoplanets should be widespread.",
+    "source": "Nature Geoscience",
+    "date": "2026-10-12",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41561-026-02125-8",
+    "title": "An abrupt shift towards a hotter and drier climate regime in the Western Eurasian Steppe",
+    "link": "https://www.nature.com/articles/s41561-026-02125-8",
+    "authors": [
+      "Jinling Piao",
+      "Jong-Seong Kug",
+      "Wen Chen",
+      "Mi-Kyung Sung",
+      "Shangfeng Chen",
+      "Zhikai Wang",
+      "Qingyu Cai",
+      "Danbi Lee"
+    ],
+    "summary": "Nature Geoscience, Published online: 12 October 2026; <a href=\"https://www.nature.com/articles/s41561-026-02125-8\">doi:10.1038/s41561-026-02125-8</a>The Western Eurasian Steppe has undergone an abrupt and persistent transition to a hotter and drier summer climate that exceeds the range of natural variability, driven by external climate forcing and amplified by internal variability and land–atmosphere feedbacks, according to observations and Earth system model simulations.",
+    "source": "Nature Geoscience",
+    "date": "2026-10-12",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-78310-5",
+    "title": "Continuous-time noise mitigation in analogue quantum simulation",
+    "link": "https://www.nature.com/articles/s41467-026-78310-5",
+    "authors": [
+      "Gabriele Bressanini",
+      "Yue Ma",
+      "Michael Hanks",
+      "Hyukjoon Kwon",
+      "M. S. Kim"
+    ],
+    "summary": "Nature Communications, Published online: 12 October 2026; <a href=\"https://www.nature.com/articles/s41467-026-78310-5\">doi:10.1038/s41467-026-78310-5</a>Mitigating errors in analogue quantum simulators - that is, reducing noise-induced bias in expectation values - would greatly improve their operation and scalability. Here, the authors propose a time-continuous error cancellation protocol, based on introducing an auxiliary system and engineering the joint dissipation of the new, extended system.",
+    "source": "Nature Communications",
+    "date": "2026-10-12",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-78115-6",
+    "title": "Block-fitness modeling of the global air mobility network",
+    "link": "https://www.nature.com/articles/s41467-026-78115-6",
+    "authors": [
+      "Giulia Fischetti",
+      "Anna Mancini",
+      "Giulio Cimini",
+      "Jessica T. Davis",
+      "Abby O. K. Leung",
+      "Alessandro Vespignani",
+      "Guido Caldarelli"
+    ],
+    "summary": "Nature Communications, Published online: 12 October 2026; <a href=\"https://www.nature.com/articles/s41467-026-78115-6\">doi:10.1038/s41467-026-78115-6</a>Origin-destination data on air travel are essential for studying global mobility and epidemic risk but are often proprietary. Here, authors introduce a maximum-entropy network method that reconstructs air passenger flows from open data and enables accurate reproduction of epidemic dynamics.",
+    "source": "Nature Communications",
+    "date": "2026-10-12",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-78544-3",
+    "title": "Author Correction: UNCOVERseq enables sensitive and controlled gene editing off-target nomination across CRISPR-Cas modalities and systems",
+    "link": "https://www.nature.com/articles/s41467-026-78544-3",
+    "authors": [
+      "Kyle J. Kinney",
+      "Kun Jia",
+      "He Zhang",
+      "Ellen Schmaljohn",
+      "Thomas Osborne",
+      "Bernice Thommandru",
+      "Karthik Murugan",
+      "Andrea Sánchez-Peña",
+      "Sean West",
+      "Shengyao Chen",
+      "Roshani Codipilly",
+      "Morgan Sturgeon",
+      "Rolf Turk",
+      "Matthew S. McNeill",
+      "Mark Behlke",
+      "Ashley Jacobi",
+      "M. Kyle Cromer",
+      "Garrett Rettig",
+      "Gavin L. Kurgan"
+    ],
+    "summary": "Nature Communications, Published online: 12 October 2026; <a href=\"https://www.nature.com/articles/s41467-026-78544-3\">doi:10.1038/s41467-026-78544-3</a>Author Correction: UNCOVERseq enables sensitive and controlled gene editing off-target nomination across CRISPR-Cas modalities and systems",
+    "source": "Nature Communications",
+    "date": "2026-10-12",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-78369-0",
+    "title": "Neuronal signatures of successful one-shot memory in mid-level visual cortex",
+    "link": "https://www.nature.com/articles/s41467-026-78369-0",
+    "authors": [
+      "Grace F. DiRisio",
+      "Cheng Xue",
+      "Marlene R. Cohen"
+    ],
+    "summary": "Nature Communications, Published online: 12 October 2026; <a href=\"https://www.nature.com/articles/s41467-026-78369-0\">doi:10.1038/s41467-026-78369-0</a>Neural mechanisms underlying one-shot memory are not fully understood. In this study, macaque monkeys were trained to perform a continuous image recognition task and simultaneously recorded from groups of neurons in area V4. The authors found that the perceptual building blocks of fast, high-capacity memory are present in mid-level sensory cortex.",
+    "source": "Nature Communications",
+    "date": "2026-10-12",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-78397-w",
+    "title": "The mechanosensitive PIEZO1 channel promotes CD54<sup>+</sup>/iNOS<sup>+</sup> neutrophil expansion in pulmonary fibrosis",
+    "link": "https://www.nature.com/articles/s41467-026-78397-w",
+    "authors": [
+      "Lili Zhuang",
+      "Jia Shi",
+      "Zhangmei Lin",
+      "Xinyuan Ruan",
+      "Yichao Qian",
+      "Ruiting Su",
+      "Xuexin Zhong",
+      "Huijin Zou",
+      "Yumeng Wang",
+      "Shuyi Wang",
+      "Yimei Lai",
+      "Yubiao Guo",
+      "Niansheng Yang",
+      "Hui Zhang"
+    ],
+    "summary": "Nature Communications, Published online: 12 October 2026; <a href=\"https://www.nature.com/articles/s41467-026-78397-w\">doi:10.1038/s41467-026-78397-w</a>Neutrophils have been shown to be involved in pulmonary fibrosis (PF). Here, the authors identify an expanded pro-inflammatory neutrophil state marked by CD54 in human PF and by iNOS in murine PF, demonstrate that iNOS+ neutrophils promote PF whilst Arg+ neutrophils are less effective, and show that mechanical activation of the PIEZO1 channel contributes to the promotion of PF by CD54 + /iNOS+ neutrophils.",
+    "source": "Nature Communications",
+    "date": "2026-10-12",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-78418-8",
+    "title": "Serine-65 phosphorylated ubiquitin associates with soluble tau and seeding activity in Alzheimer’s disease",
+    "link": "https://www.nature.com/articles/s41467-026-78418-8",
+    "authors": [
+      "Tingxiang Yan",
+      "Xu Hou",
+      "Jens O. Watzlawik",
+      "Dennis W. Dickson",
+      "Fabienne C. Fiesel",
+      "Wolfdieter Springer"
+    ],
+    "summary": "Nature Communications, Published online: 12 October 2026; <a href=\"https://www.nature.com/articles/s41467-026-78418-8\">doi:10.1038/s41467-026-78418-8</a>Not all selective markers of seeding-competent Tau are known. Here, the authors identify pS65-Ub-associated tau linked to pathological Tau spreading and elevated in Alzheimer’s disease. Removal of pS65-Ub reduces tau seeding activity.",
+    "source": "Nature Communications",
+    "date": "2026-10-12",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-78635-1",
+    "title": "Interpretable AI-guided discovery of degradable ionizable lipids with enhanced hepatic mRNA delivery in vivo",
+    "link": "https://www.nature.com/articles/s41467-026-78635-1",
+    "authors": [
+      "Zhen Zhang",
+      "Yongbo Ren",
+      "Deqiang Kong",
+      "Jindong Feng",
+      "Kaiyi Hu",
+      "Xinyun Xu",
+      "Fukang Deng",
+      "Peixia Li",
+      "Jiuao Wang",
+      "Wenhui Huang",
+      "Guodan Wei",
+      "Yang Su",
+      "Ying Tan",
+      "Shuixing Zhang",
+      "Xiaodan Sun",
+      "Feiyu Kang",
+      "Hao Yan"
+    ],
+    "summary": "Nature Communications, Published online: 12 October 2026; <a href=\"https://www.nature.com/articles/s41467-026-78635-1\">doi:10.1038/s41467-026-78635-1</a>Ionizable-lipid discovery remains largely empirical. Here, the authors integrate interpretable machine learning with modular degradable lipid chemistry to prioritize candidates for experimental testing and identify a lead lipid for hepatic mRNA delivery.",
+    "source": "Nature Communications",
+    "date": "2026-10-12",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-78225-1",
+    "title": "The central coupler of ClpXP controls intersubunit communication and couples intrasubunit chemical energy with force generation",
+    "link": "https://www.nature.com/articles/s41467-026-78225-1",
+    "authors": [
+      "Robert P. Sosa",
+      "Alfredo Jose Florez Ariza",
+      "Jeonghoon Kim",
+      "Alexander B. Tong",
+      "Zhen-Hui Kang",
+      "Alicia Li",
+      "John Kuriyan",
+      "Carlos Bustamante"
+    ],
+    "summary": "Nature Communications, Published online: 12 October 2026; <a href=\"https://www.nature.com/articles/s41467-026-78225-1\">doi:10.1038/s41467-026-78225-1</a>What is the mechanism by which ClpXP utilizes ATP to unfold proteins? Using single-molecule, biochemical and structural methods, the authors find that the central coupler facilitates the conversion of chemical energy into a quick motion of substrate translocating loops to generate force.",
+    "source": "Nature Communications",
+    "date": "2026-10-12",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-026-04138-y",
+    "title": "Physics-informed deep learning links geodetic data and fault friction",
+    "link": "https://www.nature.com/articles/s43247-026-04138-y",
+    "authors": [
+      "Rikuto Fukushima",
+      "Masayuki Kano",
+      "Kazuro Hirahara",
+      "Makiko Ohtani"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 12 October 2026; <a href=\"https://www.nature.com/articles/s43247-026-04138-y\">doi:10.1038/s43247-026-04138-y</a>Spatially variable frictional properties along a fault can be estimated using a physics-informed neural network approach that enables physics-consistent slip modelling, as tested on the 2010 Bungo slow slip event in southwest Japan.",
+    "source": "Communications Earth & Environment",
+    "date": "2026-10-12",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-026-04147-x",
+    "title": "Baltic Sea sediment bacterial communities show asymmetric and incomplete recovery after reciprocal temperature change translocation",
+    "link": "https://www.nature.com/articles/s43247-026-04147-x",
+    "authors": [
+      "Songjun Li",
+      "Romana Salis",
+      "Jessica Alice Wallbank",
+      "Ida Krogsgaard Svendsen",
+      "Cheng Chang",
+      "Laura Seidel",
+      "Johanna Sunde",
+      "Iryna Rula",
+      "Emelie Nilsson",
+      "Mahboubeh Rahmati Abkenar",
+      "Samuel Hylander",
+      "Marcelo Ketzer",
+      "Anders Forsman",
+      "Mark Dopson"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 12 October 2026; <a href=\"https://www.nature.com/articles/s43247-026-04147-x\">doi:10.1038/s43247-026-04147-x</a>Ocean warming will alter bacterial communities of Baltic Sea coastal sediments and associated biogeochemical cycles, according to translocation experiments of Baltic Sea sediment.",
+    "source": "Communications Earth & Environment",
+    "date": "2026-10-12",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-026-04137-z",
+    "title": "Social vulnerability amplifies global inequality in urban heat risk",
+    "link": "https://www.nature.com/articles/s43247-026-04137-z",
+    "authors": [
+      "Xuewen Lei",
+      "Qingyan Meng",
+      "Qikang Zhao",
+      "Ming Luo",
+      "Linlin Zhang",
+      "Chuanglin Fang"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 11 October 2026; <a href=\"https://www.nature.com/articles/s43247-026-04137-z\">doi:10.1038/s43247-026-04137-z</a>Urban heat risk increased worldwide during 2000–2019, with growth in the Global South nearly five times that in the Global North, and conventional approaches underestimate North-South inequality by nearly 65 percent, according to an analysis of 1,029 global cities.",
+    "source": "Communications Earth & Environment",
+    "date": "2026-10-11",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-026-04133-3",
+    "title": "Episodic isolation of the Arctic Mediterranean from the North Atlantic during late Pleistocene glacials",
+    "link": "https://www.nature.com/articles/s43247-026-04133-3",
+    "authors": [
+      "Agathe Ollive",
+      "Walter Geibert",
+      "Jens Matthiessen",
+      "Julia Loftfield",
+      "Johannes Lachner",
+      "Dominik Koll",
+      "Henry Patton",
+      "Christoph Vogt",
+      "Florian Adolphi"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 11 October 2026; <a href=\"https://www.nature.com/articles/s43247-026-04133-3\">doi:10.1038/s43247-026-04133-3</a>Highly dynamic coupling between the Arctic Mediterranean and the North Atlantic during late Pleistocene glaciations; as shown using Beryllium isotopes from sediment cores from the Arctic Ocean, the Nordic Seas and the North Atlantic.",
+    "source": "Communications Earth & Environment",
+    "date": "2026-10-11",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-026-04091-w",
+    "title": "Impact of climate change on the photovoltaic power potential in Sweden across 21st century",
+    "link": "https://www.nature.com/articles/s43247-026-04091-w",
+    "authors": [
+      "Tianqi Ruan",
+      "Fuxing Wang",
+      "Björn Laumert",
+      "Aitor Aldama-Campino",
+      "Wujun Wang"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 11 October 2026; <a href=\"https://www.nature.com/articles/s43247-026-04091-w\">doi:10.1038/s43247-026-04091-w</a>Future climate change is projected to increase solar photovoltaic power generation in Sweden by about 5% compared to historical periods, while optimized panel tilt can boost output by 3 to 6%; according to a validated installation model incorporating air temperature, solar radiation, and snow conditions across four cities under future climate scenarios.",
+    "source": "Communications Earth & Environment",
+    "date": "2026-10-11",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012825226003351",
+    "title": "The Neogene evolution of the Amazon Basin: reconciling continental and marine provenance records",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012825226003351?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 11 October 2026<b>Source:</b> Earth-Science ReviewsAuthor(s): Gabriel R. Moizinho, Germain Bayon, Martin Roddaz, Anne Trinquier, Marie-Laure Rouget, Marina Rabineau, Daniel Aslanian, Elton L. Dantas, Roberto V. Santos",
+    "source": "ScienceDirect Publication: Earth-Science Reviews",
+    "date": "2026-10-13",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012825226003260",
+    "title": "Historical biogeography of Middle-East mangroves: paleobotanical evidence",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012825226003260?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 11 October 2026<b>Source:</b> Earth-Science ReviewsAuthor(s): Valentí Rull",
+    "source": "ScienceDirect Publication: Earth-Science Reviews",
+    "date": "2026-10-13",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026JB034098",
+    "title": "The Role of Slab Folding in Modulating the Landscape Evolution of Ribbon Collision",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026JB034098?af=R",
+    "authors": [
+      "Andrés Felipe Rodríguez Corcho, \nClaire Mallard, \nSara Polanco, \nCamilo Montes, \nLouis Moresi"
+    ],
+    "summary": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 10, October 2026.",
+    "source": "Wiley: Journal of Geophysical Research: Solid Earth: Table of Contents",
+    "date": "2026-10-11",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0016703726006435",
+    "title": "Source evolution controls the molybdenum isotope composition of Archean continental crust",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0016703726006435?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 11 October 2026<b>Source:</b> Geochimica et Cosmochimica ActaAuthor(s): Eric D. Vandenburg, Oliver Nebel, Laura M. Spencer, Marc-Alban Millet, R. Hugh Smithies, Peter A. Cawood, Alexandra Churchus, Wenli Liang, Emilie Bruand, Jean-François Moyen, Alex McCoy-West, Priyardarshi Chowdhury",
+    "source": "ScienceDirect Publication: Geochimica et Cosmochimica Acta",
+    "date": "2026-10-13",
+    "sent": true
+  },
+  {
+    "id": "http://doi.org/10.1093/nsr/nwag635",
+    "title": "Air-gap engineering enabled ultrafast 9-bit ferroelectric semi-gate transistor array for high-efficiency image denoising",
+    "link": "https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwag635/8910542?rss=1",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\"><div class=\"boxTitle\">Abstract</div>The insufficient lateral electric field gradient limits the programming/erasing speed of conventional semi-floating gate transistors, while charge leakage leads to poor data retention and compromised operating characteristics. Here we design a ferroelectric semi-gate (FSG) transistor featuring a triangular air gap adjacent to the drain region. The device exhibits an as-programmed on–off ratio exceeding 10<sup>7</sup>, remaining above 10<sup>5</sup> after 11 weeks, and a memory window of approximately 6 V. The localized lateral electric field accelerates program and erase operations to 60 ns and 75 ns, respectively. The spontaneous polarization field of the ferroelectric HfZrO layer strengthens charge retention in the HfO<sub>2</sub> charge-trapping layer, enabling robust nonvolatile memory performance with a retention time exceeding 10<sup>6</sup> s. This synergistic integration of air-gap engineering and ferroelectric polarization yields an optimal trade-off between speed, retention and multilevel operation. By exploiting its superior multilevel capability with 9-bit distinguishable current states, we realize Ising-model-based image denoising using a 32 × 32 transistor array. These FSG transistors show promising potential for high-speed, low-power random-access memory applications.</span>",
+    "source": "National Science Review Advance Access",
+    "date": "2026-10-12",
+    "sent": true
+  },
+  {
+    "id": "http://doi.org/10.1093/nsr/nwag632",
+    "title": "Quantal PCR: A Calibrator-Free Method for Determining the Unit for Nucleic Acid Quantification",
+    "link": "https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwag632/8910537?rss=1",
+    "authors": [],
+    "summary": "",
+    "source": "National Science Review Advance Access",
+    "date": "2026-10-12",
+    "sent": true
+  },
+  {
+    "id": "http://doi.org/10.1093/nsr/nwag637",
+    "title": "Global hotspots and trends of ecological water scarcity in river basins",
+    "link": "https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwag637/8910535?rss=1",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\"><div class=\"boxTitle\">Abstract</div>Healthy freshwater ecosystems are crucial for sustainable development, yet they face growing threats from unsustainable water use. However, current water scarcity metrics focus almost exclusively on human demand, overlooking whether sufficient water remains to sustain ecosystems. We address this gap by presenting the first evaluation of ecological water scarcity (EWS) across 1,182 river basins, introducing a novel indicator that recognizes ecosystems as legitimate water users to those of humans. Our findings reveal that in the 2000s, 412 basins (35% globally; 17% annual, 18% seasonal) experienced EWS, with affected areas expanding by 10 million km² since the 1950s. Human intervention intensified EWS in 13% of basins and caused 53% of seasonal and 60% of annual EWS cases. By the 2050s, affected basins range from 392 under RCP2.6–SSP1 to 416 under RCP8.5–SSP5, with persistent hotspots in regions of intensive water use. These findings show that climate mitigation can reduce future EWS risk, but environmental flow protection, water-use efficiency, water recycling, ecologically informed infrastructure operation and ecosystem restoration are also needed to safeguard freshwater ecosystems.</span>",
+    "source": "National Science Review Advance Access",
+    "date": "2026-10-12",
+    "sent": true
+  },
+  {
     "id": "https://www.nature.com/articles/s41467-026-78617-3",
     "title": "Plant invasions are associated with lower community stability at multiple spatial scales",
     "link": "https://www.nature.com/articles/s41467-026-78617-3",
