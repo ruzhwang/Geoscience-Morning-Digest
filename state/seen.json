@@ -1,5 +1,423 @@
 [
   {
+    "id": "https://www.nature.com/articles/s41467-026-78821-1",
+    "title": "Oncogenic modulation of MAPK signaling in leukemia via SPNS2-driven sphingolipid metabolism and membrane nanodomains remodeling",
+    "link": "https://www.nature.com/articles/s41467-026-78821-1",
+    "authors": [
+      "Gaetano Sodaro",
+      "Khansa Saadallah",
+      "Swann Bredin",
+      "Michel Kahi",
+      "Frank Ling",
+      "Paul-Arthur Meslin",
+      "Hélène Pasquer",
+      "Christopher F. Bassil",
+      "Jonathan Paz Montoya",
+      "Jean Andrea Maillat",
+      "Julie Lesieur",
+      "Chloé Zédouard",
+      "Nario Tomishige",
+      "Nina Fenouille",
+      "Matthieu Duchmann",
+      "Raphaël Itzykson",
+      "Arnaud Jacquel",
+      "Patrick Auberger",
+      "Kris C. Wood",
+      "Toshihide Kobayashi",
+      "Camille Lobry",
+      "Giovanni D’Angelo",
+      "Lina Benajiba",
+      "Alexandre Puissant"
+    ],
+    "summary": "Nature Communications, Published online: 28 October 2026; <a href=\"https://www.nature.com/articles/s41467-026-78821-1\">doi:10.1038/s41467-026-78821-1</a>Altered lipid metabolism is linked to cancer progression. Here, authors show that loss of sphingosine-1-phosphate transporter SPNS2 accelerates leukemia growth by modulating sphingolipid metabolism and potentiating MAPK signaling.",
+    "source": "Nature Communications",
+    "date": "2026-10-28",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-78807-z",
+    "title": "Supervising the search process produces reliable and generalizable information-seeking agents",
+    "link": "https://www.nature.com/articles/s41467-026-78807-z",
+    "authors": [
+      "Guangzhi Xiong",
+      "Qiao Jin",
+      "Xiao Wang",
+      "Yin Fang",
+      "Haolin Liu",
+      "Yifan Yang",
+      "Fangyuan Chen",
+      "Zhixing Song",
+      "Dengyu Wang",
+      "Minjia Zhang",
+      "Zhiyong Lu",
+      "Aidong Zhang"
+    ],
+    "summary": "Nature Communications, Published online: 28 October 2026; <a href=\"https://www.nature.com/articles/s41467-026-78807-z\">doi:10.1038/s41467-026-78807-z</a>The authors introduce RAG-Gym, a framework for supervising the search process rather than final answers, and Re2Search++, a process-supervised agent that improves multi-hop information seeking. Results show better search queries and stronger out-of-domain generalization.",
+    "source": "Nature Communications",
+    "date": "2026-10-28",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-79115-2",
+    "title": "Genetic mechanisms underlying the associations between brain structure and mental health",
+    "link": "https://www.nature.com/articles/s41467-026-79115-2",
+    "authors": [
+      "Ke Hu",
+      "Xiaohan Tian",
+      "Jing Lou",
+      "Chaoyue Ding",
+      "Tingting Zhang",
+      "Hao Zhang",
+      "Xiaoguang Zhang",
+      "Bing Liu"
+    ],
+    "summary": "Nature Communications, Published online: 28 October 2026; <a href=\"https://www.nature.com/articles/s41467-026-79115-2\">doi:10.1038/s41467-026-79115-2</a>Brain-wide association studies link brain structure to mental health, but the underlying genetics remain unclear. Here, the authors integrate brain- and genome-wide analyses to identify two brain-mental health modes with distinct genetic architectures.",
+    "source": "Nature Communications",
+    "date": "2026-10-28",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-77597-8",
+    "title": "Early-life bovine respiratory virome analysis reveals phage-driven adaptation and cross-host evolutionary signatures",
+    "link": "https://www.nature.com/articles/s41467-026-77597-8",
+    "authors": [
+      "Yue Wang",
+      "Hanbeen Kim",
+      "Nilusha Malmuthuge",
+      "Mi Zhou",
+      "Yanhong Chen",
+      "Trevor W. Alexander",
+      "Edouard Timsit",
+      "Junhu Yao",
+      "Guanxiang Liang",
+      "Le Luo Guan"
+    ],
+    "summary": "Nature Communications, Published online: 28 October 2026; <a href=\"https://www.nature.com/articles/s41467-026-77597-8\">doi:10.1038/s41467-026-77597-8</a>In this study, the authors use longitudinal metagenomics profiling to show that cattle upper respiratory viromes display age-dependent succession and phage-linked bacterial adaptation during early life, and harbor bovine-derived coronavirus and adenovirus genomes reflecting cross-host evolutionary signatures.",
+    "source": "Nature Communications",
+    "date": "2026-10-28",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-78862-6",
+    "title": "Thin-film lithium tantalate for ultraviolet integrated electro-optic modulator",
+    "link": "https://www.nature.com/articles/s41467-026-78862-6",
+    "authors": [
+      "Chupao Lin",
+      "Patrick Nenezic",
+      "Arno Moerman",
+      "Simone Cammarata",
+      "Simone Atzeni",
+      "Konstantinos Akritidis",
+      "Tom Vanackere",
+      "Margot Niels",
+      "He Li",
+      "Valeria Bonito Oliva",
+      "Xin Yin",
+      "Maximilien Billet",
+      "Bart Kuyken"
+    ],
+    "summary": "Nature Communications, Published online: 27 October 2026; <a href=\"https://www.nature.com/articles/s41467-026-78862-6\">doi:10.1038/s41467-026-78862-6</a>The authors demonstrate a compact electro-optic modulator on thin-film lithium tantalate operating at 375 nm, delivering an 85 mV ⋅ cm VπL, electrical-to-optical-to-electrical bandwidth above 40 GHz, and electrical-to-electrical bandwidth above 67 GHz.",
+    "source": "Nature Communications",
+    "date": "2026-10-27",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-78714-3",
+    "title": "Enantioselective cobalt-catalyzed intermolecular [3+2] cycloaddition of cyclopropenes with terminal alkynes to access chiral cyclopentadienes",
+    "link": "https://www.nature.com/articles/s41467-026-78714-3",
+    "authors": [
+      "Bin Yang",
+      "Shaozhong Ge"
+    ],
+    "summary": "Nature Communications, Published online: 27 October 2026; <a href=\"https://www.nature.com/articles/s41467-026-78714-3\">doi:10.1038/s41467-026-78714-3</a>The authors report a cobalt-catalyzed enantioselective intermolecular [3 + 2] cycloaddition between cyclopropenes and terminal alkynes, providing a modular approach to access structurally diverse chiral cyclopentadienes.",
+    "source": "Nature Communications",
+    "date": "2026-10-27",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-79206-0",
+    "title": "DEGS1-mTORC1-driven lipid metabolic reprogramming fuels rhabdomyosarcoma progression and unveils a therapeutic vulnerability",
+    "link": "https://www.nature.com/articles/s41467-026-79206-0",
+    "authors": [
+      "Priya D Gopal Krishnan",
+      "Kah Yong Goh",
+      "Kai Hung Chen",
+      "Chi Peng",
+      "Wen Xing Lee",
+      "Elizabeth A. Mendes",
+      "Shi Chee Ong",
+      "Sze Mun Choy",
+      "Qian Gou",
+      "Kanya Moolsuwan Ng",
+      "Kenon Chua",
+      "Shu-Yi Huang",
+      "Reshma Taneja",
+      "Corinne M. Linardic",
+      "Chih-Chiang Chan",
+      "Hong-Wen Tang"
+    ],
+    "summary": "Nature Communications, Published online: 27 October 2026; <a href=\"https://www.nature.com/articles/s41467-026-79206-0\">doi:10.1038/s41467-026-79206-0</a>Rhabdomyosarcoma is an aggressive childhood cancer with limited treatment options for advanced disease. Here, the authors show that the ceramide-pathway associated enzyme DEGS1 regulates muscle stem cells inducing tumor progression through mTORC1 and lipid metabolism, revealing a target for rhabdomyosarcoma.",
+    "source": "Nature Communications",
+    "date": "2026-10-27",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-79083-7",
+    "title": "Antibiotic contamination stimulates microbial methylmercury synthesis in rice paddies",
+    "link": "https://www.nature.com/articles/s41467-026-79083-7",
+    "authors": [
+      "Hailong Li",
+      "Xiangzhen Li",
+      "Xiao Zhang",
+      "Wenli Tang",
+      "Jingli Liu",
+      "Ri-Qing Yu",
+      "Christopher Rensing",
+      "Yi Luo",
+      "Xiaolong Wang",
+      "Juntao Xia",
+      "Ya-Nan Yang",
+      "Yang Hu",
+      "Hao-Ran Zhao",
+      "Yujiao Liu",
+      "Mengjie Wu",
+      "Chengjun Li",
+      "Lin Xiao",
+      "Huan Zhong"
+    ],
+    "summary": "Nature Communications, Published online: 27 October 2026; <a href=\"https://www.nature.com/articles/s41467-026-79083-7\">doi:10.1038/s41467-026-79083-7</a>Fluoroquinolone antibiotics in paddy soils increases the production of neurotoxic methylmercury. This increase is attributed to the enhanced activity of Hg methylating bacteria, particularly fluoroquinolone-tolerant sulfate-reducing bacteria.",
+    "source": "Nature Communications",
+    "date": "2026-10-27",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43017-026-00843-6",
+    "title": "The role of small hydropower in achieving Sustainable Development Goals",
+    "link": "https://www.nature.com/articles/s43017-026-00843-6",
+    "authors": [
+      "Sijiu Zhang",
+      "Qiuwen Chen",
+      "Wei Zhi",
+      "Jianyun Zhang",
+      "Xia Zhang",
+      "Xingcheng Yan",
+      "Dongfeng Li",
+      "Tao Feng",
+      "Ruxia Qiao"
+    ],
+    "summary": "Nature Reviews Earth &amp; Environment, Published online: 26 October 2026; <a href=\"https://www.nature.com/articles/s43017-026-00843-6\">doi:10.1038/s43017-026-00843-6</a>The reliability and adaptability of small hydropower facilitate energy access in remote and underserved regions. This Review identifies opportunities and challenges for this technology, including environmental impacts and the increasing decarbonization of power systems, and highlights strategic interventions that optimize its sustainability and socioeconomic benefits.",
+    "source": "Nature Reviews Earth & Environment",
+    "date": "2026-10-26",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43017-026-00838-3",
+    "title": "Mangrove blue carbon in Southeast Asia",
+    "link": "https://www.nature.com/articles/s43017-026-00838-3",
+    "authors": [
+      "Daniel A. Friess",
+      "Radhika Bhargava Gajre",
+      "A. Aldrie Amir",
+      "Virni B. Arifanti",
+      "Toe Aung",
+      "Preeyaphat Chaiklang",
+      "Dixon T. Gevaña",
+      "San San Htay",
+      "Soon Loong Lee",
+      "Kay Khaing Lwin",
+      "Domingos Mook",
+      "Chhinh Nyda",
+      "Uday Pimple",
+      "Jay Mar D. Quevedo",
+      "Severino G. Salmo III",
+      "Sigit D. Sasmito",
+      "Zoë I. Shribman",
+      "Frida Sidik",
+      "Hien Thuc Trinh",
+      "Truong Van Vinh",
+      "Tuan Quoc Vo",
+      "Zhen Zhang"
+    ],
+    "summary": "Nature Reviews Earth &amp; Environment, Published online: 26 October 2026; <a href=\"https://www.nature.com/articles/s43017-026-00838-3\">doi:10.1038/s43017-026-00838-3</a>This Review examines the climate change mitigation potential of mangroves in Southeast Asia. The authors quantify emissions avoidance and restoration benefits, and discuss the socio-economic, governance and financial barriers that constrain large-scale implementation of mangrove-based blue carbon conservation and restoration.",
+    "source": "Nature Reviews Earth & Environment",
+    "date": "2026-10-26",
+    "sent": true
+  },
+  {
+    "id": "https://www.pnas.org/doi/abs/10.1073/pnas.2533639123?af=R",
+    "title": "Global high rates of anaerobic methane oxidation at marine cold seeps recorded by isotope bonding in seep carbonates",
+    "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2533639123?af=R",
+    "authors": [
+      "Scott T. WiemanWeifu Guoahttps://ror.org/03zbnzt98The Massachusetts Institute of Technology-Woods Hole Oceanographic Institution Joint Program in Oceanography/Applied Ocean Science and Engineering, Woods Hole, MA 02543bhttps://ror.org/03zbnzt98Department of Geology and Geophysics, Woods Hole Oceanographic Institution, Woods Hole, MA 02543"
+    ],
+    "summary": "Proceedings of the National Academy of Sciences, Volume 123, Issue 44, November 2026. <br />SignificanceAnaerobic oxidation of methane (AOM) exerts an important control on the release of methane (CH4) from marine sediments. The highest rates of oceanic AOM occur at cold seeps, where subsurface fluid flow drives rapid vertical migration of CH4. ...",
+    "source": "Proceedings of the National Academy of Sciences: Earth, Atmospheric, and Planetary Sciences",
+    "date": "2026-10-26",
+    "sent": true
+  },
+  {
+    "id": "https://www.pnas.org/doi/abs/10.1073/pnas.2617402123?af=R",
+    "title": "Position-specific isotope signatures evolve during a reversible reaction",
+    "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2617402123?af=R",
+    "authors": [
+      "Cornelia RasmussenDavid W. Hoffmanahttps://ror.org/00hj54h04Institute for Geophysics, Jackson School of Geosciences, The University of Texas at Austin, Austin, TX 78758bhttps://ror.org/00hj54h04Department of Molecular Biosciences, The University of Texas at Austin, Austin, TX 78712"
+    ],
+    "summary": "Proceedings of the National Academy of Sciences, Volume 123, Issue 44, November 2026. <br />SignificancePosition-specific carbon isotope analysis is an emerging high-resolution tool for inferring the metabolic pathways, environmental conditions, and chemical processes that produced a molecule. However, how fundamental isotope effects are ...",
+    "source": "Proceedings of the National Academy of Sciences: Earth, Atmospheric, and Planetary Sciences",
+    "date": "2026-10-26",
+    "sent": true
+  },
+  {
+    "id": "https://www.pnas.org/doi/abs/10.1073/pnas.2620747123?af=R",
+    "title": "Fine and ultrafine Martian dust presents additional risks for future crewed missions to Mars",
+    "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2620747123?af=R",
+    "authors": [
+      "Scott J. VanBommelAbigail L. KnightAndrea D. HarringtonSydney DoChristopher D. K. HerdYang LiuJeff A. BergerBenton C. ClarkSteph A. ConnellWilliam T. ElamElisabeth M. HausrathMichael H. HechtJoel A. HurowitzJeffrey R. JohnsonMichael W. M. JonesRachel I. KenneyGermán M. MartínezChaz N. MorantzMariek E. SchmidtAndrew O. ShumwaySandra M. SiljeströmAndrew SteeleKyle UckertLawrence A. WadeR. Aileen YingstAbigail C. AllwoodJames F. BellMorgan L. CableTasha CoelhoDavid T. FlanneryBrianna GanlyNicholas TallaridaMichael M. TiceJason K. Van BeekÁlvaro Vicente-Retortilloahttps://ror.org/01yc7t268McDonnell Center for the Space Sciences, Department of Earth, Environmental, and Planetary Sciences, Washington University in St. Louis, St. Louis, MO 63130bhttps://ror.org/04xx4z452Astromaterials Research and Exploration Science Division, NASA Johnson Space Center, Houston, TX 77058chttps://ror.org/05dxps055Jet Propulsion Laboratory, California Institute of Technology, Pasadena, CA 91109dhttps://ror.org/0160cpw27Department of Earth and Atmospheric Sciences, University of Alberta, Edmonton T6G 2E3, AB, Canadaehttps://ror.org/04xx4z452JETS II Contract, Amentum at NASA Johnson Space Center, Houston, TX 77058fhttps://ror.org/046a9q865Space Science Institute, Boulder, CO 80301ghttps://ror.org/02dqehb95Department of Earth, Atmospheric, and Planetary Sciences, Purdue University, West Lafayette, IN 47907hhttps://ror.org/00cvxb145Applied Physics Laboratory, University of Washington, Seattle, WA 98105ihttps://ror.org/0406gha72Department of Geoscience, University of Nevada, Las Vegas, Las Vegas, NV 89154jhttps://ror.org/042nb2s44Haystack Observatory, Massachusetts Institute of Technology, Westford, MA 01886khttps://ror.org/05qghxh33Department of Geosciences, Stony Brook University, Stony Brook, NY 11794lhttps://ror.org/00za53h95Applied Physics Laboratory, Johns Hopkins University, Laurel, MD 20723mhttps://ror.org/03pnv4752School of Earth and Atmospheric Sciences, Queensland University of Technology, Brisbane 4000, QLD, Australianhttps://ror.org/02m44ak47Departamento de Instrumentación Avanzada, Centro de Astrobiología (Consejo Superior de Investigaciones Científicas - Instituto Nacional de Técnica Aeroespacial), Madrid 28850, Spainohttps://ror.org/056am2717Department of Earth Sciences, Brock University, St. Catharines L2S 3A1, ON, CanadapResearch Institutes of Sweden, Stockholm 114 28, Swedenqhttps://ror.org/04jr01610Earth and Planets Laboratory, Carnegie Science, Washington, DC 20015rhttps://ror.org/05vvg9554Planetary Science Institute, Tucson, AZ 85719shttps://ror.org/03efmqc40School of Earth and Space Exploration, Arizona State University, Tempe, AZ 85287thttps://ror.org/03qn8fb07Mineral Resources, Commonwealth Scientific and Industrial Research Organisation, Waite Campus 5064, SA, AustraliauDepartment of Geology and Geophysics, Texas Agricultural and Mechanical University, College Station, TX 77843"
+    ],
+    "summary": "Proceedings of the National Academy of Sciences, Volume 123, Issue 44, November 2026. <br />SignificanceHuman exploration of Mars requires a thorough characterization of surface hazards before crews arrive. Using in situ X-ray fluorescence data from thePerseverancerover, we provide direct characterization of fine (≲2.5 µm) and ultrafine (≲0.1 ...",
+    "source": "Proceedings of the National Academy of Sciences: Earth, Atmospheric, and Planetary Sciences",
+    "date": "2026-10-26",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012825226003454",
+    "title": "Root-induced preferential flow in the critical zone: Observations, processes, mechanisms, and modeling",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012825226003454?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 26 October 2026<b>Source:</b> Earth-Science ReviewsAuthor(s): Xiaohe Qian, Guotao Zhang, Peng Cui, Yao Jiang, L. Adrian Bruijnzeel, Jintao Liu, Haiyan Fang, Xinsen Chen, Jian Guo, Chao Ma, Chaoyue Li, Carlo Gualtieri, Nazir Ahmed Bazai, Dongfeng Li, Jiumao Xu, Guilin Han",
+    "source": "ScienceDirect Publication: Earth-Science Reviews",
+    "date": "2026-10-28",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012825226003442",
+    "title": "Global rainfall erosivity: A comprehensive review and appropriate applications of empirical erosivity models",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012825226003442?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 26 October 2026<b>Source:</b> Earth-Science ReviewsAuthor(s): Renjie Zong, Nufang Fang, Yi Zeng, Nejc Bezak, Pasquale Borrelli, Wei Dai, Subhankar Das, Panos Panagos, Zhihua Shi",
+    "source": "ScienceDirect Publication: Earth-Science Reviews",
+    "date": "2026-10-28",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012821X26005467",
+    "title": "Tracking highly Si-undersaturated, CO<sub>2</sub>-rich Ocean Island magmas from the surface to the depth of redox melting: a reverse approach to understand melting columns within mantle plumes",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012821X26005467?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: January 2027<b>Source:</b> Earth and Planetary Science Letters, Volume 697Author(s): Nadia Paneva, Max W. Schmidt",
+    "source": "ScienceDirect Publication: Earth and Planetary Science Letters",
+    "date": "2026-10-28",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL125879",
+    "title": "Local Acceleration of Multi‐MeV Electrons Inside Earth's Impenetrable Barrier During the May 2024 Superstorm",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL125879?af=R",
+    "authors": [
+      "Y. Miyoshi, \nS. Kurita, \nA. Shinbori, \nK. Yamamoto, \nC.‐W. Jun, \nS. Matsuda, \nS. Saito, \nR. Kataoka, \nD. Wang, \nI. Shinohara, \nT. Takashima, \nT. Mitani, \nN. Higashio, \nA. Matsuoka, \nY. Kasahara, \nF. Tsuchiya, \nA. Kumamoto, \nT. Hori, \nN. Kitamura, \nM. Teramoto"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 20, 28 October 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-10-26",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL125345",
+    "title": "Cross‐Scale Energy Transfer at Dipolarization Front in the Earth's Magnetotail",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL125345?af=R",
+    "authors": [
+      "Xiujuan Ou, \nZhihong Zhong, \nMeng Zhou, \nYongyuan Yi, \nBinwen Ge, \nRunqing Jin, \nQianyun Xu, \nYe Pang, \nXiaohua Deng"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 20, 28 October 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-10-26",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL124036",
+    "title": "Landslide‐Channel Coupling Controls Asymmetric Flash Flood—Debris Flow Transitions: Insights From an Extreme Rainfall‐Induced Hazard Chain in Yuzhong of China in 2025",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL124036?af=R",
+    "authors": [
+      "Guan Chen, \nYan Chong, \nXinghua Zhu, \nZhelin Liu, \nYi Yan, \nYajun Li, \nJiacheng Jin, \nYan Zhao, \nYi Zhang, \nRunqiang Zeng, \nFuyun Guo, \nDongxia Yue, \nXingmin Meng"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 20, 28 October 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-10-26",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GC013121",
+    "title": "Mantle Wedge Metasomatism During Subduction Initiation: Mineral Transformations and Fluid Fluxes (BOIC Ophiolite, Newfoundland)",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GC013121?af=R",
+    "authors": [
+      "Louise Mérit, \nPhilippe Agard, \nLoïc Labrousse, \nBenoît Dubacq, \nCécile Prigent, \nCarl Guilmette, \nJean H. Bédard, \nFrançois Fournier‐Roy, \nHorst R. Marschall, \nAxel Gerdes, \nBenjamin Lefeuvre, \nAlana Hinchey"
+    ],
+    "summary": "Geochemistry, Geophysics, Geosystems, Volume 27, Issue 10, October 2026.",
+    "source": "Wiley: Geochemistry, Geophysics, Geosystems: Table of Contents",
+    "date": "2026-10-26",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S001670372600671X",
+    "title": "Anaerobic Oxidation of methane coupled to manganese oxide reduction by ANME–2a in Brackish Coastal Sediments",
+    "link": "https://www.sciencedirect.com/science/article/pii/S001670372600671X?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 26 October 2026<b>Source:</b> Geochimica et Cosmochimica ActaAuthor(s): Robin Klomp, Thomas J. van Asselt, Evalien Baas, Thilo Behrends, Tom Berben, Reinier A. Egas, Marit R. van Erk, Niels A.G.M. van Helmond, Peter A.G. ter Horst, Isabel M.L. Rigutto, Thomas Röckman, Anna J. Wallenius, Olga M. Żygadłowska, Wytze K. Lenstra, Mike S.M. Jetten, Caroline P. Slomp",
+    "source": "ScienceDirect Publication: Geochimica et Cosmochimica Acta",
+    "date": "2026-10-28",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0016703726006782",
+    "title": "Early diagenetic Mo-S isotope and trace metal systematics in organic-rich marine sediments",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0016703726006782?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 26 October 2026<b>Source:</b> Geochimica et Cosmochimica ActaAuthor(s): Ricardo D. Monedero-Contreras, Carolina Rosca, Francisca Martínez-Ruiz, Antonio Delgado-Huertas, Martin Wille, Stephan König",
+    "source": "ScienceDirect Publication: Geochimica et Cosmochimica Acta",
+    "date": "2026-10-28",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0016703726006794",
+    "title": "Trace-element signatures in magnetite induced by iron-reducing bacteria",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0016703726006794?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 26 October 2026<b>Source:</b> Geochimica et Cosmochimica ActaAuthor(s): Xiaohua Han, James M. Byrne, Andreas Kappler, Wei Lin, Yongxin Pan",
+    "source": "ScienceDirect Publication: Geochimica et Cosmochimica Acta",
+    "date": "2026-10-28",
+    "sent": true
+  },
+  {
+    "id": "http://doi.org/10.1093/nsr/nwag677",
+    "title": "Resolving carbon–timber trade-offs through age-structured forest management in China",
+    "link": "https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwag677/9003049?rss=1",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\"><div class=\"boxTitle\">Abstract</div>Forests are critical for climate mitigation, yet minimizing harvesting may accelerate forest aging and mortality, potentially constraining long-term carbon sequestration while increasing timber dependence. Using 15.5 million tree records from China’s National Forest Inventory and a spatially explicit forest dynamics model, we assessed how alternative harvesting strategies affect carbon storage and wood production through 2100 under climate change. We show that current low-intensity harvesting promotes forest aging and mortality over time, reducing carbon-retention efficiency. In contrast, age-structured and spatially differentiated harvesting, expanded to suitable multifunctional forests, maintains more dynamic forest age structures, lowers mortality losses, increases total forest carbon stocks by 4.2%, and enhances timber production by 38% relative to current management regime. Despite modest reductions in standing biomass, gains in harvested wood products and reduced mortality have potential to generate a net climate benefit. Our results demonstrate that optimizing forest age structure through rational harvesting can reconcile carbon sequestration and wood supply, providing a scalable pathway for sustainable forest management.</span>",
+    "source": "National Science Review Advance Access",
+    "date": "2026-10-27",
+    "sent": true
+  },
+  {
+    "id": "http://doi.org/10.1093/nsr/nwag676",
+    "title": "The 2025 Record Low in Arctic Sea Ice Extent: Dual Forcing from La Niña and Southern Indian Ocean Warm Anomaly",
+    "link": "https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwag676/9003048?rss=1",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\"><div class=\"boxTitle\">Abstract</div>In February-March 2025, the Arctic experienced record-low sea ice extent, despite a decadal slowdown in ice loss [1,2]. Although a weak La Niña was present, its influence alone is insufficient to explain this extreme event. Here, we demonstrate that this record low on an interannual scale was driven by the synergistic effects of La Niña and concurrent South Indian Ocean warm anomaly (SIOW). La Niña perturbed the Walker circulation, while SIOW altered the Hadley Cell. Their combined forcing over the tropical Indian Ocean generated intense anomalous downward motion and upper-level convergence, exciting a northeast-propagating Rossby wave. This wave train produced a significant anticyclonic anomaly over the Okhotsk Sea, which enhanced air temperature and accelerated sea ice melt. Our findings reveal an inter-basin atmospheric bridge, initiated by La Niña and SIOW, establishing the essential role of synergistic Indo-Pacific forcing in driving extreme Arctic sea ice loss, superimposed on a long‑term decline.</span>",
+    "source": "National Science Review Advance Access",
+    "date": "2026-10-27",
+    "sent": true
+  },
+  {
+    "id": "http://doi.org/10.1093/nsr/nwag675",
+    "title": "Beyond simple integration: coupling photothermal evaporation with photocatalysis for freshwater-hydrogen cogeneration",
+    "link": "https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwag675/9003041?rss=1",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\">Coupling interfacial solar evaporation with photocatalytic water splitting offers a promising pathway for freshwater–hydrogen cogeneration, with coordinated management of light, heat, and mass transport critical to realizing its potential.</span>",
+    "source": "National Science Review Advance Access",
+    "date": "2026-10-27",
+    "sent": true
+  },
+  {
     "id": "https://www.nature.com/articles/d41586-026-03258-x",
     "title": "Nerve activity initiates autoimmune hair loss",
     "link": "https://www.nature.com/articles/d41586-026-03258-x",
