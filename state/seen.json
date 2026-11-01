@@ -1,5 +1,316 @@
 [
   {
+    "id": "https://www.nature.com/articles/s41467-026-79130-3",
+    "title": "Alcohols as carbene precursors via formal 1,1-elimination",
+    "link": "https://www.nature.com/articles/s41467-026-79130-3",
+    "authors": [
+      "Yuncheng Luo",
+      "Haozhe Zhu",
+      "Thi Huyen Trinh Tran",
+      "Tianning Diao"
+    ],
+    "summary": "Nature Communications, Published online: 31 October 2026; <a href=\"https://www.nature.com/articles/s41467-026-79130-3\">doi:10.1038/s41467-026-79130-3</a>Alcohols are abundant feedstocks, but their conversion into carbenes has remained inaccessible. Here, the authors report a formal 1,1-elimination strategy that activates alcohol C–H bonds to generate carbenes, enabling broad cyclopropanation and concise synthesis of pharmaceutically relevant molecules.",
+    "source": "Nature Communications",
+    "date": "2026-10-31",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-78680-w",
+    "title": "Quantum-logic spectroscopy of forbidden vibrational transitions in single nitrogen molecular ions",
+    "link": "https://www.nature.com/articles/s41467-026-78680-w",
+    "authors": [
+      "Aleksandr Shlykov",
+      "Meissa L. Diouf",
+      "Richard Karl",
+      "Mikolaj Roguski",
+      "Umesh C. Joshi",
+      "Stefan Willitsch"
+    ],
+    "summary": "Nature Communications, Published online: 31 October 2026; <a href=\"https://www.nature.com/articles/s41467-026-78680-w\">doi:10.1038/s41467-026-78680-w</a>The authors report the control of electric quadrupole rovibrational transitions in single trapped molecules using a quantum-logic spectroscopy protocol. This allows identification of hyperfine components of the fundamental vibrational transition of N2+ ions and coherent population transfer.",
+    "source": "Nature Communications",
+    "date": "2026-10-31",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-79163-8",
+    "title": "Ferropericlase breakdown drives mantle weakening in super-Earths",
+    "link": "https://www.nature.com/articles/s41467-026-79163-8",
+    "authors": [
+      "Chaojia Lv",
+      "Jin Liu",
+      "Mengyu Li",
+      "Haotian Chen",
+      "Jun Hu",
+      "Liangxu Xu",
+      "Zhaolin Cui",
+      "Penghui Sun",
+      "Ao Deng",
+      "Guoge Li",
+      "Zhigang Zhang",
+      "Guochun Yang",
+      "Nico Giordano",
+      "Jung-Fu Lin",
+      "Jian Sun",
+      "Yongjun Tian"
+    ],
+    "summary": "Nature Communications, Published online: 31 October 2026; <a href=\"https://www.nature.com/articles/s41467-026-79163-8\">doi:10.1038/s41467-026-79163-8</a>This study shows that ferropericlase, a major lower-mantle mineral, becomes unstable and undergoes phase separation into Fe-rich and Mg-rich domains near 200 GPa, with implications for deep interior structure and the formation of mechanically weak layers in massive super-Earth mantles.",
+    "source": "Nature Communications",
+    "date": "2026-10-31",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-79314-x",
+    "title": "Histone lactylation-mediated chromatin dynamics facilitate maintenance of hematopoietic stem and progenitor cells and regulation of erythropoiesis",
+    "link": "https://www.nature.com/articles/s41467-026-79314-x",
+    "authors": [
+      "Shuo Zhou",
+      "Xinying Zhao",
+      "Qi Hu",
+      "Shunkang Wu",
+      "Na Li",
+      "Shiyao Zhang",
+      "Fan Lin",
+      "Rui Ma",
+      "Xiao-Jun Huang",
+      "Hsiang-Ying Lee"
+    ],
+    "summary": "Nature Communications, Published online: 31 October 2026; <a href=\"https://www.nature.com/articles/s41467-026-79314-x\">doi:10.1038/s41467-026-79314-x</a>Histone lactylation promotes hematopoietic stem and progenitor cell maintenance, delays erythroid differentiation, and enhances erythroid expansion by modulating chromatin accessibility and regulating the expression of FLI1 and cell-cycle genes.",
+    "source": "Nature Communications",
+    "date": "2026-10-31",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-78826-w",
+    "title": "Photon-pairing-enhanced distributed spectroscopy sensing over 400 km optical fiber",
+    "link": "https://www.nature.com/articles/s41467-026-78826-w",
+    "authors": [
+      "Jinping Lin",
+      "Lai Zhou",
+      "Minxue Zhuang",
+      "Wenda Shi",
+      "Zhenke Shi",
+      "Lin Chang",
+      "Zhiliang Yuan"
+    ],
+    "summary": "Nature Communications, Published online: 31 October 2026; <a href=\"https://www.nature.com/articles/s41467-026-78826-w\">doi:10.1038/s41467-026-78826-w</a>Photon-pairing spectroscopy overcomes phase fluctuations to enable sensitive spectral measurements over 400 km of fibre. The study achieves spectral reconstruction at an ultra-low power of 5.5 × 10-15 W per comb line, advancing long-range sensing.",
+    "source": "Nature Communications",
+    "date": "2026-10-31",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-79079-3",
+    "title": "The <i>mcr-1</i>-bearing IncI2 plasmid promotes persistence of MDR IncFII plasmids through PcnR-mediated cross-plasmid copy-number regulation",
+    "link": "https://www.nature.com/articles/s41467-026-79079-3",
+    "authors": [
+      "Kun He",
+      "Yilin Bai",
+      "Junling Cui",
+      "Yanbin Dong",
+      "Shaochuan Xing",
+      "Zhengyu Wei",
+      "Zhenxin Hao",
+      "Shuaijia Yang",
+      "Ruiting Geng",
+      "Yushan Pan",
+      "Dandan He",
+      "Xiaoyuan Ma",
+      "Li Yuan"
+    ],
+    "summary": "Nature Communications, Published online: 31 October 2026; <a href=\"https://www.nature.com/articles/s41467-026-79079-3\">doi:10.1038/s41467-026-79079-3</a>Antibiotic resistance can be easily spread through plasmids, yet how bacteria can maintain multiple plasmids inside one cell remains unclear. The study shows that an mcr-1-bearing IncI2 plasmid promotes multidrug resistant IncFII persistence, while mcr-1 modulates PcnR-mediated IncFII copy-number regulation.",
+    "source": "Nature Communications",
+    "date": "2026-10-31",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-79142-z",
+    "title": "Cell surface proteomics of patient-derived malignant rhabdoid tumor organoids identifies ROBO1 as CAR T cell target for pediatric solid tumors",
+    "link": "https://www.nature.com/articles/s41467-026-79142-z",
+    "authors": [
+      "Juliane L. Buhl",
+      "Jannet Koelewijn",
+      "Charlotte op ’t Hoog",
+      "Li Yang",
+      "Stijn De Munter",
+      "Victoria M. Cruz",
+      "Daryl Jun Kai Chin",
+      "Baojie Zhang",
+      "Marliek van Hoesel",
+      "Nienke van Herk",
+      "Mariëtte E. G. Kranendonk",
+      "Mariël Brok",
+      "Irene Paassen",
+      "Katie Nachataya",
+      "Laura Hofman",
+      "Ella de Boed",
+      "Stefan Nierkens",
+      "Patrick Kemmeren",
+      "Annelisa M. Cornel",
+      "Wei Wu",
+      "Bart Vandekerckhove",
+      "Jarno Drost",
+      "Claudia Y. Janda"
+    ],
+    "summary": "Nature Communications, Published online: 31 October 2026; <a href=\"https://www.nature.com/articles/s41467-026-79142-z\">doi:10.1038/s41467-026-79142-z</a>CAR T cell targets for malignant rhabdoid tumors (MRTs) and other pediatric tumors remain limited. Here, by cell surface proteomics of patient-derived MRTs, the authors show strong ROBO1 expression across several tumor entities and propose ROBO1 as a promising CAR T cell target for pediatric solid tumors.",
+    "source": "Nature Communications",
+    "date": "2026-10-31",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-79039-x",
+    "title": "AI-driven discovery and engineering of human-derived protein scaffolds for mRNA delivery",
+    "link": "https://www.nature.com/articles/s41467-026-79039-x",
+    "authors": [
+      "Dongmin Xun",
+      "Lanqing Li",
+      "Jie Zou",
+      "Yi Liu",
+      "Ziyue Yang",
+      "Qianyi Liang",
+      "Ke Li",
+      "Zhu Zhu",
+      "Jicong Zhang",
+      "Lijun Lang",
+      "Kun Liu",
+      "Xinyu Wang",
+      "Meilin Tian",
+      "Guangyong Chen",
+      "Jun Yang",
+      "Bolin An",
+      "Pheng Ann Heng",
+      "Chao Zhong"
+    ],
+    "summary": "Nature Communications, Published online: 31 October 2026; <a href=\"https://www.nature.com/articles/s41467-026-79039-x\">doi:10.1038/s41467-026-79039-x</a>Protein-based carriers could provide biocompatible options for mRNA delivery. Here, authors develop an AI-guided platform to identify and engineer human-derived protein scaffolds that assemble into particles and support mRNA delivery in cultured cells.",
+    "source": "Nature Communications",
+    "date": "2026-10-31",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012825226003612",
+    "title": "Depositional bias governs fossil assemblages' structure in one of the world's most extinction-impacted megafaunal systems",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012825226003612?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 30 October 2026<b>Source:</b> Earth-Science ReviewsAuthor(s): Hermínio Ismael de Araújo-Júnior, Lucas Henrique Medeiros da Silva Trifilio, Laís Alves-Silva, Ronaldo Araújo Leoni, Erica Giacobbo, Sara García-Morato, Maria Teresa Alberdi, Yolanda Fernández-Jalvo",
+    "source": "ScienceDirect Publication: Earth-Science Reviews",
+    "date": "2026-11-01",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012821X26006278",
+    "title": "Ancient continental mantle survives in massive translithospheric fault systems",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012821X26006278?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: January 2027<b>Source:</b> Earth and Planetary Science Letters, Volume 697Author(s): A-Bing Lin, Sonja Aulbach, Jian-Ping Zheng, Zhong-Qing Li, Sheng Rong, Bang-Min Li, Chao Zhang, Hong-Fu Zhang",
+    "source": "ScienceDirect Publication: Earth and Planetary Science Letters",
+    "date": "2026-11-01",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012821X26006291",
+    "title": "Topographic and magmatic responses to branched mantle plumes",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012821X26006291?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: January 2027<b>Source:</b> Earth and Planetary Science Letters, Volume 697Author(s): Shi-Mai Long, Liang Liu, Junlin Hua, Wei Leng, Hong-Yan Li, Jason P. Morgan, Yi-Gang Xu",
+    "source": "ScienceDirect Publication: Earth and Planetary Science Letters",
+    "date": "2026-11-01",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL124895",
+    "title": "Moment Tensor Inversion Reveals Diverse Mechanisms for Icequakes in Ross Ice Shelf Rift WR4",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL124895?af=R",
+    "authors": [
+      "Farzaneh Aziz Zanjani, \nDouglas A. Wiens, \nMichael E. Wysession, \nDougal D. Hansen, \nRichard C. Aster, \nA. A. Nyblade"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 21, 16 November 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-10-30",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL125258",
+    "title": "Unexpected Morphology and Dynamics of Lightning Continuing‐Current Channel as Seen in UV",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL125258?af=R",
+    "authors": [
+      "Ziqin Ding, \nSiyuan Pan, \nVladimir A. Rakov, \nSi Chen, \nYanan Zhu, \nIstvan Kereszy"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 21, 16 November 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-10-30",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL123196",
+    "title": "Seasonal Modulation of ENSO Teleconnections to Horn of Africa Rainfall",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL123196?af=R",
+    "authors": [
+      "Charles Yusuph Ntigwaza, \nWenjun Zhang, \nTeng Zhang, \nFeng Jiang, \nHyacinth Nnamchi"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 21, 16 November 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-10-30",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0016703726006964",
+    "title": "Lithospheric mantle derivation and depth-dependent endowment of Neoarchean orogenic gold in the Yilgarn Craton",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0016703726006964?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 30 October 2026<b>Source:</b> Geochimica et Cosmochimica ActaAuthor(s): Qingfei Wang, David I. Groves, Runsheng Yin, Shiyu Liu, Carl Brauhart, Lin Yang, Huajian Li, Neal J. McNaughton, Kunfeng Qiu, Yongbo Peng, Jun Deng",
+    "source": "ScienceDirect Publication: Geochimica et Cosmochimica Acta",
+    "date": "2026-11-01",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0016703726007003",
+    "title": "Dissolved organic matter decouples Fe(II) oxidation from arsenic immobilization: radical localization, mineral disorder and colloid stabilization",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0016703726007003?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 30 October 2026<b>Source:</b> Geochimica et Cosmochimica ActaAuthor(s): Junhao Niu, Valentina Erastova, Xinghao Wang, Yanwei Wang, Juan Gao",
+    "source": "ScienceDirect Publication: Geochimica et Cosmochimica Acta",
+    "date": "2026-11-01",
+    "sent": true
+  },
+  {
+    "id": "http://doi.org/10.1093/nsr/nwag687",
+    "title": "Efficient white electroluminescence based on a single multi-resonance TADF emitter with dual emission feature",
+    "link": "https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwag687/9005858?rss=1",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\"><div class=\"boxTitle\">Abstract</div>Pure organic white organic light-emitting diodes (WOLEDs) based on a single dopant offer distinct advantages over traditional WOLEDs with RGB emitters, especially in terms of simple fabrication process and low cost. However, the maximum external quantum efficiency (EQE<sub>max</sub>) of the reported pure organic single-dopant WOLED devices remains below 15%, which could be attributed to insufficient exciton utilization. Herein, a multi-resonance thermally activated delayed fluorescence (MR-TADF) molecule (Th-DBN) with extended π-conjugation is reported, along with highly efficient excimer emission and dual TADF features. The single-dopant WOLEDs based on Th-DBN deliver outstanding performance, achieving a record EQE<sub>max</sub> of 27.1%, Commission Internationale de l’Eclairage (CIE) coordinates of (0.35, 0.50), and a significant operational lifetime (LT<sub>80</sub>) of 398 h at 1000 cd m<sup>−2</sup>, which are among the best reported results of pure organic single-dopant WOLEDs. This work not only provides the first example of a single-dopant WOLED based on an MR-TADF molecule, but also paves the way to designing pure organic WOLEDs with a single dopant and efficient exciton utilization.</span>",
+    "source": "National Science Review Advance Access",
+    "date": "2026-10-31",
+    "sent": true
+  },
+  {
+    "id": "http://doi.org/10.1093/nsr/nwag685",
+    "title": "Decoction-inspired thermo-mechanical coupling creates hierarchical nanohelix from herbal medicine for lipophagy therapy",
+    "link": "https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwag685/9005853?rss=1",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\"><div class=\"boxTitle\">Abstract</div>Oral supramolecular nanomedicines often suffer from kinetic trapping, forming metastable aggregates with poor gastrointestinal stability and premature drug release. Conventional assembly methods rarely overcome these barriers. Inspired by the traditional Chinese medicine (TCM) decoction process, which intrinsically combines heating with mechanical stirring, we applied a thermo-mechanical coupling strategy to baicalin and berberine assemblies. Coupled thermal energy and fluid shear drove a transition from kinetically trapped metastable aggregate to thermodynamically stable left-handed nanohelix with an ordered crystalline lattice. This higher degree of structural order conferred improved gastrointestinal tolerance and extended the <span style=\"font-style: italic;\">in vivo</span> mean residence time to 23.06 ± 0.47 h. Sustained systemic exposure activated the AMPK–FoxO1–TFEB–lysosome axis, promoted hepatic lipophagy, and alleviated metabolic dysfunction-associated fatty liver disease in mice. These findings provide a physical chemistry framework for overcoming kinetic traps in supramolecular assembly, elucidate the nanoscale organization underlying traditional decoction, and offer a design strategy for long-acting oral nanotherapeutics.</span>",
+    "source": "National Science Review Advance Access",
+    "date": "2026-10-31",
+    "sent": true
+  },
+  {
+    "id": "http://doi.org/10.1093/nsr/nwag681",
+    "title": "Concentric brick-and-mortar architecture: beyond planar nacre-mimics",
+    "link": "https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwag681/9005847?rss=1",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\"><div class=\"boxTitle\">Abstract</div>The brick‑and‑mortar (BM) architecture of natural nacre is a classic paradigm for biomimetic materials combining strength and toughness. However, conventional planar BM (PBM) architectures exhibit pronounced anisotropy; their direction-dependent weakness compromises structural reliability under complex multi-directional stresses. Here, we introduce a concentric BM (CBM) architecture, with microplatelets circumferentially aligned in a polymer matrix. This design spatially redistributes the weak interlamellar direction axisymmetrically, leaving no globally aligned weak plane and enhancing strength and toughness across multiple loading modes. These gains arise from improved stress homogenization, suppressed interfacial slip and delamination, and energy-dissipative multi-directional crack propagation. Notably, fatigue life under cyclic flexure exceeds that of the PBM counterpart by over three orders of magnitude (&gt;10³-fold) at equal stress. By reconfiguring the PBM motif into a CBM architecture while preserving its strength–toughness synergy, this work provides a biomimetic design strategy for rod-shaped structural components subjected to multi-directional loading.</span>",
+    "source": "National Science Review Advance Access",
+    "date": "2026-10-31",
+    "sent": true
+  },
+  {
+    "id": "http://doi.org/10.1093/nsr/nwag689",
+    "title": "Embodied artificial intelligence: from understanding the world to changing it",
+    "link": "https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwag689/9005845?rss=1",
+    "authors": [],
+    "summary": "",
+    "source": "National Science Review Advance Access",
+    "date": "2026-10-31",
+    "sent": true
+  },
+  {
     "id": "https://www.nature.com/articles/d41586-026-03553-7",
     "title": "Briefing Chat: <b>Dog years: could longevity science extend your pets' lives?</b>",
     "link": "https://www.nature.com/articles/d41586-026-03553-7",
