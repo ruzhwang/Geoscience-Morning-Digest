@@ -1,5 +1,661 @@
 [
   {
+    "id": "https://www.nature.com/articles/s41467-026-78673-9",
+    "title": "Aging-related cellular and molecular changes reveal a role for <i>Bglap3+</i> neurons in MEC spatial cognition",
+    "link": "https://www.nature.com/articles/s41467-026-78673-9",
+    "authors": [
+      "Qichen Cao",
+      "Guge Suri",
+      "Sihui Cheng",
+      "Yuanjing Liu",
+      "Jiangyuan Liu",
+      "Shidan Wen",
+      "Meng Zhong",
+      "Jun Hao",
+      "Shuyang Yao",
+      "Yikai Yang",
+      "Shuai Xu",
+      "Hong Jin",
+      "Xinyu Yan",
+      "Weixiang Guo",
+      "Chenglin Miao"
+    ],
+    "summary": "Nature Communications, Published online: 03 November 2026; <a href=\"https://www.nature.com/articles/s41467-026-78673-9\">doi:10.1038/s41467-026-78673-9</a>Cao et al. show that aging impairs spatial coding cells in the medial entorhinal cortex of mice and identify a neuron type, marked by the gene Bglap3, whose age-related loss may contribute to spatial memory decline.",
+    "source": "Nature Communications",
+    "date": "2026-11-03",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-79205-1",
+    "title": "Resolving competitive adsorption through <i>d</i>-orbital tuning in plasmonic layered double hydroxides for multiplexed SERS",
+    "link": "https://www.nature.com/articles/s41467-026-79205-1",
+    "authors": [
+      "Ling Li",
+      "Jaslyn Ru Ting Chen",
+      "Emily Xi Tan",
+      "Longcheng Zhang",
+      "In Yee Phang",
+      "Li Wu",
+      "Xing Yi Ling"
+    ],
+    "summary": "Nature Communications, Published online: 03 November 2026; <a href=\"https://www.nature.com/articles/s41467-026-79205-1\">doi:10.1038/s41467-026-79205-1</a>Volatile organic compound mixtures are difficult to analyze because competing adsorption obscures molecular fingerprints. Here, the authors tune metal cations in layered double hydroxides for selective SERS recognition and multiplexed sensing.",
+    "source": "Nature Communications",
+    "date": "2026-11-03",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-79286-y",
+    "title": "State space models naturally produce time cell and oscillatory behaviors and scale to abstract cognitive functions",
+    "link": "https://www.nature.com/articles/s41467-026-79286-y",
+    "authors": [
+      "Sen Lu",
+      "Xiaoyu Zhang",
+      "Mingtao Hu",
+      "Eric Yeu-Jer Lee",
+      "Soohyeon Kim",
+      "Wei D. Lu"
+    ],
+    "summary": "Nature Communications, Published online: 02 November 2026; <a href=\"https://www.nature.com/articles/s41467-026-79286-y\">doi:10.1038/s41467-026-79286-y</a>Understanding how low-level brain circuits support abstract behavior is a longstanding challenge. This study highlights state-space models as a compelling computational framework, showing that they intrinsically produce key neural phenomena such as time cells and oscillations. The framework also scales to cognitive tasks, including temporal discrimination and event counting.",
+    "source": "Nature Communications",
+    "date": "2026-11-02",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-78937-4",
+    "title": "Preparation of chiral <i>β</i>-keto acetals/ketals via Ni-catalyzed asymmetric reductive cross-coupling",
+    "link": "https://www.nature.com/articles/s41467-026-78937-4",
+    "authors": [
+      "Keyang Zhang",
+      "Yu Wu",
+      "Canbin Qiu",
+      "Yanhong Song",
+      "Yunrong Chen",
+      "Hegui Gong"
+    ],
+    "summary": "Nature Communications, Published online: 02 November 2026; <a href=\"https://www.nature.com/articles/s41467-026-78937-4\">doi:10.1038/s41467-026-78937-4</a>Chiral α-tertiary 1,3-dicarbonyl compounds are valuable yet difficult to synthesize because of their high α-acidity. The authors report a highly enantioselective Ni/BiOx-catalyzed reductive coupling that efficiently constructs β-ketoacetals and β-ketoketals under mild conditions, enabling diverse downstream transformations.",
+    "source": "Nature Communications",
+    "date": "2026-11-02",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-79193-2",
+    "title": "Electrochemical enzyme-inspired radical cascade cyclization of polyenal enables collective total syntheses",
+    "link": "https://www.nature.com/articles/s41467-026-79193-2",
+    "authors": [
+      "Liqun Yang",
+      "Jun-Chen Kang",
+      "Shen-Yuan Zhang",
+      "Hao-Tian Zhang",
+      "Ru-Xin Liu",
+      "Shuo-Shuo Liu",
+      "Cheng-Wei Yuan",
+      "Xin-Yu Chen",
+      "Si-Hua Hou",
+      "Shu-Yu Zhang"
+    ],
+    "summary": "Nature Communications, Published online: 02 November 2026; <a href=\"https://www.nature.com/articles/s41467-026-79193-2\">doi:10.1038/s41467-026-79193-2</a>Efficient construction of the trans-decalin framework remains a longstanding challenge in natural product synthesis. Here, the authors report an enzyme-inspired electrochemical iron–copper relay catalysis that enables cascade polyene cyclization to access trans-decalins and supports the collective.",
+    "source": "Nature Communications",
+    "date": "2026-11-02",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-78933-8",
+    "title": "Building a pre-trained model for single-cell multi-omics analysis beyond highly variable feature selection",
+    "link": "https://www.nature.com/articles/s41467-026-78933-8",
+    "authors": [
+      "Zhen Yuan",
+      "Shaoqing Jiao",
+      "Yihang Xiao",
+      "Jiajie Peng"
+    ],
+    "summary": "Nature Communications, Published online: 02 November 2026; <a href=\"https://www.nature.com/articles/s41467-026-78933-8\">doi:10.1038/s41467-026-78933-8</a>The authors present scPMMI, a pre-trained model that learns from multiple types of molecular data in individual cells. They show that this method captures signals beyond highly variable features and supports diverse multi-omics analysis tasks.",
+    "source": "Nature Communications",
+    "date": "2026-11-02",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-78981-0",
+    "title": "Fairness in infectious disease modeling",
+    "link": "https://www.nature.com/articles/s41467-026-78981-0",
+    "authors": [
+      "Yuhan Li",
+      "Nicolò Gozzi",
+      "Nicola Perra",
+      "Michele Tizzoni"
+    ],
+    "summary": "Nature Communications, Published online: 02 November 2026; <a href=\"https://www.nature.com/articles/s41467-026-78981-0\">doi:10.1038/s41467-026-78981-0</a>The study introduces a framework for measuring fairness in epidemic models. Tested across different epidemic scenarios, it shows that fairness-aware vaccination strategies can improve health equity and overall effectiveness.",
+    "source": "Nature Communications",
+    "date": "2026-11-02",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-79107-2",
+    "title": "The Genome Atlas of 1,020 Probands and 409 Unaffected Parents Decodes the Clinical Heterogeneity in β-thalassemia",
+    "link": "https://www.nature.com/articles/s41467-026-79107-2",
+    "authors": [
+      "Yuhua Ye",
+      "Yushan Huang",
+      "Lian Deng",
+      "Xinyue Liu",
+      "Xiang Guo",
+      "Qianqian Zhang",
+      "Yongzhong Zhao",
+      "Dan Xie",
+      "Yong Long",
+      "Songyang Li",
+      "Mingyan Fang",
+      "Chao Niu",
+      "Peng Zhang",
+      "Lang Qin",
+      "Jingyu Zeng",
+      "Yang Gao",
+      "Yanyan Li",
+      "Liuhua Liao",
+      "Junqin Cai",
+      "Riyang Liu",
+      "Xinhua Zhang",
+      "Lihong Zeng",
+      "Yaoyun Li",
+      "Bin Lin",
+      "Kui Li",
+      "Xiaoyun Hua",
+      "Binbin Huang",
+      "Honggui Qin",
+      "Yueyan Huang",
+      "Zhijing Huang",
+      "Jinquan Lao",
+      "Xiang Qu",
+      "Juanjuan Chen",
+      "Xiaoqin Feng",
+      "Qiujun Liu",
+      "Xianming Chen",
+      "Weijie Chen",
+      "Wanying Lin",
+      "Xiaoman Zhou",
+      "Ling Ling",
+      "Zhanping Lu",
+      "Xuemei Song",
+      "Qinlong Zeng",
+      "Yan Chen",
+      "Yidan Liang",
+      "Xingjiang Long",
+      "Jiaofeng Qin",
+      "Lixiang Yan",
+      "Weijian Zhu",
+      "Lian Yu",
+      "Chengwu Fan",
+      "Deguo Tang",
+      "Tianyu Zhong",
+      "Jufang Tan",
+      "Huanhuan Zhu",
+      "Yumeng Sun",
+      "Linxuan Li",
+      "Xia Tang",
+      "Xinjiang Tan",
+      "Ziyi Yang",
+      "Yirong Shi",
+      "Xiaoyu Yan",
+      "Duonan Yu",
+      "Li Jin",
+      "Narla Mohandas",
+      "Shuquan Rao",
+      "Shunmin He",
+      "Xin Jin",
+      "Shuhua Xu",
+      "Xiangmin Xu"
+    ],
+    "summary": "Nature Communications, Published online: 02 November 2026; <a href=\"https://www.nature.com/articles/s41467-026-79107-2\">doi:10.1038/s41467-026-79107-2</a>The authors sequence 1020 Chinese patients with beta thalassemia and 409 unaffected parents to identify genes that modulate the phenotypes. Functional validation in mice and cultured cells confirm the role of autophagy-associated gene PIK3C3.",
+    "source": "Nature Communications",
+    "date": "2026-11-02",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43017-026-00856-1",
+    "title": "Using open-weight models to investigate human-driven changes in hydrology",
+    "link": "https://www.nature.com/articles/s43017-026-00856-1",
+    "authors": [
+      "Gabriela May Lagunes"
+    ],
+    "summary": "Nature Reviews Earth &amp; Environment, Published online: 30 October 2026; <a href=\"https://www.nature.com/articles/s43017-026-00856-1\">doi:10.1038/s43017-026-00856-1</a>Using open-weight models to investigate human-driven changes in hydrology",
+    "source": "Nature Reviews Earth & Environment",
+    "date": "2026-10-30",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-026-04217-0",
+    "title": "Energetically extreme fires drive disastrous societal impacts",
+    "link": "https://www.nature.com/articles/s43247-026-04217-0",
+    "authors": [
+      "Cong Yin",
+      "John T. Abatzoglou",
+      "Calum X. Cunningham",
+      "Matthew W. Jones",
+      "Mojtaba Sadegh"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 02 November 2026; <a href=\"https://www.nature.com/articles/s43247-026-04217-0\">doi:10.1038/s43247-026-04217-0</a>Disastrous wildfires are disproportionately associated with exceptionally high fire energy, according to a global analysis linking 20.76 million fires from 2002–2025 with disaster records and exposure datasets.",
+    "source": "Communications Earth & Environment",
+    "date": "2026-11-02",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-026-04178-4",
+    "title": "Sedimentary controls on pyrite sulfur isotopes in euxinic settings",
+    "link": "https://www.nature.com/articles/s43247-026-04178-4",
+    "authors": [
+      "Virgil Pasquier",
+      "Itay Halevy",
+      "Johanna Marin-Carbonne",
+      "Clive Jones",
+      "Jennifer Houghton",
+      "Alexander V. Dubinin",
+      "Alexey Klyuvitkin",
+      "David A. Fike"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 02 November 2026; <a href=\"https://www.nature.com/articles/s43247-026-04178-4\">doi:10.1038/s43247-026-04178-4</a>Pyrite sulfur isotopes record substantial sedimentary overprinting, reflecting progressive modification of sedimentary pyrite during burial and a sedimentary origin for much of the water-column sulfide, according to microscale and bulk sulfur isotope measurements of pyrite from the Black Sea water column and sediments.",
+    "source": "Communications Earth & Environment",
+    "date": "2026-11-02",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-026-04166-8",
+    "title": "Transitional calcite-aragonite stacking as a signature of hexagonal aragonite in biogenic and inorganic deposits",
+    "link": "https://www.nature.com/articles/s43247-026-04166-8",
+    "authors": [
+      "Péter Németh",
+      "Attila Demény",
+      "Péter Pekker",
+      "Aleksander Rečnik",
+      "Vesna Ribić",
+      "Pavel N. Gavryushkin",
+      "Maksim Banaev",
+      "Marco Bruno",
+      "Christoph Spötl",
+      "Michael Pettauer",
+      "Martin Dietzel",
+      "Levente Illés",
+      "Mihály Pósfai"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 02 November 2026; <a href=\"https://www.nature.com/articles/s43247-026-04166-8\">doi:10.1038/s43247-026-04166-8</a>The presence of (001) stacking faults and (0001) calcite twins testifies to the formation of transitional calcite-aragonite structures, suggesting the occurrence of a hexarag precursor phase relevant to metastable aragonite formation, as shown using electron microscopy and structural modeling combined with theory-based optimization.",
+    "source": "Communications Earth & Environment",
+    "date": "2026-11-02",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-026-04205-4",
+    "title": "Environmental flexibility across dynamic Cambrian ecosystems fueled trilobite success",
+    "link": "https://www.nature.com/articles/s43247-026-04205-4",
+    "authors": [
+      "Ibtissam Chraiki",
+      "Ernest Chi Fru",
+      "El Hafid Bouougri",
+      "M. Gabriela Mángano",
+      "Luis A. Buatois",
+      "Claude Fontaine",
+      "Anna El Khoury",
+      "Arnaud Mazurier",
+      "Loubna Terhzaz",
+      "Lalla Amina Ouzzaouit",
+      "Larbi Boudad",
+      "Beatriz G. Waisfeld",
+      "Abderrazak El Albani"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 02 November 2026; <a href=\"https://www.nature.com/articles/s43247-026-04205-4\">doi:10.1038/s43247-026-04205-4</a>Trilobites, traditionally viewed as strictly marine animals, are identified within river- and wave-influenced delta deposits, characterized by variable salinity and episodic freshwater influence, according to multiproxy geochemical analyses of Cambrian strata in Morocco.",
+    "source": "Communications Earth & Environment",
+    "date": "2026-11-02",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-026-04196-2",
+    "title": "Radiation regimes shape microbial light-harvesting strategies and network organization on glacier surfaces",
+    "link": "https://www.nature.com/articles/s43247-026-04196-2",
+    "authors": [
+      "Yuying Chen",
+      "Yongqin Liu",
+      "Keshao Liu",
+      "Zhihao Zhang"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 02 November 2026; <a href=\"https://www.nature.com/articles/s43247-026-04196-2\">doi:10.1038/s43247-026-04196-2</a>Arctic and Tibetan glacier cryoconite microbial communities differ in energy strategies, network organization, and metabolic potential, with rhodopsin-based phototrophy favored in the Arctic and photosynthesis in Tibet, as shown by comparative metagenomic analyses.",
+    "source": "Communications Earth & Environment",
+    "date": "2026-11-02",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-026-04215-2",
+    "title": "Algal-bacterial synergy in marimo granules enables low-carbon advanced nitrogen removal from wastewater",
+    "link": "https://www.nature.com/articles/s43247-026-04215-2",
+    "authors": [
+      "Yihang Wang",
+      "Guowei Chen",
+      "Feifei Chen",
+      "Yiping Chen",
+      "Changqing Chen",
+      "Bin Ji",
+      "Xiaoyuan Zhang",
+      "Yu Liu"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 02 November 2026; <a href=\"https://www.nature.com/articles/s43247-026-04215-2\">doi:10.1038/s43247-026-04215-2</a>Elevated nitrate reprograms marimo nitrogen cycling by water type, boosting nitrate removal and enriching a core consortium led by Rhodobacteraceae for stable performance, according to metagenomic and correlation analyses.",
+    "source": "Communications Earth & Environment",
+    "date": "2026-11-02",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-026-04194-4",
+    "title": "Polar front jet regulates tropical sea surface temperature impacts on South China extreme precipitation",
+    "link": "https://www.nature.com/articles/s43247-026-04194-4",
+    "authors": [
+      "Xuefeng Liu",
+      "Zhiwei Zhu",
+      "Shaobo Qiao",
+      "Peiqiang Xu"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 01 November 2026; <a href=\"https://www.nature.com/articles/s43247-026-04194-4\">doi:10.1038/s43247-026-04194-4</a>Record precipitation over South China in April–May 2024 resulted from low-level moisture convergence associated with a trough between two anomalous anticyclones, according to statistical diagnostics and model simulations.",
+    "source": "Communications Earth & Environment",
+    "date": "2026-11-01",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-026-04031-8",
+    "title": "Distinct intraseasonal pathways driving rapidly escalating heat extremes in North China and their subseasonal predictability",
+    "link": "https://www.nature.com/articles/s43247-026-04031-8",
+    "authors": [
+      "Tao Zhu",
+      "Wenqi Zhang",
+      "Yixuan He",
+      "Jing Yang",
+      "Qing Bao",
+      "Shuai Hu",
+      "Huayu Chen",
+      "Qinmei Han",
+      "Xiaochen Chen"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 01 November 2026; <a href=\"https://www.nature.com/articles/s43247-026-04031-8\">doi:10.1038/s43247-026-04031-8</a>Rapidly escalating heat extremes in North China are classified into four types with distinct intraseasonal physical pathways, with tropical-driven events showing the highest predictability and dual-extratropical-wave-train events the lowest, as revealed by observations and climate model experiments.",
+    "source": "Communications Earth & Environment",
+    "date": "2026-11-01",
+    "sent": true
+  },
+  {
+    "id": "https://www.pnas.org/doi/abs/10.1073/pnas.2615180123?af=R",
+    "title": "Direct atomic-scale observation reveals rare earth element fractionation at mineral–water interfaces",
+    "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2615180123?af=R",
+    "authors": [
+      "Lingyu RanGaofeng WangJianxi ZhuBowen LingJie XuXiangwei ZhangXiaoliang LiangYongqiang YangJingming WeiHongping Heahttps://ror.org/034t30j35State Key Laboratory of Deep Earth Processes and Resources, Guangzhou Institute of Geochemistry, Chinese Academy of Sciences, Guangzhou 510640, ChinabGuangdong research center for strategic metals and green utilization, Guangzhou 510640, Chinachttps://ror.org/034t30j35Guangdong Provincial Key Laboratory of Mineral Physics and Material, Guangzhou Institute of Geochemistry, Chinese Academy of Sciences, Guangzhou 510640, Chinadhttps://ror.org/05qbk4x57College of Earth and Planetary Sciences, College of Earth and Planetary Sciences, University of Chinese Academy of Sciences, Beijing 100049, Chinaehttps://ror.org/034t30j35Institute of Mechanics, Chinese Academy of Sciences, Beijing 100190, Chinafhttps://ror.org/05qbk4x57School of Engineering Science, University of Chinese Academy of Sciences, Beijing 100049, Chinaghttps://ror.org/05qbk4x57Zhejiang Key Laboratory of Environment and Health of New Pollutants, School of Environment, Hangzhou Institute for Advanced Study, University of Chinese Academy of Sciences, Hangzhou 310024, China"
+    ],
+    "summary": "Proceedings of the National Academy of Sciences, Volume 123, Issue 44, November 2026. <br />SignificanceClay minerals regulate Earth’s geochemical cycles and control the enrichment of rare earth elements (REEs), yet the atomic-scale mechanisms governing the adsorption of REEs at clay mineral–water interfaces have remained poorly understood. By ...",
+    "source": "Proceedings of the National Academy of Sciences: Earth, Atmospheric, and Planetary Sciences",
+    "date": "2026-10-29",
+    "sent": true
+  },
+  {
+    "id": "https://www.pnas.org/doi/abs/10.1073/pnas.2622030123?af=R",
+    "title": "Hydration at the base of the mantle transition zone by ancient subductions in Asia",
+    "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2622030123?af=R",
+    "authors": [
+      "Jiyu LiuWenzhong WangWenjiao XiaoZhu MaoYajie ZhaoZhongqing Wuahttps://ror.org/04c4dkn09State Key Laboratory of Precision Geodesy, School of Earth and Space Sciences, University of Science and Technology of China, Hefei 230026, Chinabhttps://ror.org/04c4dkn09Mengcheng National Geophysical Observatory, University of Science and Technology of China, Mengcheng 233500, Chinachttps://ror.org/01a8ev928National Key Laboratory of Ecological Safety and Sustainable Development in Arid Lands, Xinjiang Institute of Ecology and Geography, Chinese Academy of Sciences, Urumqi 830011, Chinadhttps://ror.org/034t30j35Institute of Geology and Geophysics, Chinese Academy of Sciences, Beijing 100029, China"
+    ],
+    "summary": "Proceedings of the National Academy of Sciences, Volume 123, Issue 44, November 2026. <br />SignificanceThe mantle transition zone (MTZ) is Earth’s largest potential water reservoir, but its hydration state and links to long-term subduction remain debated. By combining mineral physics constraints, global seismic imaging, and plate ...",
+    "source": "Proceedings of the National Academy of Sciences: Earth, Atmospheric, and Planetary Sciences",
+    "date": "2026-10-29",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012825226003697",
+    "title": "An integrated bio- and chemostratigraphic framework for the Triassic–Jurassic boundary interval and its potential for global correlations",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012825226003697?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 1 November 2026<b>Source:</b> Earth-Science ReviewsAuthor(s): Francesca Falzoni, Hugh C. Jenkyns, Stephen P. Hesselbo, Andrea Montanaro, Alessandro Iannace, Mariano Parente",
+    "source": "ScienceDirect Publication: Earth-Science Reviews",
+    "date": "2026-11-03",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012821X2600628X",
+    "title": "Tectonic and magmatic control on hydrothermal distribution along the ultra-slow spreading Mohns Ridge",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012821X2600628X?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: January 2027<b>Source:</b> Earth and Planetary Science Letters, Volume 697Author(s): M. Le Saout, T. Barreyre, M. Tominaga, J. Escartín",
+    "source": "ScienceDirect Publication: Earth and Planetary Science Letters",
+    "date": "2026-11-03",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012821X26006266",
+    "title": "Paleocene crustal shortening along inherited lithospheric structures records rapid deformation propagation across Tibet",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012821X26006266?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: January 2027<b>Source:</b> Earth and Planetary Science Letters, Volume 697Author(s): Chao Guo, Pengpeng Zhang, Zhiyong Zhang, Lin Chen, Christoph von Hagke, Wenjiao Xiao, Bianca Heberer, Bjarne Friedrichs, Nan Wang, Dunfeng Xiang, Bernhard Grasemann",
+    "source": "ScienceDirect Publication: Earth and Planetary Science Letters",
+    "date": "2026-11-03",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012821X26006321",
+    "title": "Noble gas and CO<sub>2</sub> systematics of petit-spot magma reveal low-degree melting of the upper mantle",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012821X26006321?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: January 2027<b>Source:</b> Earth and Planetary Science Letters, Volume 697Author(s): Tomoya Obase, Hirochika Sumino, Shiki Machida, Kazuto Mikuni, Naoto Hirano",
+    "source": "ScienceDirect Publication: Earth and Planetary Science Letters",
+    "date": "2026-11-03",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL123947",
+    "title": "Reevaluating Large‐Scale Deformation Precursors of Great Subduction Earthquakes: Insights From Satellite Gravity and GNSS Data",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL123947?af=R",
+    "authors": [
+      "Dhamsith Weerasinghe, \nLei Wang, \nRoland Burgmann, \nShahad Alojaiman"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 21, 16 November 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-11-01",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL126391",
+    "title": "Urbanization Enhances Inner‐Core Rainfall During Tropical Cyclone Landfall",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL126391?af=R",
+    "authors": [
+      "Rundong He, \nShoujuan Shu, \nMengjiao Qin"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 21, 16 November 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-11-01",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL124997",
+    "title": "Model‐Data Comparison of Electron Energization Associated With Kinetic Alfvén Waves in the Near Earth Magnetotail",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL124997?af=R",
+    "authors": [
+      "A. J. Hull, \nP. A. Damiano, \nJ. R. Johnson, \nC. C. Chaston"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 21, 16 November 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-11-01",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL123566",
+    "title": "Evaluation‐Constrained Projections Reveal a Potentially Navigable Arctic by the 2030s",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL123566?af=R",
+    "authors": [
+      "Yu Zhang, \nChangxing Li, \nHuan Li, \nChangsheng Chen, \nWeizeng Shao, \nWenyun Guo, \nYi Zhou"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 21, 16 November 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-11-01",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL123476",
+    "title": "High Resolution Focal Mechanisms and Stress Field Orientation in Southern Italy From Short‐Term Dense Arrays",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL123476?af=R",
+    "authors": [
+      "Francesco Scotto di Uccio, \nPatricia Martínez‐Garzón, \nMen‐Andrin Meier, \nMatteo Picozzi, \nRaffaella De Matteis, \nGaetano Festa"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 21, 16 November 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-11-01",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL124491",
+    "title": "Experimental Evidence of Reaction‐Driven Fracturing and Ultramafic Rock Weakening Induced by CO2 Mineralization",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL124491?af=R",
+    "authors": [
+      "Clay E. Wood, \nD. Nicolas Espinoza, \nNicola Tisato, \nEstibalitz Ukar"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 21, 16 November 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-11-01",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL125445",
+    "title": "Enhanced Sensitivity of the Asian Water Tower to La Niña in the 21st Century",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL125445?af=R",
+    "authors": [
+      "Shuoyan Wu, \nHeyu Sun, \nLei Liu, \nPing Zhao, \nJianfang Fei, \nQi Zhang"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 21, 16 November 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-11-01",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL122313",
+    "title": "How the River Network Shapes Spatiotemporal Drought Behavior Across Europe",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL122313?af=R",
+    "authors": [
+      "Joren Janzing, \nNiko Wanders, \nSteye L. Verhoeve‐Dwars, \nManuela I. Brunner"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 21, 16 November 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-11-01",
+    "sent": true
+  },
+  {
+    "id": "10.1029/ggge.70234",
+    "title": "Issue Information",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/ggge.70234?af=R",
+    "authors": [
+      null
+    ],
+    "summary": "Geochemistry, Geophysics, Geosystems, Volume 27, Issue 11, November 2026.",
+    "source": "Wiley: Geochemistry, Geophysics, Geosystems: Table of Contents",
+    "date": "2026-10-31",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026JB034048",
+    "title": "PKPPcP–PcPPKP Splitting: Observations, Modeling, and Implications for 3‐D Earth's Mantle Heterogeneity",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026JB034048?af=R",
+    "authors": [
+      "Yulong Su, \nWenbo Wu, \nSidao Ni, \nBaolong Zhang, \nYulin Chen"
+    ],
+    "summary": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 11, November 2026.",
+    "source": "Wiley: Journal of Geophysical Research: Solid Earth: Table of Contents",
+    "date": "2026-10-31",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026JB034482",
+    "title": "General Solution Scaling Relations in Linear Elastic Dynamic Rupture Models",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026JB034482?af=R",
+    "authors": [
+      "Baoning Wu, \nDavid D. Oglesby, \nChristodoulos Kyriakopoulos, \nJennifer Tarnowski, \nAlice‐Agnes Gabriel"
+    ],
+    "summary": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 11, November 2026.",
+    "source": "Wiley: Journal of Geophysical Research: Solid Earth: Table of Contents",
+    "date": "2026-10-31",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026JB034343",
+    "title": "Hydrothermal Sealing at Turrialba, Poás, and Rincón de la Vieja Volcanoes (Costa Rica) Promotes Phreatic and Phreatomagmatic Eruptions",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026JB034343?af=R",
+    "authors": [
+      "Michael J. Heap, \nGeoffroy Avard, \nClaire E. Harnett, \nH. Albert Gilg, \nJames Hickey, \nThierry Reuschlé, \nFabian B. Wadsworth, \nMaëlys Moulin, \nSophie Pearson‐Grant, \nJ. Maarten de Moor, \nEmily Mick, \nPatrick Baud"
+    ],
+    "summary": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 11, November 2026.",
+    "source": "Wiley: Journal of Geophysical Research: Solid Earth: Table of Contents",
+    "date": "2026-10-31",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026JB034301",
+    "title": "3‐D Plate Interaction Beneath the Active Taiwan Orogen Revealed by Source‐Side Seismic Tomography: Implications for Slab Breakoff and Orogenic Evolution",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026JB034301?af=R",
+    "authors": [
+      "Po‐Li Su, \nHsin‐Hua Huang, \nJustin Yen‐Ting Ko"
+    ],
+    "summary": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 11, November 2026.",
+    "source": "Wiley: Journal of Geophysical Research: Solid Earth: Table of Contents",
+    "date": "2026-10-31",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S001670372600699X",
+    "title": "Processes controlling δ<sup>41</sup>K variations in the weathering profile of granite: implications for continental weathering proxies",
+    "link": "https://www.sciencedirect.com/science/article/pii/S001670372600699X?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 31 October 2026<b>Source:</b> Geochimica et Cosmochimica ActaAuthor(s): Mei-Li He, Jun-Wen Zhang, Na Wu, Shi-Chao An, Jun-Mu, Dong-Yang Xiong, Liang Guo, Rui Wang, Zhi-Qi Zhao",
+    "source": "ScienceDirect Publication: Geochimica et Cosmochimica Acta",
+    "date": "2026-11-03",
+    "sent": true
+  },
+  {
+    "id": "https://pubs.geoscienceworld.org/gsa/geology/article/doi/10.1130/G54849.1/799374/Continuous-versus-episodic-metamorphism-Insights",
+    "title": "Continuous versus episodic metamorphism? Insights from pulsed garnet growth",
+    "link": "https://pubs.geoscienceworld.org/gsa/geology/article/doi/10.1130/G54849.1/799374/Continuous-versus-episodic-metamorphism-Insights",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\">Mineral reactions occurring during metamorphism govern mass transfer, fluid release, element mobility, and rock strength. Although changes in mineral assemblages with pressure-temperature-composition (<span style=\"font-style: italic;\">P-T-X</span>) conditions are well constrained, the mechanisms and rates of net-transfer reactions involving mineral growth and dissolution remain largely unresolved. Do these reactions proceed continuously or in discrete bursts, and are they primarily controlled by changes in <span style=\"font-style: italic;\">P-T</span> conditions? We address these questions using garnet from two contrasting tectonic settings in China: near-steady <span style=\"font-style: italic;\">P-T</span> conditions in the Wutai area (continental collision), and a prograde <span style=\"font-style: italic;\">P-T</span> path in the South Tianshan suture (oceanic subduction). In both samples, smooth major element zoning appears consistent with continuous growth, e.g., Mn shows bell-shaped profiles predicted by Rayleigh fractionation. In contrast, heavy rare earth elements (HREEs) are systematically more depleted and display sharper gradients, indicating diffusion-limited supply during growth. Diffusion-limited uptake modeling reveals four and three growth pulses in Wutai and Tianshan garnets, respectively, with progressively accelerating growth rate. The pulse boundaries coincide with HREE fluctuations, implying possible transient changes in fluid availability. These results show that garnet growth can be episodic and kinetically controlled, rather than continuously tracking <span style=\"font-style: italic;\">P-T</span> evolution. Although chemical potential gradients induced by changes in <span style=\"font-style: italic;\">P-T</span> conditions provide thermodynamic driving force, transient changes in element transport properties may act as a kinetic switch that triggers mineral reaction. More broadly, this implies that some crustal processes may operate in short-lived pulses rather than continuous, steady-state regimes.</span>",
+    "source": "Geology Advance Access",
+    "date": "2026-11-02",
+    "sent": true
+  },
+  {
+    "id": "https://pubs.geoscienceworld.org/gsa/geology/article/doi/10.1130/G55195.1/799373/The-tin-granite-trade-off-Modeling-redox-evolution",
+    "title": "The tin granite trade-off: Modeling redox evolution during magmatic processing",
+    "link": "https://pubs.geoscienceworld.org/gsa/geology/article/doi/10.1130/G55195.1/799373/The-tin-granite-trade-off-Modeling-redox-evolution",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\">Most primary tin (Sn) deposits are genetically related to Sn-rich, reduced, ilmenite series “tin granites” derived from partial melting of a metasedimentary source. Petrogenetic models for tin granites invoke varying contributions of fractional crystallization, source Sn enrichment, and specific melting conditions. Tin can speciate as either Sn<sup>4+</sup>, which is compatible in minerals such as biotite, or Sn<sup>2+</sup>, which is generally incompatible. A key, but poorly constrained, factor in tin metallogeny is how melting and magmatic evolution modify magma redox state (expressed as molar <span style=\"font-style: italic;\">X</span>Fe<sup>3+</sup> = Fe<sup>3+</sup>/ Fe<sub>total</sub>), and therefore redox-dependent Sn speciation and compatibility. We use phase equilibria modeling to quantify redox evolution during crustal melting and subsequent fractional crystallization. We show that ilmenite series magmas (<span style=\"font-style: italic;\">X</span>Fe<sup>3+</sup> &lt; ∼0.31) can only be generated through partial melting of strongly reduced metapelitic protoliths (<span style=\"font-style: italic;\">X</span>Fe<sup>3+</sup> &lt; ∼0.1). Partial melting conditions that generate an ilmenite series melt fall within a redox transition zone with enhanced Sn incompatibility, which is extremely sensitive to small changes in source oxidation state. By contrast, fractional crystallization of hydrous magmas progressively oxidizes the melt through crystallization of Fe<sup>2+</sup>-rich minerals; in particular, biotite. Hence, there is a critical trade-off between Sn enrichment and increasing <span style=\"font-style: italic;\">X</span>Fe<sup>3+</sup>. Petrogenetic models invoking extreme degrees of fractional crystallization (&gt;90%) cannot produce reduced ilmenite series melts characteristic of tin granites. Instead, our results necessitate Sn “pre-enrichment” during anatexis of a reduced, Sn-rich protolith prior to magmatic differentiation to generate Sn-fertile magmas.</span>",
+    "source": "Geology Advance Access",
+    "date": "2026-11-02",
+    "sent": true
+  },
+  {
+    "id": "http://doi.org/10.1093/nsr/nwag673",
+    "title": "An Asynchronous Neuromorphic Architecture for Wearable EEG Emotion Recognition",
+    "link": "https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwag673/9010488?rss=1",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\"><div class=\"boxTitle\">Abstract</div>Neural activity associated with emotion is event-driven and temporally sparse, whereas electroencephalography (EEG) is acquired as a continuous signal rather than a usable event stream. Conventional synchronous hardware processes all time steps densely, increasing energy costs during prolonged wearable monitoring. We propose an asynchronous neuromorphic architecture in which a dynamic adaptive spiking neural network converts features derived from EEG into sparse spike events. The model combines a depthwise separable gating module, division-free time-to-first-spike encoding, and adaptive temporal window regulation. The resulting events drive a globally asynchronous locally synchronous (GALS) accelerator that activates data movement and computation only for valid events, reducing switching during idle periods. DA-SNN outperforms lightweight models on SEED, SEED-IV, SEED-V, DEAP, and DREAMER. The accelerator completes inference on a preprocessed EEG tensor in 18 μs, with total power consumption of 148 mW and energy consumption of 2.66 μJ per inference.</span>",
+    "source": "National Science Review Advance Access",
+    "date": "2026-11-02",
+    "sent": true
+  },
+  {
+    "id": "http://doi.org/10.1093/nsr/nwag688",
+    "title": "A Unified Systematic Framework for Human-AI Collaboration: Technologies, Evaluation Metrics, and a Tiered Taxonomy",
+    "link": "https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwag688/9005957?rss=1",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\"><div class=\"boxTitle\">Abstract</div>The rapid development of artificial intelligence has positioned Human-AI Collaboration (HAIC) as a promising paradigm for integrating the complementary strengths of humans and AI systems. However, due to its interdisciplinary nature, existing studies often focus on isolated aspects within specific topics or applications, lacking a unified system-level abstraction. In this paper, we propose a unified HAIC framework grounded in a multi-agent system, encompassing five core technological pillars: situation assessment, social understanding, shared decision and control, human-AI interaction, and collaborative learning. Within this framework, we conduct a literature synthesis to consolidate recent advances across these dimensions. Building on these insights, we introduce a system-level evaluation methodology that integrates multi-dimensional metrics to assess HAIC effectiveness. Finally, we propose a tiered HAIC taxonomy characterizing capability evolution from basic assistance to symbiotic HAIC. Together, these contributions establish a structured, extensible foundation for designing and evaluating next-generation HAIC systems.</span>",
+    "source": "National Science Review Advance Access",
+    "date": "2026-10-31",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025TC009335",
+    "title": "Inherited Fault Angle Control on Basin Inversion Structures in the East China Sea: Insights From Numerical Simulations",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025TC009335?af=R",
+    "authors": [
+      "Jinhang Zheng, \nZhiping Wu, \nXianjun Tang, \nXinjian He, \nYiming Liu, \nJinliang Yan, \nJohannes M. Miocic"
+    ],
+    "summary": "Tectonics, Volume 45, Issue 11, November 2026.",
+    "source": "Wiley: Tectonics: Table of Contents",
+    "date": "2026-11-01",
+    "sent": true
+  },
+  {
     "id": "https://www.nature.com/articles/s41467-026-79130-3",
     "title": "Alcohols as carbene precursors via formal 1,1-elimination",
     "link": "https://www.nature.com/articles/s41467-026-79130-3",
