@@ -1,5 +1,625 @@
 [
   {
+    "id": "https://www.nature.com/articles/d41586-026-03277-8",
+    "title": "Whence dragons?",
+    "link": "https://www.nature.com/articles/d41586-026-03277-8",
+    "authors": [],
+    "summary": "Nature, Published online: 03 November 2026; <a href=\"https://www.nature.com/articles/d41586-026-03277-8\">doi:10.1038/d41586-026-03277-8</a>The ecology and evolution of winged legendary beasts, and monkeys that show their behinds to their buddies, in this week’s pick from the Nature archive.",
+    "source": "Nature",
+    "date": "2026-11-03",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-03562-6",
+    "title": "Research bonuses need clear and fair rules",
+    "link": "https://www.nature.com/articles/d41586-026-03562-6",
+    "authors": [
+      "Xianjun Xiao"
+    ],
+    "summary": "Nature, Published online: 03 November 2026; <a href=\"https://www.nature.com/articles/d41586-026-03562-6\">doi:10.1038/d41586-026-03562-6</a>Research bonuses need clear and fair rules",
+    "source": "Nature",
+    "date": "2026-11-03",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-03560-8",
+    "title": "Safety alerts must reach visiting PhD students",
+    "link": "https://www.nature.com/articles/d41586-026-03560-8",
+    "authors": [
+      "Lixiang Wang"
+    ],
+    "summary": "Nature, Published online: 03 November 2026; <a href=\"https://www.nature.com/articles/d41586-026-03560-8\">doi:10.1038/d41586-026-03560-8</a>Safety alerts must reach visiting PhD students",
+    "source": "Nature",
+    "date": "2026-11-03",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-03559-1",
+    "title": "Universities must measure learning, both with and without AI assistance",
+    "link": "https://www.nature.com/articles/d41586-026-03559-1",
+    "authors": [
+      "Christoph Trattner"
+    ],
+    "summary": "Nature, Published online: 03 November 2026; <a href=\"https://www.nature.com/articles/d41586-026-03559-1\">doi:10.1038/d41586-026-03559-1</a>Universities must measure learning, both with and without AI assistance",
+    "source": "Nature",
+    "date": "2026-11-03",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-03561-7",
+    "title": "China should share the evidence behind animal-testing alternatives openly",
+    "link": "https://www.nature.com/articles/d41586-026-03561-7",
+    "authors": [
+      "Guo Zhao",
+      "Shuhang Wang",
+      "Ning Li"
+    ],
+    "summary": "Nature, Published online: 03 November 2026; <a href=\"https://www.nature.com/articles/d41586-026-03561-7\">doi:10.1038/d41586-026-03561-7</a>China should share the evidence behind animal-testing alternatives openly",
+    "source": "Nature",
+    "date": "2026-11-03",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-03538-6",
+    "title": "Historic Marburg outbreak hints at long-term viral hideout",
+    "link": "https://www.nature.com/articles/d41586-026-03538-6",
+    "authors": [],
+    "summary": "Nature, Published online: 03 November 2026; <a href=\"https://www.nature.com/articles/d41586-026-03538-6\">doi:10.1038/d41586-026-03538-6</a>Sequencing of Marburg virus collected during Ethiopia’s first outbreak suggests that the pathogen is lurking in East and Central Africa.",
+    "source": "Nature",
+    "date": "2026-11-03",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-03340-4",
+    "title": "Will AI grant reviews make science more conservative?",
+    "link": "https://www.nature.com/articles/d41586-026-03340-4",
+    "authors": [
+      "Elliot Yates"
+    ],
+    "summary": "Nature, Published online: 03 November 2026; <a href=\"https://www.nature.com/articles/d41586-026-03340-4\">doi:10.1038/d41586-026-03340-4</a>Researchers are questioning whether outsourcing decisions about research funding to artificial intelligence will reduce scientific novelty.",
+    "source": "Nature",
+    "date": "2026-11-03",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-03503-3",
+    "title": "Trump’s executive order on women’s health feels like déjà vu",
+    "link": "https://www.nature.com/articles/d41586-026-03503-3",
+    "authors": [
+      "Alina Salganicoff"
+    ],
+    "summary": "Nature, Published online: 03 November 2026; <a href=\"https://www.nature.com/articles/d41586-026-03503-3\">doi:10.1038/d41586-026-03503-3</a>Previous US administrations fell short on promised improvements to women’s-health research — here’s what real change will take.",
+    "source": "Nature",
+    "date": "2026-11-03",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-03508-y",
+    "title": "Cities are changing — and architects must adapt",
+    "link": "https://www.nature.com/articles/d41586-026-03508-y",
+    "authors": [
+      "David Adam"
+    ],
+    "summary": "Nature, Published online: 03 November 2026; <a href=\"https://www.nature.com/articles/d41586-026-03508-y\">doi:10.1038/d41586-026-03508-y</a>Climate change is reshaping urban environments. Architect Carlo Ratti tells Nature that technology offers solutions, but citizens must get the final say.",
+    "source": "Nature",
+    "date": "2026-11-03",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-03510-4",
+    "title": "How democracy depends on science — and must protect it",
+    "link": "https://www.nature.com/articles/d41586-026-03510-4",
+    "authors": [
+      "Martin Kahanec",
+      "Naomi Ellemers",
+      "Adam Izdebski",
+      "Rafal M. Łukasik",
+      "Dimitra Simeonidou",
+      "Rémy Slama",
+      "Mangala Srinivas"
+    ],
+    "summary": "Nature, Published online: 03 November 2026; <a href=\"https://www.nature.com/articles/d41586-026-03510-4\">doi:10.1038/d41586-026-03510-4</a>Verified information from trusted experts is crucial to help the public and governments navigate rapid changes and increasing complexity.",
+    "source": "Nature",
+    "date": "2026-11-03",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-03480-7",
+    "title": "Chinese doctoral students in clinical medicine can graduate without a thesis — more degrees to follow",
+    "link": "https://www.nature.com/articles/d41586-026-03480-7",
+    "authors": [
+      "Xiaoying You"
+    ],
+    "summary": "Nature, Published online: 03 November 2026; <a href=\"https://www.nature.com/articles/d41586-026-03480-7\">doi:10.1038/d41586-026-03480-7</a>Postgraduate students studying professional medicine degrees can qualify with a ‘practical achievement’.",
+    "source": "Nature",
+    "date": "2026-11-03",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-03504-2",
+    "title": "This cholesterol drug promised to be a game-changer. Why did it flop in the clinic — and is there still hope?",
+    "link": "https://www.nature.com/articles/d41586-026-03504-2",
+    "authors": [
+      "Cassandra Willyard"
+    ],
+    "summary": "Nature, Published online: 03 November 2026; <a href=\"https://www.nature.com/articles/d41586-026-03504-2\">doi:10.1038/d41586-026-03504-2</a>Physicians were excited about several therapies that slash levels of lipoprotein(a) — an important cardiovascular risk factor. One major trial failed to show a benefit, and now scientists are scrambling to work out what that means.",
+    "source": "Nature",
+    "date": "2026-11-03",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-03554-6",
+    "title": "Biotech firms are meant to pay to use Earth’s genetic data. They’re not.",
+    "link": "https://www.nature.com/articles/d41586-026-03554-6",
+    "authors": [
+      "James Dinneen"
+    ],
+    "summary": "Nature, Published online: 03 November 2026; <a href=\"https://www.nature.com/articles/d41586-026-03554-6\">doi:10.1038/d41586-026-03554-6</a>Global leaders at COP17 biodiversity summit complained that companies using public genetic data are not paying into a voluntary fund to protect nature.",
+    "source": "Nature",
+    "date": "2026-11-03",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-03397-1",
+    "title": "Why we’re setting up an institute for radically broad thinking",
+    "link": "https://www.nature.com/articles/d41586-026-03397-1",
+    "authors": [
+      "Alon Chen",
+      "Patrick Cramer",
+      "David Nirenberg"
+    ],
+    "summary": "Nature, Published online: 03 November 2026; <a href=\"https://www.nature.com/articles/d41586-026-03397-1\">doi:10.1038/d41586-026-03397-1</a>The scale of today’s challenges demands a fresh approach — across all disciplines. Here’s how we’re making space for researchers to generate new ideas.",
+    "source": "Nature",
+    "date": "2026-11-03",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-03540-y",
+    "title": "US social sciences face existential crisis after NSF cuts",
+    "link": "https://www.nature.com/articles/d41586-026-03540-y",
+    "authors": [
+      "Dan Garisto"
+    ],
+    "summary": "Nature, Published online: 03 November 2026; <a href=\"https://www.nature.com/articles/d41586-026-03540-y\">doi:10.1038/d41586-026-03540-y</a>The US National Science Foundation is a major funder of economics and archaeology research but in 2026 awarded no new grants in those disciplines.",
+    "source": "Nature",
+    "date": "2026-11-03",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-03545-7",
+    "title": "Nature awards recognize inspiring women in science",
+    "link": "https://www.nature.com/articles/d41586-026-03545-7",
+    "authors": [],
+    "summary": "Nature, Published online: 03 November 2026; <a href=\"https://www.nature.com/articles/d41586-026-03545-7\">doi:10.1038/d41586-026-03545-7</a>This year’s winners are a materials scientist and a champion of women’s science education. They — like all those shortlisted — are driven by the desire to support others.",
+    "source": "Nature",
+    "date": "2026-11-03",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41586-026-11350-5",
+    "title": "Author Correction: mTORC1 drives cell-autonomous astrocyte reactivity in tuberous sclerosis",
+    "link": "https://www.nature.com/articles/s41586-026-11350-5",
+    "authors": [
+      "Thomas L. Li",
+      "John D. Blair",
+      "Taesun Yoo",
+      "Gerald A. Grant",
+      "Dirk Hockemeyer",
+      "Brenda E. Porter",
+      "Helen S. Bateup"
+    ],
+    "summary": "Nature, Published online: 02 November 2026; <a href=\"https://www.nature.com/articles/s41586-026-11350-5\">doi:10.1038/s41586-026-11350-5</a>Author Correction: mTORC1 drives cell-autonomous astrocyte reactivity in tuberous sclerosis",
+    "source": "Nature",
+    "date": "2026-11-02",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-03387-3",
+    "title": "Measles made a stealthy return as another virus took the spotlight",
+    "link": "https://www.nature.com/articles/d41586-026-03387-3",
+    "authors": [],
+    "summary": "Nature, Published online: 02 November 2026; <a href=\"https://www.nature.com/articles/d41586-026-03387-3\">doi:10.1038/d41586-026-03387-3</a>Vaccination rates dropped after the COVID-19 pandemic disrupted public-health programmes and their funding.",
+    "source": "Nature",
+    "date": "2026-11-02",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-03571-5",
+    "title": "Daily briefing: ‘A triumph of scientific self-correction’",
+    "link": "https://www.nature.com/articles/d41586-026-03571-5",
+    "authors": [
+      "Flora Graham"
+    ],
+    "summary": "Nature, Published online: 02 November 2026; <a href=\"https://www.nature.com/articles/d41586-026-03571-5\">doi:10.1038/d41586-026-03571-5</a>Explore how researchers debunked race science. Plus, pressure put on your bones by exercise might slow ageing and watch a snake do a forward roll to escape danger.",
+    "source": "Nature",
+    "date": "2026-11-02",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-03506-0",
+    "title": "Earth’s resources sustain humanity — but they come at a high price",
+    "link": "https://www.nature.com/articles/d41586-026-03506-0",
+    "authors": [
+      "Richard Schiffman"
+    ],
+    "summary": "Nature, Published online: 02 November 2026; <a href=\"https://www.nature.com/articles/d41586-026-03506-0\">doi:10.1038/d41586-026-03506-0</a>Two books explore the damage caused by our unsustainable extraction of raw materials.",
+    "source": "Nature",
+    "date": "2026-11-02",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-03485-2",
+    "title": "What tech entrepreneurs can teach scientists about failure",
+    "link": "https://www.nature.com/articles/d41586-026-03485-2",
+    "authors": [
+      "Dom Byrne"
+    ],
+    "summary": "Nature, Published online: 02 November 2026; <a href=\"https://www.nature.com/articles/d41586-026-03485-2\">doi:10.1038/d41586-026-03485-2</a>Start-up founders routinely talk about their failed companies. Academia could learn from them, says Mary Ryan.",
+    "source": "Nature",
+    "date": "2026-11-02",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-03346-y",
+    "title": "Iranian scientists in the United States face major upheaval",
+    "link": "https://www.nature.com/articles/d41586-026-03346-y",
+    "authors": [
+      "Sophia Chen"
+    ],
+    "summary": "Nature, Published online: 02 November 2026; <a href=\"https://www.nature.com/articles/d41586-026-03346-y\">doi:10.1038/d41586-026-03346-y</a>Pressures due to the continuing US–Iran conflict are mounting as early-career researchers endure frozen immigration status, employment limbo and families caught in the war.",
+    "source": "Nature",
+    "date": "2026-11-02",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-03509-x",
+    "title": "Five overlooked steps to identify new epidemics, fast",
+    "link": "https://www.nature.com/articles/d41586-026-03509-x",
+    "authors": [
+      "Serge Tonen-Wolyec",
+      "Laurent Belec"
+    ],
+    "summary": "Nature, Published online: 02 November 2026; <a href=\"https://www.nature.com/articles/d41586-026-03509-x\">doi:10.1038/d41586-026-03509-x</a>Current measures to track emerging epidemics have a key limitation: they don’t work if the disease causes unusual or unexpected symptoms.",
+    "source": "Nature",
+    "date": "2026-11-02",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-03511-3",
+    "title": "Meet Neuropixels: how probes that track hundreds of brain cells at once are revolutionizing neuroscience",
+    "link": "https://www.nature.com/articles/d41586-026-03511-3",
+    "authors": [
+      "Diana Kwon"
+    ],
+    "summary": "Nature, Published online: 02 November 2026; <a href=\"https://www.nature.com/articles/d41586-026-03511-3\">doi:10.1038/d41586-026-03511-3</a>From rodents to humans, tools that enable large-scale, single-cell neuronal recordings are exposing the inner workings of the brain.",
+    "source": "Nature",
+    "date": "2026-11-02",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-02465-w",
+    "title": "In Indonesia, PhD students blow the whistle on bad supervision",
+    "link": "https://www.nature.com/articles/d41586-026-02465-w",
+    "authors": [
+      "Dyna Rochmyaningsih"
+    ],
+    "summary": "Nature, Published online: 02 November 2026; <a href=\"https://www.nature.com/articles/d41586-026-02465-w\">doi:10.1038/d41586-026-02465-w</a>The nation plans to boost the number of doctoral candidates, but some early-career researchers warn of systemic challenges, including poor-quality supervision.",
+    "source": "Nature",
+    "date": "2026-11-02",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-03507-z",
+    "title": "How researchers debunked ‘race science’: ‘a triumph of scientific self-correction’",
+    "link": "https://www.nature.com/articles/d41586-026-03507-z",
+    "authors": [
+      "David Silverberg"
+    ],
+    "summary": "Nature, Published online: 02 November 2026; <a href=\"https://www.nature.com/articles/d41586-026-03507-z\">doi:10.1038/d41586-026-03507-z</a>An account of how nineteenth-century studies aiming to find a biological basis for human races were dismantled by good scientific practices — although their effects are still felt today.",
+    "source": "Nature",
+    "date": "2026-11-02",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-03564-4",
+    "title": "‘A perfect scientist, a perfect mum’: researchers mourn two biologists’ deaths in Spanish train crash",
+    "link": "https://www.nature.com/articles/d41586-026-03564-4",
+    "authors": [
+      "Miryam Naddaf"
+    ],
+    "summary": "Nature, Published online: 02 November 2026; <a href=\"https://www.nature.com/articles/d41586-026-03564-4\">doi:10.1038/d41586-026-03564-4</a>Scientists pay tribute to Marta Shahbazi Alonso and Tamara González Costa who died on their way to a developmental-biology meeting.",
+    "source": "Nature",
+    "date": "2026-11-02",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-03556-4",
+    "title": "Daily briefing: How Captain Picard inspired today’s scientists",
+    "link": "https://www.nature.com/articles/d41586-026-03556-4",
+    "authors": [
+      "Jacob Smith"
+    ],
+    "summary": "Nature, Published online: 30 October 2026; <a href=\"https://www.nature.com/articles/d41586-026-03556-4\">doi:10.1038/d41586-026-03556-4</a>Researchers pay tribute to actor Patrick Stewart. Plus, what the US mid-term elections might mean for science and why ancient people never settled in the centre of the lush ‘Green Arabia’.",
+    "source": "Nature",
+    "date": "2026-10-30",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43017-026-00847-2",
+    "title": "Biochar for sustainable crop production",
+    "link": "https://www.nature.com/articles/s43017-026-00847-2",
+    "authors": [
+      "Zheng Zhao",
+      "Cheng Liu",
+      "Rongjun Bian",
+      "Kun Cheng",
+      "Tong Li",
+      "Ji Chen",
+      "Stephen Joseph",
+      "Jose Maria de la Rosa",
+      "Pete Smith",
+      "Shengdao Shan",
+      "Lianqing Li",
+      "Genxing Pan"
+    ],
+    "summary": "Nature Reviews Earth &amp; Environment, Published online: 03 November 2026; <a href=\"https://www.nature.com/articles/s43017-026-00847-2\">doi:10.1038/s43017-026-00847-2</a>Improving crop production is essential to meet the rising food demand of the increasing global population. This Review synthesizes global evidence that biochar enhances crop productivity, explores the underlying mechanisms and considers how biochar can contribute to sustainable food production.",
+    "source": "Nature Reviews Earth & Environment",
+    "date": "2026-11-03",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-026-04198-0",
+    "title": "Accelerating anthropogenic influence on annual peak wood density and associated carbon accumulation across northern conifers",
+    "link": "https://www.nature.com/articles/s43247-026-04198-0",
+    "authors": [
+      "Ziming Wang",
+      "Yanjiao Wang",
+      "Jianping Duan",
+      "Hans W. Linderholm",
+      "Yonghong Zheng",
+      "Rob Wilson"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 03 November 2026; <a href=\"https://www.nature.com/articles/s43247-026-04198-0\">doi:10.1038/s43247-026-04198-0</a>Reconstructions based on tree-ring and hourly temperature data identify an optimal thermal range across northern conifers and link rising optimal-temperature hours to anthropogenic warming and biomass and carbon gains, with further increases projected",
+    "source": "Communications Earth & Environment",
+    "date": "2026-11-03",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-026-04208-1",
+    "title": "Household affordability of sanitary landfilling is governed by cost allocation rather than metropolitan economic capacity",
+    "link": "https://www.nature.com/articles/s43247-026-04208-1",
+    "authors": [
+      "Yugo Sato",
+      "Guanghao Chen"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 03 November 2026; <a href=\"https://www.nature.com/articles/s43247-026-04208-1\">doi:10.1038/s43247-026-04208-1</a>Across six megacities, sanitary landfills are technically feasible, with suitable landfill land and tipping fees ranging from 54–129 US dollars per tonne, but household affordability is a challenge, according to a spatial landfill siting, engineering-cost modeling, and satellite-derived GDP.",
+    "source": "Communications Earth & Environment",
+    "date": "2026-11-03",
+    "sent": true
+  },
+  {
+    "id": "https://www.pnas.org/doi/abs/10.1073/pnas.2614248123?af=R",
+    "title": "Heme signatures in mineralized red blood cells within vascular canals of a 115-million-year-old dinosaur bone",
+    "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2614248123?af=R",
+    "authors": [
+      "Kliti GriceYuta IsajiJasmina WiemannPaul F. GreenwoodMadison TrippMaria A. Diaz MateusStephen F. PoropatXiao SunCalum P. FoxLuke M. BrosnanRenan A. M. BantimLorenz SchwarkPieter T. VisscherNanako O. OgawaJulien DemoreAntônio A. F. SaraivaWilliam D. A. RickardNaohiko OhkouchiJuliana M. SayãoAlex I. HolmanPeter HopperRobert H. C. MaddenAaron DoddVictor O. LeshykHossein Rahimpour-BonabArthur O. VicentiniSebastian StanleyLisa SmithBree MorganAlexander W. A. Kellnerahttps://ror.org/02n415q13Western Australian Organic and Isotope Geochemistry Centre, Curtin University, Perth, WA 6102, Australiabhttps://ror.org/059qg2m13Biogeochemistry Research Center, Japan Agency for Marine-Earth Science and Technology, Yokosuka 237-0061, Japanchttps://ror.org/00za53h95Department of Earth and Planetary Sciences, Johns Hopkins University, Baltimore, MD 21218dhttps://ror.org/02n415q13John de Laeter Centre, Curtin University, Perth, WA 6102, AustraliaeDepartment of Biological Sciences, Regional University of Cariri, Crato 63105-000, BrazilfChristian-Albrechts-University, Institute of Geosciences, Kiel 24118, Germanyghttps://ror.org/02der9h97Department of Marine Sciences, University of Connecticut, Storrs, CT 06269hhttps://ror.org/03490as77Laboratory of Systematics and Taphonomy of Fossil Vertebrates, Department of Geology and Palaeontology, Museu Nacional, Federal University of Rio de Janeiro, 20940-040, BraziliMicroanalysis Australia, Perth, WA 6050, AustraliajAzolla Biodesign, Sedona, AZ 86336"
+    ],
+    "summary": "Proceedings of the National Academy of Sciences, Volume 123, Issue 46, November 2026. <br />SignificanceThis research is significant because it provides strong evidence that original biological molecules can survive in dinosaur fossils, challenging the long-held assumption that such compounds degrade over millions of years. Crucially, it reports ...",
+    "source": "Proceedings of the National Academy of Sciences: Earth, Atmospheric, and Planetary Sciences",
+    "date": "2026-11-02",
+    "sent": true
+  },
+  {
+    "id": "https://www.pnas.org/doi/abs/10.1073/pnas.2611210123?af=R",
+    "title": "Forcing dataset updates impact regional but not global Earth radiation budget trends in the GFDL AM4 climate model",
+    "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2611210123?af=R",
+    "authors": [
+      "Chongxing FanDavid PaynterRyan J. KramerVaishali Naikahttps://ror.org/00hx57361Program in Atmospheric and Oceanic Sciences, Princeton University, Princeton, NJ 08540bhttps://ror.org/02z5nhe81Geophysical Fluid Dynamics Laboratory, National Oceanic and Atmospheric Administration, Princeton, NJ 08540"
+    ],
+    "summary": "Proceedings of the National Academy of Sciences, Volume 123, Issue 45, November 2026. <br />SignificanceTo faithfully simulate and attribute climate change, global models rely on accurate, up-to-date dataset of human and natural climate drivers, collectively termed as forcings dataset. The previous standard dataset used to drive these models ...",
+    "source": "Proceedings of the National Academy of Sciences: Earth, Atmospheric, and Planetary Sciences",
+    "date": "2026-11-03",
+    "sent": true
+  },
+  {
+    "id": "https://www.pnas.org/doi/abs/10.1073/pnas.2621335123?af=R",
+    "title": "Geochemical signatures of magnetite are conserved in diverse populations of environmental magnetotactic bacteria",
+    "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2621335123?af=R",
+    "authors": [
+      "Vincent BusignyAkanksha PraharajMatthieu AmorFrançois P. MathonCaroline L. MonteilNicolas MenguyKarim BenzeraraNeha MehtaDidier JézéquelEric ViollierChristopher T. Lefèvreahttps://ror.org/004gzqz66Université Paris Cité, Institut de Physique du Globe de Paris, CNRS, Paris F-75005, Francebhttps://ror.org/02rmwrd87Université Savoie Mont Blanc, Laboratoire Laboratoire Environnements, Dynamiques et Territoires de Montagne, CNRS, Le Bourget du Lac 73370, Francechttps://ror.org/04zmssz18Laboratoire de Géologie de Lyon: Terre, Planètes, Environnement, Ecole Normale Supérieure de Lyon, Université Claude Bernard, CNRS, Lyon 69007, Francedhttps://ror.org/005yfhm28Aix-Marseille Université, Commissariat à l‘Énergie Atomique et aux Énergies Alternatives, CNRS, Institut de Biosciences et biotechnologies d‘Aix-Marseille, Saint-Paul-lez-Durance 13115, Franceehttps://ror.org/05abgg682Sorbonne Université, Muséum National d’Histoire Naturelle, UMR CNRS 7590. Institut de Minéralogie, de Physique des Matériaux et de Cosmochimie, Paris 75005, Francefhttps://ror.org/04gqg1a07UMR Centre Alpin de Recherche sur les Réseaux Trophiques et les Ecosystèmes Limniques, Institut National de Recherche pour l’Agriculture, l’Alimentation et l’Environnement-Université Savoie Mont Blanc, Thonon-les-Bains 74200, Franceghttps://ror.org/03dsd0g48Laboratoire des Sciences du Climat et de l’Environnement CEA–CNRS, Gif-sur-Yvette 91191, France"
+    ],
+    "summary": "Proceedings of the National Academy of Sciences, Volume 123, Issue 45, November 2026. <br />SignificanceThe search for the earliest traces of life generally relies on the identification of biominerals in the rock record. Magnetotactic bacteria may represent an ancestral type of biomineralizing organisms and can be identified from their magnetite ...",
+    "source": "Proceedings of the National Academy of Sciences: Earth, Atmospheric, and Planetary Sciences",
+    "date": "2026-11-03",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012825226003636",
+    "title": "Geochemistry and tectonic setting of Neoarchean banded iron formations in the Eastern Hebei Complex, North China Craton: A global perspective",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012825226003636?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 2 November 2026<b>Source:</b> Earth-Science ReviewsAuthor(s): Wenbin Ning, Lu Wang, Timothy Kusky, Lei Zhang, Daniel Harlov, Zhaochong Zhang, Mingguo Zhai",
+    "source": "ScienceDirect Publication: Earth-Science Reviews",
+    "date": "2026-11-04",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012821X26006308",
+    "title": "Determining post-core formation accretion in asteroid 4-Vesta and implications for inner Solar System late accretion",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012821X26006308?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: January 2027<b>Source:</b> Earth and Planetary Science Letters, Volume 698Author(s): James M.D. Day, Jasmeet K. Dhaliwal",
+    "source": "ScienceDirect Publication: Earth and Planetary Science Letters",
+    "date": "2026-11-04",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012821X26005881",
+    "title": "Mantle metasomatism drives oxidation of arc peridotite revealed by significant Fe<sup>3+</sup>/Fe<sub>T</sub> variations in spinels from Kamchatka Peninsula",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012821X26005881?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: January 2027<b>Source:</b> Earth and Planetary Science Letters, Volume 697Author(s): Shuai Ma, Ekaterina S. Kiseeva, Michael Zelenski, George E. Harlow",
+    "source": "ScienceDirect Publication: Earth and Planetary Science Letters",
+    "date": "2026-11-04",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL124056",
+    "title": "Prevalence of Local Emissions in Arctic Carbonaceous Aerosols Revealed by Dual Carbon Isotopes and Atmospheric Transport Modeling",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL124056?af=R",
+    "authors": [
+      "Md. Mozammel Haque, \nMingyuan Yu, \nWenhuai Song, \nSönke Szidat, \nYanlin Zhang"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 21, 16 November 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-11-02",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL125455",
+    "title": "Impact of Reservoirs on Streamflow Extremes in India",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL125455?af=R",
+    "authors": [
+      "Prateek Sharma, \nNaoki Mizukami, \nManabendra Saharia"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 21, 16 November 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-11-02",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL126144",
+    "title": "Sparse‐Well Diffusion Reconstructions Enable Groundwater Transport Equation Recovery and Plume Refinement",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL126144?af=R",
+    "authors": [
+      "Zhiyu Jiao, \nGuiyao Xiong, \nCong Han, \nHongxia Xu, \nYinquan Meng, \nJianfeng Wu, \nYun Yang, \nJinguo Wang, \nJichun Wu, \nXiaobin Zhu"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 21, 16 November 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-11-02",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GC012888",
+    "title": "Numerical Modeling of Geothermal Heat and Lithium Co‐Production in Fault‐Hosted Reservoirs",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GC012888?af=R",
+    "authors": [
+      "B. Lamy‐Chappuis, \nE. Pezzulli, \nT. Driesner"
+    ],
+    "summary": "Geochemistry, Geophysics, Geosystems, Volume 27, Issue 11, November 2026.",
+    "source": "Wiley: Geochemistry, Geophysics, Geosystems: Table of Contents",
+    "date": "2026-11-02",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026JB033902",
+    "title": "Contrasting Effects of Propagating Versus Focused Uplift on Himalayan Erosion",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026JB033902?af=R",
+    "authors": [
+      "Yuqiang Li, \nXiaoping Yuan, \nChuanqi He, \nXiaoming Shen, \nJunfeng Zhang"
+    ],
+    "summary": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 11, November 2026.",
+    "source": "Wiley: Journal of Geophysical Research: Solid Earth: Table of Contents",
+    "date": "2026-11-02",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025JB033676",
+    "title": "Tectonics on Early Earth Driven by Earth's Changing Shape During Tidal Recession of the Moon",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JB033676?af=R",
+    "authors": [
+      "S. J. Lock"
+    ],
+    "summary": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 11, November 2026.",
+    "source": "Wiley: Journal of Geophysical Research: Solid Earth: Table of Contents",
+    "date": "2026-11-02",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0016703726007027",
+    "title": "Volcanically driven redox stratification and N–S–C cycling perturbation in a Late Triassic lacustrine system: controls on carbon sequestration efficiency",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0016703726007027?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 2 November 2026<b>Source:</b> Geochimica et Cosmochimica ActaAuthor(s): Xianxu Fang, Kelai Xi, Yingchang Cao, Xiujuan Wang, Guanghui Yuan, Yuan You, Miruo Lin, Ke Li, Chao Liang, Keyu Liu, Fang Hao",
+    "source": "ScienceDirect Publication: Geochimica et Cosmochimica Acta",
+    "date": "2026-11-04",
+    "sent": true
+  },
+  {
+    "id": "https://pubs.geoscienceworld.org/gsa/gsabulletin/article/doi/10.1130/B39254.1/799424/Deep-source-region-and-material-channels-beneath-a",
+    "title": "Deep source region and material channels beneath a collision-related porphyry copper-polymetallic metallogenic belt, South Tibet: Insights from magnetotelluric data",
+    "link": "https://pubs.geoscienceworld.org/gsa/gsabulletin/article/doi/10.1130/B39254.1/799424/Deep-source-region-and-material-channels-beneath-a",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\">The closure of the Neo-Tethys Ocean and subsequent continent-continent collision between the Indian and Eurasian plates have driven a complex series of subduction-collision orogenic events across Southern Tibet. As a consequence, the region hosts abundant arc-related polymetallic mineralization formed during the Mesozoic along with collision-related porphyry copper-polymetallic deposits generated in the Cenozoic. However, the deep-seated origin and evolution of metal-bearing materials and their transport from source region to surface across the whole lithosphere remain unclear. To address this, we present a new 3-D electrical resistivity model, derived from magnetotelluric (MT) data, to explore the crustal structure beneath the central segment of the collision-related metal belt in Southern Tibet. The model reveals a widespread low-resistivity zone at depths of 30–75 km, with a location corresponding to the front of the downgoing Indian Plate. This zone is interpreted to be a deep source region for metal-bearing fluids. Additionally, localized low-resistivity features in the upper crust connect with the inferred source region and closely align with the spatial distribution of surface porphyry copper-polymetallic deposits, likely representing pathways for the upward migration of fluids. Integrating with geochemical and geological constraints, the MT results support the hypothesis that a geodynamic event, such as the detachment of the lithospheric mantle from the Indian crust, generated the right conditions for the formation of the metal-enriched source region, therefore ultimately contributing to the development of the collision-related metallogenic belt.</span>",
+    "source": "GSA Bulletin Advance Access",
+    "date": "2026-11-03",
+    "sent": true
+  },
+  {
+    "id": "http://doi.org/10.1093/nsr/nwag680",
+    "title": "Climate Change Is Reshaping the Global Patterns of Infectious Disease",
+    "link": "https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwag680/9010930?rss=1",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\">Climate change is expanding the geographic distribution of infectious diseases into new areas and altering their seasonal transmission patterns. When infectious disease outbreaks coincide with extreme weather events, they may trigger more severe public health crises. These risks underscore the need to integrate climate information into infectious disease early-warning and response systems.</span>",
+    "source": "National Science Review Advance Access",
+    "date": "2026-11-03",
+    "sent": true
+  },
+  {
+    "id": "http://doi.org/10.1093/nsr/nwag693",
+    "title": "Observation of a magneto-nonlinear Hall effect in an altermagnet candidate",
+    "link": "https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwag693/9010928?rss=1",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\"><div class=\"boxTitle\">Abstract</div>Nonlinear Hall effects have emerged as defining probes of quantum geometry. Here we observe a Hall response that is nonlinear in the magnetic field rather than the electric field, in Mn<sub>5</sub>Si<sub>3</sub> thin films, an altermagnet candidate, in the canonical Hall geometry: a high-field Hall conductivity component that grows quadratically with an out-of-plane field. Opposite-sign Berry curvatures associated with opposite-spin bands nearly cancel at low fields, but Zeeman band shifts at high fields lift this cancellation and generate increasing net total Berry curvature. This magnetic-field-tuned Berry-curvature imbalance can generally produce a nonlinear Hall conductivity, and the observed quadratic dependence in Mn<sub>5</sub>Si<sub>3</sub> is consistent with chiral next-nearest-neighbor hopping involving magnetic exchange and Haldane-like flux phases. Moreover, reversal of magnetic order under opposite fields reverses the hopping chirality, making this quadratic contribution odd in field. Beyond fundamental advances, the nonlinear response remains unsaturated up to 57 T, suggesting possible opportunities for high-field Hall sensing.</span>",
+    "source": "National Science Review Advance Access",
+    "date": "2026-11-03",
+    "sent": true
+  },
+  {
+    "id": "http://doi.org/10.1093/nsr/nwag691",
+    "title": "Miniaturization coincides with anatomical novelties during lissamphibian origins",
+    "link": "https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwag691/9010925?rss=1",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\"><div class=\"boxTitle\">Abstract</div>Evolutionary miniaturization is often accompanied by phenotypic rearrangement, and may play an important role in occupying new adaptive zones. This process has hypothesised relevance to the origin of lissamphibians, which include the smallest living tetrapods. We test this by quantifying patterns of evolution of body size and other traits, using a dataset of 577 fossil and extant members of the lissamphibian total-group. We find that initial body size reduction occurred on the direct stem lineage leading to Lissamphibia and further miniaturization occurred in the crown group, giving rise to the down-shifted size distribution of living species. This coincides with rearrangements of skull morphology and the diversification of body shapes, indicating invasion of a fundamentally distinct adaptive zone. Our finding provides a compelling case of the potential contribution of miniaturization to ecological innovation at a macroevolutionary scale, facilitating the diversification and persistence of lissamphibians through ∼300 million years of evolutionary time.</span>",
+    "source": "National Science Review Advance Access",
+    "date": "2026-11-03",
+    "sent": true
+  },
+  {
+    "id": "http://doi.org/10.1093/nsr/nwag690",
+    "title": "Meta-state electrolytes with quasi-ordered clusters for stable lithium metal batteries",
+    "link": "https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwag690/9010924?rss=1",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\"><div class=\"boxTitle\">Abstract</div>Ionic aggregation state in liquid electrolytes is generally constrained by the salt solubility limit of the solvent matrix, restricting the accessible coordination structures and limiting opportunities for electrolyte engineering. Here, we report a class of meta-state electrolytes (MSEs) that transcend this conventional solubility limit and access an atypical aggregation regime. Enabled by external-field regulation coupled with nonequilibrium kinetic access, the MSE reshapes the Li⁺ coordination landscape and stabilizes a previously inaccessible meta-state domain beyond the threshold region of the ternary phase diagram. Within this regime, the MSE remains macroscopically homogeneous while forming large anion-rich clusters with local coordination environments resembling those of solid lithium salt, yielding an inorganic-rich solid electrolyte interphase (SEI) with high mechanical robustness and fast Li<sup>+</sup> transport. Accordingly, the MSE effectively suppresses interfacial parasitic reactions, enabling Cu||LiNi<sub>0.5</sub>Co<sub>0.2</sub>Mn<sub>0.3</sub>O<sub>2</sub> pouch cells to retain 70% of their capacity after 136 cycles at 45°C. Our study establishes external-field regulation of the Li<sup>+</sup> coordination environment as a new design principle for advanced electrolytes, with broad implications for solid/liquid interfacial chemistry.</span>",
+    "source": "National Science Review Advance Access",
+    "date": "2026-11-03",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025TC009207",
+    "title": "Salt Tectonics and Inversion Style in the Southeastern Iberian Chain",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025TC009207?af=R",
+    "authors": [
+      "A. Ramos, \nA. Pedrera, \nP. P. Hernaiz‐Huerta, \nJ. García‐Senz, \nM. de Ruig, \nB. López‐Mir"
+    ],
+    "summary": "Tectonics, Volume 45, Issue 11, November 2026.",
+    "source": "Wiley: Tectonics: Table of Contents",
+    "date": "2026-11-02",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025TC009275",
+    "title": "New Kinematic Constraints on Tectonic Extrusion in Southwestern Taiwan From a Mud Volcano Offset by a Creeping Fault",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025TC009275?af=R",
+    "authors": [
+      "Ngoc‐Thao Nguyen, \nMaryline Le Béon, \nNeng‐Wei Huang, \nChuan Ding, \nMeng‐Long Hsieh, \nKuo‐En Ching, \nErwan Pathier, \nChun‐Yuan Huang, \nChung‐Wei Chang, \nChuan‐Chou Shen, \nWen‐Rong Chi, \nMing Yang"
+    ],
+    "summary": "Tectonics, Volume 45, Issue 11, November 2026.",
+    "source": "Wiley: Tectonics: Table of Contents",
+    "date": "2026-11-02",
+    "sent": true
+  },
+  {
     "id": "https://www.nature.com/articles/s41467-026-78673-9",
     "title": "Aging-related cellular and molecular changes reveal a role for <i>Bglap3+</i> neurons in MEC spatial cognition",
     "link": "https://www.nature.com/articles/s41467-026-78673-9",
