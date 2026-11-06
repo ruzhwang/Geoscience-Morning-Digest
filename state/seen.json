@@ -1,5 +1,1168 @@
 [
   {
+    "id": "https://www.nature.com/articles/s41586-026-11336-3",
+    "title": "Opportunistically Detecting Signs of Hypertension on a Consumer Smartwatch",
+    "link": "https://www.nature.com/articles/s41586-026-11336-3",
+    "authors": [
+      "Paolo Di Achille",
+      "Lawrence Cai",
+      "Jiang Wu",
+      "Mingwu Gao",
+      "Bhavna Daryani",
+      "Jonathan Wang",
+      "Utkarsh Khanna",
+      "Ho Ko",
+      "Anupam Pathak",
+      "Mark Malhotra",
+      "Shwetak Patel",
+      "Jacqueline B. Shreibati",
+      "Stephen P. Juraschek",
+      "Pramod Rudrapatna",
+      "Matthew Thompson",
+      "Ming-Zher Poh"
+    ],
+    "summary": "Nature, Published online: 05 November 2026; <a href=\"https://www.nature.com/articles/s41586-026-11336-3\">doi:10.1038/s41586-026-11336-3</a>Opportunistically Detecting Signs of Hypertension on a Consumer Smartwatch",
+    "source": "Nature",
+    "date": "2026-11-05",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41586-026-11351-4",
+    "title": "Hydrogen Derivatives Enable Cost-Effective Carbon Neutrality in China",
+    "link": "https://www.nature.com/articles/s41586-026-11351-4",
+    "authors": [
+      "Xinyu Chen",
+      "Xinyang Guo",
+      "Xi Yang",
+      "Jiashuo Li",
+      "Michael McElroy"
+    ],
+    "summary": "Nature, Published online: 05 November 2026; <a href=\"https://www.nature.com/articles/s41586-026-11351-4\">doi:10.1038/s41586-026-11351-4</a>Hydrogen Derivatives Enable Cost-Effective Carbon Neutrality in China",
+    "source": "Nature",
+    "date": "2026-11-05",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-03568-0",
+    "title": "The surprising reason women in academia do more parenting than men",
+    "link": "https://www.nature.com/articles/d41586-026-03568-0",
+    "authors": [
+      "Rachel Fieldhouse"
+    ],
+    "summary": "Nature, Published online: 05 November 2026; <a href=\"https://www.nature.com/articles/d41586-026-03568-0\">doi:10.1038/d41586-026-03568-0</a>Policies designed to keep women in the workforce could be entrenching gendered parenting roles.",
+    "source": "Nature",
+    "date": "2026-11-05",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-03593-z",
+    "title": "Daily briefing: See a tardigrade shed its skin",
+    "link": "https://www.nature.com/articles/d41586-026-03593-z",
+    "authors": [
+      "Flora Graham"
+    ],
+    "summary": "Nature, Published online: 04 November 2026; <a href=\"https://www.nature.com/articles/d41586-026-03593-z\">doi:10.1038/d41586-026-03593-z</a>Enjoy the month’s best science images. Plus, an outbreak of anthrax in African hippos and the places where biodiversity drops after humans leave.",
+    "source": "Nature",
+    "date": "2026-11-04",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/science.ael6284?af=R",
+    "title": "A cultural history of altered artifacts",
+    "link": "https://www.science.org/doi/abs/10.1126/science.ael6284?af=R",
+    "authors": [
+      "Abby Smith Rumsey"
+    ],
+    "summary": "Science, Volume 394, Issue 6824, Page 600-601, November 2026. <br />",
+    "source": "AAAS: Science: Table of Contents",
+    "date": "2026-11-05",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/science.adt3444?af=R",
+    "title": "Equivalence of pseudogap and pairing energy in a cuprate high-temperature superconductor",
+    "link": "https://www.science.org/doi/abs/10.1126/science.adt3444?af=R",
+    "authors": [
+      "Jiasen Niu, Maialen Ortego Larrazabal, Thomas Gozlinski, Yudai Sato, Koen M. Bastiaans, Tjerk Benschop, Jian-Feng Ge, Yaroslav M. Blanter, Genda Gu, Ingmar Swart, Milan P. Allan"
+    ],
+    "summary": "Science, Volume 394, Issue 6824, Page 682-685, November 2026. <br />",
+    "source": "AAAS: Science: Table of Contents",
+    "date": "2026-11-05",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/science.adt7185?af=R",
+    "title": "Discovering molecular modulators with nanoswitch screening",
+    "link": "https://www.science.org/doi/abs/10.1126/science.adt7185?af=R",
+    "authors": [
+      "Clinton H. Hansen, Mark Lipstein, Sarah C. Erlandson, Tobias Schwalbe, Sylvie G. Bernier, Peter Gmeiner, Andrew C. Kruse, Wesley P. Wong"
+    ],
+    "summary": "Science, Volume 394, Issue 6824, November 2026. <br />",
+    "source": "AAAS: Science: Table of Contents",
+    "date": "2026-11-05",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/science.aea3046?af=R",
+    "title": "Tumor metastasis co-opts liver hematopoiesis to promote immunosuppression",
+    "link": "https://www.science.org/doi/abs/10.1126/science.aea3046?af=R",
+    "authors": [
+      "Qiang Pan, Xuege Wang, Yaqi Li, Ni Li, Ying Han, Guoying Zhang, Jiacheng Guo, Le Zhang, Aoyuan Cui, Yongqiang Gu, Yannan Lian, Wei Zhang, Naiheng Lin, Beitao Xu, Zige Jin, Xin Zeng, Lan Wang, Yu Li, Junjie Peng, Xiaoming Wang, Zhengquan Yu, Gui-Hua Wang, Wei Lu, Jun Qin"
+    ],
+    "summary": "Science, Volume 394, Issue 6824, November 2026. <br />",
+    "source": "AAAS: Science: Table of Contents",
+    "date": "2026-11-05",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/science.aed4270?af=R",
+    "title": "Glacial abrupt transitions in ocean circulation were much slower than ice-core records imply",
+    "link": "https://www.science.org/doi/abs/10.1126/science.aed4270?af=R",
+    "authors": [
+      "Xiyu Dong, Xu Zhang, Yuchen Sun, Gayatri Kathayat, Youwei Li, Sune O. Rasmussen, Anders Svensson, Christo Buizert, Ashish Sinha, Stephen Barker, Carlos Pérez-Mejías, Gregor Knorr, Rishui Chen, Kan Zhao, Wenjing Du, Haiwei Zhang, Hanying Li, Andrea Columbu, Liangcheng Tan, Yuao Zhang, Youfeng Ning, Martin Werner, Yongjin Wang, R. Lawrence Edwards, Hai Cheng"
+    ],
+    "summary": "Science, Volume 394, Issue 6824, Page 654-659, November 2026. <br />",
+    "source": "AAAS: Science: Table of Contents",
+    "date": "2026-11-05",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/science.aed8952?af=R",
+    "title": "Targeting hormone conversion through dietary fiber improves polyendocrine metabolic ovarian syndrome",
+    "link": "https://www.science.org/doi/abs/10.1126/science.aed8952?af=R",
+    "authors": [
+      "Xinyu Qi, Hong Chen, Qixing Nie, Hongyu Niu, Yong Ding, Xi Luo, Manfei Si, Shuqi Wu, Xianglei Xiong, Meng Li, Bangjian Dong, Haohan Ma, Chenghao Guo, Yicun Wang, Xiaoyu Long, Jianhuai Zheng, Kai Wang, Shaoping Nie, Changtao Jiang, Yanli Pang, Jie Qiao"
+    ],
+    "summary": "Science, Volume 394, Issue 6824, November 2026. <br />",
+    "source": "AAAS: Science: Table of Contents",
+    "date": "2026-11-05",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/science.aeg3800?af=R",
+    "title": "Direct evidence for psychoactive cannabis use 2800 years ago",
+    "link": "https://www.science.org/doi/abs/10.1126/science.aeg3800?af=R",
+    "authors": [
+      "Gino Caspari, Timur Sadykov, Daria Fomicheva, Jegor Blochin, Dominic Armbruster, Oliver Happel, Natalia Ryabogina, Kseniia Boxleitner, Robert Spengler"
+    ],
+    "summary": "Science, Volume 394, Issue 6824, Page 649-653, November 2026. <br />",
+    "source": "AAAS: Science: Table of Contents",
+    "date": "2026-11-05",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/science.aeg7301?af=R",
+    "title": "Seafloor geodesy delineates fast megathrust relocking after the giant 2011 Tohoku earthquake",
+    "link": "https://www.science.org/doi/abs/10.1126/science.aeg7301?af=R",
+    "authors": [
+      "Fumiaki Tomita, Tianhaozhe Sun, Motoyuki Kido, Takeshi Iinuma, Naoki Uchida, Yusaku Ohta, Ryota Hino, Jiangheng He, Kelin Wang"
+    ],
+    "summary": "Science, Volume 394, Issue 6824, Page 676-681, November 2026. <br />",
+    "source": "AAAS: Science: Table of Contents",
+    "date": "2026-11-05",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/science.aeh9311?af=R",
+    "title": "The first 1000 days: Modeling language learning from individual children’s everyday speech",
+    "link": "https://www.science.org/doi/abs/10.1126/science.aeh9311?af=R",
+    "authors": [
+      "Hadas Raviv, Arkadii Tsyhanov, Kira Gousios, Aja Altenhof, Haocheng Wang, Berlin Chen, Ofri Raviv, Tal Rosenwein, Casey Lew-Williams, Liat Hasenfratz, Uri Hasson"
+    ],
+    "summary": "Science, Volume 394, Issue 6824, November 2026. <br />",
+    "source": "AAAS: Science: Table of Contents",
+    "date": "2026-11-05",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/science.aej1765?af=R",
+    "title": "Denoising the US Census: Succinct block hierarchical regression",
+    "link": "https://www.science.org/doi/abs/10.1126/science.aej1765?af=R",
+    "authors": [
+      "Badih Ghazi, Pritish Kamath, Ravi Kumar, Pasin Manurangsi, Adam Sealfon*"
+    ],
+    "summary": "Science, Volume 394, Issue 6824, Page 686-692, November 2026. <br />",
+    "source": "AAAS: Science: Table of Contents",
+    "date": "2026-11-05",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/science.adv1247?af=R",
+    "title": "Quantum gas microscopy of three-flavor Hubbard systems",
+    "link": "https://www.science.org/doi/abs/10.1126/science.adv1247?af=R",
+    "authors": [
+      "Jirayu Mongkolkiattichai, Liyu Liu, Sohail Dasgupta, Kaden R. A. Hazzard, Peter Schauss"
+    ],
+    "summary": "Science, Volume 394, Issue 6824, Page 665-669, November 2026. <br />",
+    "source": "AAAS: Science: Table of Contents",
+    "date": "2026-11-05",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/science.adu9593?af=R",
+    "title": "Echoes of the Anthropocene: Noise pollution as a global threat",
+    "link": "https://www.science.org/doi/abs/10.1126/science.adu9593?af=R",
+    "authors": [
+      "Hansjoerg P. Kunc and Rouven Schmidt"
+    ],
+    "summary": "Science, Volume 394, Issue 6824, Page 660-664, November 2026. <br />",
+    "source": "AAAS: Science: Table of Contents",
+    "date": "2026-11-05",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/science.aeh7074?af=R",
+    "title": "Stacked porous NiTi structure with low cost and ultrahigh fatigue life for elastocaloric cooling",
+    "link": "https://www.science.org/doi/abs/10.1126/science.aeh7074?af=R",
+    "authors": [
+      "Changfeng Su, Yang Li, Zhongzheng Deng, Shiyu Zhong, Jiyuan Hu, Xueshi Li, Qiao Li Qingping Sun"
+    ],
+    "summary": "Science, Volume 394, Issue 6824, Page 670-675, November 2026. <br />",
+    "source": "AAAS: Science: Table of Contents",
+    "date": "2026-11-05",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/science.aen0869?af=R",
+    "title": "Going Beyond GLP-1",
+    "link": "https://www.science.org/doi/abs/10.1126/science.aen0869?af=R",
+    "authors": [
+      "Yevgeniya Nusinovich, Mattia Maroso, Joana OsÓRio, and Brad Wible"
+    ],
+    "summary": "Science, Volume 394, Issue 6824, Page 608-609, November 2026. <br />",
+    "source": "AAAS: Science: Table of Contents",
+    "date": "2026-11-05",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/science.aek2174?af=R",
+    "title": "Expanding global access to GLP-1s: Challenges and opportunities",
+    "link": "https://www.science.org/doi/abs/10.1126/science.aek2174?af=R",
+    "authors": [
+      "Kenneth C. Shadlen and Olivier J. Wouters"
+    ],
+    "summary": "Science, Volume 394, Issue 6824, Page 614-617, November 2026. <br />",
+    "source": "AAAS: Science: Table of Contents",
+    "date": "2026-11-05",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/science.aee9044?af=R",
+    "title": "When fat adapts: From physiological remodeling to disease",
+    "link": "https://www.science.org/doi/abs/10.1126/science.aee9044?af=R",
+    "authors": [
+      "Karima Drareni and Patrick Seale"
+    ],
+    "summary": "Science, Volume 394, Issue 6824, Page 618-625, November 2026. <br />",
+    "source": "AAAS: Science: Table of Contents",
+    "date": "2026-11-05",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/science.aek9987?af=R",
+    "title": "Obesity pharmacotherapies and cognition",
+    "link": "https://www.science.org/doi/abs/10.1126/science.aek9987?af=R",
+    "authors": [
+      "Stina Börchers, Giulia Mazzini, Henrik Zetterberg, Christoffer Clemmensen"
+    ],
+    "summary": "Science, Volume 394, Issue 6824, Page 633-640, November 2026. <br />",
+    "source": "AAAS: Science: Table of Contents",
+    "date": "2026-11-05",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/science.aej1120?af=R",
+    "title": "Obesity management medications: The way forward",
+    "link": "https://www.science.org/doi/abs/10.1126/science.aej1120?af=R",
+    "authors": [
+      "Matthias Blüher"
+    ],
+    "summary": "Science, Volume 394, Issue 6824, Page 626-632, November 2026. <br />",
+    "source": "AAAS: Science: Table of Contents",
+    "date": "2026-11-05",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/science.aen8053?af=R",
+    "title": "In Other Journals",
+    "link": "https://www.science.org/doi/abs/10.1126/science.aen8053?af=R",
+    "authors": [
+      "Corinne Simonti, and Jesse Smith, Corinne Simonti, Jack Huang, Bianca Lopez, Phil Szuromi, Melissa McCartney, Joana Osório, and Ian S. Osborne"
+    ],
+    "summary": "Science, Volume 394, Issue 6824, Page 643-644, November 2026. <br />",
+    "source": "AAAS: Science: Table of Contents",
+    "date": "2026-11-05",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/science.aen8054?af=R",
+    "title": "Breaks in the clouds",
+    "link": "https://www.science.org/doi/abs/10.1126/science.aen8054?af=R",
+    "authors": [
+      "Behrad Masoudi"
+    ],
+    "summary": "Science, Volume 394, Issue 6824, Page 694-694, November 2026. <br />",
+    "source": "AAAS: Science: Table of Contents",
+    "date": "2026-11-05",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/science.aei1490?af=R",
+    "title": "GLP-1 therapies and cancer risk",
+    "link": "https://www.science.org/doi/abs/10.1126/science.aei1490?af=R",
+    "authors": [
+      "Blánaid Hicks and Anton Pottegård"
+    ],
+    "summary": "Science, Volume 394, Issue 6824, Page 612-613, November 2026. <br />",
+    "source": "AAAS: Science: Table of Contents",
+    "date": "2026-11-05",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/science.aej9836?af=R",
+    "title": "GLP-1 receptor agonists in addiction therapy",
+    "link": "https://www.science.org/doi/abs/10.1126/science.aej9836?af=R",
+    "authors": [
+      "Nora D. Volkow and Eric M. Wargo"
+    ],
+    "summary": "Science, Volume 394, Issue 6824, Page 610-611, November 2026. <br />",
+    "source": "AAAS: Science: Table of Contents",
+    "date": "2026-11-05",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/science.aem3978?af=R",
+    "title": "Modeling word learning, child by child",
+    "link": "https://www.science.org/doi/abs/10.1126/science.aem3978?af=R",
+    "authors": [
+      "Zara Harmon and Caroline F. Rowland"
+    ],
+    "summary": "Science, Volume 394, Issue 6824, Page 597-598, November 2026. <br />",
+    "source": "AAAS: Science: Table of Contents",
+    "date": "2026-11-05",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/science.aem6802?af=R",
+    "title": "How do faults recover after giant earthquakes?",
+    "link": "https://www.science.org/doi/abs/10.1126/science.aem6802?af=R",
+    "authors": [
+      "Kaj M. Johnson"
+    ],
+    "summary": "Science, Volume 394, Issue 6824, Page 594-595, November 2026. <br />",
+    "source": "AAAS: Science: Table of Contents",
+    "date": "2026-11-05",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/science.aem6813?af=R",
+    "title": "The power of noise",
+    "link": "https://www.science.org/doi/abs/10.1126/science.aem6813?af=R",
+    "authors": [
+      "Dirk Morr"
+    ],
+    "summary": "Science, Volume 394, Issue 6824, Page 598-599, November 2026. <br />",
+    "source": "AAAS: Science: Table of Contents",
+    "date": "2026-11-05",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/science.aem6487?af=R",
+    "title": "Privacy, accuracy, and objectivity of census data",
+    "link": "https://www.science.org/doi/abs/10.1126/science.aem6487?af=R",
+    "authors": [
+      "Jerome P. Reiter"
+    ],
+    "summary": "Science, Volume 394, Issue 6824, Page 596-596, November 2026. <br />",
+    "source": "AAAS: Science: Table of Contents",
+    "date": "2026-11-05",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/science.aem2340?af=R",
+    "title": "China’s farmland needs clean water drainage",
+    "link": "https://www.science.org/doi/abs/10.1126/science.aem2340?af=R",
+    "authors": [
+      "Zheng Wang"
+    ],
+    "summary": "Science, Volume 394, Issue 6824, Page 604-604, November 2026. <br />",
+    "source": "AAAS: Science: Table of Contents",
+    "date": "2026-11-05",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/science.ael8929?af=R",
+    "title": "Start cryosphere flood warnings at the source",
+    "link": "https://www.science.org/doi/abs/10.1126/science.ael8929?af=R",
+    "authors": [
+      "Chunlin Song"
+    ],
+    "summary": "Science, Volume 394, Issue 6824, Page 602-603, November 2026. <br />",
+    "source": "AAAS: Science: Table of Contents",
+    "date": "2026-11-05",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/science.aem0567?af=R",
+    "title": "Biodiversity-inclusive urban planning in China",
+    "link": "https://www.science.org/doi/abs/10.1126/science.aem0567?af=R",
+    "authors": [
+      "Nan Wang, Hai-Dong Li, Hao Shi, Xiao-Mian Zhang, and Li Liu"
+    ],
+    "summary": "Science, Volume 394, Issue 6824, Page 603-603, November 2026. <br />",
+    "source": "AAAS: Science: Table of Contents",
+    "date": "2026-11-05",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/science.aen6332?af=R",
+    "title": "Erratum for the Research Article “RAD51 stabilizes neutrophil extracellular traps to compartmentalize inflammation”",
+    "link": "https://www.science.org/doi/abs/10.1126/science.aen6332?af=R",
+    "authors": [],
+    "summary": "Science, Volume 394, Issue 6824, November 2026. <br />",
+    "source": "AAAS: Science: Table of Contents",
+    "date": "2026-11-05",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/science.aen6718?af=R",
+    "title": "Erratum for the Report “Gut microbiome influences efficacy of PD-1–based immunotherapy against epithelial tumors”",
+    "link": "https://www.science.org/doi/abs/10.1126/science.aen6718?af=R",
+    "authors": [],
+    "summary": "Science, Volume 394, Issue 6824, November 2026. <br />",
+    "source": "AAAS: Science: Table of Contents",
+    "date": "2026-11-05",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/science.aen8501?af=R",
+    "title": "AI cracks a 27-year-old pillar of computer science",
+    "link": "https://www.science.org/doi/abs/10.1126/science.aen8501?af=R",
+    "authors": [
+      "Tom Howarth"
+    ],
+    "summary": "Science, Volume 394, Issue 6824, Page 578-579, November 2026. <br />",
+    "source": "AAAS: Science: Table of Contents",
+    "date": "2026-11-05",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/science.aen8502?af=R",
+    "title": "Experiment in orbit produces the coldest temperature ever",
+    "link": "https://www.science.org/doi/abs/10.1126/science.aen8502?af=R",
+    "authors": [
+      "Adrian Cho"
+    ],
+    "summary": "Science, Volume 394, Issue 6824, Page 579-580, November 2026. <br />",
+    "source": "AAAS: Science: Table of Contents",
+    "date": "2026-11-05",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/science.aen8503?af=R",
+    "title": "Serbia elects the world’s brainiest parliament",
+    "link": "https://www.science.org/doi/abs/10.1126/science.aen8503?af=R",
+    "authors": [
+      "Mićo Tatalović and Nenad Jarić Dauenhauer"
+    ],
+    "summary": "Science, Volume 394, Issue 6824, Page 581-582, November 2026. <br />",
+    "source": "AAAS: Science: Table of Contents",
+    "date": "2026-11-05",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/science.aen8505?af=R",
+    "title": "Natural hydrogen prospectors struggle to find commercial deposits",
+    "link": "https://www.science.org/doi/abs/10.1126/science.aen8505?af=R",
+    "authors": [
+      "Paul Voosen"
+    ],
+    "summary": "Science, Volume 394, Issue 6824, Page 582-583, November 2026. <br />",
+    "source": "AAAS: Science: Table of Contents",
+    "date": "2026-11-05",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/science.aen8506?af=R",
+    "title": "DNA confirms barbarian tribe’s mythic tale about its origins",
+    "link": "https://www.science.org/doi/abs/10.1126/science.aen8506?af=R",
+    "authors": [
+      "Andrew Curry"
+    ],
+    "summary": "Science, Volume 394, Issue 6824, Page 583-584, November 2026. <br />",
+    "source": "AAAS: Science: Table of Contents",
+    "date": "2026-11-05",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/science.aen8507?af=R",
+    "title": "The scramble for your brain data",
+    "link": "https://www.science.org/doi/abs/10.1126/science.aen8507?af=R",
+    "authors": [
+      "Jonathan Moens"
+    ],
+    "summary": "Science, Volume 394, Issue 6824, Page 586-590, November 2026. <br />",
+    "source": "AAAS: Science: Table of Contents",
+    "date": "2026-11-05",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/science.aen8508?af=R",
+    "title": "Watching the weary brain",
+    "link": "https://www.science.org/doi/abs/10.1126/science.aen8508?af=R",
+    "authors": [
+      "Jonathan Moens"
+    ],
+    "summary": "Science, Volume 394, Issue 6824, Page 591-593, November 2026. <br />",
+    "source": "AAAS: Science: Table of Contents",
+    "date": "2026-11-05",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/science.aen8500?af=R",
+    "title": "U.S. archaeology faces ‘apocalyptic’ threat",
+    "link": "https://www.science.org/doi/abs/10.1126/science.aen8500?af=R",
+    "authors": [
+      "Taylor Mitchell Brown"
+    ],
+    "summary": "Science, Volume 394, Issue 6824, Page 576-577, November 2026. <br />",
+    "source": "AAAS: Science: Table of Contents",
+    "date": "2026-11-05",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/science.aem2407?af=R",
+    "title": "Zero-sum mindsets and economic policy preferences",
+    "link": "https://www.science.org/doi/abs/10.1126/science.aem2407?af=R",
+    "authors": [
+      "Imran Rasul"
+    ],
+    "summary": "Science, Volume 394, Issue 6824, November 2026. <br />",
+    "source": "AAAS: Science: Table of Contents",
+    "date": "2026-11-05",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/science.aem6470?af=R",
+    "title": "In the image of their tools",
+    "link": "https://www.science.org/doi/abs/10.1126/science.aem6470?af=R",
+    "authors": [
+      "James A. Evans and E. Glen Weyl"
+    ],
+    "summary": "Science, Volume 394, Issue 6824, November 2026. <br />",
+    "source": "AAAS: Science: Table of Contents",
+    "date": "2026-11-05",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/science.aen6314?af=R",
+    "title": "Can artificial intelligence align with Indigenous science?",
+    "link": "https://www.science.org/doi/abs/10.1126/science.aen6314?af=R",
+    "authors": [
+      "Yvette Running Horse Collin"
+    ],
+    "summary": "Science, Volume 394, Issue 6824, Page 575-575, November 2026. <br />",
+    "source": "AAAS: Science: Table of Contents",
+    "date": "2026-11-05",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/science.ael2415?af=R",
+    "title": "The science of the individual",
+    "link": "https://www.science.org/doi/abs/10.1126/science.ael2415?af=R",
+    "authors": [
+      "Peter Soyster"
+    ],
+    "summary": "Science, Volume 394, Issue 6824, Page 606-606, November 2026. <br />",
+    "source": "AAAS: Science: Table of Contents",
+    "date": "2026-11-05",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/science.ael2422?af=R",
+    "title": "When soil is left undisturbed",
+    "link": "https://www.science.org/doi/abs/10.1126/science.ael2422?af=R",
+    "authors": [
+      "Willy Mulimbi"
+    ],
+    "summary": "Science, Volume 394, Issue 6824, Page 607-607, November 2026. <br />",
+    "source": "AAAS: Science: Table of Contents",
+    "date": "2026-11-05",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/science.aen8052?af=R",
+    "title": "In Science Journals",
+    "link": "https://www.science.org/doi/abs/10.1126/science.aen8052?af=R",
+    "authors": [
+      "Michael Funk, and Sacha Vignieri, Phil Szuromi, Jesse Smith, Jelena Stajic, Christiana N. Fogg, Laura Ensign, L. Bryan Ray, Priscilla N. Kelly, Yevgeniya Nusinovich, Angela Hessler, Yury Suleymanov, Annalisa VanHook, and Ji-Xin Cheng"
+    ],
+    "summary": "Science, Volume 394, Issue 6824, Page 642-644, November 2026. <br />",
+    "source": "AAAS: Science: Table of Contents",
+    "date": "2026-11-05",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41561-026-02132-9",
+    "title": "Ettringite’s concrete contribution",
+    "link": "https://www.nature.com/articles/s41561-026-02132-9",
+    "authors": [
+      "Vincent Thiéry",
+      "Migueli Chedrewih"
+    ],
+    "summary": "Nature Geoscience, Published online: 05 November 2026; <a href=\"https://www.nature.com/articles/s41561-026-02132-9\">doi:10.1038/s41561-026-02132-9</a>Vincent Thiéry and Migueli Chedrewih discuss how studying ettringite’s natural, geologic occurrences can inform understanding of concrete’s material properties and ageing processes.",
+    "source": "Nature Geoscience",
+    "date": "2026-11-05",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41561-026-02133-8",
+    "title": "Sparing use of phosphorus in an acidifying ocean",
+    "link": "https://www.nature.com/articles/s41561-026-02133-8",
+    "authors": [
+      "Alyse Larkin"
+    ],
+    "summary": "Nature Geoscience, Published online: 05 November 2026; <a href=\"https://www.nature.com/articles/s41561-026-02133-8\">doi:10.1038/s41561-026-02133-8</a>Global cycles of carbon and phosphorus decouple under intensifying ocean acidification as marine diatoms restructure their lipid membranes and downregulate organic phosphorus scavenging to adapt to the decreasing pH.",
+    "source": "Nature Geoscience",
+    "date": "2026-11-05",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41561-026-02149-0",
+    "title": "Responsible use of artificial intelligence",
+    "link": "https://www.nature.com/articles/s41561-026-02149-0",
+    "authors": [],
+    "summary": "Nature Geoscience, Published online: 05 November 2026; <a href=\"https://www.nature.com/articles/s41561-026-02149-0\">doi:10.1038/s41561-026-02149-0</a>AI is rapidly transforming geoscience research and publishing. To realize the benefits of AI while safeguarding scientific integrity, researchers, reviewers and editors must adopt transparent practices.",
+    "source": "Nature Geoscience",
+    "date": "2026-11-05",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-78784-3",
+    "title": "Entangled-to-packed crossover in nonlinear extensional rheology of entangled polymers",
+    "link": "https://www.nature.com/articles/s41467-026-78784-3",
+    "authors": [
+      "Yin Wang",
+      "Lin-Feng Wu",
+      "Yi-Bo Shao",
+      "Zhe Wang"
+    ],
+    "summary": "Nature Communications, Published online: 05 November 2026; <a href=\"https://www.nature.com/articles/s41467-026-78784-3\">doi:10.1038/s41467-026-78784-3</a>Entanglements among long-chain macromolecules dictate the mechanical performance of polymeric materials and are described with the tube model but the validity of this model has been questioned for nonlinear extension. Here the authors reveal the key mechanism that governs the mechanical response during extension by elucidating the evolution of entanglements using computer simulations and theoretical analysis.",
+    "source": "Nature Communications",
+    "date": "2026-11-05",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-79306-x",
+    "title": "Diacylglycerol Metabolism Drives Host–pathogen Responses During Enteric Infection in <i>Drosophila</i>",
+    "link": "https://www.nature.com/articles/s41467-026-79306-x",
+    "authors": [
+      "Xiaotong Li",
+      "Mohamed Mlih",
+      "Jason Karpac"
+    ],
+    "summary": "Nature Communications, Published online: 05 November 2026; <a href=\"https://www.nature.com/articles/s41467-026-79306-x\">doi:10.1038/s41467-026-79306-x</a>Li et al. reveal a lipid-dependent signaling axis that links intestinal epithelial cells and intestinal muscle to gut motility and bacterial pathogen clearance, offering mechanistic insight into how lipid dynamics orchestrate host defenses.",
+    "source": "Nature Communications",
+    "date": "2026-11-05",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-78828-8",
+    "title": "Engineering filamentous myosins for optical control of contractility",
+    "link": "https://www.nature.com/articles/s41467-026-78828-8",
+    "authors": [
+      "Sasha Zemsky",
+      "Allen Yesin",
+      "Paul V. Ruijgrok",
+      "Hawa Racine Thiam",
+      "Zev Bryant"
+    ],
+    "summary": "Nature Communications, Published online: 05 November 2026; <a href=\"https://www.nature.com/articles/s41467-026-78828-8\">doi:10.1038/s41467-026-78828-8</a>Zemsky and colleagues employ protein engineering to create filamentous myosins controlled by light. These optogenetic motors enable spatiotemporal control of contractility in vitro and in cells, providing a tool for probing contractile actomyosin systems.",
+    "source": "Nature Communications",
+    "date": "2026-11-05",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-78946-3",
+    "title": "Energy-guided combinatorial co-optimization of antibody affinity and stability",
+    "link": "https://www.nature.com/articles/s41467-026-78946-3",
+    "authors": [
+      "Ariel Tennenhouse",
+      "Adva Mechaly",
+      "Tony Pham",
+      "Robert J. Oldham",
+      "Jake Y. Henry",
+      "Dorry X. Zhao",
+      "Thomas M. Moon",
+      "Isabel G. Elliott",
+      "Omri Porat",
+      "Jinny Kim",
+      "Yael Fridmann Sirkis",
+      "Sveta Gaiduk",
+      "Itay Talpir",
+      "Jamie Bird",
+      "Christopher Domalewski",
+      "Pei-Hsuan Chu",
+      "Andrew B. Dippel",
+      "Rebecca Croasdale-Wood",
+      "Daniel Christ",
+      "Gilad Kaplan",
+      "Mark S. Cragg",
+      "Sarel J. Fleishman"
+    ],
+    "summary": "Nature Communications, Published online: 05 November 2026; <a href=\"https://www.nature.com/articles/s41467-026-78946-3\">doi:10.1038/s41467-026-78946-3</a>Here, Tennenhouse et al. develop LAffAb, a structure-based method for designing CDR mutations to improve affinity and developability. By filtering mutations predicted to disrupt stability and foldability, LAffAb enables accurate, one-shot design.",
+    "source": "Nature Communications",
+    "date": "2026-11-05",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-78748-7",
+    "title": "Author Correction: Hippocampal-prefrontal orchestration supports higher-order learning for creative ideation",
+    "link": "https://www.nature.com/articles/s41467-026-78748-7",
+    "authors": [
+      "Ze Zhang",
+      "Ziyi Li",
+      "Rui Ding",
+      "Guowei Wu",
+      "Xingxu Xie",
+      "Jiaqi Wu",
+      "Shaozheng Qin",
+      "Jing Luo"
+    ],
+    "summary": "Nature Communications, Published online: 05 November 2026; <a href=\"https://www.nature.com/articles/s41467-026-78748-7\">doi:10.1038/s41467-026-78748-7</a>Author Correction: Hippocampal-prefrontal orchestration supports higher-order learning for creative ideation",
+    "source": "Nature Communications",
+    "date": "2026-11-05",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-79170-9",
+    "title": "Multiscale neural dynamics reveal how striatal subregions shape stress vulnerability and resilience",
+    "link": "https://www.nature.com/articles/s41467-026-79170-9",
+    "authors": [
+      "Weiyu Hu",
+      "Bowen Hu",
+      "Yiwen Li",
+      "Yadong Liu",
+      "Yimeng Zeng",
+      "Hongyao Gao",
+      "Xiaolin Zhao",
+      "Shouhang Yin",
+      "Zihan Bai",
+      "Juan Yang",
+      "Shaozheng Qin"
+    ],
+    "summary": "Nature Communications, Published online: 05 November 2026; <a href=\"https://www.nature.com/articles/s41467-026-79170-9\">doi:10.1038/s41467-026-79170-9</a>This study shows that striatal subregions shape individual differences in stress vulnerability and resilience through distinct patterns of multiscale network dynamics during stress coping.",
+    "source": "Nature Communications",
+    "date": "2026-11-05",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-78880-4",
+    "title": "Strong-gain water-window X-ray laser driven by plasma photocathode wakefield acceleration",
+    "link": "https://www.nature.com/articles/s41467-026-78880-4",
+    "authors": [
+      "L. H. A. Berman",
+      "D. Campbell",
+      "E. Hartmann",
+      "T. Heinemann",
+      "T. Wilson",
+      "B. Hidding",
+      "A. F. Habib"
+    ],
+    "summary": "Nature Communications, Published online: 05 November 2026; <a href=\"https://www.nature.com/articles/s41467-026-78880-4\">doi:10.1038/s41467-026-78880-4</a>Plasma wakefield accelerators promise compact X-ray lasers but have so far lacked sufficiently bright, stable electron beams. The authors show that beam loading by plasma photocathode-injected electron beams boosts brightness and self-stabilises acceleration inside wakefields, paving the way to compact, robust water-window X-ray lasers.",
+    "source": "Nature Communications",
+    "date": "2026-11-05",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43017-026-00859-y",
+    "title": "Estimating crop yields from satellite observations",
+    "link": "https://www.nature.com/articles/s43017-026-00859-y",
+    "authors": [
+      "Xinghua Cheng"
+    ],
+    "summary": "Nature Reviews Earth &amp; Environment, Published online: 05 November 2026; <a href=\"https://www.nature.com/articles/s43017-026-00859-y\">doi:10.1038/s43017-026-00859-y</a>Xinghua Cheng explains how medium spatial resolution satellite observations, such as Landsat and Sentinel-2, are used to estimate and forecast crop yields over large scales.",
+    "source": "Nature Reviews Earth & Environment",
+    "date": "2026-11-05",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43017-026-00861-4",
+    "title": "Author Correction: Reply to ‘The challenge of defining effectively&#xa0;no&#xa0;snow’",
+    "link": "https://www.nature.com/articles/s43017-026-00861-4",
+    "authors": [
+      "Erica R. Siirila-Woodburn",
+      "Benjamin J. Hatchett",
+      "Alan M. Rhoades"
+    ],
+    "summary": "Nature Reviews Earth &amp; Environment, Published online: 05 November 2026; <a href=\"https://www.nature.com/articles/s43017-026-00861-4\">doi:10.1038/s43017-026-00861-4</a>Author Correction: Reply to ‘The challenge of defining effectively&#xa0;no&#xa0;snow’",
+    "source": "Nature Reviews Earth & Environment",
+    "date": "2026-11-05",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-026-04156-w",
+    "title": "Loss of snow persistence during late season drives snow-season shortening in Northeast China under global warming",
+    "link": "https://www.nature.com/articles/s43247-026-04156-w",
+    "authors": [
+      "Yao Xiao",
+      "Guojie Hu",
+      "Ren Li",
+      "Guangyue Liu",
+      "Tonghua Wu",
+      "Xiaodong Wu",
+      "Defu Zou",
+      "Lin Zhao"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 05 November 2026; <a href=\"https://www.nature.com/articles/s43247-026-04156-w\">doi:10.1038/s43247-026-04156-w</a>The loss of snow persistence during late winter to spring across Northeast China leads to shorter snow season under global warming, as suggested by bias-corrected CMIP6 climate projections based on Satellite-constrained machine learning framework.",
+    "source": "Communications Earth & Environment",
+    "date": "2026-11-05",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-026-04171-x",
+    "title": "High flow capacity and low viscosity of the Séítah formation, at Jezero Crater, Mars",
+    "link": "https://www.nature.com/articles/s43247-026-04171-x",
+    "authors": [
+      "Adrian J. Brown",
+      "Linda Kah",
+      "Roger C. Wiens",
+      "Patrick Pinet",
+      "Patrick J. Gasda",
+      "Clément Royer",
+      "Keyron Hickman-Lewis",
+      "Agnes Cousin",
+      "Justin I. Simon",
+      "Jade Comellas",
+      "Edward Cloutis",
+      "Thierry Fouchet",
+      "Alberto G. Fairén",
+      "Stephanie Connell",
+      "David Flannery",
+      "Jorge I. Núñez",
+      "Brittan Wogsland",
+      "Hans E. F. Amundsen",
+      "Kevin P. Hand",
+      "Vinciane Debaille",
+      "Ari Essunfeld",
+      "Pierre Beck",
+      "Nicholas J. Tosca",
+      "Juan M. Madariaga",
+      "Mitchell D. Schulte",
+      "Christopher D. K. Herd",
+      "Mariek E. Schmidt",
+      "Olivier Forni"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 05 November 2026; <a href=\"https://www.nature.com/articles/s43247-026-04171-x\">doi:10.1038/s43247-026-04171-x</a>Olivine cumulate lava flows within Jerezo Crater behaved as low viscosity flows due to the reduced gravity of Mars compared to Earth, according to dynamic flow modelling and petrographic data from the Perseverance rover",
+    "source": "Communications Earth & Environment",
+    "date": "2026-11-05",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-026-04099-2",
+    "title": "Sustained crustal helium enrichment associated with postseismic viscoelastic relaxation following the 2025 Myanmar earthquake",
+    "link": "https://www.nature.com/articles/s43247-026-04099-2",
+    "authors": [
+      "Hongyi He",
+      "Zhi Chen",
+      "Yujiang Li",
+      "Zihan Gao",
+      "Zhaofei Liu",
+      "Zhikeng Huang",
+      "Ke Zhang",
+      "Ying Li",
+      "Qingyong Luo"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 05 November 2026; <a href=\"https://www.nature.com/articles/s43247-026-04099-2\">doi:10.1038/s43247-026-04099-2</a>Slip during the 2025 M7.7 Myanmar earthquake triggered high He-emissions that may persist for several decades along the Red River Fault, located around 600 km away from the epicentre, according to elevated gas-phase He concentrations in thermal-spring groundwater.",
+    "source": "Communications Earth & Environment",
+    "date": "2026-11-05",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-026-04071-0",
+    "title": "The ocean’s color is changing near the Great Pacific Garbage Patch",
+    "link": "https://www.nature.com/articles/s43247-026-04071-0",
+    "authors": [
+      "Shea Cheatham",
+      "Daniel Koestner",
+      "Børge Hamre"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 05 November 2026; <a href=\"https://www.nature.com/articles/s43247-026-04071-0\">doi:10.1038/s43247-026-04071-0</a>The ocean’s color in the region of the Great Pacific Garbage Patch is shifting in ways consistent with the simulated optical effects of microplastic accumulation, according to analyses of 20-year satellite records.",
+    "source": "Communications Earth & Environment",
+    "date": "2026-11-05",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012825226003740",
+    "title": "Arsenic-microbe-resistome coupling in groundwater-centered critical-zone reactors: Hydrobiogeochemical controls, co-selection and emerging GeoHealth risks",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012825226003740?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 4 November 2026<b>Source:</b> Earth-Science ReviewsAuthor(s): Yi Zhao, Huaming Guo",
+    "source": "ScienceDirect Publication: Earth-Science Reviews",
+    "date": "2026-11-06",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012825226003326",
+    "title": "Natural gravel beaches and dynamic gravel structures: A systematic review of classifications, cross-shore processes, transferability and knowledge gaps",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012825226003326?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 4 November 2026<b>Source:</b> Earth-Science ReviewsAuthor(s): Amanda Zannella, Irene Simonetti, Lorenzo Cappietti, Nils Goseberg",
+    "source": "ScienceDirect Publication: Earth-Science Reviews",
+    "date": "2026-11-06",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012825226003703",
+    "title": "Recognizing Froude supercritical flow in the sedimentary record: processes, bedforms, and uncertainties",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012825226003703?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 4 November 2026<b>Source:</b> Earth-Science ReviewsAuthor(s): Molly O'Halloran, Piret Plink-Björklund",
+    "source": "ScienceDirect Publication: Earth-Science Reviews",
+    "date": "2026-11-06",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL125156",
+    "title": "The Role of Turbulence in Ice Microphysics and Sedimentation in Arctic Mixed‐Phase Clouds: Evidence From Yearlong Observations",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL125156?af=R",
+    "authors": [
+      "Yunshu Hao, \nLei Liu, \nJuli Ding, \nJin Ye, \nHuan Liu, \nXiaoyong Du, \nQinghui Li"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 21, 16 November 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-11-04",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL125494",
+    "title": "Shallow Slip Deficit: An Intrinsic Property of Continental Earthquakes, Slightly Enhanced by Fault Maturity",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL125494?af=R",
+    "authors": [
+      "Isabelle Manighetti, \nJean‐Paul Ampuero, \nPierre Romanet, \nSirine Gheddache, \nAntoine Mercier, \nAnne‐Claire Pfister, \nYves Gaudemer"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 21, 16 November 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-11-04",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL123962",
+    "title": "Detecting the Oceanic Moho Using Teleseismic P‐Wave Coda Autocorrelations of Ocean Bottom Seismograph Records",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL123962?af=R",
+    "authors": [
+      "Guanghui Han, \nChen Cai, \nShaoping Lu, \nShaozhe Dong, \nJiandong Huang, \nHaixia Zhang, \nRun Jiang"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 21, 16 November 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-11-04",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL125027",
+    "title": "Intense Magnetopause Erosion at Earth During the May 2024 Solar Storm",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL125027?af=R",
+    "authors": [
+      "Kazuhiro Yamamoto, \nYoshizumi Miyoshi, \nNaritoshi Kitamura, \nRumi Nakamura, \nAtsuki Shinbori, \nAyako Matsuoka, \nMariko Teramoto, \nShoichiro Yokota, \nSatoshi Kasahara, \nKunihiro Keika, \nTomoaki Hori, \nKazushi Asamura, \nYoichi Kazama, \nShiang‐Yu Wang, \nSunny Wing‐Yee Tam, \nTzu‐Fang Chang, \nBo‐Jhou Wang, \nChae‐Woo Jun, \nIku Shinohara"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 21, 16 November 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-11-04",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL124564",
+    "title": "Temporal Scaling of Hydrological Signals Reveals Forcing Persistence and Watershed Filtering Across the Contiguous U.S.",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL124564?af=R",
+    "authors": [
+      "Yunqiu Zhou, \nYi Zheng, \nYingjie Yang, \nXiuyu Liang"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 21, 16 November 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-11-04",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL125606",
+    "title": "Large‐Scale Coherent Southward Displacement of the Indochina Block: Constraints From New Late Cretaceous Paleomagnetic Studies",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL125606?af=R",
+    "authors": [
+      "Jiahui Ma, \nTianshui Yang, \nJiacheng Liang, \nWeiwei Bian, \nXiaolin Li, \nXianwei Jiao, \nHanqing Zhao, \nJikai Ding, \nHuaichun Wu, \nHaiyan Li, \nYiming Ma, \nPan Zhao"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 21, 16 November 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-11-04",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL124550",
+    "title": "Recent Decline in Global Atmospheric COS Driven by Reduced Anthropogenic CS2 Emissions",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL124550?af=R",
+    "authors": [
+      "James Stinecipher, \nStephen A. Montzka, \nJames W. Hannigan, \nEmmanuel Mahieu, \nKevin Bowman, \nLe Kuai, \nJ. Elliott Campbell"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 21, 16 November 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-11-04",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GC013124",
+    "title": "Geochemical Characteristics of Metasediment—Rich Lower Continental Crust: Insights From the Ivrea‐Verbano Zone (DIVE Drilling Project, ICDP Expedition 5071, Val d’Ossola, Italy)",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GC013124?af=R",
+    "authors": [
+      "Alexia Secrétan, \nOthmar Müntener, \nBenjamin Klein, \nSarah Degen, \nLuca Pacchiega, \nJunjian Li, \nMattia Pistone, \nKim Lemke, \nGyörgy Hetényi, \nJörg Hermann"
+    ],
+    "summary": "Geochemistry, Geophysics, Geosystems, Volume 27, Issue 11, November 2026.",
+    "source": "Wiley: Geochemistry, Geophysics, Geosystems: Table of Contents",
+    "date": "2026-11-04",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GC013307",
+    "title": "A Late Cretaceous Aborted Spreading Center in the Northern Arabian Sea Recorded by the Laxmi Basin",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GC013307?af=R",
+    "authors": [
+      "Sibin Sebastian, \nJyotiranjan S. Ray"
+    ],
+    "summary": "Geochemistry, Geophysics, Geosystems, Volume 27, Issue 11, November 2026.",
+    "source": "Wiley: Geochemistry, Geophysics, Geosystems: Table of Contents",
+    "date": "2026-11-04",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026JB034393",
+    "title": "Novel Data‐Driven Receiver Function Clustering and Analysis Along the Alaska‐Aleutian Volcanic Arc",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026JB034393?af=R",
+    "authors": [
+      "I. V. Wynn, \nH. A. Janiszewski, \nC. Wandasan, \nM. M. Haney, \nDiana C. Roman"
+    ],
+    "summary": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 11, November 2026.",
+    "source": "Wiley: Journal of Geophysical Research: Solid Earth: Table of Contents",
+    "date": "2026-11-04",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026JB034339",
+    "title": "Quantifying Posterior Uncertainty in Array‐Based Surface Wave Tomography: A Hybrid Strategy Combining Bootstrap and Resolution Matrix",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026JB034339?af=R",
+    "authors": [
+      "Lei Pan, \nXiaofei Chen, \nZhengbo Li, \nYanyan Zhang, \nJiannan Wang"
+    ],
+    "summary": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 11, November 2026.",
+    "source": "Wiley: Journal of Geophysical Research: Solid Earth: Table of Contents",
+    "date": "2026-11-04",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026JB034118",
+    "title": "An Experimental Study of Particle‐Laden Jet Noise as an Analogue to Tephra‐Laden Volcanic Eruptions",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026JB034118?af=R",
+    "authors": [
+      "Gilles Seropian, \nJulia E. Gestrich, \nJörn Sesterhenn, \nThomas J. Aubry, \nJames Hickey, \nMarkus Schmid"
+    ],
+    "summary": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 11, November 2026.",
+    "source": "Wiley: Journal of Geophysical Research: Solid Earth: Table of Contents",
+    "date": "2026-11-04",
+    "sent": true
+  },
+  {
+    "id": "https://pubs.geoscienceworld.org/gsa/geology/article/doi/10.1130/G54703.1/799568/Enhanced-pedogenic-weathering-of-aeolian-dust-as-a",
+    "title": "Enhanced pedogenic weathering of aeolian dust as a Pleistocene carbon sink on the Chinese Loess Plateau",
+    "link": "https://pubs.geoscienceworld.org/gsa/geology/article/doi/10.1130/G54703.1/799568/Enhanced-pedogenic-weathering-of-aeolian-dust-as-a",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\">“Allochthonous weathering”—the continued weathering of plateau-derived detritus after its transport to climatically more favorable lowland basins—is a key mechanism by which tectonic uplift sustains high continental weathering fluxes. However, isolating these allochthonous weathering signals has remained challenging. To address this, we developed a novel methodological framework to extract post-depositional pedogenic weathering signals from a 6-million-year loess−paleosol and red clay sequence in the south-central Chinese Loess Plateau. This approach is predicated on the observation that post-depositional pedogenesis increases weathering intensity while reducing the mean grain size of aeolian sediments. Simultaneously, owing to its chemical stability, quartz undergoes passive enrichment as mobile elements are preferentially leached. Consequently, the relationship between quartz enrichment, weathering intensity, and mean grain size deviates from patterns dictated by dynamic sorting, leading to a measurable decoupling of these parameters. Using this method, we reconstructed the pedogenic weathering history since the late Miocene. Our results reveal that Pliocene red clay exhibits significantly stronger pedogenic intensity than Pleistocene loess−paleosol, which is primarily governed by dust accumulation rates. Crucially, the weathering-driven carbon sink flux in the Chinese Loess Plateau was higher during the drier, cooler Pleistocene than in the warmer, more humid Pliocene, providing direct evidence of enhanced land-surface weatherability. These findings suggest that allochthonous weathering of Tibetan Plateau−derived sediments represents a potentially important mechanism in the global carbon cycle. Future research should investigate how sediment source-to-sink evolution modulates erosion−weathering processes and the carbon cycle under coupled Cenozoic tectonic and climatic forcing.</span>",
+    "source": "Geology Advance Access",
+    "date": "2026-11-05",
+    "sent": true
+  },
+  {
+    "id": "https://pubs.geoscienceworld.org/msa/ammin/article/doi/10.2138/am-2026-10214/799567/Prolonged-140-Myr-Evolution-of-a-Crystal-Mush",
+    "title": "Prolonged (∼140 Myr) Evolution of a Crystal Mush Reservoir in the Chinese Altai Mantle Slope Zone: Insights from the Jiangjunshan Blue-Green Microcline-Bearing Granite",
+    "link": "https://pubs.geoscienceworld.org/msa/ammin/article/doi/10.2138/am-2026-10214/799567/Prolonged-140-Myr-Evolution-of-a-Crystal-Mush",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\"><div class=\"boxTitle\">Abstract</div>The petrogenesis of highly evolved, rare-metal-rich granites is globally contested between models of extreme fractional crystallization of a single magma and multi-stage crustal reworking. One key criterion for distinguishing between these models is the temporal structure of the magmatic record: the former is expected to produce a relatively restricted crystallization-age range, whereas the latter may generate multiple, temporally separated age populations spanning a much longer interval. The emplacement age of the Jiangjunshan blue-green microcline-bearing granite has long been disputed, with previously reported Permian and Jurassic ages differing by more than 100 Myr, making it a valuable case study for testing these contrasting models.Integrated zircon and monazite U–Pb geochronology reveals three temporally separated magmatic episodes at 290–273 Ma (Permian), 231–200 Ma (Triassic), and ∼150 Ma (Jurassic), spanning approximately 140 Myr. Despite its limited exposure, the Jiangjunshan pluton preserves a nearly complete record of Permian–Jurassic magmatism in the Chinese Altai, providing a remarkably condensed archive of regional magmatic evolution. This protracted, multi-stage geochronological record indicates episodic magma generation and reactivation of the magmatic system. To reconcile this protracted long-duration record with thermomechanical principles, we propose a novel, generalizable petrogenetic framework. We interpret the Jiangjunshan body not as a series of discrete intrusions, but as the product of a long-lived, crystal mush reservoir that was rooted in a lithospheric-scale mantle slope zone. This deep-seated tectonic discontinuity provided long-lived favourable structural conditions, enabling the periodic influx of heat and fluids from mantle/crustal sources during regional tectonic events. These influxes repeatedly reactivated the near-solidus crystal mush, driving localized melt extraction, pervasive fluid-rock interaction, and episodic mineral re-equilibration—processes recorded by the complex zircon textures and age domains.Zircon Hf isotopes (εHf<sub>(t)</sub> = –19.6 to +11.0) demonstrate pulsed open-system behavior, with each reactivation episode incorporating variable mixtures of juvenile material and ancient crust, including remobilized components from the mush itself. The Jiangjunshan granites exhibit extreme geochemical signatures, including pronounced M-type REE tetrad effects, exceptionally low K/Rb (36.7–97.6) and Zr/Hf (5.6–6.3) ratios, and high F concentrations. These whole-rock features indicate intense fractionation and fluid-mediated exchange within this stagnant, volatile-rich reservoir.Our mantle slope zone-hosted crystal mush model resolves the thermal paradox of prolonged magmatic histories and provides a universal mechanism to explain extreme geochemical fractionation and rare-metal enrichment in highly evolved granites worldwide. This work underscores the fundamental role of long-lived lithospheric discontinuities in localizing, sustaining, and chemically refining continental magmatic systems.</span>",
+    "source": "American Mineralogist Advance Access",
+    "date": "2026-11-05",
+    "sent": true
+  },
+  {
+    "id": "https://pubs.geoscienceworld.org/msa/ammin/article/doi/10.2138/am-2026-10325/799566/The-effects-of-57Fe-enrichment-and-count-rates-on",
+    "title": "The effects of  57 Fe enrichment and count rates on NRIXS-derived force constants",
+    "link": "https://pubs.geoscienceworld.org/msa/ammin/article/doi/10.2138/am-2026-10325/799566/The-effects-of-57Fe-enrichment-and-count-rates-on",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\"><div class=\"boxTitle\">Abstract</div>Force constant measurements employing NRIXS (nuclear resonant inelastic X-ray scattering) have seen increasing applications in isotope geochemistry, as it bypasses the need for equilibration experiments. This synchrotron technique measures the strength of chemical bonds, which are represented by force constants &lt;<span style=\"font-style: italic;\">F</span>&gt;. The equilibrium isotope fractionation between any two materials is directly proportional to their difference in &lt;<span style=\"font-style: italic;\">F</span>&gt;. While this method is promising, it is restricted to measuring Mössbauer-sensitive isotopes such as <sup>57</sup>Fe. To expedite analyses, samples are typically doped with <sup>57</sup>Fe, and it has not yet been tested whether this enrichment affects the measured &lt;<span style=\"font-style: italic;\">F</span>&gt;. In this study, we systematically tested the effect of <sup>57</sup>Fe enrichment to determine whether heavy isotope enrichment has a resolvable effect on &lt;<span style=\"font-style: italic;\">F</span>&gt;. We enriched wüstite, fayalite, and bcc-Fe samples with varying <sup>57</sup>Fe/ΣFe and measured their &lt;<span style=\"font-style: italic;\">F</span>&gt; with NRIXS. Results show that while high levels of <sup>57</sup>Fe enrichment do not affect &lt;<span style=\"font-style: italic;\">F</span>&gt;, too little <sup>57</sup>Fe is a concern. We establish a cut-off of 50 cps at the highest non-resonant peak to yield robust NRIXS results and recommend exercising caution while using NRIXS to measure &lt;<span style=\"font-style: italic;\">F</span>&gt; on natural samples. Force constants obtained for bcc-Fe, wüstite (Fe<sub>0.94</sub>O), and fayalite are 182 ± 6 N/m, 162 ± 7 N/m, 175 ± 8 N/m, respectively.</span>",
+    "source": "American Mineralogist Advance Access",
+    "date": "2026-11-05",
+    "sent": true
+  },
+  {
+    "id": "https://pubs.geoscienceworld.org/gsa/gsabulletin/article/doi/10.1130/B38981.1/799569/Devonian-subduction-related-magmatism-and",
+    "title": "Devonian subduction-related magmatism and sedimentation in the Ulungarat Basin of Arctic Alaska",
+    "link": "https://pubs.geoscienceworld.org/gsa/gsabulletin/article/doi/10.1130/B38981.1/799569/Devonian-subduction-related-magmatism-and",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\">Middle Paleozoic rocks of the continental divide region of the northeastern Brooks Range, Alaska, have long served as a key constraint on the tectonic history of the Arctic Alaska terrane and greater circum-Arctic region. Specifically, a postcollisional, rift basin interpretation for the Middle to Upper Devonian Ulungarat Formation constrains models for the hypothesized Early Devonian Romanzof orogeny. New field and analytical data from the continental divide region indicate that regional orogenesis and arc magmatism in the Arctic Alaska terrane persisted through the Late Devonian. Our geologic mapping demonstrates that the Ulungarat Formation and unconformably overlying Kekiktuk Conglomerate reside on a distinct Brookian (Mesozoic to Cenozoic) thrust sheet that is intermediate in structural position between the parautochthonous North Slope subterrane and potentially far-traveled Endicott Mountains allochthon. A second newly identified thrust sheet in the same intermediate structural position contains two key new units that are defined herein: the Middle to Upper Devonian Double Mountain Formation, which consists of interbedded siliciclastic and bimodal volcanic rocks, and the Lower Mississippian Chandalar Formation, which occupies a similar stratigraphic position to the Kekiktuk Conglomerate. Based on new biostratigraphic, geochemical, and geochronological results, the Ulungarat Formation and clastic-dominated portion of the Double Mountain Formation are equivalent in age, highlighting a more complex tectonic setting for the proposed “Ulungarat Basin.” New U-Pb chemical abrasion–isotope dilution–thermal ionization mass spectrometry (CA-ID-TIMS) zircon dates from volcanic and plutonic rocks of the Double Mountain Formation yield consistent ages of 375.14 Ma to 372.97 Ma, and new geochemical data from these volcanic rocks record arc signatures. The Kekiktuk Conglomerate and Chandalar Formation rest unconformably on different stratigraphic levels of the Ulungarat and Double Mountain Formations, the latter of which also contains local deformational fabrics not observed in the overlying Mississippian units. Together, these data indicate that the Middle to Upper Devonian Ulungarat and Double Mountain Formations were generated in a convergent tectonic setting and no longer provide a Middle Devonian maximum age constraint on the Romanzof orogeny of the Arctic Alaska terrane. Rather, we suggest that Early Devonian Romanzof contraction in Arctic Alaska was simply a phase of the broader Ellesmerian orogeny that culminated in the amalgamation of the Arctic Alaska terrane, which ultimately shed synorogenic detritus onto northern Laurentia.</span>",
+    "source": "GSA Bulletin Advance Access",
+    "date": "2026-11-05",
+    "sent": true
+  },
+  {
+    "id": "http://doi.org/10.1093/nsr/nwag697",
+    "title": "Stable and selective C(sp3)–H halogenation over COF-modified β-Fe2O3 photoanodes",
+    "link": "https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwag697/9013337?rss=1",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\"><div class=\"boxTitle\">Abstract</div>Photoelectrocatalytic synthesis provides a sustainable route to high-value organic chemicals, yet achieving high selectivity while maintaining long-term stability remains challenging because of limited interfacial reactant availability and competing radical-mediated reaction pathways. Here, we develop a COF-modified photoanode by integrating a functionalized covalent organic framework (COF) onto <span style=\"font-style: italic;\">β</span>-Fe<sub>2</sub>O<sub>3</sub> to regulate aqueous C(<span style=\"font-style: italic;\">sp</span><sup>3</sup>)–H halogenation. Using cyclohexane chlorination as a model reaction, the COF-modified <span style=\"font-style: italic;\">β</span>-Fe<sub>2</sub>O<sub>3</sub> photoanode achieves a monochlorination selectivity of up to 96.8% under AM 1.5 G illumination (100 mW cm<sup>−2</sup>), far exceeding the 53.9% obtained over bare <span style=\"font-style: italic;\">β</span>-Fe<sub>2</sub>O<sub>3</sub>. Under one-sun illumination, the photoanode delivers a photocurrent density of 2.8 mA cm<sup>−2</sup> and remains stable for 300 h, retaining approximately 95% chlorocyclohexane selectivity at the end of the test. Even under 13-sun illumination, the photocurrent density reaches approximately 35 mA cm<sup>−2</sup>, with a chlorocyclohexane selectivity of 91.9% after 100 h. The COF-modified photoanode also shows enhanced monobromination and monoiodination selectivities, demonstrating the generality of this approach.</span>",
+    "source": "National Science Review Advance Access",
+    "date": "2026-11-05",
+    "sent": true
+  },
+  {
+    "id": "http://doi.org/10.1093/nsr/nwag695",
+    "title": "Chiral phonons: lattice angular momentum and beyond",
+    "link": "https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwag695/9012716?rss=1",
+    "authors": [],
+    "summary": "",
+    "source": "National Science Review Advance Access",
+    "date": "2026-11-04",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026TC009544",
+    "title": "Detrital Zircon Double Dating Reconstructs the Missing Grenville Foreland and Great Unconformity Exhumation",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026TC009544?af=R",
+    "authors": [
+      "Barra A. Peak, \nRebecca M. Flowers"
+    ],
+    "summary": "Tectonics, Volume 45, Issue 11, November 2026.",
+    "source": "Wiley: Tectonics: Table of Contents",
+    "date": "2026-11-04",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026TC009438",
+    "title": "Incipient Rifting of the Kalahari Craton: Reactivation of Mesozoic Dormant Rifts in Southern Africa's Cratonic Interior",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026TC009438?af=R",
+    "authors": [
+      "Boniface Kgosidintsi, \nFolarin Kolawole, \nBokani Nthaba, \nZachary Foster‐Baril, \nElisha Shemang"
+    ],
+    "summary": "Tectonics, Volume 45, Issue 11, November 2026.",
+    "source": "Wiley: Tectonics: Table of Contents",
+    "date": "2026-11-04",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026TC009476",
+    "title": "Eastward Variations in Slip Rates Along the West Qinling Fault: Implications for Limited Lateral Expansion of the Northeastern Tibetan Plateau",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026TC009476?af=R",
+    "authors": [
+      "Ruihuan Su, \nDaoyang Yuan, \nJinchao Yu, \nYunsheng Yao, \nZhao Wu, \nHao Sun, \nLijun Zhang, \nYameng Wen, \nXiaoyong Yan"
+    ],
+    "summary": "Tectonics, Volume 45, Issue 11, November 2026.",
+    "source": "Wiley: Tectonics: Table of Contents",
+    "date": "2026-11-04",
+    "sent": true
+  },
+  {
     "id": "https://www.nature.com/articles/d41586-026-03487-0",
     "title": "Spider snooze stages",
     "link": "https://www.nature.com/articles/d41586-026-03487-0",
